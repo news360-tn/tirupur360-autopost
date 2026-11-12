@@ -18,7 +18,7 @@
     "rate": "+12%",
     "pitch": "+4Hz",
     "outro_voice": "en-IN-PrabhatNeural",
-    "note": "Coimbatore 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
+    "note": "Tirupur 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
   },
   "prime_time": {
     "enabled": false,
@@ -33,7 +33,7 @@
       ]
     ],
     "max_wait_hours": 12,
-    "note": "owner 29 Oct (Coimbatore): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
+    "note": "owner 29 Oct (Tirupur): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
   },
   "reel_punch": false,
   "reel_max_seconds": 88,
@@ -69,7 +69,24 @@
       "sports_culture": "#Sports",
       "other": "#TamilNews"
     },
-    "place_tags": {},
+    "place_tags": {
+      "பல்லட": "#Palladam",
+      "உடுமலை": "#Udumalpet",
+      "அவிநாசி": "#Avinashi",
+      "தாராபுர": "#Dharapuram",
+      "காங்கேய": "#Kangeyam",
+      "வெள்ளகோவி": "#Vellakoil",
+      "மடத்துக்குள": "#Madathukulam",
+      "ஊத்துக்குளி": "#Uthukuli",
+      "பெருமாநல்லூ": "#Perumanallur",
+      "பொங்கலூ": "#Pongalur",
+      "குன்னத்தூ": "#Kunnathur",
+      "மூலனூ": "#Mulanur",
+      "திருமூர்த்திமலை": "#Thirumurthy",
+      "அனுப்பர்பாளைய": "#Anupparpalayam",
+      "கொங்கு நக": "#KonguNagar",
+      "நெருப்பெரிச்ச": "#Neruperichal"
+    },
     "extra_tag": "#Tiruppur",
     "search_suffix": "Tirupur news",
     "caption_all_facts": true,
