@@ -81,6 +81,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-12 | `56b26ef` | cloudinary: keep the last 48 h only, clean once every 48 h (own workflow; hourly step removed) |
+| 2026-11-12 | `6960de5` | powercut: notices written |
 | 2026-11-12 | `fb40dca` | post: start the next posting run after the 12-minute gap while stories wait (GitHub runs the 5-min schedule ~hourly; Coimbatore had 23 waiting, 1 posted per hour) |
 | 2026-11-12 | `95338e0` | bridge: create the News tab (31 column names) when the new Log Sheet does not have it - pick failed 12 Nov with getLastRow of null |
 | 2026-11-12 | `d1e8c2c` | Tirupur 360 live (owner 12 Nov) |
