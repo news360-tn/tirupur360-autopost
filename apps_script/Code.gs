@@ -12,9 +12,9 @@
  * E-mail subjects use the tag TIRUPUR360 (not NEWS360) so the Namakkal bridge never reads Coimbatore mails and the other way round.
  */
 // ---- OWNER SETS THESE (new Google account for Coimbatore 360; never the Namakkal Sheet / folder / Gmail) ----
-var SHEET_ID = '';      // SALEM: the id of the new "Tirupur 360 Log" Sheet - REQUIRED (never the Coimbatore Sheet)                 // id of the new "Coimbatore 360 Log" Sheet (tab "News", same 31 columns)
+var SHEET_ID = '1dRhgmn0nI85WXUYgP4CFvlqNB5VCoMSaYzILCoKR4MY';      // SALEM: the id of the new "Tirupur 360 Log" Sheet - REQUIRED (never the Coimbatore Sheet)                 // id of the new "Coimbatore 360 Log" Sheet (tab "News", same 31 columns)
 var TAB = 'News';
-var ROOT_FOLDER_ID = '';      // SALEM: the id of the new Drive folder "Tirupur 360" - REQUIRED    // id of the new Drive folder "Coimbatore 360" (prompt files, Voice folder)
+var ROOT_FOLDER_ID = '1eNuRlvFVDg6H4_bnnhXso6LFPA_hz9Tb';      // SALEM: the id of the new Drive folder "Tirupur 360" - REQUIRED    // id of the new Drive folder "Coimbatore 360" (prompt files, Voice folder)
 var OWNER_EMAIL = 'nammarasipuram2805@gmail.com';           // the owner's Gmail that receives the reports and may send stories / images
 var SHEET_LINK = 'https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/edit';
 
