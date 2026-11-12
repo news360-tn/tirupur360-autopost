@@ -81,6 +81,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-12 | `6dfa2ef` | voice: 'பிளஸ் 2' is read 'பிளஸ் டூ' (was 'பிளஸ் இரண்டு', RN-534); 'பிளஸ் 1' -> 'பிளஸ் ஒன்' |
 | 2026-11-12 | `9165617` | direct upload: create the resumable container on a versioned Instagram API (Salem RN-1: unversioned call wanted video_url; fell back to the link correctly) |
 | 2026-11-12 | `7dab99e` | reel: spoken follow line names this page (was 'Follow Coimbatore Three Sixty'); waiting reels rebuilt |
 | 2026-11-12 | `d0c4a4d` | powercut: notices written |
