@@ -1,17 +1,20 @@
-21:06:57 SKIP RN-4 held: fact-check problems - numbers not found in the article: 23457
+21:49:43 SKIP RN-4 held: fact-check problems - numbers not found in the article: 23457
 ::warning title=Held from posting RN-4::held: fact-check problems - numbers not found in the article: 23457
-21:06:57 SKIP RN-6 held: location is only the district - the town from the article is missing
+21:49:43 SKIP RN-6 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-6::held: location is only the district - the town from the article is missing
-21:06:59 story catch-up tirupur: quota 16/50, 8 recent posts, 8 live stories, owner ids ['17841480869502038', '28970570925957553']
-21:06:59 5 stories in the queue, ready to post: 3
-21:06:59   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'tirupur_link', 'verification']
-21:06:59    RN-4 review= 'Auto' images= 100 spec= 635 pages= ['tirupur'] links= '' '' age_h= 10.0 ready= False set_started= True
-21:06:59    RN-6 review= 'Auto' images= 100 spec= 923 pages= ['tirupur'] links= '' '' age_h= 9.9 ready= False set_started= True
-21:06:59    RN-10 review= 'Auto' images= 199 spec= 700 pages= ['tirupur'] links= '' '' age_h= 0.8 ready= True set_started= True
-21:06:59    RN-11 review= 'Auto' images= 199 spec= 718 pages= ['tirupur'] links= '' '' age_h= 0.8 ready= True set_started= True
-21:06:59    RN-12 review= 'Auto' images= 100 spec= 716 pages= ['tirupur'] links= '' '' age_h= 0.8 ready= True set_started= True
-21:07:01 publishing quota tirupur: 16/50
-21:07:02 instagram duplicate check tirupur: 8 recent posts read
-21:07:02    RN-12 waits for posting start (08:00 IST)
-21:07:02    RN-10 waits for posting start (08:00 IST)
-21:07:02    RN-11 waits for posting start (08:00 IST)
+21:49:45 SKIP RN-13 held: fact-check problems - numbers not found in the article: 10
+::warning title=Held from posting RN-13::held: fact-check problems - numbers not found in the article: 10
+21:49:47 story catch-up tirupur: quota 16/50, 8 recent posts, 8 live stories, owner ids ['17841480869502038', '28970570925957553']
+21:49:47 6 stories in the queue, ready to post: 3
+21:49:47   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'tirupur_link', 'verification']
+21:49:47    RN-4 review= 'Auto' images= 100 spec= 635 pages= ['tirupur'] links= '' '' age_h= 10.8 ready= False set_started= True
+21:49:47    RN-6 review= 'Auto' images= 100 spec= 923 pages= ['tirupur'] links= '' '' age_h= 10.7 ready= False set_started= True
+21:49:47    RN-10 review= 'Auto' images= 199 spec= 700 pages= ['tirupur'] links= '' '' age_h= 1.5 ready= True set_started= True
+21:49:47    RN-11 review= 'Auto' images= 199 spec= 718 pages= ['tirupur'] links= '' '' age_h= 1.5 ready= True set_started= True
+21:49:47    RN-12 review= 'Auto' images= 100 spec= 716 pages= ['tirupur'] links= '' '' age_h= 1.5 ready= True set_started= True
+21:49:47    RN-13 review= 'Auto' images= 199 spec= 726 pages= ['tirupur'] links= '' '' age_h= 0.0 ready= False set_started= True
+21:49:48 publishing quota tirupur: 16/50
+21:49:50 instagram duplicate check tirupur: 8 recent posts read
+21:49:50    RN-12 waits for posting start (08:00 IST)
+21:49:50    RN-10 waits for posting start (08:00 IST)
+21:49:50    RN-11 waits for posting start (08:00 IST)
