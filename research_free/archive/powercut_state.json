@@ -42,12 +42,6 @@
    "why": "not a power cut",
    "title": "உடுமலை டிஎஸ்பி-க்கு பாராட்டு"
   },
-  "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/10/நாளைய-மின்தடை-பழங்கரை-3": {
-   "at": "2026-11-12T20:45:56.514066+05:30",
-   "power_cut": true,
-   "why": "",
-   "title": "நாளைய மின்தடை: பழங்கரை"
-  },
   "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/10/திருப்பூா்-மாநகராட்சி-பகுதிகளில்-நவம்பா்-13-இல்-குடிநீா்-விநியோகம்-ரத்து": {
    "at": "2026-11-12T20:45:56.514066+05:30",
    "power_cut": false,
@@ -209,12 +203,6 @@
    "power_cut": false,
    "why": "not this district",
    "title": "நாளைய மின் நிறுத்தம் 27ம் தேதி"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/power-outage12th/4373308": {
-   "at": "2026-11-12T20:45:56.514066+05:30",
-   "power_cut": true,
-   "why": "",
-   "title": "நாளைய (12ம் தேதி) மின் தடை"
   },
   "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/nov-12-power-outage/4372609": {
    "at": "2026-11-12T20:45:56.514066+05:30",
@@ -491,26 +479,30 @@
    "power_cut": false,
    "why": "not this district",
    "title": "கலெக்டர் ஆபீசில் மின்தடை லிப்டில் சிக்கி 5 பேர் தவிப்பு"
+  },
+  "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/10/நாளைய-மின்தடை-பழங்கரை-3": {
+   "at": "2026-11-13T07:23:29.725104+05:30",
+   "power_cut": true,
+   "why": "cut day 2026-11-12 has passed",
+   "title": "நாளைய மின்தடை: பழங்கரை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/power-outage12th/4373308": {
+   "at": "2026-11-13T07:23:29.725104+05:30",
+   "power_cut": true,
+   "why": "cut day 2026-11-12 has passed",
+   "title": "நாளைய (12ம் தேதி) மின் தடை"
   }
  },
- "done": {
+ "done": {},
+ "retried": {
   "C7bf623c": {
-   "id": "C7bf623c",
-   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/10/நாளைய-மின்தடை-பழங்கரை-3",
-   "title": "நாளைய மின்தடை: பழங்கரை",
-   "published": "2026-11-10T20:28:10.256Z",
-   "cut_day": "2026-11-12",
-   "at": "2026-11-12T20:45:56.514066+05:30"
+   "n": 1,
+   "at": "2026-11-13T07:23:29.725104+05:30"
   },
   "Cf5144cd": {
-   "id": "Cf5144cd",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/power-outage12th/4373308",
-   "title": "நாளைய (12ம் தேதி) மின் தடை",
-   "published": "2026-11-11T18:39:02+05:30",
-   "cut_day": "2026-11-12",
-   "at": "2026-11-12T20:45:56.514066+05:30"
+   "n": 1,
+   "at": "2026-11-13T07:23:29.725104+05:30"
   }
  },
- "retried": {},
  "refused": {}
 }
