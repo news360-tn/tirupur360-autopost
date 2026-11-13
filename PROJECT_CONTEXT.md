@@ -81,6 +81,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `9314ad3` | reel: premium story panel (owner 13 Nov) - photo top 60 %, emerald panel with the headline and captions, champagne gold, ivory cards, serif Tamil headline, no black; district map + town pin (OpenStreetMap), word-by-word headline, count-up numbers, news-type layer (power-cut time bar / accident / rain / police), smooth loop, light sound effects. Voice, timing and facts unchanged |
+| 2026-11-13 | `c5f58ec` | powercut: notices written |
+| 2026-11-13 | `dcde5b6` | pick: written and posted |
+| 2026-11-13 | `d940593` | pick: picked news saved |
+| 2026-11-13 | `79f771f` | pick: picked news saved |
+| 2026-11-13 | `13889d5` | pick: list sent |
 | 2026-11-13 | `3507b45` | 2 pictures per reel (owner 13 Nov): the news article's own photos first (vision-checked), one photo -> a closer crop as the second, none -> 2 AI pictures |
 | 2026-11-13 | `399c047` | powercut: notices written |
 | 2026-11-13 | `e7200a4` | powercut: notices written |
@@ -105,10 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `7a63393` | powercut: notices written |
 | 2026-11-13 | `b84c9a5` | powercut: notices written |
 | 2026-11-13 | `a400419` | pick: written and posted |
-| 2026-11-13 | `6fe5faf` | powercut: notices written |
-| 2026-11-13 | `a6e00b7` | reel: new Tirupur 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
-| 2026-11-13 | `8230707` | powercut: notices written |
-| 2026-11-13 | `00808d8` | powercut: notices written |
-| 2026-11-13 | `ba45aa7` | powercut: notices written |
-| 2026-11-13 | `4916b2b` | pick: picked news saved |
 <!-- recent-changes:end -->
