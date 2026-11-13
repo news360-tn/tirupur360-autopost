@@ -1,280 +1,297 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 5 recent posts read from the page",
+  "instagram check: 8 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/coimbatore/tiruppur-industrialist-died-in-road-accident-845081.html",
-  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/13/eps-criticizes-the-manifold-increase-in-crimes-against-women-and-girls-over-the-past-6-months",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/anganwadi-building-in-dangerous-condition/4374698",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/release-of-the-draft-electoral-roll-for-tiruppur-district",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/information-training-camp-for-scout-teacher/4375251",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/private-sector-job-camp/4374421",
   "candidate filter: collected=3",
   "to write: 3 Tirupur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/13/eps-criticize",
-  "try (N) manual=True: https://tamil.oneindia.com/news/coimbatore/tiruppur-industri",
-  "real photo from the source (Dinamalar) for 'Dilapidated Anganwadi building in Kungum'",
-  "auto images: 1 of 1 stories ({})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "real photo from the source (Oneindia Tamil) for 'Tirupur businessman killed as car hits g'",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
   "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1088 (char 1087)",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3.6-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "ok gemini/gemini-3-flash-preview (26s)",
+  "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (32s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok gemini/gemini-3-flash-preview (30s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பல்லடம் அருகே ஆபத்தான நிலையில் அங்கன்வாடி கட்டடம்: சீரமைக்க பொதுமக்கள் கோரிக்கை",
-   "english_headline": "Dilapidated Anganwadi building in Kungumapalayam near Palladam poses risk to children; locals demand repair",
-   "category": "Civic Issues",
-   "location": "Kungumapalayam village, Palladam taluk, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
+   "tamil_headline": "உடுமலையில் தனியார் துறை வேலைவாய்ப்பு முகாம்: நவம்பர் 20 அன்று",
+   "english_headline": "Private sector job camp on 20 Nov at Tirupur district collectorate, Udumalaipettai news",
+   "category": "Government & Services",
+   "location": "Udumalaipettai, Tirupur district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சீரமைப்பு கோரிக்கை",
-    "loc": "குங்குமபாளையம், பல்லடம்",
-    "hl1": "பல்லடம் அருகே ஆபத்தான அங்கன்வாடி",
-    "hl2": "சீரமைக்க பொதுமக்கள் கோரிக்கை",
+    "cat": "வேலைவாய்ப்பு முகாம்",
+    "loc": "உடுமலை",
+    "hl1": "உடுமலையில் வேலைவாய்ப்பு முகாம்",
+    "hl2": "நவம்பர் 20, காலை 10 மணி",
     "slides": [
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "வரும் <b>20ம் தேதி</b> தனியார் துறை வேலைவாய்ப்பு முகாம்",
+       "காலை <b>10:00 மணி</b> முதல் மதியம் <b>2:00 மணி</b> வரை",
+       "திருப்பூர் மாவட்ட வேலைவாய்ப்பு மையம் நடத்துகிறது"
+      ]
+     },
      {
       "title": "எங்கே?",
       "lines": [
-       "பல்லடம் ஒன்றியம் கணபதிபாளையம் ஊராட்சி",
-       "குங்குமபாளையம் கிராம அங்கன்வாடி மையம்",
-       "குழந்தைகளின் பாதுகாப்பு கேள்விக்குறியாக உள்ளது"
+       "திருப்பூர் மாவட்ட கலெக்டர் அலுவலக வளாகம்",
+       "மாவட்ட வேலைவாய்ப்பு மையம், அறை எண் <b>439</b>",
+       "மாவட்டத்தின் முன்னணி நிறுவனங்கள் பங்கேற்கும்"
       ]
      },
      {
-      "title": "என்ன பாதிப்பு?",
+      "title": "யார் பங்கேற்கலாம்?",
       "lines": [
-       "<b>2010-11</b>ல் கட்டப்பட்ட கட்டடம் சேதமடைந்துள்ளது",
-       "மரக்கிளை விழுந்து மேற்கூரை சிலாப் உடைந்தது",
-       "மழைநீர் மையத்துக்குள் புகுந்து வளாகம் சூழ்கிறது"
-      ]
-     },
-     {
-      "title": "பொதுமக்கள்",
-      "lines": [
-       "சேதமடைந்த அங்கன்வாடி கட்டடத்தை சீரமைக்க வேண்டும்",
-       "தரைமட்டத்தை உயர்த்தி வடிகால் வசதி அமைக்க வேண்டும்",
-       "குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய கோரிக்கை"
+       "10, 12ம் வகுப்பு, ஐ.டி.ஐ., டிப்ளமோ, பட்டதாரிகள்",
+       "சுயதகவல் படிவம் மற்றும் கல்விச் சான்றிதழ்கள் கொண்டு",
+       "மேலும் விவரங்களுக்கு <b>94990 55944</b>"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பல்லடம் அருகே சேதமடைந்த அங்கன்வாடி கட்டடத்தை சீரமைக்க கோரிக்கை எழுந்துள்ளது. பல்லடம் ஒன்றியம் கணபதிபாளையம் ஊராட்சி குங்குமபாளையம் கிராமத்தில் அங்கன்வாடி மையம் செயல்பட்டு வருகிறது. இங்கு அப்பகுதியைச் சேர்ந்த குழந்தைகள் பராமரிக்கப்பட்டு வருகின்றனர். 2010-11ஆம் ஆண்டில் கட்டப்பட்ட இக்கட்டடம் மிகவும் சேதமடைந்துள்ளது. சமீபத்தில் பெய்த மழையின்போது மழைநீர் அங்கன்வாடி மையத்தை முழுவதுமாக சூழ்ந்தது. மரக்கிளை முறிந்து விழுந்ததில் கட்டடத்தின் மேற்கூரை சிலாப் உடைந்தது. மழைநீர் அங்கன்வாடி மையத்துக்குள்ளும் புகுவதால் குழந்தைகளின் பாதுகாப்பு கேள்விக்குறியாக உள்ளது. சேதமடைந்த அங்கன்வாடி கட்டடத்தை உடனே சீரமைக்க பொதுமக்கள் வலியுறுத்தியுள்ளனர். வளாகத்தின் தரைமட்டத்தை உயர்த்தி மழைநீர் வடிகால் அமைக்க வேண்டும் என்றும் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚠️ பல்லடம் அருகே ஆபத்தான நிலையில் அங்கன்வாடி கட்டடம் - சீரமைக்க பொதுமக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nபல்லடம் ஒன்றியம் கணபதிபாளையம் ஊராட்சிக்கு உட்பட்ட குங்குமபாளையம் கிராமத்தில் அங்கன்வாடி மையம் செயல்பட்டு வருகிறது. இங்கு அப்பகுதியைச் சேர்ந்த குழந்தைகள் பராமரிக்கப்பட்டு வருகின்றனர். 2010-11ஆம் ஆண்டு கட்டப்பட்ட இக்கட்டடம் தற்போது மிகவும் சேதமடைந்துள்ளது. மரக்கிளை விழுந்ததில் மேற்கூரை சிலாப் உடைந்துள்ளது. சமீபத்தில் பெய்த மழையில் வளாகத்துக்குள்ளும் கட்டடத்துக்குள்ளும் மழைநீர் புகுந்ததால் குழந்தைகளின் பாதுகாப்பு கேள்விக்குறியாகியுள்ளது.\n\n📍 இடம்: குங்குமபாளையம், பல்லடம் ஒன்றியம்\n🏢 பிரச்சனை: 2010-11இல் கட்டப்பட்ட அங்கன்வாடி கட்டடம் சேதம் & மழைநீர் தேக்கம்\n🗣️ கோரிக்கை: கட்டடத்தைச் சீரமைத்து, தரைமட்டத்தை உயர்த்தி மழைநீர் வடிகால் அமைக்க வேண்டும்\n\nகுழந்தைகளின் பாதுகாப்பை கருதி விரைந்து நடவடிக்கை எடுக்க வேண்டும்.\n\nKungumapalayam Palladam Anganwadi building damaged condition news | Tirupur news\n📍 குங்குமபாளையம், திருப்பூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #CivicIssues #திருப்பூர்",
-   "prompts": "A dilapidated single-story Anganwadi building in Kungumapalayam village stands with visible cracks and a broken concrete roof slab. The building is surrounded by large puddles of stagnant rainwater on the muddy ground, threatening the foundation. In the background, three local men wearing shirts and veshtis stand with their backs to the camera, looking at the damaged structure from a distance. The setting is a rural village area near Palladam with a few coconut trees visible in the background. The sky is overcast, suggesting recent heavy rains. The camera is at eye level, using a 35mm wide lens to capture the entire building and the surrounding waterlogged compound. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the broken section of the Anganwadi building's concrete roof slab and the deep structural cracks running down the exterior wall. Water stains and dark damp patches are visible on the weathered paint of the 2010-era structure, showing where rain has seeped in. In the foreground, the edge of a stagnant pool of rainwater reflects the building's base, illustrating the lack of drainage. No people are visible in this tight shot. The lighting is natural daylight, highlighting the rough texture of the crumbling masonry and the structural decay. The camera is positioned at a slightly high angle to clearly show the damage to the roof and the water at the base. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/anganwadi-building-in-dangerous-condition/4374698",
-   "published": "2026-11-12T23:42:21+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572640/tirupur360/td7l2tfz8e0dfvpbe75q.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572641/tirupur360/lgdmfy4gdu0movdtshvs.jpg"
-   ],
-   "real_photo": "Dinamalar"
-  },
-  {
-   "tamil_headline": "திருப்பூர் சிறுமி வழக்கில் கடும் நடவடிக்கை கோரி இபிஎஸ் வலியுறுத்தல்",
-   "english_headline": "EPS demands strict action against accused in Tirupur girl sexual assault case; says crimes against women rose in 6 months",
-   "category": "Crime & Safety",
-   "location": "Veerapandi, Tirupur, Tirupur district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றம் & பாதுகாப்பு",
-    "loc": "வீரபாண்டி, திருப்பூர்",
-    "hl1": "திருப்பூர் சிறுமி வழக்கில் கடும்",
-    "hl2": "இபிஎஸ் அரசை வலியுறுத்தல்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "திருப்பூர் வீரபாண்டி அருகே <b>11 வயது</b> சிறுமி",
-       "பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றி கொலை முயற்சி",
-       "குழந்தைகள் தினத்தை ஒட்டி இந்தச் செய்திகள் வெளியாகின"
-      ]
-     },
-     {
-      "title": "இபிஎஸ் கருத்து",
-      "lines": [
-       "அதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி வலியுறுத்தல்",
-       "பெண்கள், பெண் குழந்தைகள் மீதான குற்றங்கள் 6 மாதங்களில்",
-       "செஞ்சி சிறுமியை இன்னும் கண்டுபிடிக்கவில்லை என விமர்சனம்"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை வேண்டும்",
-       "பெண் குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் சிறுமி வழக்கில் கடும் நடவடிக்கை வேண்டும் என எடப்பாடி பழனிசாமி வலியுறுத்தியுள்ளார். திருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல் வெளியாகியுள்ளது. அதே நேரத்தில் பெரியபாளையம் அருகே ஒரு மாணவி மீது பெட்ரோல் ஊற்றி கொலை செய்ய முயன்றதாகவும் செய்தி வெளியானது. குழந்தைகள் தினத்தை ஒட்டி வெளியான இந்தச் செய்திகள் மக்களை அதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அவர் கூறியுள்ளார். பெண்கள் மற்றும் பெண் குழந்தைகள் மீதான குற்றங்கள் கடந்த 6 மாதங்களில் பன்மடங்கு அதிகரித்துள்ளதாக அவர் குற்றம்சாட்டியுள்ளார். காணாமல் போன செஞ்சி சிறுமியை இன்னும் கண்டுபிடிக்கவில்லை என்றும் அவர் விமர்சித்துள்ளார். இரு வழக்குகளிலும் தொடர்புடைய குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும் என அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வீரபாண்டி அருகே சிறுமி பாலியல் வழக்கில் கடும் நடவடிக்கை கோரி இபிஎஸ் வலியுறுத்தல்\n\n📰 முழு விவரம்:\nதிருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாக அதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி தனது எக்ஸ் பக்கத்தில் குறிப்பிட்டுள்ளார். பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றி கொலை செய்ய முயன்றதாகவும் செய்தி வந்துள்ளது. குழந்தைகள் தினத்தை ஒட்டி வெளியான இந்தச் செய்திகள் மக்களை பேரதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அவர் கூறியுள்ளார். கடந்த 6 மாதங்களில் பெண்கள் மற்றும் பெண் குழந்தைகள் மீதான குற்றங்கள் பன்மடங்கு அதிகரித்துள்ளதாக அவர் விமர்சித்துள்ளார். காணாமல் போன செஞ்சி சிறுமியை இன்னும் கண்டுபிடிக்கவில்லை என்றும் சுட்டிக்காட்டியுள்ளார். இரு வழக்குகளிலும் தொடர்புடைய குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும் என அவர் வலியுறுத்தியுள்ளார்.\n👮 நடவடிக்கை: குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை வேண்டும் என வலியுறுத்தல்\n\nEPS demands strict action in Tirupur girl assault case | Tirupur news\n📍 வீரபாண்டி, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Veerapandi #TirupurNews #திருப்பூர்",
-   "prompts": "A group of Tamil Nadu police in khaki uniform stand guard outside a plain concrete house gate on a quiet residential lane in Veerapandi, Tirupur, in the morning daylight. Two constables in khaki shirts and caps stand near a low compound wall, one holding a wooden lathi, while a few women in sarees and a man in a white shirt and veshti stand at a distance, seen from behind and slightly blurred, watching. Parked beside the wall is a single black two-wheeler and a white autorickshaw. The street has an unpaved edge, a concrete electric pole with TNEB wiring overhead, and a row of small brick houses with tiled roofs. The overall mood is tense and quiet, showing a police presence after a reported crime. Shot at eye level, 35 mm lens, wide enough to show the lane, the houses, the police and the parked vehicles, with no faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a plain wooden table inside a police station room in Tirupur, with a stack of official case files in a manila folder and a blue ballpoint pen resting on top. A constable's khaki sleeve and hand are visible at the edge of the frame, and a grey metal almirah stands blurred in the background. Daylight from a barred window falls across the table. The paper documents are kept blank and unreadable, with no visible text, and no person's face or the victim is shown. Camera slightly high, 35 mm lens, shallow focus on the folder and pen, giving a detail view of the official paperwork tied to the case. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/13/eps-criticizes-the-manifold-increase-in-crimes-against-women-and-girls-over-the-past-6-months",
-   "published": "2026-11-13T07:17:31.749Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572689/tirupur360/rtbidfabmjlfnnncab5f.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572700/tirupur360/t3vfjlq2kgdd4869anhw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கோவை சேலம் பைபாஸ் சாலை விபத்தில் திருப்பூர் தொழிலதிபர் பலி",
-   "english_headline": "Tirupur businessman killed as car hits goods vehicle on Coimbatore Salem bypass road",
-   "category": "Roads & Transport",
-   "location": "Salem-Kochi L&T bypass road near Coimbatore outskirts, Coimbatore district (victim from Ammapalayam, Tirupur district)",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "கோவை சேலம் பைபாஸ் சாலை",
-    "hl1": "கோவை பைபாஸ் விபத்தில் திருப்பூர்",
-    "hl2": "மனைவி தீவிர சிகிச்சையில்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "சேலம் - கொச்சி L&T பைபாஸ் சாலையில் கார் விபத்து",
-       "சரக்கு வாகனத்தின் மீது கார் பயங்கரமாக மோதியது",
-       "காரில் பயணித்த ரவிகுமார் <b>56 வயது</b> சம்பவ இடத்திலேயே"
-      ]
-     },
-     {
-      "title": "குடும்பத்தினர்",
-      "lines": [
-       "மனைவி கிருஷ்ணவேணி <b>60 வயது</b> பலத்த காயத்துடன் உயிர் தப்பினார்",
-       "மகன் அதிஷ்யா <b>23 வயது</b> அளித்த புகாரில் வழக்குப் பதிவு",
-       "கிருஷ்ணவேணிக்கு தீவிர சிகிச்சை தொடர்கிறது"
-      ]
-     },
-     {
-      "title": "விசாரணை நிலவரம்",
-      "lines": [
-       "அதிவேகமா அல்லது கவனக்குறைவா என போலீசார் விசாரணை",
-       "விபத்தின் துல்லியமான காரணம் இன்னும் உறுதி செய்யப்படவில்லை",
-       "கார் முற்றிலும் நொறுங்கியது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கோவை சேலம் பைபாஸ் சாலையில் நடந்த கார் விபத்தில் திருப்பூர் தொழிலதிபர் ஒருவர் உயிரிழந்தார். நேற்று மாலை சுமார் 4 மணியளவில் சேலம் - கொச்சி L&T பைபாஸ் சாலையில் உள்ள தாபா அருகே இந்த விபத்து நடந்தது. கேரள மாநிலம் திருச்சூரில் இருந்து குடும்பத்துடன் திருப்பூர் நோக்கி காரில் திரும்பிக் கொண்டிருந்தனர். எதிர்த்திசையில் நின்றிருந்த சரக்கு வாகனத்தின் மீது கார் எதிர்பாராதவிதமாக பயங்கரமாக மோதியது. திருப்பூர் மாவட்டம் அம்மபாளையம், ஐஸ்வர்யா கார்டன் பகுதியைச் சேர்ந்த ரவிகுமார், 56 வயது, தலையில் பலத்த காயம் அடைந்தார். மருத்துவமனைக்குச் செல்லும் வழியிலேயே அவர் உயிரிழந்ததாக மருத்துவர்கள் தெரிவித்தனர். அவரது மனைவி கிருஷ்ணவேணி, 60 வயது, பலத்த காயங்களுடன் உயிர் தப்பினார். அவருக்குத் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. ரவிகுமாரின் மகன் அதிஷ்யா, 23 வயது, அளித்த புகாரின் பேரில் கோவை மாவட்ட காவல் துறையினர் வழக்குப் பதிவு செய்துள்ளனர். விபத்துக்கு அதிவேகமா அல்லது கவனக்குறைவா என்பது குறித்து போலீசார் தீவிர விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚗 கோவை சேலம் பைபாஸ் சாலை விபத்தில் திருப்பூர் தொழிலதிபர் பலி\n\n📰 முழு விவரம்:\nநேற்று மாலை சுமார் 4 மணியளவில் சேலம் - கொச்சி L&T பைபாஸ் சாலையில் உள்ள தாபா அருகே கார் ஒன்று எதிர்த்திசையில் நின்றிருந்த சரக்கு வாகனத்தின் மீது பயங்கரமாக மோதியது.\nகேரள மாநிலம் திருச்சூருக்குச் சென்றுவிட்டு குடும்பத்துடன் திருப்பூர் நோக்கித் திரும்பிக் கொண்டிருந்தபோது இந்த விபத்து நடந்தது.\nதிருப்பூர் மாவட்டம் அம்மபாளையம், ஐஸ்வர்யா கார்டன் பகுதியைச் சேர்ந்த ரவிகுமார், 56 வயது, தலையில் பலத்த காயம் அடைந்து சம்பவ இடத்திலேயே உயிரிழந்தார். மருத்துவமனைக்குச் செல்லும் வழியிலேயே உயிரிழந்ததாக மருத்துவர்கள் தெரிவித்தனர்.\nஅவரது மனைவி கிருஷ்ணவேணி, 60 வயது, பலத்த காயங்களுடன் உயிர் தப்பினார். அவருக்குத் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது.\nஅவரது மகன் அதிஷ்யா, 23 வயது, அளித்த புகாரின் பேரில் கோவை மாவட்ட காவல் துறையினர் வழக்குப் பதிவு செய்துள்ளனர்.\nவிபத்துக்கு அதிவேகமா அல்லது கவனக்குறைவா என்பது குறித்து போலீசார் தீவிர விசாரணை நடத்தி வருகின்றனர்.\n\nCoimbatore Salem bypass road accident, Tirupur businessman dead | Tirupur news\n📍 கோவை சேலம் பைபாஸ் சாலை, கோவை மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #சாலை_விபத்து #திருப்பூர்",
-   "prompts": "A crumpled car with its front badly crushed stands on the shoulder of the Salem-Kochi L&T bypass road on the outskirts of Coimbatore, its bonnet folded into the windscreen after a head-on collision with a goods lorry parked on the opposite lane. Two khaki-clad Tamil Nadu police officers stand near the wreck, seen from behind at a distance, while a few onlookers and motorists watch from the roadside. The lorry's rear and a roadside dhaba with plastic chairs are visible in the background. It is late afternoon in daylight, with the sun low over the highway. Camera at eye level, 35 mm, wide enough to show the full road, the damaged car, the lorry and the police presence. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the front of a crushed car on a highway shoulder, its bonnet buckled upward, the bumper torn away and the windscreen shattered into spider-web cracks, showing the severity of the head-on impact. Behind it, slightly out of focus, a goods lorry's dented front grille and a police officer in khaki stand at a distance seen from behind. Afternoon light falls across the twisted metal and broken glass on the asphalt. No people are in sharp focus and no injuries are visible. Camera slightly high, 35 mm, focusing on the crushed front of the car as the detail that tells the story. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/coimbatore/tiruppur-industrialist-died-in-road-accident-845081.html",
-   "published": "2026-11-13T15:28:25+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must have no English letters (write English words and abbreviations in Tamil script)",
+   "reel_script": "உடுமலையில் வரும் 20ம் தேதி தனியார் துறை வேலைவாய்ப்பு முகாம் நடைபெறுகிறது. திருப்பூர் மாவட்ட வேலைவாய்ப்பு மற்றும் தொழில்நெறி வழிகாட்டும் மையம் சார்பில் இந்த முகாம் நடத்தப்படுகிறது. முகாம் காலை 10 மணி முதல் மதியம் 2 மணி வரை நடைபெறும். இடம் திருப்பூர் மாவட்ட கலெக்டர் அலுவலக வளாகத்தில் உள்ள மாவட்ட வேலைவாய்ப்பு மையம், அறை எண் 439. மாவட்டத்தின் முன்னணி நிறுவனங்கள் பங்கேற்று வேலைக்குத் தேர்வு செய்ய உள்ளன. 10, 12ம் வகுப்பு, ஐ டி ஐ, டிப்ளமோ மற்றும் பட்டப்படிப்பு முடித்தவர்கள் பங்கேற்கலாம். சுயதகவல் படிவம் மற்றும் கல்விச் சான்றிதழ்களுடன் வர வேண்டும். மேலும் விவரங்களுக்கு 94990 55944 என்ற எண்ணைத் தொடர்பு கொள்ளலாம் என மாவட்ட கலெக்டர் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💼 உடுமலையில் நவம்பர் 20 அன்று தனியார் துறை வேலைவாய்ப்பு முகாம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்ட வேலைவாய்ப்பு மற்றும் தொழில்நெறி வழிகாட்டும் மையம் சார்பில், வரும் 20ம் தேதி தனியார் துறை வேலைவாய்ப்பு முகாம் நடைபெறுகிறது.\nமாவட்டத்தின் முன்னணி நிறுவனங்கள் பங்கேற்று வேலைக்குத் தேர்வு செய்ய உள்ளன.\n10, 12ம் வகுப்பு, ஐ.டி.ஐ., டிப்ளமோ, பட்டப்படிப்பு படித்தவர்கள் பங்கேற்கலாம்.\n\n🗓️ நாள்: வரும் 20ம் தேதி\n🕘 நேரம்: காலை 10:00 மணி முதல் மதியம் 2:00 மணி வரை\n📍 இடம்: திருப்பூர் மாவட்ட கலெக்டர் அலுவலக வளாகம், மாவட்ட வேலைவாய்ப்பு மையம் (அறை எண் 439)\n📞 தொடர்புக்கு: 94990 55944\nℹ️ மக்கள் கவனத்திற்கு: சுயதகவல் படிவம் மற்றும் கல்விச் சான்றிதழ்களுடன் பங்கேற்கலாம்.\n\nPrivate sector job camp on 20th at Tirupur collectorate | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "A line of young job seekers in shirts, trousers, sarees and salwar stands with folders and self-information forms outside a government office hall in the Tirupur district collectorate campus, Udumalaipettai, for a private sector job camp. Seen from behind and at a distance, the men and women hold document files and education certificates in plastic sleeves while they wait their turn to enter. Behind them are long government office corridors with tiled floors, wooden benches and a few tables set up with plain white paper and small placards left blank. Nearby, a few company representatives in formal shirts stand at a registration desk, also seen from behind. Bright morning daylight comes through tall windows, with a few parked two-wheelers and a corporation-style government building visible outside. The camera is at eye level, 35 mm, wide enough to show the hall, the queue and the government building, with no readable text or signboards. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a government employment centre room, covered with a neat stack of blank self-information application forms, a pile of plastic-sleeved education certificates and a few pens, lit by morning daylight from a window. In the background, slightly blurred and seen from behind, a job seeker in a shirt and a woman in a cotton saree stand at the registration desk while a company representative in a formal shirt reviews the papers. The room has plain whitewashed walls, a steel cabinet and rows of folding chairs. Dust particles float in the light beam. The camera is slightly high, 35 mm, focusing on the paperwork in the foreground, with no readable text, logos or faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/private-sector-job-camp/4374421",
+   "published": "2026-11-12T21:44:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (439, 10); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572716/tirupur360/rzdual7yjmwkqfp0p6aq.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572716/tirupur360/x4lrpqdsdxcgzrywcfhs.jpg"
-   ],
-   "real_photo": "Oneindia Tamil"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581455/tirupur360/fbfh1ttm7lw9btgiwztl.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581459/tirupur360/jn35pwtknqpcqgcb5j4p.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரண்மனைப்புதூர் பள்ளியில் சாரண ஆசிரியர்களுக்கு தகவல் பயிற்சி முகாம்",
+   "english_headline": "Information training camp for Scout teachers held at Aranmanaipudur corporation middle school, Tirupur",
+   "category": "Education",
+   "location": "Aranmanaipudur, Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "அரண்மனைப்புதூர், திருப்பூர்",
+    "hl1": "சாரண ஆசிரியர்களுக்கு பயிற்சி முகாம்",
+    "hl2": "அரண்மனைப்புதூர் பள்ளியில்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர் அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளியில்",
+       "சாரண ஆசிரியர்களுக்கான தகவல் பயிற்சி முகாம் நடைபெற்றது",
+       "திருப்பூர் வடக்கு, தெற்கு, அவிநாசி வட்டார ஆசிரியர்கள்"
+      ]
+     },
+     {
+      "title": "எதைப் பற்றிய",
+      "lines": [
+       "சாரண இயக்கத்தின் செயல்பாடுகள்",
+       "மாணவர்கள் பெறும் நன்மைகள்",
+       "பள்ளிகளில் சாரணர் படை தொடங்குவதன் அவசியம்"
+      ]
+     },
+     {
+      "title": "யார் பேசினர்?",
+      "lines": [
+       "மாவட்டக் கல்வி அலுவலர் (தொடக்கக் கல்வி) சித்ரா தலைமை",
+       "மாவட்ட கமிஷனர் ராஜாராம், மாவட்ட இணைச் செயலாளர் ஜெயக்குமார்",
+       "மாவட்ட அமைப்பு கமிஷனர் சண்முகநாதன் உள்ளிட்டோர் பேசினர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளியில் சாரண ஆசிரியர்களுக்கான தகவல் பயிற்சி முகாம் நடைபெற்றது. திருப்பூர் வடக்கு, தெற்கு மற்றும் அவிநாசி வட்டார ஆசிரியர்கள் இதில் பங்கேற்றனர். சாரண இயக்கத்தின் செயல்பாடுகள், மாணவர்கள் பெறும் நன்மைகள் மற்றும் பள்ளிகளில் சாரணர் படை தொடங்குவதன் அவசியம் ஆகிய தலைப்புகளில் பயிற்சி அளிக்கப்பட்டது. மாவட்டக் கல்வி அலுவலர் (தொடக்கக் கல்வி) சித்ரா தலைமை வகித்தார். மாவட்ட கமிஷனர் ராஜாராம், மாவட்ட இணைச் செயலாளர் ஜெயக்குமார், மாவட்ட அமைப்பு கமிஷனர் சண்முகநாதன் உள்ளிட்டோர் பேசினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏫 அரண்மனைப்புதூர் பள்ளியில் சாரண ஆசிரியர்களுக்கு தகவல் பயிற்சி முகாம்\n\n📰 முழு விவரம்:\nதிருப்பூர் அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளியில் சாரண ஆசிரியர்களுக்கான தகவல் பயிற்சி முகாம் நடைபெற்றது. திருப்பூர் வடக்கு, தெற்கு மற்றும் அவிநாசி வட்டார ஆசிரியர்கள் பங்கேற்றனர். சாரண இயக்கத்தின் செயல்பாடுகள், மாணவர்கள் பெறும் நன்மைகள், பள்ளிகளில் சாரணர் படை தொடங்குவதன் அவசியம் ஆகியவை குறித்து பயிற்சி அளிக்கப்பட்டது.\n📍 இடம்: அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளி, திருப்பூர்\n👥 பங்கேற்றோர்: திருப்பூர் வடக்கு, தெற்கு, அவிநாசி வட்டார ஆசிரியர்கள்\n🎙️ தலைமை: மாவட்டக் கல்வி அலுவலர் (தொடக்கக் கல்வி) சித்ரா\n🎙️ பேசியோர்: மாவட்ட கமிஷனர் ராஜாராம், மாவட்ட இணைச் செயலாளர் ஜெயக்குமார், மாவட்ட அமைப்பு கமிஷனர் சண்முகநாதன் உள்ளிட்டோர்\n\nScout teachers training camp Tirupur | Tirupur news\n📍 அரண்மனைப்புதூர், திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #கல்வி",
+   "prompts": "A row of Tamil Nadu government school teachers sits on benches in the hall of a corporation middle school in Aranmanaipudur, Tirupur city, attending a Scout information training camp. Seen from the back of the hall at eye level, the teachers are mostly women in cotton sarees and a few men in shirts and trousers, some taking notes in notebooks on their laps. At the front, a senior officer stands at a small wooden table with a microphone, while others sit beside her in the background, suggesting district officials addressing the gathering. The classroom has plain white walls, tube lights overhead and wooden benches and desks arranged in neat rows. Light is soft daylight coming through tall windows on one side. Shot on a 35 mm lens from slightly high eye level, wide enough to show the whole hall and the seated audience. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of notebooks and a few printed training handouts with Scout-themed folded paper lying on a wooden desk in a Tirupur corporation school classroom. A Scout staff stick or a neatly folded khaki Scout neckerchief rests beside a steel water tumbler and a pen, showing the training camp materials. Behind the desk, a row of empty school benches and a green-painted blackboard are softly blurred. Daylight from a window falls across the table, giving a calm, educational mood. No readable text or labels are visible. Shot at a close, slightly high angle with a 35 mm lens to highlight the training materials. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/information-training-camp-for-scout-teacher/4375251",
+   "published": "2026-11-13T19:14:27+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581471/tirupur360/otu1apihzdtmug3vfnlt.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581475/tirupur360/gas3lgmgph9wdbaylahu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர் மாவட்ட வரைவு வாக்காளர் பட்டியல் வெளியீடு",
+   "english_headline": "Tirupur district draft voter list released by District Collector",
+   "category": "Government & Services",
+   "location": "தாராபுரம், Tirupur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வாக்காளர் பட்டியல்",
+    "loc": "திருப்பூர் மாவட்டம்",
+    "hl1": "திருப்பூர் மாவட்ட வரைவு வாக்காளர்",
+    "hl2": "மொத்தம் 20,01,436",
+    "slides": [
+     {
+      "title": "வெளியீடு",
+      "lines": [
+       "வரைவு வாக்காளர் பட்டியலை மாவட்ட ஆட்சியர் சி.முத்துக்குமரன்",
+       "தவெக, திமுக, அதிமுக, பாஜக, காங்கிரஸ்",
+       "<b>8</b> சட்டப் பேரவைத் தொகுதிகள் இடம் பெற்றுள்ளன"
+      ]
+     },
+     {
+      "title": "வாக்காளர்கள்",
+      "lines": [
+       "ஆண்கள் <b>9,65,087</b> பேர்",
+       "பெண்கள் <b>10,36,097</b> பேர்",
+       "3ஆம் பாலினத்தவர் <b>252</b> பேர், சேவை வாக்காளர்கள் <b>201</b> பேர்"
+      ]
+     },
+     {
+      "title": "மனு செய்யும் காலம்",
+      "lines": [
+       "<b>12.11.2026</b> முதல் <b>11.12.2026</b> வரை மனுக்கள் அளிக்கலாம்",
+       "சிறப்பு முகாம்கள்: <b>நவம்பர் 21, 22, 29</b>",
+       "இறுதி பட்டியல் <b>2027 ஜனவரி 4</b> அன்று வெளியீடு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் மாவட்டத்தின் வரைவு வாக்காளர் பட்டியல் வெளியிடப்பட்டுள்ளது. மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் வியாழக்கிழமை இதை வெளியிட்டார். தவெக, திமுக, அதிமுக, பாஜக, காங்கிரஸ், விடுதலைச் சிறுத்தைகள், இடதுசாரி கட்சியினர் பட்டியலைப் பெற்றுக்கொண்டனர். மாவட்டத்தில் தாராபுரம், காங்கயம், அவிநாசி, திருப்பூர் வடக்கு, திருப்பூர் தெற்கு, பல்லடம், உடுமலை, மடத்துக்குளம் ஆகிய 8 சட்டப் பேரவைத் தொகுதிகள் உள்ளன. ஆண் வாக்காளர்கள் 9,65,087 பேர், பெண் வாக்காளர்கள் 10,36,097 பேர். 3ஆம் பாலினத்தவர் 252 பேர், சேவை வாக்காளர்கள் 201 பேர். மொத்தம் 20,01,436 வாக்காளர்கள் இடம் பெற்றுள்ளனர். பெயர் சேர்த்தல், நீக்கம், திருத்தம் அல்லது முகவரி மாற்றம் செய்ய விரும்புவோர் மனுக்கள் அளிக்கலாம். மனுக்கள் 12.11.2026 முதல் 11.12.2026 வரை அளிக்கலாம். நவம்பர் 21, 22, 29 ஆகிய தேதிகளில் சிறப்பு முகாம்கள் நடைபெறும். ஏற்புரை, மறுப்புரை மீதான தீர்வு டிசம்பர் 28ஆம் தேதிக்குள் வழங்கப்படும். இறுதி வாக்காளர் பட்டியல் 2027 ஜனவரி 4ஆம் தேதி வெளியிடப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ திருப்பூர் மாவட்ட வரைவு வாக்காளர் பட்டியல் வெளியீடு - மொத்தம் 20,01,436 வாக்காளர்கள்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டத்தின் வரைவு வாக்காளர் பட்டியலை மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் வியாழக்கிழமை வெளியிட்டார். தவெக, திமுக, அதிமுக, பாஜக, காங்கிரஸ், விடுதலைச் சிறுத்தைகள், இடதுசாரி கட்சியினர் பட்டியலைப் பெற்றுக்கொண்டனர்.\nமாவட்டத்தில் தாராபுரம், காங்கயம், அவிநாசி, திருப்பூர் வடக்கு, திருப்பூர் தெற்கு, பல்லடம், உடுமலை, மடத்துக்குளம் ஆகிய 8 சட்டப் பேரவைத் தொகுதிகள் உள்ளன.\nஆண் வாக்காளர்கள் 9,65,087 பேர், பெண் வாக்காளர்கள் 10,36,097 பேர், 3ஆம் பாலினத்தவர் 252 பேர், சேவை வாக்காளர்கள் 201 பேர். மொத்தம் 20,01,436 வாக்காளர்கள் இடம் பெற்றுள்ளனர்.\nபெயர் சேர்த்தல், நீக்கம், திருத்தம் அல்லது முகவரி மாற்றம் செய்ய விரும்புவோர் புகைப்படத்துடன் கூடிய வாக்காளர் பட்டியல் சிறப்பு சுருக்குமுறை திருத்தத்தின்கீழ் மனுக்களை அளிக்கலாம்.\n\n📅 மனு செய்யும் காலம்: 12.11.2026 முதல் 11.12.2026 வரை\n🏕️ சிறப்பு முகாம்கள்: நவம்பர் 21, 22, 29\n✅ ஏற்புரை, மறுப்புரை மீதான தீர்வு: டிசம்பர் 28ஆம் தேதிக்குள்\n📢 இறுதி வாக்காளர் பட்டியல்: 2027 ஜனவரி 4ஆம் தேதி\n\nTirupur draft voter list released, 20,01,436 voters | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Palladam",
+   "prompts": "A District Collector in a formal shirt hands over a bound draft voter list booklet across a wooden table in a government hall in Tirupur district, while a line of party representatives in shirts, trousers and sarees waits to receive copies. The setting is a government office in Tirupur city, with plain cream walls, tubelight fixtures, wooden benches and a framed portrait area left blank, a few tables stacked with thick printed registers and files, and a row of ceiling fans overhead. Several officials in Tamil Nadu government office attire stand behind the table, and the party workers, seen mostly from behind or at a distance, hold the papers with both hands. The room is lit by daylight through tall windows on one side, the mood is orderly and formal, and the frame shows the whole table, the queue and the room so the moment of release is clear. Camera at eye level, 35 mm, wide enough to show the hall and the handover. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/release-of-the-draft-electoral-roll-for-tiruppur-district",
+   "published": "2026-11-12T19:33:15.848Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581484/tirupur360/yhkyoz0boob9ozls5tz7.jpg"
+   ]
   }
  ]
 }
