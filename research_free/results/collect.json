@@ -1,340 +1,280 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check tirupur failed: bridge token: Error: No Instagram token saved for tirupur",
-  "instagram check: 0 recent posts read from the page",
+  "instagram check: 5 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/district-wide-search-19-people-in-one-day-arrested/4374575",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delay-in-the-opening-of-the-rainwater-bridge-at-the-mine-bridge/4374415",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/demand-to-appoint-an-adequate-number-of-doctors-to-the-karadivavi-government-hospital",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rs-8323-lakh-penalty-to-vehicle-owners/4374449",
-  "candidate filter: collected=4",
-  "to write: 4 Tirupur district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Tirupur; time left 79 min",
+  "manual link added: https://tamil.oneindia.com/news/coimbatore/tiruppur-industrialist-died-in-road-accident-845081.html",
+  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/13/eps-criticizes-the-manifold-increase-in-crimes-against-women-and-girls-over-the-past-6-months",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/anganwadi-building-in-dangerous-condition/4374698",
+  "candidate filter: collected=3",
+  "to write: 3 Tirupur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})",
+  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/13/eps-criticize",
+  "try (N) manual=True: https://tamil.oneindia.com/news/coimbatore/tiruppur-industri",
+  "real photo from the source (Dinamalar) for 'Dilapidated Anganwadi building in Kungum'",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 3})",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 4})",
-  "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 65 min",
-  "filed: 4 Tirupur district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "real photo from the source (Oneindia Tamil) for 'Tirupur businessman killed as car hits g'",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
+  "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3.6-flash (25s)",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (26s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (2s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1088 (char 1087)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3.6-flash (30s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "ok gemini/gemini-3-flash-preview (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok gemini/gemini-3-flash-preview (30s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரடிவாவி அரசு மருத்துவமனைக்கு போதிய மருத்துவர்களை நியமிக்கக் கோரிக்கை",
-   "english_headline": "Petition submitted to Tirupur Collector seeking adequate doctors and basic facilities at Karadivavi Government Hospital near Palladam",
-   "category": "Government & Services",
-   "location": "Karadivavi, Palladam taluk, Tirupur district",
+   "tamil_headline": "பல்லடம் அருகே ஆபத்தான நிலையில் அங்கன்வாடி கட்டடம்: சீரமைக்க பொதுமக்கள் கோரிக்கை",
+   "english_headline": "Dilapidated Anganwadi building in Kungumapalayam near Palladam poses risk to children; locals demand repair",
+   "category": "Civic Issues",
+   "location": "Kungumapalayam village, Palladam taluk, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மருத்துவமனை",
-    "loc": "கரடிவாவி, பல்லடம்",
-    "hl1": "கரடிவாவி அரசு மருத்துவமனைக்கு மனு",
-    "hl2": "கூடுதல் மருத்துவர்கள் தேவை",
+    "cat": "சீரமைப்பு கோரிக்கை",
+    "loc": "குங்குமபாளையம், பல்லடம்",
+    "hl1": "பல்லடம் அருகே ஆபத்தான அங்கன்வாடி",
+    "hl2": "சீரமைக்க பொதுமக்கள் கோரிக்கை",
     "slides": [
      {
-      "title": "ஆட்சியரிடம் மனு",
+      "title": "எங்கே?",
       "lines": [
-       "பல்லடம் அருகே கரடிவாவி அரசு மருத்துவமனை இயங்குகிறது",
-       "பாஜக ஊடகப் பிரிவு துணைத் தலைவர் வித்யபிரகாஷ் மனு அளித்தார்",
-       "திருப்பூர் மாவட்ட ஆட்சியர் ச.முத்துக்குமரனிடம் மனு"
+       "பல்லடம் ஒன்றியம் கணபதிபாளையம் ஊராட்சி",
+       "குங்குமபாளையம் கிராம அங்கன்வாடி மையம்",
+       "குழந்தைகளின் பாதுகாப்பு கேள்விக்குறியாக உள்ளது"
       ]
      },
      {
-      "title": "என்ன பிரச்சனை?",
+      "title": "என்ன பாதிப்பு?",
       "lines": [
-       "இரவு நேரங்களில் போதிய மருத்துவர்கள் இல்லை",
-       "செவிலியர்கள் மட்டுமே சிகிச்சை அளிக்கும் நிலை உள்ளது",
-       "விபத்து, அவசர சிகிச்சைக்கு எக்ஸ்ரே வசதியும் இல்லை"
+       "<b>2010-11</b>ல் கட்டப்பட்ட கட்டடம் சேதமடைந்துள்ளது",
+       "மரக்கிளை விழுந்து மேற்கூரை சிலாப் உடைந்தது",
+       "மழைநீர் மையத்துக்குள் புகுந்து வளாகம் சூழ்கிறது"
       ]
      },
      {
-      "title": "என்ன கோரிக்கை?",
+      "title": "பொதுமக்கள்",
       "lines": [
-       "சுழற்சி முறையில் கூடுதல் மருத்துவர்களை நியமிக்க வேண்டும்",
-       "பிரத்யேக 108 ஆம்புலன்ஸ், எக்ஸ்ரே இயந்திரம் வழங்க வேண்டும்",
-       "அவசர சிகிச்சைப் பிரிவு உள்ளிட்ட வசதிகள் கோரிக்கை"
+       "சேதமடைந்த அங்கன்வாடி கட்டடத்தை சீரமைக்க வேண்டும்",
+       "தரைமட்டத்தை உயர்த்தி வடிகால் வசதி அமைக்க வேண்டும்",
+       "குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பல்லடம் அருகே உள்ள கரடிவாவி அரசு மருத்துவமனைக்கு கூடுதல் மருத்துவர்களை நியமிக்கக் கோரிக்கை சமர்ப்பிக்கப்பட்டுள்ளது. இதனைத் தொடர்ந்து திருப்பூர் மாவட்ட பாஜக ஊடகப் பிரிவு துணைத் தலைவர் வித்யபிரகாஷ், மாவட்ட ஆட்சியர் ச.முத்துக்குமரனிடம் மனு அளித்தார். இந்நிலையில் மருத்துவமனையில் இரவு நேரங்களில் போதிய மருத்துவர்கள் இல்லாததால், செவிலியர்கள் மட்டுமே சிகிச்சை வழங்குகின்றனர். மேலும் விபத்து மற்றும் அவசர சிகிச்சைக்கு எக்ஸ்ரே வசதியும், உடனடி ஆம்புலன்ஸ் சேவையும் இல்லை. இதையடுத்து சுழற்சி முறையில் கூடுதல் மருத்துவர்களை நியமிக்க வேண்டும், பிரத்யேக 108 ஆம்புலன்ஸ், எக்ஸ்ரே இயந்திரம் மற்றும் அவசர சிகிச்சைப் பிரிவு வசதிகளை ஏற்படுத்த வேண்டும் என்று கோரிக்கை வைக்கப்பட்டுள்ளது. கரடிவாவி மற்றும் சுற்றியுள்ள கிராம மக்களுக்கு உரிய மருத்துவச் சேவை கிடைக்க நடவடிக்கை எடுக்க வேண்டுமென்று கேட்டுக்கொள்ளப்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏥 கரடிவாவி அரசு மருத்துவமனைக்கு போதிய மருத்துவர்களை நியமிக்க ஆட்சியரிடம் மனு\n\n📰 முழு விவரம்:\nபல்லடம் அருகே உள்ள கரடிவாவி அரசு மருத்துவமனைக்கு கூடுதல் மருத்துவர்களை நியமிக்கக் கோரிக்கை திருப்பூர் மாவட்ட ஆட்சியர் ச.முத்துக்குமரனிடம் மனு அளிக்கப்பட்டுள்ளது. இதைத் திருப்பூர் மாவட்ட பாஜக ஊடகப் பிரிவு துணைத் தலைவர் வித்யபிரகாஷ் வழங்கினார்.\nமருத்துவமனையில் இரவு நேரங்களில் போதிய மருத்துவர்கள் இல்லாததால், செவிலியர்கள் மட்டுமே சிகிச்சை வழங்குகின்றனர். மேலும் விபத்து மற்றும் அவசர சிகிச்சைக்கு எக்ஸ்ரே வசதி இல்லாமலும், ஆம்புலன்ஸ் சேவை உடனடியாக கிடைக்காமலும் மக்கள் அவதிப்படுகின்றனர்.\nஎனவே சுழற்சி முறையில் கூடுதல் மருத்துவர்களை நியமிக்கவும், பிரத்யேக 108 ஆம்புலன்ஸ், எக்ஸ்ரே இயந்திரம் மற்றும் அவசர சிகிச்சைப் பிரிவு வசதிகளை ஏற்படுத்தவும் கோரிக்கை விடுக்கப்பட்டுள்ளது.\n\n📍 இடம்: கரடிவாவி, பல்லடம் வட்டம்\n👤 மனு அளித்தவர்: வித்யபிரகாஷ் (பாஜக மாவட்ட ஊடகப் பிரிவு துணைத் தலைவர்)\n📋 மனு பெற்றவர்: ச.முத்துக்குமரன் (திருப்பூர் மாவட்ட ஆட்சியர்)\nℹ️ முக்கிய கோரிக்கைகள்: சுழற்சி முறை மருத்துவர்கள், 108 ஆம்புலன்ஸ், எக்ஸ்ரே இயந்திரம், அவசர சிகிச்சைப் பிரிவு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #Karadivavi #திருப்பூர்",
-   "prompts": "SUBJECT + ACTION: A man in a formal shirt and trousers stands at a desk, handing over a folded paper petition to a seated government official in a white shirt. PLACE: The interior of a government office in Tirupur city, featuring wooden desks, filing cabinets, and a neutral beige wall typical of district administration buildings. PEOPLE: Two men are present; the petitioner stands facing the desk, while the Collector sits behind it, both seen from a side-rear angle to avoid facial recognition. Their postures indicate a formal administrative interaction. VEHICLES / OBJECTS: A stack of white paper documents on the desk, a pen, and a government ID badge on the official's chest. No vehicles are visible indoors. TIME + LIGHT + WEATHER: Daylight, bright and even indoor lighting from ceiling fluorescent tubes, no weather effects visible inside. CAMERA: Eye level, 35 mm lens, framing the desk and the two individuals to show the act of submission clearly without showing faces directly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/demand-to-appoint-an-adequate-number-of-doctors-to-the-karadivavi-government-hospital",
-   "published": "2026-11-12T22:00:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread groq/openai/gpt-oss-120b) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash + proofread groq/openai/gpt-oss-120b, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "பல்லடம் அருகே சேதமடைந்த அங்கன்வாடி கட்டடத்தை சீரமைக்க கோரிக்கை எழுந்துள்ளது. பல்லடம் ஒன்றியம் கணபதிபாளையம் ஊராட்சி குங்குமபாளையம் கிராமத்தில் அங்கன்வாடி மையம் செயல்பட்டு வருகிறது. இங்கு அப்பகுதியைச் சேர்ந்த குழந்தைகள் பராமரிக்கப்பட்டு வருகின்றனர். 2010-11ஆம் ஆண்டில் கட்டப்பட்ட இக்கட்டடம் மிகவும் சேதமடைந்துள்ளது. சமீபத்தில் பெய்த மழையின்போது மழைநீர் அங்கன்வாடி மையத்தை முழுவதுமாக சூழ்ந்தது. மரக்கிளை முறிந்து விழுந்ததில் கட்டடத்தின் மேற்கூரை சிலாப் உடைந்தது. மழைநீர் அங்கன்வாடி மையத்துக்குள்ளும் புகுவதால் குழந்தைகளின் பாதுகாப்பு கேள்விக்குறியாக உள்ளது. சேதமடைந்த அங்கன்வாடி கட்டடத்தை உடனே சீரமைக்க பொதுமக்கள் வலியுறுத்தியுள்ளனர். வளாகத்தின் தரைமட்டத்தை உயர்த்தி மழைநீர் வடிகால் அமைக்க வேண்டும் என்றும் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ பல்லடம் அருகே ஆபத்தான நிலையில் அங்கன்வாடி கட்டடம் - சீரமைக்க பொதுமக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nபல்லடம் ஒன்றியம் கணபதிபாளையம் ஊராட்சிக்கு உட்பட்ட குங்குமபாளையம் கிராமத்தில் அங்கன்வாடி மையம் செயல்பட்டு வருகிறது. இங்கு அப்பகுதியைச் சேர்ந்த குழந்தைகள் பராமரிக்கப்பட்டு வருகின்றனர். 2010-11ஆம் ஆண்டு கட்டப்பட்ட இக்கட்டடம் தற்போது மிகவும் சேதமடைந்துள்ளது. மரக்கிளை விழுந்ததில் மேற்கூரை சிலாப் உடைந்துள்ளது. சமீபத்தில் பெய்த மழையில் வளாகத்துக்குள்ளும் கட்டடத்துக்குள்ளும் மழைநீர் புகுந்ததால் குழந்தைகளின் பாதுகாப்பு கேள்விக்குறியாகியுள்ளது.\n\n📍 இடம்: குங்குமபாளையம், பல்லடம் ஒன்றியம்\n🏢 பிரச்சனை: 2010-11இல் கட்டப்பட்ட அங்கன்வாடி கட்டடம் சேதம் & மழைநீர் தேக்கம்\n🗣️ கோரிக்கை: கட்டடத்தைச் சீரமைத்து, தரைமட்டத்தை உயர்த்தி மழைநீர் வடிகால் அமைக்க வேண்டும்\n\nகுழந்தைகளின் பாதுகாப்பை கருதி விரைந்து நடவடிக்கை எடுக்க வேண்டும்.\n\nKungumapalayam Palladam Anganwadi building damaged condition news | Tirupur news\n📍 குங்குமபாளையம், திருப்பூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #CivicIssues #திருப்பூர்",
+   "prompts": "A dilapidated single-story Anganwadi building in Kungumapalayam village stands with visible cracks and a broken concrete roof slab. The building is surrounded by large puddles of stagnant rainwater on the muddy ground, threatening the foundation. In the background, three local men wearing shirts and veshtis stand with their backs to the camera, looking at the damaged structure from a distance. The setting is a rural village area near Palladam with a few coconut trees visible in the background. The sky is overcast, suggesting recent heavy rains. The camera is at eye level, using a 35mm wide lens to capture the entire building and the surrounding waterlogged compound. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the broken section of the Anganwadi building's concrete roof slab and the deep structural cracks running down the exterior wall. Water stains and dark damp patches are visible on the weathered paint of the 2010-era structure, showing where rain has seeped in. In the foreground, the edge of a stagnant pool of rainwater reflects the building's base, illustrating the lack of drainage. No people are visible in this tight shot. The lighting is natural daylight, highlighting the rough texture of the crumbling masonry and the structural decay. The camera is positioned at a slightly high angle to clearly show the damage to the roof and the water at the base. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/anganwadi-building-in-dangerous-condition/4374698",
+   "published": "2026-11-12T23:42:21+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794547935/tirupur360/kwo9lqvcytjbaqtizmbu.jpg"
-   ]
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572640/tirupur360/td7l2tfz8e0dfvpbe75q.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572641/tirupur360/lgdmfy4gdu0movdtshvs.jpg"
+   ],
+   "real_photo": "Dinamalar"
   },
   {
-   "tamil_headline": "தாராபுரத்தில் விதிமீறல் வாகனங்களுக்கு ரூ.83.23 லட்சம் அபராதம் வசூல்",
-   "english_headline": "Tarapuram: Rs 83.23 lakh fines collected from traffic violators in 10 months",
-   "category": "Roads & Transport",
-   "location": "Tarapuram town, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போக்குவரத்து",
-    "loc": "தாராபுரம்",
-    "hl1": "தாராபுரத்தில் ரூ.83.23 லட்சம் அபராதம்",
-    "hl2": "1,380 வாகனங்களுக்கு",
-    "slides": [
-     {
-      "title": "எவ்வளவு வசூல்?",
-      "lines": [
-       "ஜனவரி முதல் அக்டோபர் வரை வசூல்",
-       "<b>83 லட்சத்து 23,457 ரூபாய்</b> அபராதம்",
-       "வரி, விதிமீறல்களுக்காக வசூலிக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "எத்தனை வாகனங்கள்?",
-      "lines": [
-       "<b>9,336</b> வாகனங்கள் தணிக்கை செய்யப்பட்டன",
-       "<b>1,380</b> வாகனங்களில் விதிமீறல் கண்டறியப்பட்டது",
-       "தாராபுரம் நகரப் பகுதியில் நடவடிக்கை"
-      ]
-     },
-     {
-      "title": "என்ன நடவடிக்கை?",
-      "lines": [
-       "அதிக ஒலி எழுப்பும் ஏர்ஹாரன்கள் பறிமுதல்",
-       "அதிக வெளிச்சம் தரும் LED பல்புகள் பறிமுதல்",
-       "அவற்றை அதிகாரிகள் அழித்தனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தாராபுரத்தில் விதிமீறல் வாகனங்களிடம் 83 லட்சத்து 23 ஆயிரத்து 457 ரூபாய் அபராதம் வசூலிக்கப்பட்டுள்ளது. ஜனவரி முதல் அக்டோபர் வரை 9,336 வாகனங்கள் தணிக்கை செய்யப்பட்டன. இவற்றில் 1,380 வாகனங்களில் வரி மற்றும் பிற விதிமீறல்கள் கண்டறியப்பட்டன. அதிக ஒலி எழுப்பும் ஏர்ஹாரன்கள் பயன்படுத்திய வாகனங்கள் பறிமுதல் செய்யப்பட்டன. அதிக வெளிச்சம் தரும் எல் இ டி பல்புகளும் பறிமுதல் செய்யப்பட்டு அழிக்கப்பட்டன. வெளியூர் வாகனங்களுக்கு, அந்தந்த ஊர்களில் நடவடிக்கை எடுக்க அபராதம் விதித்து பரிந்துரை செய்யப்பட்டுள்ளது என வருவாய் கோட்டாட்சியர் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚦 தாராபுரத்தில் விதிமீறல் வாகனங்களுக்கு ரூ.83.23 லட்சம் அபராதம் வசூல்\n\n📰 முழு விவரம்:\nதாராபுரம் பகுதியில் போக்குவரத்து அதிகாரிகள் வாகனத் தணிக்கை செய்து விதிமீறல் வாகனங்களுக்கு அபராதம் விதித்து வருகின்றனர். ஜனவரி முதல் அக்டோபர் வரை 9,336 வாகனங்கள் தணிக்கை செய்யப்பட்டன. இவற்றில் 1,380 வாகனங்களில் வரி மற்றும் பிற விதிமீறல்கள் கண்டறியப்பட்டு, 83 லட்சத்து 23 ஆயிரத்து 457 ரூபாய் வசூலிக்கப்பட்டது.\n🔊 அதிக ஒலி எழுப்பும் ஏர்ஹாரன்கள் பயன்படுத்திய வாகனங்கள் பறிமுதல் செய்யப்பட்டன.\n💡 அதிக வெளிச்சம் தரும் LED பல்புகளும் பறிமுதல் செய்யப்பட்டு அழிக்கப்பட்டன.\n📋 வெளியூர் வாகனங்களுக்கு, அந்தந்த ஊர்களில் நடவடிக்கை எடுக்க அபராதம் விதித்து பரிந்துரை செய்யப்பட்டுள்ளது என ஆர்.டி.ஓ. பழநியப்பன் தெரிவித்துள்ளார்.\n\nTarapuram traffic fines Rs 83 lakh | Tirupur news\n📍 தாராபுரம், திருப்பூர் மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Tarapuram #TirupurNews #திருப்பூர்",
-   "prompts": "A Tamil Nadu transport department official in uniform stops a two-wheeler and an autorickshaw on a busy road in Tarapuram town during a vehicle inspection drive. The place is a main street of a small Tirupur district town, with shops, parked two-wheelers and a few town buses in the background and dusty tarred road. The official, seen from behind and at a distance, checks papers held by the rider; a second official writes a challan on a clipboard beside the vehicle. Several other two-wheelers and autorickshaws queue slightly down the road. Daylight, clear midday sky, warm and dry weather. Camera at eye level, 35 mm lens, wide enough to show the road, the stopped vehicles and the checking officials. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rs-8323-lakh-penalty-to-vehicle-owners/4374449",
-   "published": "2026-11-12T21:46:28+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 10, 23457",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548090/tirupur360/nq1ogdbtzjpsjr6ecoym.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் எம்.ஜி.ஆர். சிலை சுரங்க பாலம்: கட்டுமானம் முடிந்தும் திறப்பு விழா இழுபறி",
-   "english_headline": "Tirupur MGR Statue subway: construction complete, but opening delayed as rainwater stands under the bridge",
-   "category": "Roads & Transport",
-   "location": "வாலிபாளையம் பகுதி, திருப்பூர் மாவட்டம்",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை மற்றும் போக்குவரத்து",
-    "loc": "திருப்பூர்",
-    "hl1": "எம்.ஜி.ஆர். சிலை சுரங்க பாலம் திறப்பில்",
-    "hl2": "மழைநீர் தேக்கம் பிரச்னை",
-    "slides": [
-     {
-      "title": "என்ன நிலை?",
-      "lines": [
-       "கட்டுமானப் பணி முழுமையாக முடிந்துள்ளது",
-       "திறப்பு விழா எப்போது என்பது இழுபறியாக உள்ளது",
-       "குமரன் ரோட்டின் குறுக்கில் சுரங்க பாலம்"
-      ]
-     },
-     {
-      "title": "ஏன் தாமதம்?",
-      "lines": [
-       "நொய்யல் ஆற்றின் கரையில் குழி தோண்டியதால் தண்ணீர் வரத்து",
-       "பாலத்தின் கீழ் மழைநீர் தேங்கி நிற்கிறது",
-       "மாற்று ஏற்பாடு செய்யப்பட்டும் பிரச்னை தொடர்கிறது"
-      ]
-     },
-     {
-      "title": "எப்போது திறப்பு?",
-      "lines": [
-       "15 ஆண்டுகள் இழுபறியான பணி இது",
-       "மழைநீர் தேக்கப் பிரச்னைக்குத் தீர்வு கண்ட பின்னரே திறப்பு",
-       "போக்குவரத்து பயன்பாட்டுக்கு பின்னர் திறக்கப்படும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூரில் எம் ஜி ஆர் சிலை சுரங்க பாலத்தின் கட்டுமானப் பணி முழுமையாக முடிந்துள்ளது. ஆனால் திறப்பு விழா எப்போது என்பது இன்னும் இழுபறியாகவே உள்ளது. குமரன் ரோட்டின் குறுக்கே நொய்யல் ஆற்றின் கரையில் இந்த சுரங்க பாலம் கட்டப்பட்டுள்ளது. இது வெள்ளி விழாப் பூங்கா ரோட்டையும், வாலிபாளையம் யுனிவர்சல் சந்திப்பு பகுதியையும் இணைக்கிறது. இடம் கையகப்படுத்துதல், வழக்கு, போக்குவரத்து மாற்றத்தில் சிக்கல் என 15 ஆண்டுகள் பணி இழுபறியாகவே இருந்தது. வழக்கு முடிந்து கட்டுமானம் தொடங்கியது. நொய்யல் ஆற்றின் கரையில் குழி தோண்டியதால் பாலம் கட்டிய இடத்தில் தண்ணீர் வரத்தொடங்கியது. இதற்கு மாற்று ஏற்பாடு செய்யப்பட்டது. இருப்பினும் பாலத்தின் கீழ் மழைநீர் தேங்கி நிற்கிறது. இந்தப் பிரச்னைக்குத் தீர்வு கண்ட பின்னரே சுரங்க பாலம் போக்குவரத்துக்குத் திறக்கப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 திருப்பூர் எம்.ஜி.ஆர். சிலை சுரங்க பாலம் திறப்பில் தாமதம்\n\n📰 முழு விவரம்:\nதிருப்பூர் நொய்யல் ஆற்றின் கரையில் குமரன் ரோட்டின் குறுக்கே கட்டப்பட்ட எம்.ஜி.ஆர். சிலை சுரங்க பாலத்தின் கட்டுமானப் பணி முழுமையடைந்துள்ளது. வெள்ளி விழாப் பூங்கா ரோட்டையும், வாலிபாளையம் யுனிவர்சல் சந்திப்பு பகுதியையும் இணைக்கும் இந்தப் பாலம் 15 ஆண்டுகளாக இழுபறியாகவே இருந்தது. இடம் கையகப்படுத்துதல், வழக்கு, போக்குவரத்து மாற்றத்தில் சிக்கல் ஆகியவை காரணமாக இருந்தன.\nவழக்கு முடிந்து கட்டுமானம் தொடங்கிய நிலையில், நொய்யல் ஆற்றின் கரையில் குழி தோண்டியதால் பாலம் கட்டிய இடத்தில் தண்ணீர் வரத்தொடங்கியது. இதற்கு மாற்று ஏற்பாடு செய்யப்பட்டது. ஆனால் பாலத்தின் கீழ் மழைநீர் தேங்கி நிற்கிறது.\n📍 இடம்: குமரன் ரோடு, நொய்யல் ஆற்றங்கரை, திருப்பூர்\n🚦 நிலை: கட்டுமானப் பணி நிறைவு; திறப்பு விழா தேதி இன்னும் முடிவாகவில்லை\n🌧️ பிரச்னை: பாலத்தின் கீழ் மழைநீர் தேக்கம்\nமழைநீர் தேக்கப் பிரச்னைக்குத் தீர்வு கண்ட பின்னரே சுரங்க பாலம் போக்குவரத்துக்குத் திறக்கப்படும்.\n\nTirupur MGR statue subway opening delayed | Tirupur news\n📍 திருப்பூர் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tirupur",
-   "prompts": "A stretch of rainwater stands in the underpass of a newly built concrete subway on Kumaran Road in Valipalayam, Tiruppur, where the bridge is complete but still closed to traffic. Shallow brown rainwater fills the lower carriageway, reflecting the grey concrete arch and pillars, while a few two-wheelers and an autorickshaw wait at the approach with their riders standing and looking toward the water from behind. Beyond the barricades, the Noyyal river bank shows dark wet mud and coconut trees on the outskirts. A corporation worker in a shirt and veshti stands at the edge with a pump hose lying across the wet road. Overcast daylight, soft and diffused, shot at eye level on a 35 mm lens, wide enough to show the full subway and the waterlogged road in one frame. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delay-in-the-opening-of-the-rainwater-bridge-at-the-mine-bridge/4374415",
-   "published": "2026-11-12T21:44:14+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548290/tirupur360/ghi76jkury2t2ig5ybhi.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் மாவட்டத்தில் தேடுதல் வேட்டை: 19 பழைய குற்றவாளிகள் கைது",
-   "english_headline": "Special search across Tirupur district: 19 old offenders arrested in a single day",
+   "tamil_headline": "திருப்பூர் சிறுமி வழக்கில் கடும் நடவடிக்கை கோரி இபிஎஸ் வலியுறுத்தல்",
+   "english_headline": "EPS demands strict action against accused in Tirupur girl sexual assault case; says crimes against women rose in 6 months",
    "category": "Crime & Safety",
-   "location": "Tirupur district",
+   "location": "Veerapandi, Tirupur, Tirupur district",
    "importance": "High",
    "scope": "",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
     "cat": "குற்றம் & பாதுகாப்பு",
-    "loc": "திருப்பூர் மாவட்டம்",
-    "hl1": "மாவட்டம் முழுதும் தேடுதல்: 19 பேர் கைது",
-    "hl2": "77 பழைய குற்றவாளிகள் சோதனை",
+    "loc": "வீரபாண்டி, திருப்பூர்",
+    "hl1": "திருப்பூர் சிறுமி வழக்கில் கடும்",
+    "hl2": "இபிஎஸ் அரசை வலியுறுத்தல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "திருப்பூர் மாவட்டம் முழுதும் போலீசார் சிறப்பு தேடுதல் வேட்டை",
-       "ஒரே நாளில் <b>19 பழைய குற்றவாளிகள்</b> கைது",
-       "மக்கள் பாதுகாப்புக்காக இந்த நடவடிக்கை"
+       "திருப்பூர் வீரபாண்டி அருகே <b>11 வயது</b> சிறுமி",
+       "பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றி கொலை முயற்சி",
+       "குழந்தைகள் தினத்தை ஒட்டி இந்தச் செய்திகள் வெளியாகின"
       ]
      },
      {
-      "title": "எத்தனை பேர்?",
+      "title": "இபிஎஸ் கருத்து",
       "lines": [
-       "பல்வேறு வழக்குகளில் தொடர்புடைய <b>77 பேர்</b> கண்டறியப்பட்டனர்",
-       "அவர்களில் <b>19 பேர்</b> குற்றங்களில் ஈடுபட்டு வருவது தெரிந்தது",
-       "அவர்கள் அனைவரும் கைது செய்யப்பட்டனர்"
+       "அதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி வலியுறுத்தல்",
+       "பெண்கள், பெண் குழந்தைகள் மீதான குற்றங்கள் 6 மாதங்களில்",
+       "செஞ்சி சிறுமியை இன்னும் கண்டுபிடிக்கவில்லை என விமர்சனம்"
       ]
      },
      {
-      "title": "எப்படி நடந்தது?",
+      "title": "கோரிக்கை",
       "lines": [
-       "திருப்பூர் மாவட்ட எஸ்.பி. சிருஷ்டி சிங் உத்தரவின் பேரில்",
-       "மாவட்டத்தின் <b>5 சப்-டிவிஷன்</b> பகுதிகளில் தனிப்படையினர்",
-       "தொடர்ந்து சிறப்பு தேடுதல் நடைபெற்று வருகிறது"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "பொது அமைதிக்கு குந்தகம் விளைவிப்பவர்கள் மீது கடும் நடவடிக்கை",
-       "எஸ்.பி. சிருஷ்டி சிங் இந்த எச்சரிக்கையை விடுத்துள்ளார்"
+       "குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை வேண்டும்",
+       "பெண் குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் மாவட்டத்தில் ஒரே நாளில் 19 பழைய குற்றவாளிகள் கைது. போலீசார் மாவட்டம் முழுதும் நடத்திய சிறப்பு தேடுதல் வேட்டையில் இந்தக் கைது நடந்துள்ளது. பல்வேறு வழக்குகளில் தொடர்புடைய 77 பழைய குற்றவாளிகள் கண்டறியப்பட்டு தணிக்கை செய்யப்பட்டனர். அவர்களில் 19 பேர் குற்றங்களில் ஈடுபட்டு வருவது தெரியவந்தது. அவர்கள் உடனடியாகக் கைது செய்யப்பட்டனர். மக்களின் பொது அமைதியையும் பாதுகாப்பையும் உறுதி செய்யும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டது. திருப்பூர் மாவட்ட காவல் கண்காணிப்பாளர் சிருஷ்டி சிங் உத்தரவின் பேரில், மாவட்டத்தின் 5 சப்-டிவிஷன் பகுதிகளில் தனிப்படையினர் இந்த வேட்டையில் ஈடுபட்டு வருகின்றனர். பொது அமைதிக்கு குந்தகம் விளைவிப்பவர்கள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் என்று காவல் கண்காணிப்பாளர் சிருஷ்டி சிங் எச்சரித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚔 திருப்பூர் மாவட்டம் முழுதும் தேடுதல்: ஒரே நாளில் 19 பழைய குற்றவாளிகள் கைது\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டம் முழுதும் போலீசார் நடத்திய சிறப்பு தேடுதல் வேட்டையில் 19 பழைய குற்றவாளிகள் கைது செய்யப்பட்டனர். பல்வேறு வழக்குகளில் தொடர்புடைய 77 பழைய குற்றவாளிகள் கண்டறியப்பட்டு தணிக்கை செய்யப்பட்டனர். அவர்களில் 19 பேர் குற்றங்களில் ஈடுபட்டு வருவது தெரியவந்ததால் கைது செய்யப்பட்டனர்.\n📍 இடம்: திருப்பூர் மாவட்டம் முழுவதும்\n🗓️ நாள்: நவம்பர் 12, 2026\n👮 நடவடிக்கை: மாவட்டத்தின் 5 சப்-டிவிஷன் பகுதிகளில் தனிப்படையினர் சிறப்பு தேடுதல் வேட்டை. திருப்பூர் மாவட்ட எஸ்.பி. சிருஷ்டி சிங் உத்தரவின் பேரில் நடைபெற்றது.\nℹ️ மக்கள் கவனத்திற்கு: பொது அமைதிக்கு குந்தகம் விளைவிப்பவர்கள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் என்று எஸ்.பி. எச்சரித்துள்ளார்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nTirupur police search 19 arrested | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A line of Tamil Nadu police in khaki stands beside a white police jeep on a busy Tirupur street in daylight, as a special search team checks old offenders across the district. Behind them a row of two-wheelers and an autorickshaw wait at a traffic junction lined with shops and concrete buildings, the typical look of Tirupur city. Two constables seen from behind are holding a bundle of files and a clipboard listing names. A few men in shirts and veshti stand at a distance near the police, shown from the back and slightly blurred. Bright midday light casts short shadows on the road. The camera sits at eye level, 35 mm, wide enough to show the jeep, the officers and the street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/district-wide-search-19-people-in-one-day-arrested/4374575",
-   "published": "2026-11-12T21:54:45+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "reel_script": "திருப்பூர் சிறுமி வழக்கில் கடும் நடவடிக்கை வேண்டும் என எடப்பாடி பழனிசாமி வலியுறுத்தியுள்ளார். திருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல் வெளியாகியுள்ளது. அதே நேரத்தில் பெரியபாளையம் அருகே ஒரு மாணவி மீது பெட்ரோல் ஊற்றி கொலை செய்ய முயன்றதாகவும் செய்தி வெளியானது. குழந்தைகள் தினத்தை ஒட்டி வெளியான இந்தச் செய்திகள் மக்களை அதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அவர் கூறியுள்ளார். பெண்கள் மற்றும் பெண் குழந்தைகள் மீதான குற்றங்கள் கடந்த 6 மாதங்களில் பன்மடங்கு அதிகரித்துள்ளதாக அவர் குற்றம்சாட்டியுள்ளார். காணாமல் போன செஞ்சி சிறுமியை இன்னும் கண்டுபிடிக்கவில்லை என்றும் அவர் விமர்சித்துள்ளார். இரு வழக்குகளிலும் தொடர்புடைய குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும் என அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வீரபாண்டி அருகே சிறுமி பாலியல் வழக்கில் கடும் நடவடிக்கை கோரி இபிஎஸ் வலியுறுத்தல்\n\n📰 முழு விவரம்:\nதிருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாக அதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி தனது எக்ஸ் பக்கத்தில் குறிப்பிட்டுள்ளார். பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றி கொலை செய்ய முயன்றதாகவும் செய்தி வந்துள்ளது. குழந்தைகள் தினத்தை ஒட்டி வெளியான இந்தச் செய்திகள் மக்களை பேரதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அவர் கூறியுள்ளார். கடந்த 6 மாதங்களில் பெண்கள் மற்றும் பெண் குழந்தைகள் மீதான குற்றங்கள் பன்மடங்கு அதிகரித்துள்ளதாக அவர் விமர்சித்துள்ளார். காணாமல் போன செஞ்சி சிறுமியை இன்னும் கண்டுபிடிக்கவில்லை என்றும் சுட்டிக்காட்டியுள்ளார். இரு வழக்குகளிலும் தொடர்புடைய குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும் என அவர் வலியுறுத்தியுள்ளார்.\n👮 நடவடிக்கை: குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை வேண்டும் என வலியுறுத்தல்\n\nEPS demands strict action in Tirupur girl assault case | Tirupur news\n📍 வீரபாண்டி, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Veerapandi #TirupurNews #திருப்பூர்",
+   "prompts": "A group of Tamil Nadu police in khaki uniform stand guard outside a plain concrete house gate on a quiet residential lane in Veerapandi, Tirupur, in the morning daylight. Two constables in khaki shirts and caps stand near a low compound wall, one holding a wooden lathi, while a few women in sarees and a man in a white shirt and veshti stand at a distance, seen from behind and slightly blurred, watching. Parked beside the wall is a single black two-wheeler and a white autorickshaw. The street has an unpaved edge, a concrete electric pole with TNEB wiring overhead, and a row of small brick houses with tiled roofs. The overall mood is tense and quiet, showing a police presence after a reported crime. Shot at eye level, 35 mm lens, wide enough to show the lane, the houses, the police and the parked vehicles, with no faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a plain wooden table inside a police station room in Tirupur, with a stack of official case files in a manila folder and a blue ballpoint pen resting on top. A constable's khaki sleeve and hand are visible at the edge of the frame, and a grey metal almirah stands blurred in the background. Daylight from a barred window falls across the table. The paper documents are kept blank and unreadable, with no visible text, and no person's face or the victim is shown. Camera slightly high, 35 mm lens, shallow focus on the folder and pen, giving a detail view of the official paperwork tied to the case. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/13/eps-criticizes-the-manifold-increase-in-crimes-against-women-and-girls-over-the-past-6-months",
+   "published": "2026-11-13T07:17:31.749Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548438/tirupur360/xt2sg2ihsmit3e9wc0zo.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572689/tirupur360/rtbidfabmjlfnnncab5f.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572700/tirupur360/t3vfjlq2kgdd4869anhw.jpg"
    ]
+  },
+  {
+   "tamil_headline": "கோவை சேலம் பைபாஸ் சாலை விபத்தில் திருப்பூர் தொழிலதிபர் பலி",
+   "english_headline": "Tirupur businessman killed as car hits goods vehicle on Coimbatore Salem bypass road",
+   "category": "Roads & Transport",
+   "location": "Salem-Kochi L&T bypass road near Coimbatore outskirts, Coimbatore district (victim from Ammapalayam, Tirupur district)",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "கோவை சேலம் பைபாஸ் சாலை",
+    "hl1": "கோவை பைபாஸ் விபத்தில் திருப்பூர்",
+    "hl2": "மனைவி தீவிர சிகிச்சையில்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சேலம் - கொச்சி L&T பைபாஸ் சாலையில் கார் விபத்து",
+       "சரக்கு வாகனத்தின் மீது கார் பயங்கரமாக மோதியது",
+       "காரில் பயணித்த ரவிகுமார் <b>56 வயது</b> சம்பவ இடத்திலேயே"
+      ]
+     },
+     {
+      "title": "குடும்பத்தினர்",
+      "lines": [
+       "மனைவி கிருஷ்ணவேணி <b>60 வயது</b> பலத்த காயத்துடன் உயிர் தப்பினார்",
+       "மகன் அதிஷ்யா <b>23 வயது</b> அளித்த புகாரில் வழக்குப் பதிவு",
+       "கிருஷ்ணவேணிக்கு தீவிர சிகிச்சை தொடர்கிறது"
+      ]
+     },
+     {
+      "title": "விசாரணை நிலவரம்",
+      "lines": [
+       "அதிவேகமா அல்லது கவனக்குறைவா என போலீசார் விசாரணை",
+       "விபத்தின் துல்லியமான காரணம் இன்னும் உறுதி செய்யப்படவில்லை",
+       "கார் முற்றிலும் நொறுங்கியது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோவை சேலம் பைபாஸ் சாலையில் நடந்த கார் விபத்தில் திருப்பூர் தொழிலதிபர் ஒருவர் உயிரிழந்தார். நேற்று மாலை சுமார் 4 மணியளவில் சேலம் - கொச்சி L&T பைபாஸ் சாலையில் உள்ள தாபா அருகே இந்த விபத்து நடந்தது. கேரள மாநிலம் திருச்சூரில் இருந்து குடும்பத்துடன் திருப்பூர் நோக்கி காரில் திரும்பிக் கொண்டிருந்தனர். எதிர்த்திசையில் நின்றிருந்த சரக்கு வாகனத்தின் மீது கார் எதிர்பாராதவிதமாக பயங்கரமாக மோதியது. திருப்பூர் மாவட்டம் அம்மபாளையம், ஐஸ்வர்யா கார்டன் பகுதியைச் சேர்ந்த ரவிகுமார், 56 வயது, தலையில் பலத்த காயம் அடைந்தார். மருத்துவமனைக்குச் செல்லும் வழியிலேயே அவர் உயிரிழந்ததாக மருத்துவர்கள் தெரிவித்தனர். அவரது மனைவி கிருஷ்ணவேணி, 60 வயது, பலத்த காயங்களுடன் உயிர் தப்பினார். அவருக்குத் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. ரவிகுமாரின் மகன் அதிஷ்யா, 23 வயது, அளித்த புகாரின் பேரில் கோவை மாவட்ட காவல் துறையினர் வழக்குப் பதிவு செய்துள்ளனர். விபத்துக்கு அதிவேகமா அல்லது கவனக்குறைவா என்பது குறித்து போலீசார் தீவிர விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 கோவை சேலம் பைபாஸ் சாலை விபத்தில் திருப்பூர் தொழிலதிபர் பலி\n\n📰 முழு விவரம்:\nநேற்று மாலை சுமார் 4 மணியளவில் சேலம் - கொச்சி L&T பைபாஸ் சாலையில் உள்ள தாபா அருகே கார் ஒன்று எதிர்த்திசையில் நின்றிருந்த சரக்கு வாகனத்தின் மீது பயங்கரமாக மோதியது.\nகேரள மாநிலம் திருச்சூருக்குச் சென்றுவிட்டு குடும்பத்துடன் திருப்பூர் நோக்கித் திரும்பிக் கொண்டிருந்தபோது இந்த விபத்து நடந்தது.\nதிருப்பூர் மாவட்டம் அம்மபாளையம், ஐஸ்வர்யா கார்டன் பகுதியைச் சேர்ந்த ரவிகுமார், 56 வயது, தலையில் பலத்த காயம் அடைந்து சம்பவ இடத்திலேயே உயிரிழந்தார். மருத்துவமனைக்குச் செல்லும் வழியிலேயே உயிரிழந்ததாக மருத்துவர்கள் தெரிவித்தனர்.\nஅவரது மனைவி கிருஷ்ணவேணி, 60 வயது, பலத்த காயங்களுடன் உயிர் தப்பினார். அவருக்குத் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது.\nஅவரது மகன் அதிஷ்யா, 23 வயது, அளித்த புகாரின் பேரில் கோவை மாவட்ட காவல் துறையினர் வழக்குப் பதிவு செய்துள்ளனர்.\nவிபத்துக்கு அதிவேகமா அல்லது கவனக்குறைவா என்பது குறித்து போலீசார் தீவிர விசாரணை நடத்தி வருகின்றனர்.\n\nCoimbatore Salem bypass road accident, Tirupur businessman dead | Tirupur news\n📍 கோவை சேலம் பைபாஸ் சாலை, கோவை மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #சாலை_விபத்து #திருப்பூர்",
+   "prompts": "A crumpled car with its front badly crushed stands on the shoulder of the Salem-Kochi L&T bypass road on the outskirts of Coimbatore, its bonnet folded into the windscreen after a head-on collision with a goods lorry parked on the opposite lane. Two khaki-clad Tamil Nadu police officers stand near the wreck, seen from behind at a distance, while a few onlookers and motorists watch from the roadside. The lorry's rear and a roadside dhaba with plastic chairs are visible in the background. It is late afternoon in daylight, with the sun low over the highway. Camera at eye level, 35 mm, wide enough to show the full road, the damaged car, the lorry and the police presence. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the front of a crushed car on a highway shoulder, its bonnet buckled upward, the bumper torn away and the windscreen shattered into spider-web cracks, showing the severity of the head-on impact. Behind it, slightly out of focus, a goods lorry's dented front grille and a police officer in khaki stand at a distance seen from behind. Afternoon light falls across the twisted metal and broken glass on the asphalt. No people are in sharp focus and no injuries are visible. Camera slightly high, 35 mm, focusing on the crushed front of the car as the detail that tells the story. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/coimbatore/tiruppur-industrialist-died-in-road-accident-845081.html",
+   "published": "2026-11-13T15:28:25+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must have no English letters (write English words and abbreviations in Tamil script)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572716/tirupur360/rzdual7yjmwkqfp0p6aq.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794572716/tirupur360/x4lrpqdsdxcgzrywcfhs.jpg"
+   ],
+   "real_photo": "Oneindia Tamil"
   }
  ]
 }
