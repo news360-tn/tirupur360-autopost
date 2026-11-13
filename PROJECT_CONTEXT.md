@@ -81,6 +81,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `0b3da63` | reel: same design as Coimbatore 360 (colours, shapes, fonts) - per-page themes removed; end card keeps 'Source:' (owner 12 Nov); waiting reels rebuilt |
+| 2026-11-13 | `20b0eb9` | powercut: notices written |
+| 2026-11-13 | `66f6176` | pick: picked news saved |
+| 2026-11-13 | `a686591` | pick: picked news saved |
+| 2026-11-13 | `dbc8b23` | pick: list sent |
+| 2026-11-13 | `7a63393` | powercut: notices written |
+| 2026-11-13 | `b84c9a5` | powercut: notices written |
+| 2026-11-13 | `a400419` | pick: written and posted |
+| 2026-11-13 | `6fe5faf` | powercut: notices written |
 | 2026-11-13 | `a6e00b7` | reel: new Tirupur 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
 | 2026-11-13 | `8230707` | powercut: notices written |
 | 2026-11-13 | `00808d8` | powercut: notices written |
@@ -102,13 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-12 | `3a9ca21` | powercut: notices written |
 | 2026-11-12 | `56b26ef` | cloudinary: keep the last 48 h only, clean once every 48 h (own workflow; hourly step removed) |
 | 2026-11-12 | `6960de5` | powercut: notices written |
-| 2026-11-12 | `fb40dca` | post: start the next posting run after the 12-minute gap while stories wait (GitHub runs the 5-min schedule ~hourly; Coimbatore had 23 waiting, 1 posted per hour) |
-| 2026-11-12 | `95338e0` | bridge: create the News tab (31 column names) when the new Log Sheet does not have it - pick failed 12 Nov with getLastRow of null |
-| 2026-11-12 | `d1e8c2c` | Tirupur 360 live (owner 12 Nov) |
-| 2026-11-12 | `74f628a` | Cloudinary clean-up: this page's files older than 3 days deleted every hour (at 50% of the free limit reels older than 26 h too); a deleted prebuilt reel is uploaded again; rasipalan pictures in the page folder. keys-check: test-only workflow (manual), prints OK/FAIL per secret |
-| 2026-11-12 | `7247275` | tirupur 360: local news for the district - Tamil papers only (Dinamalar, Dinamani + Dinakaran / OneIndia where fresh), district towns and searches, power-cut searches, writer rules, town hashtags; whole district; tests updated |
-| 2026-11-12 | `40e11a1` | tirupur 360: Sheet and Drive folder ids set (its own Sheet and folder) |
-| 2026-11-12 | `750c29c` | tirupur 360: Instagram handle tiruppur360.official |
-| 2026-11-12 | `50a96f6` | reel end card: 'Source: <paper> (<date>)' instead of 'ஆதாரம்' (owner 12 Nov) |
-| 2026-11-12 | `209e785` | tirupur 360: own hashtags (page, area, news, Tamil tag, rain/power-cut topic tags); Coimbatore town tags removed; source line stays at the end of every caption |
 <!-- recent-changes:end -->
