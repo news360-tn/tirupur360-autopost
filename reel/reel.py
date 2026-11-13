@@ -18,7 +18,7 @@ FS = NM / "@fontsource"
 ICONS = NM / "@fortawesome" / "fontawesome-free" / "svgs" / "solid"
 # Tirupur 360: ONE page (no second page). Page name / handle / logo in this one place.
 PAGES = {
-    "tirupur": {"logo": "logo_tirupur.png", "style": "P", "name": "திருப்பூர் 360", "handle": "tiruppur360.official", "tagline": "நம்ம திருப்பூர் செய்திகள்", "follow": "திருப்பூர் மாவட்டச்<br>செய்திகளுக்கு",
+    "tirupur": {"logo": "logo_tirupur.png", "name": "திருப்பூர் 360", "handle": "tiruppur360.official", "tagline": "நம்ம திருப்பூர் செய்திகள்", "follow": "திருப்பூர் மாவட்டச்<br>செய்திகளுக்கு",
                    "ticker": "திருப்பூர் 360  •  திருப்பூர் மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_tirupur.png", "hashtag": "#Tirupur360"},
 }
 PAGE = PAGES["tirupur"]
