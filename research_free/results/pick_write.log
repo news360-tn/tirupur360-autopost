@@ -1,0 +1,222 @@
+writing [N]: திருப்பூர் அருகே பயங்கரம்; 12 வயது சிறுமியை கடத்தி பலாத்காரம
+writing [N]: சிறுமி பாலியல் வன்கொடுமை: 
+பழைய இரும்பு வியாபாரி கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail gemini/gemini-3-flash-preview: 'candidates'
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+writing [N]: போலீஸ் டைரி
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 1 groq/qwen/qwen3.8-27b: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('நகா் அனைத்து மகளிா் காவல் நிலையத்தில் சிறுமியின் பெற்றோா் பு')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('அப்போது சிறுமியைப் பின்தொடர்ந்து சென்று பாலியல் பலாத்காரம் ச'); 18 ('தொடர்ந்து அனைத்து மகளிர் போலீசார், போக்சோ சட்டத்தின் கீழ் வழ'); 2 ('தொடர்ந்து அனைத்து மகளிர் போலீசார், போக்சோ சட்டத்தின் கீழ் வழ'); 10 ('கடந்த 10 நாட்களாக பாட்டி வீட்டில் தங்கியிருந்த மாணவி நேற்று '); 7 ('என்பது உள்ளிட்ட கோணங்களில் விசாரித்து தேடி வருகின்றனர்.விழுப'); 8 ('இந்நிலையில் நேற்றுமுன்தினம் இரவு 8.30 மணியளவில் தனது வீட்டின')
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 18 ('தொடர்ந்து அனைத்து மகளிர் போலீசார், போக்சோ சட்டத்தின் கீழ் வழ'); 10 ('கடந்த 10 நாட்களாக பாட்டி வீட்டில் தங்கியிருந்த மாணவி நேற்று '); 7 ('என்பது உள்ளிட்ட கோணங்களில் விசாரித்து தேடி வருகின்றனர்.விழுப'); 8 ('இந்நிலையில் நேற்றுமுன்தினம் இரவு 8.30 மணியளவில் தனது வீட்டின'); 30 ('இந்நிலையில் நேற்றுமுன்தினம் இரவு 8.30 மணியளவில் தனது வீட்டின')
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 18 ('தொடர்ந்து அனைத்து மகளிர் போலீசார், போக்சோ சட்டத்தின் கீழ் வழ'); 10 ('கடந்த 10 நாட்களாக பாட்டி வீட்டில் தங்கியிருந்த மாணவி நேற்று '); 7 ('என்பது உள்ளிட்ட கோணங்களில் விசாரித்து தேடி வருகின்றனர்.விழுப'); 8 ('இந்நிலையில் நேற்றுமுன்தினம் இரவு 8.30 மணியளவில் தனது வீட்டின'); 30 ('இந்நிலையில் நேற்றுமுன்தினம் இரவு 8.30 மணியளவில் தனது வீட்டின')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+not available on this plan: groq/qwen/qwen3.8-27b
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
+ok groq/qwen/qwen3.8-27b (3s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  reel_script says the ganja case happened at 'இடுவாய் டாஸ்மாக் கடை' — article says 'டாஸ்மாக் அருகில', minor but acceptable; main issue: reel_script says 'மங்கலத்தில் கஞ்சா விற்ற' while article says 'கஞ்சா விற்பனையில் ஈடுபட்டதாக' (alleged), overstated as a confirmed sale
+  reel_script states 'காவல் உதவி ஆய்வாளர்க்கள்' — a garbled/ungrammatical term; article says 'எஸ்.ஐ.,கள்' (sub-inspectors)
+  reel_script says '17 கூர்காக்கள்' were arrested in a room 'ஒரு கூர்கா அறையில்' — the article says a Gurkha's room with '17 கூர்காக்கள்' gambling, but the phrasing 'பணம் வைத்து சூதாடிய 17 கூர்காக்கள்' in the slide 'போலீசார் சோதனையில் 17 கூர்காக்கள் கைது' is consistent; however the Tamil 'கூர்காக்கள்' used with the number 17 is acceptable
+  reel_script 'கைது' of Gurkha gamblers is consistent; but the slide 'பல்லடம் அருகே பெத்தாம்பாளையம் விவசாயி' and reel_script call the victim 'விவசாயி தெய்வசிகாமணி (75 வயது)' — consistent
+  reel_script and caption mention 'உயிரிழந்தார்' for the accident victim while the article says 'உயிரிழந்தார்' — consistent; the caption omits the detail that the road was national highway in slides but not an error
+  slides_spec third slide says 'அவிநாசி ஆட்டையாம்பாளையத்தில்' — consistent with article
+  The slides_spec 'விபத்தில்' lines omit that the vehicle was a two-wheeler ('டூவீலர்') — missing detail of cause, a minor omission of the cause of death
+claude rewrite 1 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: reel_script says the ganja case happened at 'இடுவாய் டாஸ்மாக் கடை' — article says 'டாஸ்மாக் அருகில', minor but acceptable; main issue: reel_script says 'மங்கலத்தில் கஞ்சா விற்ற' while article says 'கஞ்சா விற்பனையில் ஈடுபட்டதாக' (alleged), overstated as a confirmed sale
+  fact-check: reel_script states 'காவல் உதவி ஆய்வாளர்க்கள்' — a garbled/ungrammatical term; article says 'எஸ்.ஐ.,கள்' (sub-inspectors)
+  fact-check: reel_script says '17 கூர்காக்கள்' were arrested in a room 'ஒரு கூர்கா அறையில்' — the article says a Gurkha's room with '17 கூர்காக்கள்' gambling, but the phrasing 'பணம் வைத்து சூதாடிய 17 கூர்காக்கள்' in the slide 'போலீசார் சோதனையில் 17 கூர்காக்கள் கைது' is consistent; however the Tamil 'கூர்காக்கள்' used with the number 17 is acceptable
+  fact-check: reel_script 'கைது' of Gurkha gamblers is consistent; but the slide 'பல்லடம் அருகே பெத்தாம்பாளையம் விவசாயி' and reel_script call the victim 'விவசாயி தெய்வசிகாமணி (75 வயது)' — consistent
+  fact-check: reel_script and caption mention 'உயிரிழந்தார்' for the accident victim while the article says 'உயிரிழந்தார்' — consistent; the caption omits the detail that the road was national highway in slides but not an error
+  fact-check: slides_spec third slide says 'அவிநாசி ஆட்டையாம்பாளையத்தில்' — consistent with article
+  fact-check: The slides_spec 'விபத்தில்' lines omit that the vehicle was a two-wheeler ('டூவீலர்') — missing detail of cause, a minor omission of the cause of death
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  reel_script says the child was assaulted 'after being drugged' but also says she was followed; article says the man followed her, so this is consistent — however reel_script states the girl was followed and drugged, which matches the article
+  reel_script states 'குற்றவாளி கைது' and names the suspect's trade and age correctly, but the reel_script omits that the accused was in hiding (தலைமறைவு) before arrest, an important fact of the arrest
+  slides_spec 'என்ன நடந்தது?' slide says the girl was affected 'in the forest area near home' while the article says she went to the forest area near her house for nature's call; the slide omits the purpose, which is minor
+  slides_spec 'கைது' slide says the accused was identified 'through surveillance camera recordings' which matches the article, but the caption says 'இந்தக் குற்றத்தைச் செய்தது தெரியவந்தது' which is grammatically fine; no clear error here
+  slides_spec and reel_script describe the suspect as 'அதே பகுதியைச் சேர்ந்த' which matches the article
+proofread rejected (5 problems)
+  fact-check: reel_script says the child was assaulted 'after being drugged' but also says she was followed; article says the man followed her, so this is consistent — however reel_script states the girl was followed and drugged, which matches the article
+  fact-check: reel_script states 'குற்றவாளி கைது' and names the suspect's trade and age correctly, but the reel_script omits that the accused was in hiding (தலைமறைவு) before arrest, an important fact of the arrest
+  fact-check: slides_spec 'என்ன நடந்தது?' slide says the girl was affected 'in the forest area near home' while the article says she went to the forest area near her house for nature's call; the slide omits the purpose, which is minor
+  fact-check: slides_spec 'கைது' slide says the accused was identified 'through surveillance camera recordings' which matches the article, but the caption says 'இந்தக் குற்றத்தைச் செய்தது தெரியவந்தது' which is grammatically fine; no clear error here
+  fact-check: slides_spec and reel_script describe the suspect as 'அதே பகுதியைச் சேர்ந்த' which matches the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5enxj94ehaa58b82eyehvhp` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1821. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 27 ('மங்கலம் காவல் நிலைய எல்லைக்குட்பட்ட இடுவாய் டாஸ்மாக் அருகில்'); 18 ('மங்கலம் காவல் நிலைய எல்லைக்குட்பட்ட இடுவாய் டாஸ்மாக் அருகில்'); 18, ('மங்கலம் காவல் நிலைய எல்லைக்குட்பட்ட இடுவாய் டாஸ்மாக் அருகில்')
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+real photo skipped (photo uploaded 2026-09-16 (older than the news)): https://media.dinamani.com/dinamani/2026-09-16/pyzfvvab/%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%
+real photo skipped (photo uploaded 2026-09-16 (older than the news)): https://media.dinamani.com/dinamani/2026-09-16/pyzfvvab/கைது?w=1200&h=675&auto=format%2Cco
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+images made: 1 for 'Tirupur: 26-year-old scrap dealer arrest'
+ok anthropic/claude-haiku-5-5
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0714","first":"RN-1"}
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+posting job started at once
+writing [N]: சூதாட்டத்தில் ஈடுபட்ட 17 போ் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  reel_script says the 17 gurkhas were arrested 'அனைவரும்' but the reel says a gurkha's room in a 'Avinashi' context; article says 17 gurkhas gambling in one gurkha's room — consistent, but reel_script omits that the raid was done by police led by SI pair; minor
+  reel_script says 'காவல் உதவி ஆய்வாளர்க்கள்' — a misspelled/ungrammatical Tamil word (should be காவல் உதவி ஆய்வாளர்கள்) and the article says எஸ்.ஐ.கள், so the rank/title wording is not accurate Tamil
+  reel_script states the farmer died 'கோவை திருச்சி தேசிய நெடுஞ்சாலையில் நடந்து சென்றபோது' but omits the Pongalur location in the article; not a contradiction but an incomplete fact
+  slides_spec loc field 'இடுவாய், மங்கலம்' is fine, but slide 2 headline 'சூதாட்டம்: 17 பேர்' and slide line '17 பேர் கைது' combined with gurkha count is consistent; no error here
+  caption states Jayanth's age as '(18 வயது)' with the comma placement after the name and before 'ஆகியோர்' producing an ungrammatical list structure ('ஜெயந்த் (18 வயது), ஆகியோர்')
+  tamil_headline 'இடுவாயில்' vs article 'மங்கலம் காவல் நிலைய எல்லை' — headline says 'மங்கலத்தில் கஞ்சா பதுக்கல்' which describes the case as hoarding ('பதுக்கல்') while article describes sale ('விற்பனை'), changing the charge from sale to stockpiling
+claude rewrite 3 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: reel_script says the 17 gurkhas were arrested 'அனைவரும்' but the reel says a gurkha's room in a 'Avinashi' context; article says 17 gurkhas gambling in one gurkha's room — consistent, but reel_script omits that the raid was done by police led by SI pair; minor
+  fact-check: reel_script says 'காவல் உதவி ஆய்வாளர்க்கள்' — a misspelled/ungrammatical Tamil word (should be காவல் உதவி ஆய்வாளர்கள்) and the article says எஸ்.ஐ.கள், so the rank/title wording is not accurate Tamil
+  fact-check: reel_script states the farmer died 'கோவை திருச்சி தேசிய நெடுஞ்சாலையில் நடந்து சென்றபோது' but omits the Pongalur location in the article; not a contradiction but an incomplete fact
+  fact-check: slides_spec loc field 'இடுவாய், மங்கலம்' is fine, but slide 2 headline 'சூதாட்டம்: 17 பேர்' and slide line '17 பேர் கைது' combined with gurkha count is consistent; no error here
+  fact-check: caption states Jayanth's age as '(18 வயது)' with the comma placement after the name and before 'ஆகியோர்' producing an ungrammatical list structure ('ஜெயந்த் (18 வயது), ஆகியோர்')
+  fact-check: tamil_headline 'இடுவாயில்' vs article 'மங்கலம் காவல் நிலைய எல்லை' — headline says 'மங்கலத்தில் கஞ்சா பதுக்கல்' which describes the case as hoarding ('பதுக்கல்') while article describes sale ('விற்பனை'), changing the charge from sale to stockpiling
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+real photo: no picture on the source page -> AI pictures
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  numbers not found in the article: 61500
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 61, ('அவிநாசி அருகே சூதாட்டத்தில் ஈடுபட்ட 17 பேரை போலீஸாா் வியாழக்'); 500 ('அவிநாசி அருகே சூதாட்டத்தில் ஈடுபட்ட 17 பேரை போலீஸாா் வியாழக்')
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Police diary: 3 arrested in Mangalam gan'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0714","first":"RN-2"}
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  numbers not found in the article: 61500
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 61, ('அவிநாசி அருகே சூதாட்டத்தில் ஈடுபட்ட 17 பேரை போலீஸாா் வியாழக்'); 500 ('அவிநாசி அருகே சூதாட்டத்தில் ஈடுபட்ட 17 பேரை போலீஸாா் வியாழக்')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  numbers not found in the article: 61500
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 61, ('அவிநாசி அருகே சூதாட்டத்தில் ஈடுபட்ட 17 பேரை போலீஸாா் வியாழக்'); 500 ('அவிநாசி அருகே சூதாட்டத்தில் ஈடுபட்ட 17 பேரை போலீஸாா் வியாழக்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+earlier stories still waiting for images: []
+instagram check tirupur failed: bridge token: Error: No Instagram token saved for tirupur
+instagram check: 0 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/17-people-arrested-for-gambling
+manual link added: https://www.dinakaran.com/news/abduction_rape_minor_girl
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/சிறுமி-பாலியல்-வன்கொடுமை-பழைய-இரும்பு-வியாபாரி-கைது
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-diary/4374518
+candidate filter: collected=4
+to write: 4 Tirupur district candidates (max 4 stories)
+round: top 4 of 4 candidates
+candidates waiting: 4 Tirupur; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+try (N) manual=True: https://www.dinakaran.com/news/abduction_rape_minor_girl
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})
+posting job started at once
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+NOT filed (N) திருப்பூர் அருகே பயங்கரம்; 12 வயது சிறுமியை கடத்தி: duplicate after write
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+NOT filed (N) சூதாட்டத்தில் ஈடுபட்ட 17 போ் கைது: duplicate after write
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 2}, time left 78 min
+filed: 2 Tirupur district stories (target 4), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":4,"updated":0} 
+stories: 2

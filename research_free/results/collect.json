@@ -1,0 +1,233 @@
+{
+ "log": [
+  "earlier stories still waiting for images: []",
+  "instagram check tirupur failed: bridge token: Error: No Instagram token saved for tirupur",
+  "instagram check: 0 recent posts read from the page",
+  "pick round: only the picked links are written (research_free/pick.py)",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/17-people-arrested-for-gambling",
+  "manual link added: https://www.dinakaran.com/news/abduction_rape_minor_girl",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/சிறுமி-பாலியல்-வன்கொடுமை-பழைய-இரும்பு-வியாபாரி-கைது",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-diary/4374518",
+  "candidate filter: collected=4",
+  "to write: 4 Tirupur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinakaran.com/news/abduction_rape_minor_girl",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "NOT filed (N) திருப்பூர் அருகே பயங்கரம்; 12 வயது சிறுமியை கடத்தி: duplicate after write",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "NOT filed (N) சூதாட்டத்தில் ஈடுபட்ட 17 போ் கைது: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 2}, time left 78 min",
+  "filed: 2 Tirupur district stories (target 4), reels only",
+  "queue: 0 news waiting to be written",
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+ ],
+ "llm": [
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: 'candidates'",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "not available on this plan: groq/qwen/qwen3.8-27b",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
+ ],
+ "stories": [
+  {
+   "tamil_headline": "திருப்பூரில் 12 வயது சிறுமிக்கு பாலியல் வன்கொடுமை: இரும்பு வியாபாரி கைது",
+   "english_headline": "Tirupur: 26-year-old scrap dealer arrested for sexually assaulting a 12-year-old girl near Veerapandi",
+   "category": "Crime & Safety",
+   "location": "Veerapandi area, Tirupur city, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றம் & பாதுகாப்பு",
+    "loc": "வீரபாண்டி, திருப்பூர்",
+    "hl1": "வீரபாண்டியில் சிறுமிக்கு பாலியல் கொடுமை",
+    "hl2": "இரும்பு வியாபாரி கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "வீரபாண்டி பகுதியில் 12 வயது சிறுமி பாதிப்பு",
+       "புதன்கிழமை இரவு 9 மணியளவில் வீட்டருகே காட்டுப் பகுதியில்",
+       "சிறுமி மயக்கமடைந்த பின் பாலியல் கொடுமை"
+      ]
+     },
+     {
+      "title": "குற்றவாளி கைது",
+      "lines": [
+       "பழைய இரும்பு வியாபாரி விஷ்ணு (<b>26</b>) கைது",
+       "கே.வி.ஆர். நகர் அனைத்து மகளிர் காவல் நிலைய போலீஸார்",
+       "கண்காணிப்பு கேமரா பதிவுகள் மூலம் அடையாளம் காணப்பட்டார்"
+      ]
+     },
+     {
+      "title": "தற்போதைய நிலை",
+      "lines": [
+       "வியாழக்கிழமை அதிகாலை கைது செய்யப்பட்டார்",
+       "தப்ப முயன்றபோது இடது காலில் எலும்பு முறிவு",
+       "மருத்துவமனையில் சிகிச்சைக்குப் பின் நீதிமன்றத்தில் ஆஜர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வீரபாண்டியில் 12 வயது சிறுமிக்கு பாலியல் கொடுமை; குற்றவாளி கைது. புதன்கிழமை இரவு 9 மணியளவில் வீட்டருகே காட்டுப் பகுதிக்குச் சென்ற சிறுமியை ஒரு நபர் பின்தொடர்ந்து வந்தார். சிறுமியின் முகத்தில் மயக்க மருந்து கலந்த துணியை வைத்த அவர், மயக்கமடைந்த பின் பாலியல் கொடுமை செய்துவிட்டுத் தப்பிச் சென்றார். மயக்கம் தெளிந்த சிறுமி பெற்றோரிடம் கூறினார். பெற்றோர் கே வி ஆர் நகர் அனைத்து மகளிர் காவல் நிலையத்தில் புகார் அளித்தனர். கண்காணிப்பு கேமரா பதிவுகளை ஆய்வு செய்த போலீஸார், அதே பகுதியைச் சேர்ந்த பழைய இரும்பு வியாபாரி விஷ்ணு, 26 வயது, என்பவரை அடையாளம் கண்டனர். அவருக்குத் திருமணமாகி மனைவி, 2 குழந்தைகள் உள்ளனர். வியாழக்கிழமை அதிகாலை தலைமறைவாக இருந்த விஷ்ணுவைப் போலீஸார் கைது செய்தனர். தப்பிச் செல்ல முயன்று கீழே விழுந்ததில் அவரது இடது காலில் எலும்பு முறிவு ஏற்பட்டது. திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சிகிச்சைக்குப் பின் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வீரபாண்டியில் 12 வயது சிறுமிக்கு பாலியல் கொடுமை: இரும்பு வியாபாரி கைது\n\n📰 முழு விவரம்:\nவீரபாண்டி பகுதியைச் சேர்ந்த 12 வயது சிறுமி, புதன்கிழமை இரவு 9 மணியளவில் வீட்டருகே உள்ள காட்டுப் பகுதிக்குச் சென்றார். அப்போது அவரைப் பின்தொடர்ந்து வந்த நபர், முகத்தில் மயக்க மருந்து கலந்த துணியை வைத்து பாலியல் கொடுமை செய்துவிட்டுத் தப்பிச் சென்றார். மயக்கம் தெளிந்த சிறுமி பெற்றோரிடம் கூறினார்; பெற்றோர் கே.வி.ஆர். நகர் அனைத்து மகளிர் காவல் நிலையத்தில் புகார் அளித்தனர்.\n🎥 கண்காணிப்பு கேமரா பதிவுகளை ஆய்வு செய்த போலீஸார், அதே பகுதியைச் சேர்ந்த பழைய இரும்பு வியாபாரி விஷ்ணு (26 வயது) இந்தக் குற்றத்தைச் செய்தது தெரியவந்தது. அவருக்குத் திருமணமாகி மனைவி, 2 குழந்தைகள் உள்ளனர்.\n👮 வியாழக்கிழமை அதிகாலை தலைமறைவாக இருந்த விஷ்ணு கைது செய்யப்பட்டார். தப்ப முயன்றபோது கீழே விழுந்ததில் இடது காலில் எலும்பு முறிவு ஏற்பட்டது. திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சிகிச்சை அளிக்கப்பட்டு, நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டார்.\n\nTirupur girl assault accused arrested | Tirupur news\n📍 வீரபாண்டி, திருப்பூர் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Veerapandi #TirupurNews #திருப்பூர்",
+   "prompts": "A Tamil Nadu police team in khaki uniform, including a woman officer, walks along a dusty path at the edge of a scrubland and small forest patch in the Veerapandi outskirts of Tirupur city, in the early morning before sunrise. Plain low houses with tiled and concrete roofs stand behind a low boundary wall, and a few bare casuarina and thorny bushes line the path. The officers are seen from behind and far away, walking in a line with their backs to the camera, their faces not visible. One officer holds a torch whose beam points down onto the dirt track. The sky is pale grey-blue just before dawn, with soft light on the scrub. No signboards, text or faces are visible. Shot at eye level on a 35 mm lens, wide enough to show the path, the houses and the forest edge together, in a calm and sober mood. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/சிறுமி-பாலியல்-வன்கொடுமை-பழைய-இரும்பு-வியாபாரி-கைது",
+   "published": "2026-11-12T19:06:49.848Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534256/tirupur360/g4rm9gk7s0vbeikwblqe.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மங்கலத்தில் கஞ்சா பதுக்கல்: 3 பேர் கைது; பல்லடத்தில் டூவீலர் மோதி விவசாயி பலி; அவிநாசியில் 17 கூர்காக்கள் சூதாட்டத்தில் கைது",
+   "english_headline": "Police diary: 3 arrested in Mangalam ganja case, farmer killed in two-wheeler collision near Palladam, 17 Gurkhas arrested for gambling in Avinashi",
+   "category": "Crime & Safety",
+   "location": "Mangalam, Palladam and Avinashi, Tirupur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் டைரி",
+    "loc": "திருப்பூர் மாவட்டம்",
+    "hl1": "போலீஸ் டைரி: 3 கைது, விவசாயி பலி",
+    "hl2": "17 கூர்காக்கள் கைது",
+    "slides": [
+     {
+      "title": "கஞ்சா பதுக்கல்",
+      "lines": [
+       "மங்கலம் காவல் நிலைய எல்லையில் இடுவாய் டாஸ்மாக் அருகில் கைது",
+       "கஞ்சா விற்பனையில் ஈடுபட்டதாக 3 பேர் கைது",
+       "<b>3 கிலோ</b> கஞ்சா பறிமுதல்"
+      ]
+     },
+     {
+      "title": "விபத்தில் விவசாயி",
+      "lines": [
+       "பல்லடம் அருகே பொங்கலூரில் கோவை திருச்சி தேசிய",
+       "டூ வீலர் மோதியதில் <b>75 வயது</b> விவசாயி உயிரிழந்தார்",
+       "பொங்கலூர் போலீசார் விசாரிக்கின்றனர்"
+      ]
+     },
+     {
+      "title": "சூதாட்டம்",
+      "lines": [
+       "அவிநாசி ஆட்டையாம்பாளையத்தில் ஒரு அறையில் சூதாட்டம்",
+       "<b>17 கூர்காக்கள்</b> கைது",
+       "<b>62 ஆயிரம் ரூபாய்</b>, <b>15 மொபைல் போன்</b> பறிமுதல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் மாவட்டத்தில் மூன்று செய்திகள். மங்கலம் காவல் நிலைய எல்லையில் இடுவாய் டாஸ்மாக் அருகில் கஞ்சா விற்பனையில் ஈடுபட்டதாக மூன்று பேர் கைது செய்யப்பட்டனர். அவர்களிடமிருந்து 3 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது. பல்லடம் அருகே பெத்தாம்பாளையத்தைச் சேர்ந்த 75 வயது விவசாயி தெய்வசிகாமணி, கோவை திருச்சி தேசிய நெடுஞ்சாலையில் பொங்கலூர் அபூர்வா ஹோட்டல் அருகே நடந்து சென்றபோது டூ வீலர் மோதியதில் உயிரிழந்தார். பொங்கலூர் போலீசார் விசாரிக்கின்றனர். அவிநாசி ஆட்டையாம்பாளையத்தில் பணம் வைத்து சூதாட்டம் நடப்பதாக போலீசுக்குத் தகவல் கிடைத்தது. சோதனையில் ஒரு கூர்கா அறையில் பணம் வைத்து சூதாடிய 17 கூர்காக்கள் கைது செய்யப்பட்டனர். 62 ஆயிரம் ரூபாய் மற்றும் 15 மொபைல் போன்கள் பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் போலீஸ் டைரி: கஞ்சா, விபத்து, சூதாட்டம்\n\n📰 முழு விவரம்:\nமங்கலம் காவல் நிலைய எல்லையில் இடுவாய் டாஸ்மாக் அருகில் அரசால் தடை செய்யப்பட்ட கஞ்சா விற்பனையில் ஈடுபட்டதாக 3 பேர் கைது செய்யப்பட்டனர். 3 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது.\nபல்லடம் அருகே பெத்தாம்பாளையத்தைச் சேர்ந்த 75 வயது விவசாயி தெய்வசிகாமணி, கோவை திருச்சி தேசிய நெடுஞ்சாலையில் நடந்து சென்றபோது டூ வீலர் மோதியதில் உயிரிழந்தார். பொங்கலூர் போலீசார் விசாரிக்கின்றனர்.\nஅவிநாசி ஆட்டையாம்பாளையத்தில் பணம் வைத்து சூதாட்டம் நடப்பதாக வந்த தகவலின்பேரில் போலீசார் சோதனையிட்டனர். 17 கூர்காக்கள் கைது செய்யப்பட்டனர்; 62 ஆயிரம் ரூபாய் மற்றும் 15 மொபைல் போன்கள் பறிமுதல் செய்யப்பட்டன.\n\nTirupur police diary: ganja, road death, gambling arrests | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Mangalam #Avinashi #TirupurNews",
+   "prompts": "A group of three young men with their hands tied behind their backs stands in front of a roadside liquor shop in Iduvai, Tiruppur district, flanked by Tamil Nadu police in khaki uniforms. On a plastic sheet on the road lie three kilogram-sized packets of seized ganja, bundled in plastic. A TASMAC liquor shop with a few men in shirts and veshti stands at a distance, and a two-wheeler is parked along the roadside. The scene is in a dusty roadside area in the Tiruppur district outskirts with a dry mid-day light and clear sky. Photographed at eye level from about ten metres away with a 35 mm lens, wide enough to show the shop, the police and the road. The young men are seen from behind or in profile and far enough to avoid recognisable faces. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-diary/4374518",
+   "published": "2026-11-12T21:50:51+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area); caption misses facts of the article (put every one in 📰 முழு விவரம்): 27 ('மங்கலம் காவல் நிலைய எல்லைக்குட்பட்ட இடுவாய் டாஸ்மாக் அருகில்'); 18 ('மங்கலம் காவல் நிலைய எல்லைக்குட்பட்ட இடுவாய் டாஸ்மாக் அருகில்'); 18, ('மங்கலம் காவல் நிலைய எல்லைக்குட்பட்ட இடுவாய் டாஸ்மாக் அருகில்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534272/tirupur360/c96lx90yo4zklyknzpkh.jpg"
+   ]
+  }
+ ]
+}
