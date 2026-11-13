@@ -81,6 +81,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `3507b45` | 2 pictures per reel (owner 13 Nov): the news article's own photos first (vision-checked), one photo -> a closer crop as the second, none -> 2 AI pictures |
+| 2026-11-13 | `399c047` | powercut: notices written |
+| 2026-11-13 | `e7200a4` | powercut: notices written |
 | 2026-11-13 | `139c12e` | collection every 4 hours (01/05/09/13/17/21 IST, 3 news each = 18 a day, was 12); posting waits for its start 08:00 / 12:00 / 18:00 then all news posts - no end time, nothing skipped; only power cuts at once; today's and yesterday's news (night news posts at 08:00). Power cuts: also the daily state-wide lists (News18 / ABP / Samayam) - this district's part only (owner 13 Nov) |
 | 2026-11-13 | `59ce9d1` | powercut: notices written |
 | 2026-11-13 | `bd83189` | powercut: notices written |
@@ -108,7 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `00808d8` | powercut: notices written |
 | 2026-11-13 | `ba45aa7` | powercut: notices written |
 | 2026-11-13 | `4916b2b` | pick: picked news saved |
-| 2026-11-13 | `2429b97` | pick: picked news saved |
-| 2026-11-13 | `a909e98` | pick: list sent |
-| 2026-11-13 | `83176b9` | powercut: notices written |
 <!-- recent-changes:end -->
