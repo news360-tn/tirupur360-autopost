@@ -491,6 +491,12 @@
    "power_cut": true,
    "why": "cut day 2026-11-12 has passed",
    "title": "நாளைய (12ம் தேதி) மின் தடை"
+  },
+  "https://www.dinamalar.com/amp/news/puducherry/today-s-power-outage-puducherry/4374265": {
+   "at": "2026-11-13T10:12:21.036608+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "இன்றைய மின் தடை: புதுச்சேரி"
   }
  },
  "done": {},
@@ -504,5 +510,14 @@
    "at": "2026-11-13T07:23:29.725104+05:30"
   }
  },
- "refused": {}
+ "refused": {
+  "Cf33b632": {
+   "why": "not filed: duplicate after write",
+   "at": "2026-11-13T10:13:48.775554+05:30"
+  },
+  "Ca859af2": {
+   "why": "not filed: duplicate after write",
+   "at": "2026-11-13T10:13:48.775554+05:30"
+  }
+ }
 }
