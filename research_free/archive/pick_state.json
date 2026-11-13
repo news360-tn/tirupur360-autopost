@@ -39,7 +39,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:07:24.661176+05:30"
+   "listed_at": "2026-11-13T07:07:24.661176+05:30",
+   "picked_at": "2026-11-13T17:50:49.255310+05:30"
   },
   "Cf2daed8": {
    "id": "Cf2daed8",
@@ -315,7 +316,8 @@
    "category": "விபத்து",
    "score": 11.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T17:47:39.438014+05:30"
+   "listed_at": "2026-11-13T17:47:39.438014+05:30",
+   "picked_at": "2026-11-13T17:50:49.255305+05:30"
   },
   "C73bd01a": {
    "id": "C73bd01a",
@@ -327,7 +329,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T17:47:39.438014+05:30"
+   "listed_at": "2026-11-13T17:47:39.438014+05:30",
+   "picked_at": "2026-11-13T17:50:49.255308+05:30"
   },
   "Cce4872c": {
    "id": "Cce4872c",
@@ -531,8 +534,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-13T18:47:39.438014+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 06:47 PM - automatic top 3",
+    "ids": [
+     "Ca2bfc49",
+     "C73bd01a",
+     "Cc823cd1"
+    ],
+    "at": "2026-11-13T17:50:49.255283+05:30"
+   },
+   "written": [
+    "C73bd01a",
+    "Ca2bfc49",
+    "Cc823cd1"
+   ]
   }
  },
  "retry": {}
