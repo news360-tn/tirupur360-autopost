@@ -81,6 +81,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `a6e00b7` | reel: new Tirupur 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
+| 2026-11-13 | `8230707` | powercut: notices written |
+| 2026-11-13 | `00808d8` | powercut: notices written |
+| 2026-11-13 | `ba45aa7` | powercut: notices written |
+| 2026-11-13 | `4916b2b` | pick: picked news saved |
+| 2026-11-13 | `2429b97` | pick: picked news saved |
+| 2026-11-13 | `a909e98` | pick: list sent |
+| 2026-11-13 | `83176b9` | powercut: notices written |
+| 2026-11-12 | `f413c19` | Heartbeat |
+| 2026-11-12 | `549fd4d` | powercut: notices written |
 | 2026-11-12 | `979d1d5` | voice: numbers read the way people say them - English names in English (பிளஸ் டூ, குரூப் ஃபோர், டி ட்வென்டி, ஃபைவ் ஜி), endings joined (நாற்பதுக்கும், ...ஒன்றில், ரூபாய்க்கு), நெ. -> எண் |
 | 2026-11-12 | `6dfa2ef` | voice: 'பிளஸ் 2' is read 'பிளஸ் டூ' (was 'பிளஸ் இரண்டு', RN-534); 'பிளஸ் 1' -> 'பிளஸ் ஒன்' |
 | 2026-11-12 | `9165617` | direct upload: create the resumable container on a versioned Instagram API (Salem RN-1: unversioned call wanted video_url; fell back to the link correctly) |
@@ -101,7 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-12 | `750c29c` | tirupur 360: Instagram handle tiruppur360.official |
 | 2026-11-12 | `50a96f6` | reel end card: 'Source: <paper> (<date>)' instead of 'ஆதாரம்' (owner 12 Nov) |
 | 2026-11-12 | `209e785` | tirupur 360: own hashtags (page, area, news, Tamil tag, rain/power-cut topic tags); Coimbatore town tags removed; source line stays at the end of every caption |
-| 2026-11-12 | `c3a0179` | tirupur 360 comments: only critical comments (fake-news / doubt claim, complaint, abuse) are e-mailed; emoji and normal comments recorded as ignored; comment check every 2 hours |
-| 2026-11-12 | `90331ee` | tirupur 360: own reel look (style per page), own footer and logo, page town in the end card and ticker; one picture per reel, 12 news a day; still NOT live |
-| 2026-11-12 | `7db669b` | tirupur 360: code from the Salem 360 setup - page identity, logo, 12 news a day (4+4+4), one picture per reel; NOT live (no LIVE file, no secrets) |
 <!-- recent-changes:end -->
