@@ -1,23 +1,23 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 8 recent posts read from the page",
+  "instagram check: 13 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nutrition-smart-rotary-supply-to-pregnant-women/4374515",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/special-camp-for-differently-abled-advised-by-doctors/4374945",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tkd-global-school-science-exhibition/4375330",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/husband-stabs-wife-to-death/4375672",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/அரசுப்-பேருந்திலிருந்து-தவறி-விழுந்த-லாரி-ஓட்டுநா்-உயிரிழப்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/cannabis-sale12-year-prison-sentences-for-4-individuals",
   "candidate filter: collected=3",
   "to write: 3 Tirupur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
   "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
@@ -25,291 +25,267 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.6-flash (38s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "ok gemini/gemini-3.6-flash (38s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (13s)",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (5s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3.5-flash (41s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூரில் கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு: 45 பேருக்கு வழங்கல்",
-   "english_headline": "Tirupur: 45 pregnant women receive nutrition food from Smart City Rotary under 10th-week programme",
-   "category": "Health",
-   "location": "Tirupur city (Daily Market Street city health centre), Tirupur district",
+   "tamil_headline": "கஞ்சா விற்பனை: 4 பேருக்கு 12 ஆண்டுகள் சிறை",
+   "english_headline": "Ganja trafficking: 4 people get 12 years in jail from Coimbatore court",
+   "category": "Crime & Safety",
+   "location": "Avinashi, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதாரம்",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூரில் கர்ப்பிணிகளுக்கு",
-    "hl2": "<b>45</b> கர்ப்பிணிகளுக்கு",
+    "cat": "கஞ்சா வழக்கு",
+    "loc": "அவிநாசி",
+    "hl1": "அவிநாசியில் கஞ்சா: 4 பேருக்கு சிறை",
+    "hl2": "தலா 12 ஆண்டுகள் சிறை",
     "slides": [
      {
-      "title": "எங்கே, எப்போது?",
+      "title": "என்ன வழக்கு?",
       "lines": [
-       "திருப்பூர் தினசரி மார்க்கெட் வீதி, மாநகராட்சி நகர்நல மையம்",
-       "இன்று (<b>நவ. 12</b>) பத்தாவது வாரமாக உணவு வழங்கல்",
-       "ஸ்மார்ட் சிட்டி ரோட்டரி சங்கம் சார்பில் நடந்தது"
+       "அவிநாசி அருகே <b>50 கிலோ</b> கஞ்சா கடத்தி விற்பனை",
+       "கடந்த <b>2024</b> ஆம் ஆண்டு வழக்கு பதிவு",
+       "4 பேர் கைது செய்யப்பட்டனர்"
       ]
      },
      {
-      "title": "என்ன",
+      "title": "தீர்ப்பு",
       "lines": [
-       "<b>45</b> கர்ப்பிணிகளுக்கு உணவு வழங்கப்பட்டது",
-       "முட்டை, பாதாம், உலர் திராட்சை, வெள்ளரிக்காய், சாம்பார்",
-       "ரோட்டரி உறுப்பினர்கள் செந்தில்குமார், பாலராஜீ பங்களிப்பு"
+       "கோவை போதைப் பொருள் தடுப்பு நீதிமன்றம் தீர்ப்பு",
+       "4 பேருக்கும் தலா <b>12 ஆண்டுகள்</b> சிறை",
+       "ஒவ்வொருவருக்கும் <b>ரூ.2 லட்சம்</b> அபராதம்"
       ]
      },
      {
-      "title": "ஆலோசனை",
+      "title": "குற்றவாளிகள்",
       "lines": [
-       "சக் ஷம் அமைப்பைச் சேர்ந்த ரத்தினசாமி உள்ளிட்டோர் பங்கேற்பு",
-       "ஊட்டச்சத்து உணவின் அவசியம் குறித்து ஆலோசனை",
-       "தொடர் மருத்துவப் பரிசோதனையின் அவசியம் வலியுறுத்தல்"
+       "மேற்கு வங்க மாநிலத்தைச் சேர்ந்தவர்கள்",
+       "நால்வரும் ஆண்கள்",
+       "வயது <b>22 முதல் 35</b> வரை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூரில் கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு வழங்கும் திட்டம் தொடர்கிறது. இன்று நவம்பர் 12ஆம் தேதி பத்தாவது வாரமாக உணவு வழங்கப்பட்டது. திருப்பூர் ஸ்மார்ட் சிட்டி ரோட்டரி சங்கம் சார்பில் இந்தத் திட்டம் நடைபெறுகிறது. தினசரி மார்க்கெட் வீதியில் உள்ள மாநகராட்சி நகர்நல மையத்தில் நிகழ்ச்சி நடைபெற்றது. 45 கர்ப்பிணிகளுக்கு முட்டை, பாதாம், உலர் திராட்சை, வெள்ளரிக்காய், சாம்பார் உள்ளிட்ட உணவுகள் வழங்கப்பட்டன. ரோட்டரி சங்க உறுப்பினர்கள் செந்தில்குமார், பாலராஜீ ஆகியோர் பங்களிப்பில் இந்நிகழ்ச்சி நடந்தது. சக் ஷம் அமைப்பைச் சேர்ந்த ரத்தினசாமி உள்ளிட்டோர் பங்கேற்றனர். கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவின் அவசியம் குறித்து ஆலோசனைகள் வழங்கப்பட்டன. தொடர் மருத்துவப் பரிசோதனையும் அவசியம் என வலியுறுத்தப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🤰 திருப்பூரில் கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு: 45 பேருக்கு வழங்கல்\n\n📰 முழு விவரம்:\nதிருப்பூர் ஸ்மார்ட் சிட்டி ரோட்டரி சங்கம் சார்பில், கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு வழங்கும் திட்டத்தின் கீழ், பத்தாவது வாரமாக இன்று (நவ. 12) உணவு வழங்கப்பட்டது. தினசரி மார்க்கெட் வீதியில் உள்ள மாநகராட்சி நகர்நல மையத்தில் நடந்த நிகழ்ச்சியில், 45 கர்ப்பிணிகளுக்கு முட்டை, பாதாம், உலர் திராட்சை, வெள்ளரிக்காய், சாம்பார் உள்ளிட்ட உணவுகள் வழங்கப்பட்டன. ரோட்டரி சங்க உறுப்பினர்கள் செந்தில்குமார், பாலராஜீ ஆகியோர் பங்களிப்பில் நடந்த நிகழ்ச்சியில், சக் ஷம் அமைப்பைச் சேர்ந்த ரத்தினசாமி உள்ளிட்டோர் பங்கேற்றனர். கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு மற்றும் தொடர் மருத்துவப் பரிசோதனையின் அவசியம் குறித்து ஆலோசனைகள் வழங்கப்பட்டன.\n\n📍 இடம்: தினசரி மார்க்கெட் வீதி, மாநகராட்சி நகர்நல மையம், திருப்பூர்\n🗓️ நாள்: நவம்பர் 12, 2026\n\nPregnant women nutrition food programme Tirupur | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "Inside a Tirupur city corporation health centre on Daily Market Street, a row of pregnant women in cotton sarees and salwar kameez sit on benches in a hall as Rotary club members hand over packets of food. On a table in front stand trays of eggs, almonds, dry grapes, cucumbers and containers of sambar, arranged for the distribution. Seen from behind and from the side, a few volunteers in shirts and trousers stand near the table, and a senior man in a shirt speaks to the women about nutrition and regular medical check-ups. Daylight comes through the windows of the health centre, with ceiling fans and plain walls around. The camera is at eye level, a 35 mm wide shot that shows the whole hall, the women and the food table clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a steel plate or cardboard tray on a wooden table at the Tirupur city health centre, holding boiled eggs, a handful of almonds, dry grapes and slices of cucumber beside a small bowl of sambar. Two pregnant women's hands in bangles reach toward the food from the edge of the frame, with the sleeve of a cotton saree visible. Blurred volunteers in shirts stand far behind the table. Soft daylight from a window falls across the table, and the background is a plain government hall wall. The camera is slightly high, 35 mm, focused on the food and hands to show the nutrition distribution clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nutrition-smart-rotary-supply-to-pregnant-women/4374515",
-   "published": "2026-11-12T21:53:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 10",
+   "reel_script": "அவிநாசி அருகே கஞ்சா கடத்திய நால்வருக்கு 12 ஆண்டுகள் சிறை. கடந்த 2024ஆம் ஆண்டு அவிநாசி அருகே 50 கிலோ கஞ்சா கடத்தி விற்பனை செய்த வழக்கில் நால்வர் கைது செய்யப்பட்டனர். அவிநாசி போலீசார் வழக்குப் பதிவு செய்தனர். இந்த வழக்கு கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் விசாரிக்கப்பட்டது. வெள்ளிக்கிழமை வழங்கப்பட்ட தீர்ப்பில், குற்றம் சாட்டப்பட்ட மேற்கு வங்க மாநிலத்தைச் சேர்ந்த ஷகில்முஸ்தாக், 22 வயது; நார்ஜிஸ் பீபி, 35 வயது; ஹுமாயூன்ஷேக், 26 வயது; பியாருல்ஷேக், 35 வயது ஆகிய நால்வருக்கும் தலா 12 ஆண்டுகள் சிறைத் தண்டனை விதிக்கப்பட்டது. ஒவ்வொருவருக்கும் ரூ.2 லட்சம் அபராதமும் விதிக்கப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அவிநாசியில் கஞ்சா கடத்தல்: 4 பேருக்கு தலா 12 ஆண்டுகள் சிறை\n\n📰 முழு விவரம்:\nஅவிநாசி அருகே கடந்த 2024ஆம் ஆண்டு 50 கிலோ கஞ்சா கடத்தி விற்பனை செய்த வழக்கில் நால்வர் கைது செய்யப்பட்டனர். அவிநாசி போலீசார் வழக்குப் பதிவு செய்தனர். வழக்கு கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் விசாரிக்கப்பட்டது. குற்றம் சாட்டப்பட்ட மேற்கு வங்க மாநிலத்தைச் சேர்ந்த நால்வருக்கும் தலா 12 ஆண்டுகள் சிறைத் தண்டனையும், தலா ரூ.2 லட்சம் அபராதமும் விதிக்கப்பட்டது.\n👮 நடவடிக்கை: அவிநாசி போலீசார் வழக்குப் பதிவு செய்து 4 பேரைக் கைது செய்தனர்\n📍 இடம்: அவிநாசி அருகே\n⚖️ தீர்ப்பு: கோவை போதைப் பொருள் தடுப்பு நீதிமன்றம்\n\nAvinashi ganja case 4 get 12 years jail | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
+   "prompts": "Inside a Coimbatore narcotics court hall, a judge sits at a raised wooden bench while four accused stand in a row behind a low wooden railing, seen from behind and slightly blurred, in plain shirts and trousers and a woman in a salwar. Tamil Nadu police in khaki stand near the railing. The room has ceiling fans, white walls, a wooden desk with stacked case files and a few papers, and a tricolour-free plain wall. Daylight from tall windows lights the room evenly. Camera at eye level, 35 mm, wide enough to show the whole courtroom and the people standing before the bench. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on a wooden table in a police station room in Avinashi, showing several large sealed packets of dried ganja stacked beside a heap of plastic evidence bags and a bundle of case papers tied with string. A police officer's khaki sleeve and boot are just visible at the edge of the frame, out of focus. Light is a soft daytime window light falling across the table. Camera slightly high, 35 mm, close enough that the packets and bundles fill the frame, with no readable text, labels or signboards. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/cannabis-sale12-year-prison-sentences-for-4-individuals",
+   "published": "2026-11-13T18:28:10.563Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 22 ('இவ்வழக்கு விசாரணை கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் '); 35 ('இவ்வழக்கு விசாரணை கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் '); 26 ('இவ்வழக்கு விசாரணை கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் ')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586744/tirupur360/ysj53fxdqmezjf8emc9o.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586754/tirupur360/fyywsi4aurxacj10gcnw.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601158/tirupur360/s9hpgrs4f0c0idedfe5v.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601161/tirupur360/hwt5pvnpabtt80vajs9h.jpg"
    ]
   },
   {
-   "tamil_headline": "உடுமலையில் மாற்றுத்திறனாளிகளுக்கு சிறப்பு மருத்துவ முகாம்: புதிய அடையாளச் சான்றிதழ் வழங்கல்",
-   "english_headline": "Special medical camp for differently abled persons in Udumalai: new disability identity certificates issued",
-   "category": "Health",
-   "location": "Udumalaipettai, Tirupur district",
+   "tamil_headline": "திருப்பூரில் மனைவியை இரும்புக் கம்பியால் அடித்துக் கொலை: கணவர் தப்பியோட்டம்",
+   "english_headline": "Husband allegedly beats wife to death with iron rod in Tirupur; absconding",
+   "category": "Crime & Safety",
+   "location": "Thattan Thottam, Pallad Road, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "தட்டான்தோட்டம், பல்லடம் சாலை",
+    "hl1": "திருப்பூரில் மனைவி கொலை: கணவர்",
+    "hl2": "இரும்புக் கம்பியால்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர், பல்லடம் சாலை, தட்டான்தோட்டத்தில் கொலை",
+       "மனைவி சுகந்தம் மலர், <b>43 வயது</b>, கொலை செய்யப்பட்டார்",
+       "சுமை தூக்கும் தொழிலாளி பாலசுப்ரமணியம், <b>45 வயது</b>, கணவர்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "குடிபோதையில் வீட்டுக்கு வந்த கணவர் மனைவியுடன் தகராறு",
+       "சுகந்தம் மலரின் தலையில் இரும்புக் கம்பியால் அடித்தார்",
+       "தாக்குதலுக்குப் பிறகு கணவர் தப்பியோடினார்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "அக்கம் பக்கத்தினர் அளித்த தகவலின்படி விசாரணை",
+       "சுகந்தம் மலர் உடல் கைப்பற்றப்பட்டது",
+       "தப்பியோடிய கணவரைத் தேடும் பணி நடைபெறுகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர், பல்லடம் சாலை, தட்டான்தோட்டத்தில் மனைவியை இரும்புக் கம்பியால் அடித்துக் கொலை செய்யப்பட்டுள்ளார். கொலை செய்யப்பட்டவர் சுகந்தம் மலர், 43 வயது. அவரது கணவர் பாலசுப்ரமணியம், 45 வயது, சுமை தூக்கும் தொழிலாளி. இவர் கரூர் மாவட்டம், காட்டுப்புதூரைச் சேர்ந்தவர். தம்பதிக்கு இரு மகன்களும் ஒரு மகளும் உள்ளனர். மூவரும் கரூரில் உள்ள பாட்டி வீட்டில் தங்கியுள்ளனர். பாலசுப்ரமணியம் குடிப்பழக்கம் உள்ளவர். நேற்று மாலை குடித்துவிட்டு வீட்டுக்கு வந்த அவர், மனைவியுடன் தகராறு செய்தார். அப்போது சுகந்தம் மலரின் தலையில் இரும்புக் கம்பியால் அடித்துக் கொலை செய்துவிட்டு, பாலசுப்ரமணியம் தப்பியோடினார். அக்கம் பக்கத்தினர் அளித்த தகவலின்படி போலீஸார் சுகந்தம் மலர் உடலைக் கைப்பற்றி விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர், தட்டான்தோட்டத்தில் மனைவி கொலை: கணவர் தப்பியோட்டம்\n\n📰 முழு விவரம்:\nதிருப்பூர், பல்லடம் சாலை, தட்டான்தோட்டம் முதல் வீதியில் வசித்து வந்த சுகந்தம் மலர் (43 வயது), இரும்புக் கம்பியால் தலையில் தாக்கப்பட்டு கொல்லப்பட்டார். நேற்று மாலை குடிபோதையில் வீட்டுக்கு வந்த கணவர் பாலசுப்ரமணியம் (45 வயது), மனைவியுடன் தகராறு செய்தார். தாக்குதலுக்குப் பிறகு அவர் தப்பியோடினார். அக்கம் பக்கத்தினர் அளித்த தகவலின்படி போலீஸார் சுகந்தம் மலர் உடலைக் கைப்பற்றி விசாரித்து வருகின்றனர்.\n👤 கணவர் பாலசுப்ரமணியம் சுமை தூக்கும் தொழிலாளி; கரூர் மாவட்டம், காட்டுப்புதூரைச் சேர்ந்தவர்.\n👨‍👩‍👦 தம்பதிக்கு இரு மகன்களும் ஒரு மகளும் உள்ளனர்; மூவரும் கரூரில் பாட்டி வீட்டில் தங்கியுள்ளனர்.\n\nTirupur wife murder husband absconding | Tirupur news\n📍 தட்டான்தோட்டம், பல்லடம் சாலை, திருப்பூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "A row of modest concrete houses on a narrow residential street in Thattan Thottam off Palladam Road, Tirupur, in the evening after dusk. Yellow street lights glow over the lane as a few neighbours stand in small groups at a distance, seen from behind, speaking quietly with their hands at their sides. Two Tamil Nadu police constables in khaki uniform stand at the entrance of one house, their backs to the camera, and a police jeep is parked along the roadside. Two-wheelers and an autorickshaw are parked by the walls, and a few electric wires run across the sky above the rooftops. The house doorway is open with a dim light inside, but no people are clearly visible inside. The scene feels tense and quiet, with wet pavement reflecting the light. The camera sits at eye level, 35 mm lens, wide enough to show the whole street and the houses, people only as small figures from behind or far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a heavy iron rod lying on a worn cement floor just inside a doorway of a small Tirupur house, lit by a single dim bulb in the evening. Beside it sits a plastic bottle and a small empty liquor bottle, suggesting an earlier drinking session, and a folded cloth lies nearby on the floor. A police constable's khaki-trousered leg is visible at the edge of the frame, out of focus. The rod is slightly rusted and stained with dark marks, shown without any blood visible, and the surroundings are plain with a thin wall and a steel vessel in the background. Soft evening light, shallow depth of field, camera at low angle around 35 mm, focused on the rod as the object that tells the story. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/husband-stabs-wife-to-death/4375672",
+   "published": "2026-11-14T00:40:46+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தட்டான்தோட்டம்', e.g. 'தட்டான்தோட்டம்: ...' or 'தட்டான்தோட்டம்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601168/tirupur360/zadbjmjsvzlhyko67i8t.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601170/tirupur360/arqfit40jkhnavgcsocn.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வெள்ளக்கோவிலில் அரசுப் பேருந்திலிருந்து தவறி விழுந்த லாரி ஓட்டுநர் சிகிச்சை பலனின்றி உயிரிழப்பு",
+   "english_headline": "Lorry driver dies after falling off government bus at Vellakoil bus stand in Tirupur district",
+   "category": "Crime & Safety",
+   "location": "Vellakoil town, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மருத்துவ முகாம்",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலையில் மாற்றுத்திறனாளிகளுக்கு",
-    "hl2": "புதிய அடையாளச் சான்றிதழ்",
+    "cat": "பேருந்து விபத்து",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "வெள்ளக்கோவிலில் பேருந்து விபத்து",
+    "hl2": "லாரி ஓட்டுநர் உயிரிழப்பு",
     "slides": [
      {
-      "title": "எங்கே, எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "உடுமலையில் சிறப்பு மருத்துவ முகாம் நடந்தது",
-       "திருப்பூர் மாவட்ட மாற்றுத்திறனாளிகள் நலத்துறை ஏற்பாடு",
-       "தனியார் திருமண மண்டபத்தில் நடைபெற்றது"
+       "வெள்ளக்கோவில் பேருந்து நிலையத்தில் விபத்து",
+       "அரசுப் பேருந்திலிருந்து தவறி விழுந்து காயம்",
+       "சிகிச்சை பெற்று வந்த <b>54 வயது</b> நபர் பலி"
       ]
      },
      {
-      "title": "யார் பயனடைந்தனர்?",
+      "title": "விபத்து விவரம்",
       "lines": [
-       "உடுமலை ஒன்றியம், நகரம், குடிமங்கலம், மடத்துக்குளம்",
-       "தகுதியானோருக்குப் <b>புதிய அடையாளச் சான்றிதழ்</b> வழங்கப்பட்டது",
-       "ஏற்கனவே சான்றிதழ் பெற்றவர்கள் புதுப்பிக்க விண்ணப்பம்"
+       "செப்டம்பர் <b>4</b> அன்று பேருந்தில் பயணம் செய்தார்",
+       "பின்பக்க படிக்கட்டில் இறங்கும்போது ஓட்டுநர் பேருந்தை",
+       "பின்னந்தலை மற்றும் கைகளில் பலத்த காயம்"
       ]
      },
      {
-      "title": "மருத்துவ ஆலோசனை",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "எலும்பியல், பொது, நரம்பியல் மருத்துவம்",
-       "கண், காது மூக்கு தொண்டை, மனநல மருத்துவம், உளவியல்",
-       "மருத்துவர்கள் பரிசோதனையும் ஆலோசனையும் வழங்கினர்"
-      ]
-     },
-     {
-      "title": "விண்ணப்பங்கள்",
-      "lines": [
-       "புதிய அடையாள அட்டை, அட்டைத் திருத்தங்களுக்கு விண்ணப்பம்",
-       "பஸ் பாஸ், ரயில் பாஸ் பெற விண்ணப்பங்கள் பெறப்பட்டன",
-       "'கை கொடுக்கும் கரங்கள்' அறக்கட்டளை, லைஃப் அஸ் எ தாட்"
+       "ஈரோடு தனியார் மருத்துவமனையில் சிகிச்சை பலனின்றி பலி",
+       "சகோதரி அளித்த புகாரில் வழக்குப்பதிவு",
+       "அரசுப் பேருந்து ஓட்டுநர் மீது வெள்ளக்கோவில் போலீசார் விசாரணை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலையில் மாற்றுத்திறனாளிகளுக்கான சிறப்பு மருத்துவ முகாம் நடைபெற்றது. திருப்பூர் மாவட்ட மாற்றுத்திறனாளிகள் நலத்துறையின் சார்பில், தனியார் திருமண மண்டபத்தில் இந்த முகாம் நடைபெற்றது. உடுமலை ஒன்றியம், நகரம், குடிமங்கலம் மற்றும் மடத்துக்குளம் பகுதிகளைச் சேர்ந்த மாற்றுத்திறனாளிகள் பங்கேற்று பயனடைந்தனர். மருத்துவப் பரிசோதனைகளுக்குப் பின், தகுதியான மாற்றுத்திறனாளிகளுக்குப் புதிய மாற்றுத்திறனாளி அடையாளச் சான்றிதழ்கள் வழங்கப்பட்டன. ஏற்கனவே சான்றிதழ் பெற்றவர்கள் அதைப் புதுப்பிக்கவும், புதிய அடையாள அட்டை பெறவும் விண்ணப்பங்கள் பெறப்பட்டன. ஏற்கனவே உள்ள அட்டைகளில் திருத்தங்கள் செய்யவும் விண்ணப்பங்கள் பெறப்பட்டன. மாற்றுத்திறனாளிகளுக்கான பஸ் பாஸ் மற்றும் ரயில் பாஸ் பெற விண்ணப்பங்களும் பெறப்பட்டன. எலும்பியல், பொது, நரம்பியல், கண், காது மூக்கு தொண்டை, மனநல மருத்துவம் மற்றும் உளவியல் துறை மருத்துவர்கள் பங்கேற்று பரிசோதனைகளும் ஆலோசனைகளும் வழங்கினர். உடுமலையைச் சேர்ந்த 'கை கொடுக்கும் கரங்கள்' அறக்கட்டளை மற்றும் லைஃப் அஸ் எ தாட் தன்னார்வத் தொண்டு நிறுவனங்கள் இணைந்து முகாமை ஒருங்கிணைத்தன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "♿ உடுமலையில் மாற்றுத்திறனாளிகளுக்கு சிறப்பு மருத்துவ முகாம்: புதிய அடையாளச் சான்றிதழ் வழங்கல்\n\n📰 முழு விவரம்:\nஉடுமலையில் மாற்றுத்திறனாளிகளுக்கான சிறப்பு மருத்துவ முகாம் நடைபெற்றது. திருப்பூர் மாவட்ட மாற்றுத்திறனாளிகள் நலத்துறையின் சார்பில், தனியார் திருமண மண்டபத்தில் இம்முகாம் நடைபெற்றது. உடுமலை ஒன்றியம், நகரம், குடிமங்கலம் மற்றும் மடத்துக்குளம் பகுதிகளைச் சேர்ந்த மாற்றுத்திறனாளிகள் பங்கேற்று பயனடைந்தனர்.\nமருத்துவப் பரிசோதனைகளுக்குப் பின், தகுதியான மாற்றுத்திறனாளிகளுக்குப் புதிய மாற்றுத்திறனாளி அடையாளச் சான்றிதழ்கள் வழங்கப்பட்டன. ஏற்கனவே சான்றிதழ் பெற்றவர்கள் அதைப் புதுப்பிக்கவும், புதிய அடையாள அட்டை பெறவும் விண்ணப்பங்கள் பெறப்பட்டன. ஏற்கனவே உள்ள அட்டைகளில் திருத்தங்கள் செய்யவும் விண்ணப்பங்கள் பெறப்பட்டன.\nமாற்றுத்திறனாளிகளுக்கான பஸ் பாஸ், ரயில் பாஸ் பெறவும் விண்ணப்பங்கள் பெறப்பட்டன.\nஎலும்பியல், பொது, நரம்பியல், கண், காது மூக்கு தொண்டை, மனநல மருத்துவம் மற்றும் உளவியல் துறை மருத்துவர்கள் பரிசோதனைகளும் ஆலோசனைகளும் வழங்கினர்.\nஉடுமலையைச் சேர்ந்த 'கை கொடுக்கும் கரங்கள்' அறக்கட்டளை மற்றும் லைஃப் அஸ் எ தாட் தன்னார்வத் தொண்டு நிறுவனங்கள் இணைந்து முகாமை ஒருங்கிணைத்தன.\n\nSpecial medical camp for differently abled persons in Udumalai | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "Inside a private wedding hall in Udumalaipettai, Tirupur district, a special medical camp is under way for differently abled persons. Several people using wheelchairs and walking sticks sit in rows of plastic chairs under ceiling fans, seen from behind and slightly to the side. Doctors in white coats sit at examination tables along one wall, and a volunteer in a plain shirt hands a folder to a seated beneficiary. Family members in cotton shirts, salwars and sarees stand nearby holding files. The hall has a plain floor, a decorated stage edge with pillars, and tubelights overhead, giving a calm indoor daylight look. Camera at eye level, 35 mm, wide enough to show the whole hall and the crowd of waiting beneficiaries and medical staff. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a registration table in the wedding hall where new disability identity certificate files are being stacked beside application forms and a pen. A pair of hands, seen from behind and blurred, sorts the papers while a wheelchair's metal frame and a walking stick rest against the table edge. A few certificate folders and a small stack of bus and train pass application forms lie in view, with a doctor's stethoscope hanging on a nearby chair. Soft indoor light from tubelights, shallow depth of field, camera slightly high, 35 mm, focused on the documents and the aids. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/special-camp-for-differently-abled-advised-by-doctors/4374945",
-   "published": "2026-11-13T16:16:30+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "வெள்ளக்கோவில் பேருந்து நிலையத்தில் அரசுப் பேருந்திலிருந்து தவறி விழுந்த லாரி ஓட்டுநர் சிகிச்சை பலனின்றி உயிரிழந்தார். வெள்ளக்கோவில் தீத்தம்பாளையத்தைச் சேர்ந்த 54 வயது நபர் விறகு லாரி ஓட்டுநராகப் பணியாற்றி வந்தார். கடந்த செப்டம்பர் 4ஆம் தேதி வெள்ளக்கோவில் புதிய பேருந்து நிலையத்தில் இவர் அரசுப் பேருந்தில் பயணம் செய்தார். நகராட்சி கழிப்பிடம் அருகே பேருந்து நின்றபோது பின்புற படிக்கட்டு வழியாக இவர் இறங்க முயன்றுள்ளார். அப்போது பேருந்து ஓட்டுநர் திடீரென பேருந்தை முன்னோக்கி இயக்கியதால் இவர் நிலைதடுமாறி கீழே விழுந்தார். பின்னந்தலை மற்றும் கை மூட்டுகளில் பலத்த காயமடைந்த இவர் காங்கயம் அரசு மருத்துவமனையிலும், பின்னர் திருப்பூர் அரசு மருத்துவமனையிலும் சேர்க்கப்பட்டார். தொடர்ந்து ஈரோட்டில் உள்ள தனியார் மருத்துவமனையில் தீவிர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டிருந்த இவர் வெள்ளிக்கிழமை உயிரிழந்தார். இதுகுறித்து இவரது சகோதரி அளித்த புகாரின்பேரில் வெள்ளக்கோவில் போலீசார் அரசுப் பேருந்து ஓட்டுநர் மீது வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வெள்ளக்கோவிலில் அரசுப் பேருந்திலிருந்து விழுந்த லாரி ஓட்டுநர் சிகிச்சை பலனின்றி உயிரிழப்பு\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் தீத்தம்பாளையத்தைச் சேர்ந்த 54 வயது விறகு லாரி ஓட்டுநர், கடந்த செப்டம்பர் 4ஆம் தேதி வெள்ளக்கோவில் புதிய பேருந்து நிலையத்தில் அரசுப் பேருந்திலிருந்து இறங்க முயன்றுள்ளார். அப்போது ஓட்டுநர் திடீரென பேருந்தை இயக்கியதால் கீழே விழுந்து பின்னந்தலை மற்றும் கை மூட்டுகளில் பலத்த காயமடைந்தார். காங்கயம் மற்றும் திருப்பூர் அரசு மருத்துவமனைகளில் சேர்க்கப்பட்டு, பின்னர் ஈரோடு தனியார் மருத்துவமனையில் தீவிர சிகிச்சையில் இருந்த இவர் வெள்ளிக்கிழமை உயிரிழந்தார். இதுகுறித்து சகோதரி அளித்த புகாரின் பேரில் வெள்ளக்கோவில் போலீசார் பேருந்து ஓட்டுநர் மீது வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: வெள்ளக்கோவில் புதிய பேருந்து நிலையம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: 4 செப்டம்பர் 2026 (சம்பவம்), 13 நவம்பர் 2026 (உயிரிழப்பு)\n👮 நடவடிக்கை: வெள்ளக்கோவில் போலீசார் அரசுப் பேருந்து ஓட்டுநர் மீது வழக்குப்பதிவு செய்து விசாரணை\n\nபாதுகாப்பாக பயணிக்க விழிப்புணர்வுடன் இருங்கள்.\n\nVellakoil government bus accident lorry driver dies | Tirupur news\n📍 Vellakoil, Tirupur | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
+   "prompts": "A Tamil Nadu government bus stands at the new bus stand in Vellakoil town, its rear entrance steps open and empty, as a few bystanders and a Tamil Nadu police constable in khaki stand at a distance near the platform, seen from behind. The place is a busy Tirupur district bus stand with a row of town buses, two-wheelers parked along the edge, a municipal public toilet block and a tea stall with a faded awning, dusty concrete ground and a low boundary wall. Men in shirts and veshti and a woman in a cotton saree wait on the platform; one bystander stands with hands at the sides, looking towards the bus. The bus is a red and white TNSTC government bus, its rear step visible and unoccupied. Daylight, overcast sky, the morning light falling flat across the stand. Camera at eye level, 35 mm, wide enough to show the bus, the platform and the toilet block together, no injured person visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the rear entrance step of a Tamil Nadu government bus at a crowded bus stand in Vellakoil, the metal steps slightly worn and dusty, with a loose bundle of firewood sticks lying on the concrete ground beside the back wheel, showing the spot where the man lost his footing. Behind the step a blurred row of parked two-wheelers and a municipal toilet wall make up the background, and a pair of men's worn rubber sandals sits on the platform edge, out of focus. The light is daylight, soft and grey, with dust in the air. Camera low and close, 50 mm, shallow depth of field, no people's faces, no injuries or blood visible, the scene quiet and sombre. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/அரசுப்-பேருந்திலிருந்து-தவறி-விழுந்த-லாரி-ஓட்டுநா்-உயிரிழப்பு",
+   "published": "2026-11-13T18:29:10.744Z",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586810/tirupur360/em7ekq71nbrkec93uiyy.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586813/tirupur360/rnv0nltexxoomxg8lxo4.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர்: அமராவதிபாளையம் டி.கே.டி. குளோபல் பள்ளியில் அறிவியல் கண்காட்சி",
-   "english_headline": "Science exhibition held at DKT Global Public School, Amaravathipalayam, Tirupur",
-   "category": "Education",
-   "location": "Amaravathipalayam, Tirupur district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பள்ளி நிகழ்வு",
-    "loc": "அமராவதிபாளையம்",
-    "hl1": "அமராவதிபாளையம் பள்ளியில் அறிவியல்",
-    "hl2": "150+ மாணவர்களுக்குப் பரிசு",
-    "slides": [
-     {
-      "title": "என்ன நிகழ்ச்சி?",
-      "lines": [
-       "அமராவதிபாளையம் டி.கே.டி. குளோபல் பப்ளிக் பள்ளியில் அறிவியல்",
-       "'ஸ்பார்க் சயின்ஸ்' என்ற தலைப்பில் நடைபெற்றது",
-       "மழலையர் முதல் <b>11-ம் வகுப்பு</b> வரை மாணவர்கள் பங்கேற்பு"
-      ]
-     },
-     {
-      "title": "மாணவர்களின்",
-      "lines": [
-       "மாணவர்கள் தாங்களே உருவாக்கிய மாதிரிகளைக் காட்சிப்படுத்தினர்",
-       "கண்டுபிடிப்புகள், அறிவியல் திட்டங்களையும் காட்சிப்படுத்தினர்",
-       "அவற்றின் செயல்பாடுகள், பயன்கள் குறித்து விளக்கினர்"
-      ]
-     },
-     {
-      "title": "பரிசு விவரம்",
-      "lines": [
-       "பெற்றோர்கள் கண்காட்சியைப் பார்வையிட்டு பாராட்டினர்",
-       "சிறந்த படைப்புகள் தேர்வு செய்யப்பட்டுள்ளன",
-       "<b>150-க்கும் மேற்பட்ட</b> மாணவர்களுக்குக் குழந்தைகள் தின"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாவட்டம் அமராவதிபாளையம் டி கே டி குளோபல் பப்ளிக் பள்ளியில் அறிவியல் கண்காட்சி நடைபெற்றது. 'ஸ்பார்க் சயின்ஸ்' என்ற தலைப்பில் இந்தக் கண்காட்சி நடத்தப்பட்டது. மழலையர் வகுப்பு முதல் 11ஆம் வகுப்பு வரையிலான மாணவர்கள் இதில் பங்கேற்றனர். மாணவர்கள் தாங்களே உருவாக்கிய செயல்முறை மாதிரிகள், கண்டுபிடிப்புகள் மற்றும் அறிவியல் திட்டங்களைக் காட்சிப்படுத்தினர். அவற்றின் செயல்பாடுகள், பயன்கள் குறித்துப் பார்வையாளர்களுக்கு விளக்கினர். பெற்றோர்கள் கண்காட்சியைப் பார்வையிட்டு மாணவர்களின் படைப்பாற்றலைப் பாராட்டினர். கண்காட்சியில் சிறந்த படைப்புகள் தேர்வு செய்யப்பட்டுள்ளன. அந்தப் படைப்புகளை உருவாக்கிய 150க்கும் மேற்பட்ட மாணவர்களுக்குக் குழந்தைகள் தின விழாவில் பரிசுகளும் பாராட்டுச் சான்றிதழ்களும் வழங்கப்பட உள்ளன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔬 அமராவதிபாளையம் பள்ளியில் அறிவியல் கண்காட்சி: 150+ மாணவர்களுக்குப் பரிசு\n\n📰 முழு விவரம்:\nஅமராவதிபாளையம் டி.கே.டி. குளோபல் பப்ளிக் பள்ளியில் 'ஸ்பார்க் சயின்ஸ்' என்ற தலைப்பில் அறிவியல் கண்காட்சி நடைபெற்றது.\nமழலையர் வகுப்பு முதல் 11ஆம் வகுப்பு வரையிலான மாணவர்கள் தாங்களே உருவாக்கிய செயல்முறை மாதிரிகள், கண்டுபிடிப்புகள், அறிவியல் திட்டங்களைக் காட்சிப்படுத்தினர்.\nஅவற்றின் செயல்பாடுகள், பயன்கள் குறித்துப் பார்வையாளர்களுக்கு விளக்கினர்.\nபெற்றோர்கள் கண்காட்சியைப் பார்வையிட்டு மாணவர்களின் படைப்பாற்றலைப் பாராட்டினர்.\nசிறந்த படைப்புகள் தேர்வு செய்யப்பட்டுள்ளன. அவற்றை உருவாக்கிய 150க்கும் மேற்பட்ட மாணவர்களுக்குக் குழந்தைகள் தின விழாவில் பரிசுகளும் பாராட்டுச் சான்றிதழ்களும் வழங்கப்பட உள்ளன.\n\n📍 இடம்: அமராவதிபாளையம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: 13 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: பரிசு வழங்கும் விழா குழந்தைகள் தின விழாவில் நடைபெற உள்ளது.\n\nDKT Global school science exhibition Tirupur | Tirupur news\n📍 அமராவதிபாளையம், திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A group of school students in Tamil Nadu school uniform stand beside their handmade science models at a long exhibition table inside the hall of DKT Global Public School in Amaravathipalayam, Tirupur. Each table holds working models made of cardboard, wood, wires and small motors, with project boards standing behind them. A few students are pointing towards their models as if explaining how they work to visitors, while parents and teachers stand in the aisle between the tables, seen from behind and slightly blurred. The hall is bright with daylight coming through large windows, and rows of folding chairs and banners line the back wall. Shot at eye level with a 35 mm lens, wide enough to show the full exhibition room and the crowd of visitors. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a student's handmade science project on a school exhibition table in Amaravathipalayam, Tirupur. The model is built from cardboard, plastic pipes, copper wires, a small battery and a tiny motor, with a few colourful paper sheets arranged around its base. A child's hand rests on the edge of the table, and the blurred shoulders of a visitor are visible at the edge of the frame. Daylight from a nearby window falls softly on the table, and the background is a row of other student projects slightly out of focus. Shot slightly high with a 35 mm lens to emphasise the hands-on creation and the detail of the working model. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tkd-global-school-science-exhibition/4375330",
-   "published": "2026-11-13T19:36:27+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586829/tirupur360/mdepmffeow5zanghgeyo.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586832/tirupur360/thl40fbomzem3gdlze6r.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601207/tirupur360/i8zp5a3hzvh4q6e8uabd.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601209/tirupur360/szzh6l0at46vsu4q0zky.jpg"
    ]
   }
  ]
