@@ -3,294 +3,313 @@
   "earlier stories still waiting for images: []",
   "instagram check: 8 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/release-of-the-draft-electoral-roll-for-tiruppur-district",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/information-training-camp-for-scout-teacher/4375251",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/private-sector-job-camp/4374421",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nutrition-smart-rotary-supply-to-pregnant-women/4374515",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/special-camp-for-differently-abled-advised-by-doctors/4374945",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tkd-global-school-science-exhibition/4375330",
   "candidate filter: collected=3",
   "to write: 3 Tirupur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
   "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (12s)",
+  "ok gemini/gemini-3-flash-preview (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (32s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "உடுமலையில் தனியார் துறை வேலைவாய்ப்பு முகாம்: நவம்பர் 20 அன்று",
-   "english_headline": "Private sector job camp on 20 Nov at Tirupur district collectorate, Udumalaipettai news",
-   "category": "Government & Services",
-   "location": "Udumalaipettai, Tirupur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேலைவாய்ப்பு முகாம்",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலையில் வேலைவாய்ப்பு முகாம்",
-    "hl2": "நவம்பர் 20, காலை 10 மணி",
-    "slides": [
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "வரும் <b>20ம் தேதி</b> தனியார் துறை வேலைவாய்ப்பு முகாம்",
-       "காலை <b>10:00 மணி</b> முதல் மதியம் <b>2:00 மணி</b> வரை",
-       "திருப்பூர் மாவட்ட வேலைவாய்ப்பு மையம் நடத்துகிறது"
-      ]
-     },
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "திருப்பூர் மாவட்ட கலெக்டர் அலுவலக வளாகம்",
-       "மாவட்ட வேலைவாய்ப்பு மையம், அறை எண் <b>439</b>",
-       "மாவட்டத்தின் முன்னணி நிறுவனங்கள் பங்கேற்கும்"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்கலாம்?",
-      "lines": [
-       "10, 12ம் வகுப்பு, ஐ.டி.ஐ., டிப்ளமோ, பட்டதாரிகள்",
-       "சுயதகவல் படிவம் மற்றும் கல்விச் சான்றிதழ்கள் கொண்டு",
-       "மேலும் விவரங்களுக்கு <b>94990 55944</b>"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "உடுமலையில் வரும் 20ம் தேதி தனியார் துறை வேலைவாய்ப்பு முகாம் நடைபெறுகிறது. திருப்பூர் மாவட்ட வேலைவாய்ப்பு மற்றும் தொழில்நெறி வழிகாட்டும் மையம் சார்பில் இந்த முகாம் நடத்தப்படுகிறது. முகாம் காலை 10 மணி முதல் மதியம் 2 மணி வரை நடைபெறும். இடம் திருப்பூர் மாவட்ட கலெக்டர் அலுவலக வளாகத்தில் உள்ள மாவட்ட வேலைவாய்ப்பு மையம், அறை எண் 439. மாவட்டத்தின் முன்னணி நிறுவனங்கள் பங்கேற்று வேலைக்குத் தேர்வு செய்ய உள்ளன. 10, 12ம் வகுப்பு, ஐ டி ஐ, டிப்ளமோ மற்றும் பட்டப்படிப்பு முடித்தவர்கள் பங்கேற்கலாம். சுயதகவல் படிவம் மற்றும் கல்விச் சான்றிதழ்களுடன் வர வேண்டும். மேலும் விவரங்களுக்கு 94990 55944 என்ற எண்ணைத் தொடர்பு கொள்ளலாம் என மாவட்ட கலெக்டர் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💼 உடுமலையில் நவம்பர் 20 அன்று தனியார் துறை வேலைவாய்ப்பு முகாம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்ட வேலைவாய்ப்பு மற்றும் தொழில்நெறி வழிகாட்டும் மையம் சார்பில், வரும் 20ம் தேதி தனியார் துறை வேலைவாய்ப்பு முகாம் நடைபெறுகிறது.\nமாவட்டத்தின் முன்னணி நிறுவனங்கள் பங்கேற்று வேலைக்குத் தேர்வு செய்ய உள்ளன.\n10, 12ம் வகுப்பு, ஐ.டி.ஐ., டிப்ளமோ, பட்டப்படிப்பு படித்தவர்கள் பங்கேற்கலாம்.\n\n🗓️ நாள்: வரும் 20ம் தேதி\n🕘 நேரம்: காலை 10:00 மணி முதல் மதியம் 2:00 மணி வரை\n📍 இடம்: திருப்பூர் மாவட்ட கலெக்டர் அலுவலக வளாகம், மாவட்ட வேலைவாய்ப்பு மையம் (அறை எண் 439)\n📞 தொடர்புக்கு: 94990 55944\nℹ️ மக்கள் கவனத்திற்கு: சுயதகவல் படிவம் மற்றும் கல்விச் சான்றிதழ்களுடன் பங்கேற்கலாம்.\n\nPrivate sector job camp on 20th at Tirupur collectorate | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "A line of young job seekers in shirts, trousers, sarees and salwar stands with folders and self-information forms outside a government office hall in the Tirupur district collectorate campus, Udumalaipettai, for a private sector job camp. Seen from behind and at a distance, the men and women hold document files and education certificates in plastic sleeves while they wait their turn to enter. Behind them are long government office corridors with tiled floors, wooden benches and a few tables set up with plain white paper and small placards left blank. Nearby, a few company representatives in formal shirts stand at a registration desk, also seen from behind. Bright morning daylight comes through tall windows, with a few parked two-wheelers and a corporation-style government building visible outside. The camera is at eye level, 35 mm, wide enough to show the hall, the queue and the government building, with no readable text or signboards. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a government employment centre room, covered with a neat stack of blank self-information application forms, a pile of plastic-sleeved education certificates and a few pens, lit by morning daylight from a window. In the background, slightly blurred and seen from behind, a job seeker in a shirt and a woman in a cotton saree stand at the registration desk while a company representative in a formal shirt reviews the papers. The room has plain whitewashed walls, a steel cabinet and rows of folding chairs. Dust particles float in the light beam. The camera is slightly high, 35 mm, focusing on the paperwork in the foreground, with no readable text, logos or faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/private-sector-job-camp/4374421",
-   "published": "2026-11-12T21:44:28+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (439, 10); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581455/tirupur360/fbfh1ttm7lw9btgiwztl.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581459/tirupur360/jn35pwtknqpcqgcb5j4p.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அரண்மனைப்புதூர் பள்ளியில் சாரண ஆசிரியர்களுக்கு தகவல் பயிற்சி முகாம்",
-   "english_headline": "Information training camp for Scout teachers held at Aranmanaipudur corporation middle school, Tirupur",
-   "category": "Education",
-   "location": "Aranmanaipudur, Tirupur city, Tirupur district",
+   "tamil_headline": "திருப்பூரில் கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு: 45 பேருக்கு வழங்கல்",
+   "english_headline": "Tirupur: 45 pregnant women receive nutrition food from Smart City Rotary under 10th-week programme",
+   "category": "Health",
+   "location": "Tirupur city (Daily Market Street city health centre), Tirupur district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்வி",
-    "loc": "அரண்மனைப்புதூர், திருப்பூர்",
-    "hl1": "சாரண ஆசிரியர்களுக்கு பயிற்சி முகாம்",
-    "hl2": "அரண்மனைப்புதூர் பள்ளியில்",
+    "cat": "சுகாதாரம்",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூரில் கர்ப்பிணிகளுக்கு",
+    "hl2": "<b>45</b> கர்ப்பிணிகளுக்கு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே, எப்போது?",
       "lines": [
-       "திருப்பூர் அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளியில்",
-       "சாரண ஆசிரியர்களுக்கான தகவல் பயிற்சி முகாம் நடைபெற்றது",
-       "திருப்பூர் வடக்கு, தெற்கு, அவிநாசி வட்டார ஆசிரியர்கள்"
+       "திருப்பூர் தினசரி மார்க்கெட் வீதி, மாநகராட்சி நகர்நல மையம்",
+       "இன்று (<b>நவ. 12</b>) பத்தாவது வாரமாக உணவு வழங்கல்",
+       "ஸ்மார்ட் சிட்டி ரோட்டரி சங்கம் சார்பில் நடந்தது"
       ]
      },
      {
-      "title": "எதைப் பற்றிய",
+      "title": "என்ன",
       "lines": [
-       "சாரண இயக்கத்தின் செயல்பாடுகள்",
-       "மாணவர்கள் பெறும் நன்மைகள்",
-       "பள்ளிகளில் சாரணர் படை தொடங்குவதன் அவசியம்"
+       "<b>45</b> கர்ப்பிணிகளுக்கு உணவு வழங்கப்பட்டது",
+       "முட்டை, பாதாம், உலர் திராட்சை, வெள்ளரிக்காய், சாம்பார்",
+       "ரோட்டரி உறுப்பினர்கள் செந்தில்குமார், பாலராஜீ பங்களிப்பு"
       ]
      },
      {
-      "title": "யார் பேசினர்?",
+      "title": "ஆலோசனை",
       "lines": [
-       "மாவட்டக் கல்வி அலுவலர் (தொடக்கக் கல்வி) சித்ரா தலைமை",
-       "மாவட்ட கமிஷனர் ராஜாராம், மாவட்ட இணைச் செயலாளர் ஜெயக்குமார்",
-       "மாவட்ட அமைப்பு கமிஷனர் சண்முகநாதன் உள்ளிட்டோர் பேசினர்"
+       "சக் ஷம் அமைப்பைச் சேர்ந்த ரத்தினசாமி உள்ளிட்டோர் பங்கேற்பு",
+       "ஊட்டச்சத்து உணவின் அவசியம் குறித்து ஆலோசனை",
+       "தொடர் மருத்துவப் பரிசோதனையின் அவசியம் வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளியில் சாரண ஆசிரியர்களுக்கான தகவல் பயிற்சி முகாம் நடைபெற்றது. திருப்பூர் வடக்கு, தெற்கு மற்றும் அவிநாசி வட்டார ஆசிரியர்கள் இதில் பங்கேற்றனர். சாரண இயக்கத்தின் செயல்பாடுகள், மாணவர்கள் பெறும் நன்மைகள் மற்றும் பள்ளிகளில் சாரணர் படை தொடங்குவதன் அவசியம் ஆகிய தலைப்புகளில் பயிற்சி அளிக்கப்பட்டது. மாவட்டக் கல்வி அலுவலர் (தொடக்கக் கல்வி) சித்ரா தலைமை வகித்தார். மாவட்ட கமிஷனர் ராஜாராம், மாவட்ட இணைச் செயலாளர் ஜெயக்குமார், மாவட்ட அமைப்பு கமிஷனர் சண்முகநாதன் உள்ளிட்டோர் பேசினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏫 அரண்மனைப்புதூர் பள்ளியில் சாரண ஆசிரியர்களுக்கு தகவல் பயிற்சி முகாம்\n\n📰 முழு விவரம்:\nதிருப்பூர் அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளியில் சாரண ஆசிரியர்களுக்கான தகவல் பயிற்சி முகாம் நடைபெற்றது. திருப்பூர் வடக்கு, தெற்கு மற்றும் அவிநாசி வட்டார ஆசிரியர்கள் பங்கேற்றனர். சாரண இயக்கத்தின் செயல்பாடுகள், மாணவர்கள் பெறும் நன்மைகள், பள்ளிகளில் சாரணர் படை தொடங்குவதன் அவசியம் ஆகியவை குறித்து பயிற்சி அளிக்கப்பட்டது.\n📍 இடம்: அரண்மனைப்புதூர் மாநகராட்சி நடுநிலைப்பள்ளி, திருப்பூர்\n👥 பங்கேற்றோர்: திருப்பூர் வடக்கு, தெற்கு, அவிநாசி வட்டார ஆசிரியர்கள்\n🎙️ தலைமை: மாவட்டக் கல்வி அலுவலர் (தொடக்கக் கல்வி) சித்ரா\n🎙️ பேசியோர்: மாவட்ட கமிஷனர் ராஜாராம், மாவட்ட இணைச் செயலாளர் ஜெயக்குமார், மாவட்ட அமைப்பு கமிஷனர் சண்முகநாதன் உள்ளிட்டோர்\n\nScout teachers training camp Tirupur | Tirupur news\n📍 அரண்மனைப்புதூர், திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #கல்வி",
-   "prompts": "A row of Tamil Nadu government school teachers sits on benches in the hall of a corporation middle school in Aranmanaipudur, Tirupur city, attending a Scout information training camp. Seen from the back of the hall at eye level, the teachers are mostly women in cotton sarees and a few men in shirts and trousers, some taking notes in notebooks on their laps. At the front, a senior officer stands at a small wooden table with a microphone, while others sit beside her in the background, suggesting district officials addressing the gathering. The classroom has plain white walls, tube lights overhead and wooden benches and desks arranged in neat rows. Light is soft daylight coming through tall windows on one side. Shot on a 35 mm lens from slightly high eye level, wide enough to show the whole hall and the seated audience. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of notebooks and a few printed training handouts with Scout-themed folded paper lying on a wooden desk in a Tirupur corporation school classroom. A Scout staff stick or a neatly folded khaki Scout neckerchief rests beside a steel water tumbler and a pen, showing the training camp materials. Behind the desk, a row of empty school benches and a green-painted blackboard are softly blurred. Daylight from a window falls across the table, giving a calm, educational mood. No readable text or labels are visible. Shot at a close, slightly high angle with a 35 mm lens to highlight the training materials. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/information-training-camp-for-scout-teacher/4375251",
-   "published": "2026-11-13T19:14:27+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581471/tirupur360/otu1apihzdtmug3vfnlt.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581475/tirupur360/gas3lgmgph9wdbaylahu.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் மாவட்ட வரைவு வாக்காளர் பட்டியல் வெளியீடு",
-   "english_headline": "Tirupur district draft voter list released by District Collector",
-   "category": "Government & Services",
-   "location": "தாராபுரம், Tirupur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வாக்காளர் பட்டியல்",
-    "loc": "திருப்பூர் மாவட்டம்",
-    "hl1": "திருப்பூர் மாவட்ட வரைவு வாக்காளர்",
-    "hl2": "மொத்தம் 20,01,436",
-    "slides": [
-     {
-      "title": "வெளியீடு",
-      "lines": [
-       "வரைவு வாக்காளர் பட்டியலை மாவட்ட ஆட்சியர் சி.முத்துக்குமரன்",
-       "தவெக, திமுக, அதிமுக, பாஜக, காங்கிரஸ்",
-       "<b>8</b> சட்டப் பேரவைத் தொகுதிகள் இடம் பெற்றுள்ளன"
-      ]
-     },
-     {
-      "title": "வாக்காளர்கள்",
-      "lines": [
-       "ஆண்கள் <b>9,65,087</b> பேர்",
-       "பெண்கள் <b>10,36,097</b> பேர்",
-       "3ஆம் பாலினத்தவர் <b>252</b> பேர், சேவை வாக்காளர்கள் <b>201</b> பேர்"
-      ]
-     },
-     {
-      "title": "மனு செய்யும் காலம்",
-      "lines": [
-       "<b>12.11.2026</b> முதல் <b>11.12.2026</b> வரை மனுக்கள் அளிக்கலாம்",
-       "சிறப்பு முகாம்கள்: <b>நவம்பர் 21, 22, 29</b>",
-       "இறுதி பட்டியல் <b>2027 ஜனவரி 4</b> அன்று வெளியீடு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாவட்டத்தின் வரைவு வாக்காளர் பட்டியல் வெளியிடப்பட்டுள்ளது. மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் வியாழக்கிழமை இதை வெளியிட்டார். தவெக, திமுக, அதிமுக, பாஜக, காங்கிரஸ், விடுதலைச் சிறுத்தைகள், இடதுசாரி கட்சியினர் பட்டியலைப் பெற்றுக்கொண்டனர். மாவட்டத்தில் தாராபுரம், காங்கயம், அவிநாசி, திருப்பூர் வடக்கு, திருப்பூர் தெற்கு, பல்லடம், உடுமலை, மடத்துக்குளம் ஆகிய 8 சட்டப் பேரவைத் தொகுதிகள் உள்ளன. ஆண் வாக்காளர்கள் 9,65,087 பேர், பெண் வாக்காளர்கள் 10,36,097 பேர். 3ஆம் பாலினத்தவர் 252 பேர், சேவை வாக்காளர்கள் 201 பேர். மொத்தம் 20,01,436 வாக்காளர்கள் இடம் பெற்றுள்ளனர். பெயர் சேர்த்தல், நீக்கம், திருத்தம் அல்லது முகவரி மாற்றம் செய்ய விரும்புவோர் மனுக்கள் அளிக்கலாம். மனுக்கள் 12.11.2026 முதல் 11.12.2026 வரை அளிக்கலாம். நவம்பர் 21, 22, 29 ஆகிய தேதிகளில் சிறப்பு முகாம்கள் நடைபெறும். ஏற்புரை, மறுப்புரை மீதான தீர்வு டிசம்பர் 28ஆம் தேதிக்குள் வழங்கப்படும். இறுதி வாக்காளர் பட்டியல் 2027 ஜனவரி 4ஆம் தேதி வெளியிடப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ திருப்பூர் மாவட்ட வரைவு வாக்காளர் பட்டியல் வெளியீடு - மொத்தம் 20,01,436 வாக்காளர்கள்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டத்தின் வரைவு வாக்காளர் பட்டியலை மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் வியாழக்கிழமை வெளியிட்டார். தவெக, திமுக, அதிமுக, பாஜக, காங்கிரஸ், விடுதலைச் சிறுத்தைகள், இடதுசாரி கட்சியினர் பட்டியலைப் பெற்றுக்கொண்டனர்.\nமாவட்டத்தில் தாராபுரம், காங்கயம், அவிநாசி, திருப்பூர் வடக்கு, திருப்பூர் தெற்கு, பல்லடம், உடுமலை, மடத்துக்குளம் ஆகிய 8 சட்டப் பேரவைத் தொகுதிகள் உள்ளன.\nஆண் வாக்காளர்கள் 9,65,087 பேர், பெண் வாக்காளர்கள் 10,36,097 பேர், 3ஆம் பாலினத்தவர் 252 பேர், சேவை வாக்காளர்கள் 201 பேர். மொத்தம் 20,01,436 வாக்காளர்கள் இடம் பெற்றுள்ளனர்.\nபெயர் சேர்த்தல், நீக்கம், திருத்தம் அல்லது முகவரி மாற்றம் செய்ய விரும்புவோர் புகைப்படத்துடன் கூடிய வாக்காளர் பட்டியல் சிறப்பு சுருக்குமுறை திருத்தத்தின்கீழ் மனுக்களை அளிக்கலாம்.\n\n📅 மனு செய்யும் காலம்: 12.11.2026 முதல் 11.12.2026 வரை\n🏕️ சிறப்பு முகாம்கள்: நவம்பர் 21, 22, 29\n✅ ஏற்புரை, மறுப்புரை மீதான தீர்வு: டிசம்பர் 28ஆம் தேதிக்குள்\n📢 இறுதி வாக்காளர் பட்டியல்: 2027 ஜனவரி 4ஆம் தேதி\n\nTirupur draft voter list released, 20,01,436 voters | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Palladam",
-   "prompts": "A District Collector in a formal shirt hands over a bound draft voter list booklet across a wooden table in a government hall in Tirupur district, while a line of party representatives in shirts, trousers and sarees waits to receive copies. The setting is a government office in Tirupur city, with plain cream walls, tubelight fixtures, wooden benches and a framed portrait area left blank, a few tables stacked with thick printed registers and files, and a row of ceiling fans overhead. Several officials in Tamil Nadu government office attire stand behind the table, and the party workers, seen mostly from behind or at a distance, hold the papers with both hands. The room is lit by daylight through tall windows on one side, the mood is orderly and formal, and the frame shows the whole table, the queue and the room so the moment of release is clear. Camera at eye level, 35 mm, wide enough to show the hall and the handover. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/12/release-of-the-draft-electoral-roll-for-tiruppur-district",
-   "published": "2026-11-12T19:33:15.848Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "reel_script": "திருப்பூரில் கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு வழங்கும் திட்டம் தொடர்கிறது. இன்று நவம்பர் 12ஆம் தேதி பத்தாவது வாரமாக உணவு வழங்கப்பட்டது. திருப்பூர் ஸ்மார்ட் சிட்டி ரோட்டரி சங்கம் சார்பில் இந்தத் திட்டம் நடைபெறுகிறது. தினசரி மார்க்கெட் வீதியில் உள்ள மாநகராட்சி நகர்நல மையத்தில் நிகழ்ச்சி நடைபெற்றது. 45 கர்ப்பிணிகளுக்கு முட்டை, பாதாம், உலர் திராட்சை, வெள்ளரிக்காய், சாம்பார் உள்ளிட்ட உணவுகள் வழங்கப்பட்டன. ரோட்டரி சங்க உறுப்பினர்கள் செந்தில்குமார், பாலராஜீ ஆகியோர் பங்களிப்பில் இந்நிகழ்ச்சி நடந்தது. சக் ஷம் அமைப்பைச் சேர்ந்த ரத்தினசாமி உள்ளிட்டோர் பங்கேற்றனர். கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவின் அவசியம் குறித்து ஆலோசனைகள் வழங்கப்பட்டன. தொடர் மருத்துவப் பரிசோதனையும் அவசியம் என வலியுறுத்தப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🤰 திருப்பூரில் கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு: 45 பேருக்கு வழங்கல்\n\n📰 முழு விவரம்:\nதிருப்பூர் ஸ்மார்ட் சிட்டி ரோட்டரி சங்கம் சார்பில், கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு வழங்கும் திட்டத்தின் கீழ், பத்தாவது வாரமாக இன்று (நவ. 12) உணவு வழங்கப்பட்டது. தினசரி மார்க்கெட் வீதியில் உள்ள மாநகராட்சி நகர்நல மையத்தில் நடந்த நிகழ்ச்சியில், 45 கர்ப்பிணிகளுக்கு முட்டை, பாதாம், உலர் திராட்சை, வெள்ளரிக்காய், சாம்பார் உள்ளிட்ட உணவுகள் வழங்கப்பட்டன. ரோட்டரி சங்க உறுப்பினர்கள் செந்தில்குமார், பாலராஜீ ஆகியோர் பங்களிப்பில் நடந்த நிகழ்ச்சியில், சக் ஷம் அமைப்பைச் சேர்ந்த ரத்தினசாமி உள்ளிட்டோர் பங்கேற்றனர். கர்ப்பிணிகளுக்கு ஊட்டச்சத்து உணவு மற்றும் தொடர் மருத்துவப் பரிசோதனையின் அவசியம் குறித்து ஆலோசனைகள் வழங்கப்பட்டன.\n\n📍 இடம்: தினசரி மார்க்கெட் வீதி, மாநகராட்சி நகர்நல மையம், திருப்பூர்\n🗓️ நாள்: நவம்பர் 12, 2026\n\nPregnant women nutrition food programme Tirupur | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "Inside a Tirupur city corporation health centre on Daily Market Street, a row of pregnant women in cotton sarees and salwar kameez sit on benches in a hall as Rotary club members hand over packets of food. On a table in front stand trays of eggs, almonds, dry grapes, cucumbers and containers of sambar, arranged for the distribution. Seen from behind and from the side, a few volunteers in shirts and trousers stand near the table, and a senior man in a shirt speaks to the women about nutrition and regular medical check-ups. Daylight comes through the windows of the health centre, with ceiling fans and plain walls around. The camera is at eye level, a 35 mm wide shot that shows the whole hall, the women and the food table clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a steel plate or cardboard tray on a wooden table at the Tirupur city health centre, holding boiled eggs, a handful of almonds, dry grapes and slices of cucumber beside a small bowl of sambar. Two pregnant women's hands in bangles reach toward the food from the edge of the frame, with the sleeve of a cotton saree visible. Blurred volunteers in shirts stand far behind the table. Soft daylight from a window falls across the table, and the background is a plain government hall wall. The camera is slightly high, 35 mm, focused on the food and hands to show the nutrition distribution clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nutrition-smart-rotary-supply-to-pregnant-women/4374515",
+   "published": "2026-11-12T21:53:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 10",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794581484/tirupur360/yhkyoz0boob9ozls5tz7.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586744/tirupur360/ysj53fxdqmezjf8emc9o.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586754/tirupur360/fyywsi4aurxacj10gcnw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "உடுமலையில் மாற்றுத்திறனாளிகளுக்கு சிறப்பு மருத்துவ முகாம்: புதிய அடையாளச் சான்றிதழ் வழங்கல்",
+   "english_headline": "Special medical camp for differently abled persons in Udumalai: new disability identity certificates issued",
+   "category": "Health",
+   "location": "Udumalaipettai, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மருத்துவ முகாம்",
+    "loc": "உடுமலை",
+    "hl1": "உடுமலையில் மாற்றுத்திறனாளிகளுக்கு",
+    "hl2": "புதிய அடையாளச் சான்றிதழ்",
+    "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "உடுமலையில் சிறப்பு மருத்துவ முகாம் நடந்தது",
+       "திருப்பூர் மாவட்ட மாற்றுத்திறனாளிகள் நலத்துறை ஏற்பாடு",
+       "தனியார் திருமண மண்டபத்தில் நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "யார் பயனடைந்தனர்?",
+      "lines": [
+       "உடுமலை ஒன்றியம், நகரம், குடிமங்கலம், மடத்துக்குளம்",
+       "தகுதியானோருக்குப் <b>புதிய அடையாளச் சான்றிதழ்</b> வழங்கப்பட்டது",
+       "ஏற்கனவே சான்றிதழ் பெற்றவர்கள் புதுப்பிக்க விண்ணப்பம்"
+      ]
+     },
+     {
+      "title": "மருத்துவ ஆலோசனை",
+      "lines": [
+       "எலும்பியல், பொது, நரம்பியல் மருத்துவம்",
+       "கண், காது மூக்கு தொண்டை, மனநல மருத்துவம், உளவியல்",
+       "மருத்துவர்கள் பரிசோதனையும் ஆலோசனையும் வழங்கினர்"
+      ]
+     },
+     {
+      "title": "விண்ணப்பங்கள்",
+      "lines": [
+       "புதிய அடையாள அட்டை, அட்டைத் திருத்தங்களுக்கு விண்ணப்பம்",
+       "பஸ் பாஸ், ரயில் பாஸ் பெற விண்ணப்பங்கள் பெறப்பட்டன",
+       "'கை கொடுக்கும் கரங்கள்' அறக்கட்டளை, லைஃப் அஸ் எ தாட்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "உடுமலையில் மாற்றுத்திறனாளிகளுக்கான சிறப்பு மருத்துவ முகாம் நடைபெற்றது. திருப்பூர் மாவட்ட மாற்றுத்திறனாளிகள் நலத்துறையின் சார்பில், தனியார் திருமண மண்டபத்தில் இந்த முகாம் நடைபெற்றது. உடுமலை ஒன்றியம், நகரம், குடிமங்கலம் மற்றும் மடத்துக்குளம் பகுதிகளைச் சேர்ந்த மாற்றுத்திறனாளிகள் பங்கேற்று பயனடைந்தனர். மருத்துவப் பரிசோதனைகளுக்குப் பின், தகுதியான மாற்றுத்திறனாளிகளுக்குப் புதிய மாற்றுத்திறனாளி அடையாளச் சான்றிதழ்கள் வழங்கப்பட்டன. ஏற்கனவே சான்றிதழ் பெற்றவர்கள் அதைப் புதுப்பிக்கவும், புதிய அடையாள அட்டை பெறவும் விண்ணப்பங்கள் பெறப்பட்டன. ஏற்கனவே உள்ள அட்டைகளில் திருத்தங்கள் செய்யவும் விண்ணப்பங்கள் பெறப்பட்டன. மாற்றுத்திறனாளிகளுக்கான பஸ் பாஸ் மற்றும் ரயில் பாஸ் பெற விண்ணப்பங்களும் பெறப்பட்டன. எலும்பியல், பொது, நரம்பியல், கண், காது மூக்கு தொண்டை, மனநல மருத்துவம் மற்றும் உளவியல் துறை மருத்துவர்கள் பங்கேற்று பரிசோதனைகளும் ஆலோசனைகளும் வழங்கினர். உடுமலையைச் சேர்ந்த 'கை கொடுக்கும் கரங்கள்' அறக்கட்டளை மற்றும் லைஃப் அஸ் எ தாட் தன்னார்வத் தொண்டு நிறுவனங்கள் இணைந்து முகாமை ஒருங்கிணைத்தன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "♿ உடுமலையில் மாற்றுத்திறனாளிகளுக்கு சிறப்பு மருத்துவ முகாம்: புதிய அடையாளச் சான்றிதழ் வழங்கல்\n\n📰 முழு விவரம்:\nஉடுமலையில் மாற்றுத்திறனாளிகளுக்கான சிறப்பு மருத்துவ முகாம் நடைபெற்றது. திருப்பூர் மாவட்ட மாற்றுத்திறனாளிகள் நலத்துறையின் சார்பில், தனியார் திருமண மண்டபத்தில் இம்முகாம் நடைபெற்றது. உடுமலை ஒன்றியம், நகரம், குடிமங்கலம் மற்றும் மடத்துக்குளம் பகுதிகளைச் சேர்ந்த மாற்றுத்திறனாளிகள் பங்கேற்று பயனடைந்தனர்.\nமருத்துவப் பரிசோதனைகளுக்குப் பின், தகுதியான மாற்றுத்திறனாளிகளுக்குப் புதிய மாற்றுத்திறனாளி அடையாளச் சான்றிதழ்கள் வழங்கப்பட்டன. ஏற்கனவே சான்றிதழ் பெற்றவர்கள் அதைப் புதுப்பிக்கவும், புதிய அடையாள அட்டை பெறவும் விண்ணப்பங்கள் பெறப்பட்டன. ஏற்கனவே உள்ள அட்டைகளில் திருத்தங்கள் செய்யவும் விண்ணப்பங்கள் பெறப்பட்டன.\nமாற்றுத்திறனாளிகளுக்கான பஸ் பாஸ், ரயில் பாஸ் பெறவும் விண்ணப்பங்கள் பெறப்பட்டன.\nஎலும்பியல், பொது, நரம்பியல், கண், காது மூக்கு தொண்டை, மனநல மருத்துவம் மற்றும் உளவியல் துறை மருத்துவர்கள் பரிசோதனைகளும் ஆலோசனைகளும் வழங்கினர்.\nஉடுமலையைச் சேர்ந்த 'கை கொடுக்கும் கரங்கள்' அறக்கட்டளை மற்றும் லைஃப் அஸ் எ தாட் தன்னார்வத் தொண்டு நிறுவனங்கள் இணைந்து முகாமை ஒருங்கிணைத்தன.\n\nSpecial medical camp for differently abled persons in Udumalai | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "Inside a private wedding hall in Udumalaipettai, Tirupur district, a special medical camp is under way for differently abled persons. Several people using wheelchairs and walking sticks sit in rows of plastic chairs under ceiling fans, seen from behind and slightly to the side. Doctors in white coats sit at examination tables along one wall, and a volunteer in a plain shirt hands a folder to a seated beneficiary. Family members in cotton shirts, salwars and sarees stand nearby holding files. The hall has a plain floor, a decorated stage edge with pillars, and tubelights overhead, giving a calm indoor daylight look. Camera at eye level, 35 mm, wide enough to show the whole hall and the crowd of waiting beneficiaries and medical staff. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a registration table in the wedding hall where new disability identity certificate files are being stacked beside application forms and a pen. A pair of hands, seen from behind and blurred, sorts the papers while a wheelchair's metal frame and a walking stick rest against the table edge. A few certificate folders and a small stack of bus and train pass application forms lie in view, with a doctor's stethoscope hanging on a nearby chair. Soft indoor light from tubelights, shallow depth of field, camera slightly high, 35 mm, focused on the documents and the aids. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/special-camp-for-differently-abled-advised-by-doctors/4374945",
+   "published": "2026-11-13T16:16:30+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586810/tirupur360/em7ekq71nbrkec93uiyy.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586813/tirupur360/rnv0nltexxoomxg8lxo4.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர்: அமராவதிபாளையம் டி.கே.டி. குளோபல் பள்ளியில் அறிவியல் கண்காட்சி",
+   "english_headline": "Science exhibition held at DKT Global Public School, Amaravathipalayam, Tirupur",
+   "category": "Education",
+   "location": "Amaravathipalayam, Tirupur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பள்ளி நிகழ்வு",
+    "loc": "அமராவதிபாளையம்",
+    "hl1": "அமராவதிபாளையம் பள்ளியில் அறிவியல்",
+    "hl2": "150+ மாணவர்களுக்குப் பரிசு",
+    "slides": [
+     {
+      "title": "என்ன நிகழ்ச்சி?",
+      "lines": [
+       "அமராவதிபாளையம் டி.கே.டி. குளோபல் பப்ளிக் பள்ளியில் அறிவியல்",
+       "'ஸ்பார்க் சயின்ஸ்' என்ற தலைப்பில் நடைபெற்றது",
+       "மழலையர் முதல் <b>11-ம் வகுப்பு</b> வரை மாணவர்கள் பங்கேற்பு"
+      ]
+     },
+     {
+      "title": "மாணவர்களின்",
+      "lines": [
+       "மாணவர்கள் தாங்களே உருவாக்கிய மாதிரிகளைக் காட்சிப்படுத்தினர்",
+       "கண்டுபிடிப்புகள், அறிவியல் திட்டங்களையும் காட்சிப்படுத்தினர்",
+       "அவற்றின் செயல்பாடுகள், பயன்கள் குறித்து விளக்கினர்"
+      ]
+     },
+     {
+      "title": "பரிசு விவரம்",
+      "lines": [
+       "பெற்றோர்கள் கண்காட்சியைப் பார்வையிட்டு பாராட்டினர்",
+       "சிறந்த படைப்புகள் தேர்வு செய்யப்பட்டுள்ளன",
+       "<b>150-க்கும் மேற்பட்ட</b> மாணவர்களுக்குக் குழந்தைகள் தின"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் மாவட்டம் அமராவதிபாளையம் டி கே டி குளோபல் பப்ளிக் பள்ளியில் அறிவியல் கண்காட்சி நடைபெற்றது. 'ஸ்பார்க் சயின்ஸ்' என்ற தலைப்பில் இந்தக் கண்காட்சி நடத்தப்பட்டது. மழலையர் வகுப்பு முதல் 11ஆம் வகுப்பு வரையிலான மாணவர்கள் இதில் பங்கேற்றனர். மாணவர்கள் தாங்களே உருவாக்கிய செயல்முறை மாதிரிகள், கண்டுபிடிப்புகள் மற்றும் அறிவியல் திட்டங்களைக் காட்சிப்படுத்தினர். அவற்றின் செயல்பாடுகள், பயன்கள் குறித்துப் பார்வையாளர்களுக்கு விளக்கினர். பெற்றோர்கள் கண்காட்சியைப் பார்வையிட்டு மாணவர்களின் படைப்பாற்றலைப் பாராட்டினர். கண்காட்சியில் சிறந்த படைப்புகள் தேர்வு செய்யப்பட்டுள்ளன. அந்தப் படைப்புகளை உருவாக்கிய 150க்கும் மேற்பட்ட மாணவர்களுக்குக் குழந்தைகள் தின விழாவில் பரிசுகளும் பாராட்டுச் சான்றிதழ்களும் வழங்கப்பட உள்ளன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🔬 அமராவதிபாளையம் பள்ளியில் அறிவியல் கண்காட்சி: 150+ மாணவர்களுக்குப் பரிசு\n\n📰 முழு விவரம்:\nஅமராவதிபாளையம் டி.கே.டி. குளோபல் பப்ளிக் பள்ளியில் 'ஸ்பார்க் சயின்ஸ்' என்ற தலைப்பில் அறிவியல் கண்காட்சி நடைபெற்றது.\nமழலையர் வகுப்பு முதல் 11ஆம் வகுப்பு வரையிலான மாணவர்கள் தாங்களே உருவாக்கிய செயல்முறை மாதிரிகள், கண்டுபிடிப்புகள், அறிவியல் திட்டங்களைக் காட்சிப்படுத்தினர்.\nஅவற்றின் செயல்பாடுகள், பயன்கள் குறித்துப் பார்வையாளர்களுக்கு விளக்கினர்.\nபெற்றோர்கள் கண்காட்சியைப் பார்வையிட்டு மாணவர்களின் படைப்பாற்றலைப் பாராட்டினர்.\nசிறந்த படைப்புகள் தேர்வு செய்யப்பட்டுள்ளன. அவற்றை உருவாக்கிய 150க்கும் மேற்பட்ட மாணவர்களுக்குக் குழந்தைகள் தின விழாவில் பரிசுகளும் பாராட்டுச் சான்றிதழ்களும் வழங்கப்பட உள்ளன.\n\n📍 இடம்: அமராவதிபாளையம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: 13 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: பரிசு வழங்கும் விழா குழந்தைகள் தின விழாவில் நடைபெற உள்ளது.\n\nDKT Global school science exhibition Tirupur | Tirupur news\n📍 அமராவதிபாளையம், திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A group of school students in Tamil Nadu school uniform stand beside their handmade science models at a long exhibition table inside the hall of DKT Global Public School in Amaravathipalayam, Tirupur. Each table holds working models made of cardboard, wood, wires and small motors, with project boards standing behind them. A few students are pointing towards their models as if explaining how they work to visitors, while parents and teachers stand in the aisle between the tables, seen from behind and slightly blurred. The hall is bright with daylight coming through large windows, and rows of folding chairs and banners line the back wall. Shot at eye level with a 35 mm lens, wide enough to show the full exhibition room and the crowd of visitors. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a student's handmade science project on a school exhibition table in Amaravathipalayam, Tirupur. The model is built from cardboard, plastic pipes, copper wires, a small battery and a tiny motor, with a few colourful paper sheets arranged around its base. A child's hand rests on the edge of the table, and the blurred shoulders of a visitor are visible at the edge of the frame. Daylight from a nearby window falls softly on the table, and the background is a row of other student projects slightly out of focus. Shot slightly high with a 35 mm lens to emphasise the hands-on creation and the detail of the working model. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tkd-global-school-science-exhibition/4375330",
+   "published": "2026-11-13T19:36:27+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586829/tirupur360/mdepmffeow5zanghgeyo.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794586832/tirupur360/thl40fbomzem3gdlze6r.jpg"
    ]
   }
  ]
