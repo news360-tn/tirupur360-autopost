@@ -1,17 +1,17 @@
-06:08:17 SKIP RN-4 held: fact-check problems - numbers not found in the article: 23457
+06:20:26 SKIP RN-4 held: fact-check problems - numbers not found in the article: 23457
 ::warning title=Held from posting RN-4::held: fact-check problems - numbers not found in the article: 23457
-06:08:17 SKIP RN-6 held: location is only the district - the town from the article is missing
+06:20:26 SKIP RN-6 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-6::held: location is only the district - the town from the article is missing
-06:08:18 SKIP RN-13 held: fact-check problems - numbers not found in the article: 10
+06:20:27 SKIP RN-13 held: fact-check problems - numbers not found in the article: 10
 ::warning title=Held from posting RN-13::held: fact-check problems - numbers not found in the article: 10
-06:08:21 story catch-up tirupur: quota 33/50, 18 recent posts, 15 live stories, owner ids ['17841480869502038', '28970570925957553']
-06:08:45 story catch-up tirupur: post 18023675936942119 not shared (Instagram container 17866499589695651 ERROR) - tried again next run
-06:08:45 4 stories in the queue, ready to post: 1
-06:08:45   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'tirupur_link', 'verification']
-06:08:45    RN-4 review= 'Auto' images= 100 spec= 635 pages= ['tirupur'] links= '' '' age_h= 19.1 ready= False set_started= True
-06:08:45    RN-6 review= 'Auto' images= 100 spec= 923 pages= ['tirupur'] links= '' '' age_h= 19.0 ready= False set_started= True
-06:08:45    RN-13 review= 'Auto' images= 199 spec= 726 pages= ['tirupur'] links= '' '' age_h= 8.3 ready= False set_started= True
-06:08:45    RN-20 review= 'Auto' images= 199 spec= 669 pages= ['tirupur'] links= '' '' age_h= 0.6 ready= True set_started= True
-06:08:47 publishing quota tirupur: 33/50
-06:08:49 instagram duplicate check tirupur: 18 recent posts read
-06:08:49    RN-20 waits for the 12-minute gap after the last post on ['tirupur']
+06:20:32 story catch-up tirupur: quota 33/50, 18 recent posts, 15 live stories, owner ids ['17841480869502038', '28970570925957553']
+06:21:08 story catch-up tirupur: post 18023675936942119 not shared (Instagram container 17866501470695651 ERROR) - tried again next run
+06:21:42 story catch-up tirupur: post 17995224444075108 not shared (Instagram container 17866501704695651 ERROR) - tried again next run
+06:21:42 4 stories in the queue, ready to post: 1
+06:21:42   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'tirupur_link', 'verification']
+06:21:42    RN-4 review= 'Auto' images= 100 spec= 635 pages= ['tirupur'] links= '' '' age_h= 19.3 ready= False set_started= True
+06:21:42    RN-6 review= 'Auto' images= 100 spec= 923 pages= ['tirupur'] links= '' '' age_h= 19.2 ready= False set_started= True
+06:21:42    RN-13 review= 'Auto' images= 199 spec= 726 pages= ['tirupur'] links= '' '' age_h= 8.5 ready= False set_started= True
+06:21:42    RN-20 review= 'Auto' images= 199 spec= 669 pages= ['tirupur'] links= '' '' age_h= 0.8 ready= True set_started= True
+06:21:44 publishing quota tirupur: 33/50
+06:21:46 instagram duplicate check tirupur: 18 recent posts read
