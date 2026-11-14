@@ -23,7 +23,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T17:47:39.438014+05:30"
+   "listed_at": "2026-11-13T17:47:39.438014+05:30",
+   "picked_at": "2026-11-14T09:50:49.325765+05:30"
   },
   "C59656d8": {
    "id": "C59656d8",
@@ -62,7 +63,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/seemaikaruvela-tree-removed-in-467-acres-in-tiruppur/4375240"
    ],
-   "listed_at": "2026-11-13T20:15:59.080822+05:30"
+   "listed_at": "2026-11-13T20:15:59.080822+05:30",
+   "picked_at": "2026-11-14T09:50:49.325757+05:30"
   },
   "Cfcc05ef": {
    "id": "Cfcc05ef",
@@ -86,7 +88,8 @@
    "category": "பொது",
    "score": 4.0,
    "power_cut": false,
-   "listed_at": "2026-11-14T01:44:52.230617+05:30"
+   "listed_at": "2026-11-14T01:44:52.230617+05:30",
+   "picked_at": "2026-11-14T09:50:49.325761+05:30"
   },
   "C1ab4406": {
    "id": "C1ab4406",
@@ -448,8 +451,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-14T10:49:27.780831+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 10:49 AM - automatic top 3",
+    "ids": [
+     "C33b66ec",
+     "C1e20fd6",
+     "Cac4d6b3"
+    ],
+    "at": "2026-11-14T09:50:49.325735+05:30"
+   },
+   "written": [
+    "C1e20fd6",
+    "C33b66ec",
+    "Cac4d6b3"
+   ]
   }
  },
  "retry": {}
