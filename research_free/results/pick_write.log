@@ -1,296 +1,113 @@
-writing [N]: குழந்தைகள் தினத்தில் திருப்பூர் சிறுமிக்கு பாலியல் தொல்லை! வ
+writing [N]: ஆடை ஏற்றுமதியில் புதிய உச்சம் தொடலாம்! ஏ.இ.பி.சி., தலைவர் சக
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-writing [N]: திருப்பூருக்கு அரசு தேவையான உதவிகளை செய்யும்! பின்னலாடை வாரி
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-writing [N]: ஜவுளி தொழில்நுட்ப மைய திட்டத்துக்கு கருத்து கேட்கணும்! திருப
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-switching away from gemini/gemini-3.6-flash for 10 min
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-switching away from gemini/gemini-3.6-flash for 10 min
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-switching away from gemini/gemini-3.5-flash for 10 min
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('நாமக்கல் பள்ளிபாளையம் அருகே நள்ளிரவில் தெருவிளக்குகளை அணைத்த')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
-ok gemini/gemini-3.5-flash (48s)
-attempt 1 gemini/gemini-3.5-flash: 3 problems
-  reel_script has 85 words; need 88-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 27 ('திருத்திய பட்ஜெட்டில் (2026 – 27), திருப்பூரில் ரூ.10 கோடி ம')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
-ok gemini/gemini-3-flash-preview (12s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  numbers not found in the article: 7
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 13 ('இந்நிலையில், பின்னலாடை வாரியத்தின் முதல் ஆலோசனை கூட்டம், கலெ'); 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (12s)
-attempt 2 gemini/gemini-3-flash-preview: 2 problems
-  reel_script has 88 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (16s)
-attempt 2 gemini/gemini-3-flash-preview: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-ok gemini/gemini-3-flash-preview (11s)
-attempt 2 gemini/gemini-3-flash-preview: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (12s)
-attempt 3 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 20 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  numbers not found in the article: 7
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (10s)
-attempt 3 gemini/gemini-3-flash-preview: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 27 ('திருத்திய பட்ஜெட்டில் (2026 – 27), திருப்பூரில் ரூ.10 கோடி ம')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (16s)
-attempt 4 gemini/gemini-3-flash-preview: 2 problems
-  numbers not found in the article: 7
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (13s)
-attempt 4 gemini/gemini-3-flash-preview: 2 problems
-  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (15s)
-attempt 3 gemini/gemini-3-flash-preview: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி'); 50 ('மதுரையில் பிரபல நகைக்கடை தனிஷ்க்-ல் 50 கோடி மதிப்புள்ள நகை க'); 1 ('காஞ்சிபுரத்தில் டாஸ்மாக் வசூல் பணம் 1.5 கோடி கொள்ளை..பெண் மா'); 5 ('காஞ்சிபுரத்தில் டாஸ்மாக் வசூல் பணம் 1.5 கோடி கொள்ளை..பெண் மா')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (11s)
-attempt 5 gemini/gemini-3-flash-preview: 2 problems
-  reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (11s)
-attempt 5 gemini/gemini-3-flash-preview: 2 problems
-  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (13s)
-attempt 4 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (14s)
-attempt 6 gemini/gemini-3-flash-preview: 2 problems
-  numbers not found in the article: 7
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-ok gemini/gemini-3-flash-preview (12s)
-attempt 6 gemini/gemini-3-flash-preview: 2 problems
-  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 27 ('திருத்திய பட்ஜெட்டில் (2026 – 27), திருப்பூரில் ரூ.10 கோடி ம')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-ok gemini/gemini-3-flash-preview (14s)
-attempt 5 gemini/gemini-3-flash-preview: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('நாமக்கல் பள்ளிபாளையம் அருகே நள்ளிரவில் தெருவிளக்குகளை அணைத்த')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-switching away from gemini/gemini-3-flash-preview for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok gemini/gemini-3-flash-preview (15s)
-attempt 6 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/qwen/qwen3.8-27b (5s)
-attempt 7 groq/qwen/qwen3.8-27b: 2 problems
-  reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok gemini/gemini-3.6-flash (23s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
   reel_script sentence 1 (heard in the first 3 seconds) must name the place 'திருப்பூர்' and the news itself, e.g. 'திருப்பூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 88 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-not available on this plan: groq/qwen/qwen3.8-27b
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-free models unavailable: no free model answered: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read t
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 95 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 84 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The reel_script says the project report was prepared for the 'textile technology centre' and that SIMA gave the report 'to the government' — roughly consistent, but the reel_script's claim that SIMA 'gave the report' is fine; however the caption states the centre 'will be set up' with Rs 10 crore, which the article supports.
-  The reel_script and caption describe Damodaran as the 'joint secretary' of the Southern India Banian Manufacturers Association, but the article gives the full name as 'தென்னிந்திய பனியன் உற்பத்தியாளர் சங்க (சைமா) இணை செயலாளர்' — this matches, so no problem here.
-  The reel_script says 'Tiruppur ... Rs 45,000 crore in knitwear exports' and the slides say 'Tiruppur export annual Rs 45,000 crore' — matches the article.
-  The caption's description 'சீனா இத்துறையில் முன்னேறி வருவதால் ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' mixes two facts into one sentence: the article says China is advancing and separately that SIMA gave the report; the causal link ('since China is advancing, SIMA submitted the report') is not stated in the article.
-  The reel_script states 'இதையடுத்து ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' ('following this, SIMA submitted a detailed report'), introducing a sequence/cause that the article does not state.
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The reel_script says the project report was prepared for the 'textile technology centre' and that SIMA gave the report 'to the government' — roughly consistent, but the reel_script's claim that SIMA 'gave the report' is fine; however the caption states the centre 'will be set up' with Rs 10 crore, which the article supports.
-  fact-check: The reel_script and caption describe Damodaran as the 'joint secretary' of the Southern India Banian Manufacturers Association, but the article gives the full name as 'தென்னிந்திய பனியன் உற்பத்தியாளர் சங்க (சைமா) இணை செயலாளர்' — this matches, so no problem here.
-  fact-check: The reel_script says 'Tiruppur ... Rs 45,000 crore in knitwear exports' and the slides say 'Tiruppur export annual Rs 45,000 crore' — matches the article.
-  fact-check: The caption's description 'சீனா இத்துறையில் முன்னேறி வருவதால் ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' mixes two facts into one sentence: the article says China is advancing and separately that SIMA gave the report; the causal link ('since China is advancing, SIMA submitted the report') is not stated in the article.
-  fact-check: The reel_script states 'இதையடுத்து ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' ('following this, SIMA submitted a detailed report'), introducing a sequence/cause that the article does not state.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
-ok anthropic/claude-haiku-5-5
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+ok gemini/gemini-3.5-flash (15s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
+ok gemini/gemini-3.5-flash (4s)
+factcheck by gemini/gemini-3.5-flash: 2 problems
+  The headline, reel_script, and slides attribute the 30% export growth (Rs 12,290 crore) to Tiruppur specifically, whereas the article states it refers to India's total garment exports ('இந்தியாவின் ஆயத்த ஆடை ஏற்றுமதி').
+  Typo in slides_spec hl1: 'திருமுப்பூரில்' instead of 'திருப்பூரில்'.
+attempt 2 gemini/gemini-3.5-flash: 2 problems
+  fact-check: The headline, reel_script, and slides attribute the 30% export growth (Rs 12,290 crore) to Tiruppur specifically, whereas the article states it refers to India's total garment exports ('இந்தியாவின் ஆயத்த ஆடை ஏற்றுமதி').
+  fact-check: Typo in slides_spec hl1: 'திருமுப்பூரில்' instead of 'திருப்பூரில்'.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
+ok gemini/gemini-3.5-flash (17s)
+attempt 3 gemini/gemini-3.5-flash: 2 problems
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'திருப்பூர்' and the news itself, e.g. 'திருப்பூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('டாலர் மதிப்பில் 20 சதவீதமும், ரூபாய் மதிப்பில் 30 சதவீதமும் ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (20s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (10s)
+factcheck by gemini/gemini-3-flash-preview: 2 problems
+  The headline and reel script incorrectly attribute India's national garment export figures (30% growth and ₹12,290 crore) to Tirupur alone, whereas the article specifies these are India's total export figures.
+  The caption hashtag mentions the year '2026', which is an invented detail not found in the article.
+attempt 4 gemini/gemini-3.5-flash: 2 problems
+  fact-check: The headline and reel script incorrectly attribute India's national garment export figures (30% growth and ₹12,290 crore) to Tirupur alone, whereas the article specifies these are India's total export figures.
+  fact-check: The caption hashtag mentions the year '2026', which is an invented detail not found in the article.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-real photo: vision check unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 5 groq/qwen/qwen3.8-27b: 2 problems
+  numbers not found in the article: 7
+  hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your p
 ok anthropic/claude-haiku-5-5
-image match: False The photo shows an official government departmental or administrative meeting featuring uniformed personnel, which does 
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
-images made: 2 for 'Govt will extend needed help to Tirupur:'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261114-1356","first":"RN-25"}
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 8
+  hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'திருப்பூர்' and the news itself, e.g. 'திருப்பூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (3s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+image match: True The photo depicts a speech being given at an AEPC (Apparel Export Promotion Council) event in Tirupur.
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Tirupur garment exports may reach a new '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261114-1734","first":"RN-27"}
 posting job started at once
-real photo not this news (The image is a generic stock photograph of clothing racks and a mannequin in a s): https://images.dinamalar.com/data/large_2025/Tamil_News_lrg_43756422026111403533
-image match: False The image is an AI-generated stock illustration depicting a generic meeting overlooking a garment factory floor, rather 
-image match: False The image is an AI-generated visualization of a meeting near sewing equipment, not an authentic photograph from the news
-image match: False The photo is a generic stock image showing a stack of colorful fabric swatches and paper on a desk, not a specific event
-image match: False The image is a generic stock photo showing folded fabric samples and papers, not an actual news photo showing the Tirupu
-images made: 2 for 'Tirupur textile technology centre: ₹10 c'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261114-1357","first":"RN-26"}
 earlier stories still waiting for images: []
-instagram check: 24 recent posts read from the page
+instagram check: 26 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://tamil.oneindia.com/news/chennai/edappadi-palanisamy-criticises-cm-vijay-regime-over-assault-on-children-845085.html
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/government-will-provide-necessary-assistance-to-tiruppur-minister-arunraj-assures-in-the-board-meeting/4375427
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/textile-technology-centre-to-seek-feedback-on-project-help-for-tiruppur-tiruppur-industry-expects/4375642
-candidate filter: collected=3
-to write: 3 Tirupur district candidates (max 3 stories)
-round: top 3 of 3 candidates
-candidates waiting: 3 Tirupur; time left 79 min
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/aebc-chief-shaktivel-confident-of-scaling-new-heights-in-apparel-exports/4375949
+candidate filter: collected=1
+to write: 1 Tirupur district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Tirupur; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
-try (N) manual=True: https://tamil.oneindia.com/news/chennai/edappadi-palanisamy-
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-NOT filed (N) குழந்தைகள் தினத்தில் திருப்பூர் சிறுமிக்கு பாலியல்: duplicate after write
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 71 min
-filed: 2 Tirupur district stories (target 3), reels only
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min
+filed: 1 Tirupur district stories (target 1), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":3,"updated":0} 
-stories: 2
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
