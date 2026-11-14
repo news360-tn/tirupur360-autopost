@@ -81,34 +81,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-13 | `c9f609a` | goldrate: daily gold & silver rate carousel on this page (owner 14 Nov) - same job as Namakkal 360, own logo and handle |
-| 2026-11-13 | `3e45394` | stories shared |
-| 2026-11-13 | `ad80af1` | reel: Namakkal 360 design (look A) on this page - premium look P switched off; waiting reels made again (cache r6) (owner 13 Nov 23:10) |
-| 2026-11-13 | `0a66d54` | powercut: notices written |
-| 2026-11-13 | `019031c` | posting: no start-time wait - every eligible story posts as soon as it is ready (prime_time OFF); collection stays every 4 hours (owner 13 Nov 22:51) |
-| 2026-11-13 | `16945f0` | powercut: notices written |
-| 2026-11-13 | `cc4eac1` | powercut: notices written |
-| 2026-11-13 | `53085ae` | pick: written and posted |
-| 2026-11-13 | `f7a926f` | pick: picked news saved |
-| 2026-11-13 | `a377efa` | pick: picked news saved |
-| 2026-11-13 | `1c5eee6` | pick: list sent |
-| 2026-11-13 | `878531b` | powercut: notices written |
-| 2026-11-13 | `1310705` | powercut: notices written |
-| 2026-11-13 | `98eaca5` | powercut: notices written |
-| 2026-11-13 | `22c1caf` | pick: written and posted |
-| 2026-11-13 | `b1aa4a4` | pick: picked news saved |
-| 2026-11-13 | `dd1b0db` | pick: picked news saved |
-| 2026-11-13 | `f5d6ea6` | pick: list sent |
-| 2026-11-13 | `90f058f` | stories shared |
-| 2026-11-13 | `93d2967` | powercut: notices written |
-| 2026-11-13 | `cbbe2d0` | powercut: notices written |
-| 2026-11-13 | `9314ad3` | reel: premium story panel (owner 13 Nov) - photo top 60 %, emerald panel with the headline and captions, champagne gold, ivory cards, serif Tamil headline, no black; district map + town pin (OpenStreetMap), word-by-word headline, count-up numbers, news-type layer (power-cut time bar / accident / rain / police), smooth loop, light sound effects. Voice, timing and facts unchanged |
-| 2026-11-13 | `c5f58ec` | powercut: notices written |
-| 2026-11-13 | `dcde5b6` | pick: written and posted |
-| 2026-11-13 | `d940593` | pick: picked news saved |
-| 2026-11-13 | `79f771f` | pick: picked news saved |
-| 2026-11-13 | `13889d5` | pick: list sent |
-| 2026-11-13 | `3507b45` | 2 pictures per reel (owner 13 Nov): the news article's own photos first (vision-checked), one photo -> a closer crop as the second, none -> 2 AI pictures |
-| 2026-11-13 | `399c047` | powercut: notices written |
-| 2026-11-13 | `e7200a4` | powercut: notices written |
+| 2026-11-14 | `afa58cc` | posting: Gmail daily email limit no longer counts as a failed post record (sheet row is already saved - no 5x retries); checker notes ending 'so not a problem' no longer hold a story (14 Nov) |
+| 2026-11-14 | `5f1c14a` | powercut: notices written |
+| 2026-11-14 | `d8ab8f3` | powercut: notices written |
+| 2026-11-14 | `be9a92b` | powercut: notices written |
+| 2026-11-14 | `a045c56` | powercut: notices written |
+| 2026-11-14 | `17a7dc9` | stories shared |
+| 2026-11-14 | `360695b` | powercut: notices written |
+| 2026-11-14 | `33646e8` | powercut: notices written |
+| 2026-11-14 | `5a3bb25` | pick: written and posted |
+| 2026-11-14 | `10c13ec` | goldrate posted |
+| 2026-11-14 | `12d7525` | powercut: notices written |
+| 2026-11-14 | `1753e0f` | pick: picked news saved |
+| 2026-11-14 | `7b25dd5` | pick: picked news saved |
+| 2026-11-14 | `8d712b4` | pick: list sent |
+| 2026-11-14 | `6b0c63c` | powercut: notices written |
+| 2026-11-14 | `90be569` | powercut: notices written |
+| 2026-11-14 | `77707e7` | stories shared |
+| 2026-11-14 | `cf06d1d` | powercut: notices written |
+| 2026-11-14 | `4cf2eb1` | powercut: notices written |
+| 2026-11-14 | `ab561a5` | rasipalan posted |
+| 2026-11-14 | `c58e63f` | powercut: notices written |
+| 2026-11-14 | `e4ca268` | powercut: notices written |
+| 2026-11-14 | `d2170cb` | pick: written and posted |
+| 2026-11-14 | `fdb6253` | pick: picked news saved |
+| 2026-11-13 | `fa62742` | pick: picked news saved |
+| 2026-11-13 | `6d3deff` | pick: list sent |
+| 2026-11-13 | `e56ac02` | stories shared |
+| 2026-11-13 | `b07f598` | pick: written and posted |
+| 2026-11-13 | `048a9f8` | stories shared |
+| 2026-11-13 | `0841b55` | pick: picked news saved |
 <!-- recent-changes:end -->
