@@ -1,125 +1,192 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 26 recent posts read from the page",
+  "instagram check: 27 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/aebc-chief-shaktivel-confident-of-scaling-new-heights-in-apparel-exports/4375949",
-  "candidate filter: collected=1",
-  "to write: 1 Tirupur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/சேவூா்-அருகே-தேனீ-கடித்து-விவசாயி-உயிரிழப்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/கஞ்சா-குட்கா-மது-லாட்டரி-விற்ற-6-போ்-கைது",
+  "candidate filter: collected=2",
+  "to write: 2 Tirupur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
-  "filed: 1 Tirupur district stories (target 1), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
+  "filed: 2 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (23s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.5-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (4s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3.5-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (1s)"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர்: ஆடை ஏற்றுமதியில் புதிய உச்சம் தொடலாம் - ஏ.இ.பி.சி. தலைவர் நம்பிக்கை",
-   "english_headline": "Tirupur garment exports may reach a new peak, says AEPC chairman Shakthivel",
-   "category": "Business & Prices",
-   "location": "Tirupur, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
+   "tamil_headline": "இடுவாய் உள்ளிட்ட திருப்பூர் பகுதிகளில் கஞ்சா, குட்கா, மது, லாட்டரி விற்ற 6 பேர் கைது",
+   "english_headline": "6 arrested in raids across Tirupur including Iduvai for selling ganja, gutka, liquor and lottery tickets",
+   "category": "Crime & Safety",
+   "location": "Iduvai, Tirupur district",
+   "importance": "High",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ஏற்றுமதி",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர் ஆடை ஏற்றுமதி புதிய உச்சம்",
-    "hl2": "அக். மாதம் 30% வளர்ச்சி",
+    "cat": "குற்றச்செய்தி",
+    "loc": "இடுவாய், திருப்பூர்",
+    "hl1": "இடுவாய்: கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
+    "hl2": "3.1 கிலோ கஞ்சா பறிமுதல்",
     "slides": [
      {
-      "title": "அக். மாத வளர்ச்சி",
+      "title": "இடுவாய் கஞ்சா",
       "lines": [
-       "ஆயத்த ஆடை ஏற்றுமதி <b>30%</b> வளர்ச்சி கண்டது",
-       "ஒரே மாதத்தில் <b>ரூ.12,290 கோடி</b> மதிப்புள்ள ஆடைகள் ஏற்றுமதி",
-       "டாலர் மதிப்பில் <b>20%</b>, ரூபாய் மதிப்பில் <b>30%</b> வளர்ச்சி"
+       "மங்கலம் எல்லை <b>இடுவாய்</b> அருகே சோதனை",
+       "<b>3.100 கிலோ</b> கஞ்சா பறிமுதல்",
+       "27, 18, 18 வயது <b>3 பேர் கைது</b>"
       ]
      },
      {
-      "title": "தலைவர் கருத்து",
+      "title": "காந்திநகர் குட்கா",
       "lines": [
-       "ஏ.இ.பி.சி. தலைவர் சக்திவேல் நம்பிக்கை தெரிவித்தார்",
-       "ஏற்றுமதியாளர்களிடம் கணிசமான ஆர்டர்கள் உள்ளன",
-       "போதிய தொழிலாளர்கள் கிடைக்காதது முக்கிய சவால்"
+       "காந்திநகர் பேருந்து நிறுத்தம் அருகே அதிரடி",
+       "<b>5.340 கிலோ</b> குட்கா பறிமுதல்",
+       "60 வயது முதியவர் கைது"
       ]
      },
      {
-      "title": "அரசின் பங்கு",
+      "title": "லாட்டரி, மது",
       "lines": [
-       "திறன் மேம்பாட்டுப் பயிற்சி அவசியம் என வலியுறுத்தல்",
-       "தொழில்துறை, அரசுகள், ஏ.இ.பி.சி. ஒருங்கிணைந்து செயல்பட",
-       "ஜனவரியில் 'பாரத் டெக்ஸ்' கண்காட்சி நடைபெறவுள்ளது"
+       "காந்திநகரில் லாட்டரி விற்ற <b>39 வயது நபர்</b> கைது",
+       "செவந்தாம்பாளையத்தில் மது விற்ற <b>32 வயது நபர்</b> கைது",
+       "நல்லூர் காவல் துறை தீவிர விசாரணை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர்-இல் ஆடை ஏற்றுமதி புதிய உச்சத்தை தொடலாம் என ஏ இ பி சி தலைவர் சக்திவேல் நம்பிக்கை தெரிவித்தார். கடந்த அக்டோபர் மாதத்தில் இந்தியாவின் ஆயத்த ஆடை ஏற்றுமதி முந்தைய ஆண்டைவிட 30 சதவீதம் வளர்ச்சி கண்டுள்ளது. ஒரே மாதத்தில் ரூ.12,290 கோடி மதிப்புள்ள ஆடைகள் ஏற்றுமதி செய்யப்பட்டுள்ளன. டாலர் மதிப்பில் 20 சதவீதமும், ரூபாய் மதிப்பில் 30 சதவீதமும் வளர்ச்சி ஏற்பட்டுள்ளது. சர்வதேச சந்தையில் இந்திய ஆடைகளுக்கான தேவை அதிகரித்து வருவதை இது காட்டுகிறது. ஏற்றுமதியாளர்களிடம் கணிசமான அளவில் ஆர்டர்கள் உள்ளன. ஆனால் அவற்றை உரிய காலத்தில் நிறைவேற்ற போதிய தொழிலாளர்கள் கிடைக்கவில்லை என்பது முக்கிய சவாலாக உள்ளது. இதற்குத் திறன் மேம்பாட்டுப் பயிற்சி, தொழிலாளர் திரட்டல் போன்ற நடவடிக்கைகள் அவசியம் என அவர் வலியுறுத்தினார். ஜப்பான், லண்டன், டென்மார்க், நியூயார்க், துபாய் உள்ளிட்ட சர்வதேச சந்தைகளில் புதிய வர்த்தக வாய்ப்புகளை உருவாக்க ஏ இ பி சி நடவடிக்கை எடுத்து வருகிறது. ஜனவரியில் நடைபெற உள்ள 'பாரத் டெக்ஸ்' கண்காட்சியும் முக்கிய வர்த்தகத் தளமாக அமையும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧵 திருப்பூர் ஆடை ஏற்றுமதியில் புதிய உச்சம் தொடலாம்: ஏ.இ.பி.சி. நம்பிக்கை\n\n📰 முழு விவரம்:\nஆயத்த ஆடை ஏற்றுமதி மேம்பாட்டு கவுன்சில் (ஏ.இ.பி.சி.) தலைவர் சக்திவேல், இந்திய ஆடை ஏற்றுமதியில் புதிய உச்சத்தை எட்ட முடியும் என நம்பிக்கை தெரிவித்தார். கடந்த அக்டோபர் மாதத்தில் ஆயத்த ஆடை ஏற்றுமதி முந்தைய ஆண்டைவிட 30 சதவீதம் வளர்ச்சி கண்டது. ஒரே மாதத்தில் ரூ.12,290 கோடி மதிப்புள்ள ஆடைகள் ஏற்றுமதி செய்யப்பட்டன. போதிய தொழிலாளர்கள் கிடைக்காதது முக்கிய சவாலாக உள்ளதால், திறன் மேம்பாட்டுப் பயிற்சி, தொழிலாளர் திரட்டல் போன்ற நடவடிக்கைகள் அவசியம் என அவர் வலியுறுத்தினார்.\n📈 வளர்ச்சி: டாலர் மதிப்பில் 20%, ரூபாய் மதிப்பில் 30%\n🌍 புதிய வர்த்தக வாய்ப்புகள்: ஜப்பான், லண்டன், டென்மார்க், நியூயார்க், லாஸ் வேகாஸ், பிரான்ஸ், துபாய் சந்தைகளில் ஏ.இ.பி.சி. நடவடிக்கை\n🏭 ஜனவரியில் 'பாரத் டெக்ஸ்' கண்காட்சி நடைபெறும்.\n\nTirupur garment exports may hit new peak, AEPC | Tirupur news\n📍 திருப்பூர், திருப்பூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #ஆடை_ஏற்றுமதி",
-   "prompts": "A man in a formal suit stands behind a podium delivering a speech about garment export growth. PLACE: outside the Tirupur Export Promotion Council office, a modest brick‑and‑glass building in an industrial part of Tirupur city, with a paved forecourt and a few palm trees. PEOPLE: the AEPC chairman Shakthivel (seen from behind) at the podium, plus three officials seated on chairs in the foreground, all in shirts and trousers, listening attentively. VEHICLES / OBJECTS: a police jeep parked to the left, a microphone on the podium, a blurred banner hanging behind the speaker. TIME + LIGHT + WEATHER: mid‑morning, bright daylight, clear sky. CAMERA: eye‑level, 35 mm lens, medium shot framing the speaker, podium and nearby jeep. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose‑up of a stack of export‑ready garment boxes on a loading dock. PLACE: the same Tirupur export facility’s loading area, concrete floor with metal railings and a partially open shipping container in the background. PEOPLE: none visible, the scene focuses on the cargo. VEHICLES / OBJECTS: several cardboard boxes stamped with export markings (blurred), a steel shipping container door ajar revealing rows of folded shirts, a yellow forklift parked nearby. TIME + LIGHT + WEATHER: daylight, soft shadows indicating late morning. CAMERA: slightly high angle, 35 mm lens, tight framing on the boxes and container to highlight the export cargo. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/aebc-chief-shaktivel-confident-of-scaling-new-heights-in-apparel-exports/4375949",
-   "published": "2026-11-14T16:54:36+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூர் இடுவாய் பகுதியில் கஞ்சா விற்ற 3 பேர் கைது. திருப்பூர் மாநகரில் வெள்ளிக்கிழமை காவல் துறையினர் தீவிர சோதனை நடத்தினர். மங்கலம் காவல் எல்லைக்கு உட்பட்ட இடுவாய் பகுதியில் 3.100 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது. இது தொடர்பாக 27 வயது நபர் மற்றும் 18 வயதுடைய இளைஞர்கள் 2 பேர் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டனர். அனுப்பர்பாளையம் எல்லை காந்திநகர் பேருந்து நிறுத்தம் அருகே 5.340 கிலோ குட்கா வைத்திருந்த 60 வயது முதியவர் கைது செய்யப்பட்டார். அதே பகுதியில் லாட்டரி சீட்டுகளை விற்ற 39 வயது நபரும் கைது செய்யப்பட்டார். செவந்தாம்பாளையம் அருகே சட்டவிரோதமாக மது விற்ற 32 வயது நபரை நல்லூர் காவல் துறையினர் கைது செய்தனர். ஒரே நாளில் கஞ்சா, குட்கா, மது மற்றும் லாட்டரி விற்ற 6 பேரை காவல்துறையினர் கைது செய்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகரில் வெள்ளிக்கிழமை காவல்துறையினர் நடத்திய அதிரடி சோதனையில் கஞ்சா, குட்கா, மதுபாட்டில்கள் மற்றும் லாட்டரி சீட்டுகளை விற்ற 6 பேர் கைது செய்யப்பட்டனர். மங்கலம் காவல் எல்லைக்கு உட்பட்ட இடுவாய் அருகே நடத்திய சோதனையில் 3.100 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டு, 27 வயது நபர் மற்றும் 18 வயதுடைய இளைஞர்கள் 2 பேர் என 3 பேர் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டனர். அனுப்பர்பாளையம் எல்லை காந்திநகர் பேருந்து நிறுத்தம் அருகே 5.340 கிலோ குட்கா வைத்திருந்த 60 வயது முதியவர் மற்றும் லாட்டரி விற்ற 39 வயது நபர் ஆகிய 2 பேர் கைதாயினர். செவந்தாம்பாளையம் அருகே சட்டவிரோதமாக மது விற்ற 32 வயது நபரை நல்லூர் காவல் துறையினர் கைது செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: இடுவாய், காந்திநகர், செவந்தாம்பாளையம், திருப்பூர்\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: 6 பேர் கைது, கஞ்சா மற்றும் குட்கா பறிமுதல்\n\nIduvai Tirupur police raid ganja gutka seizure | Tirupur news\n📍 Iduvai, Tirupur | 14 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Iduvai #TirupurNews #திருப்பூர்",
+   "prompts": "A group of Tamil Nadu police officers in khaki cordons off a narrow street in Iduvai, near the Mangalam police‑station boundary, as they handcuff three young men and lead them away; another officer holds a bag of greenish cannabis while a second officer displays packets of brown gutka and a few liquor bottles on a low table. The scene is set on a typical Tirupur lane lined with modest houses and a few street‑side stalls, with a police jeep parked at the curb. Daylight illuminates the street, clear weather, and the camera is at eye level with a 35 mm lens, framing the officers, suspects and seized goods together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of the seized contraband on a police‑set table in Iduvai: a sack spilling dark green cannabis leaves, several small brown gutka packets stacked beside it, a couple of clear liquor bottles with caps, and a fan of colorful lottery tickets fanned out. A police hand in khaki rests on the edge of the table, keeping the items in view, while the background shows a blurred police jeep and the edge of the street. The shot is taken slightly high, using a 35 mm lens to capture the details of the illegal goods clearly in daylight. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/கஞ்சா-குட்கா-மது-லாட்டரி-விற்ற-6-போ்-கைது",
+   "published": "2026-11-14T19:12:55.811Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794657880/tirupur360/pwv6xvjrlt4jf6h9nmyb.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794657883/tirupur360/kz5lp5xwo9ivbvulubu7.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686629/tirupur360/zrcvvzsk4kuumoulhpgx.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686659/tirupur360/bgnkpf1uauq7gjsj7wea.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேவூர் அருகே தேனீ கடித்து விவசாயி உயிரிழப்பு",
+   "english_headline": "Farmer dies after bee attack near Sevur, Avinashi taluk",
+   "category": "Crime & Safety",
+   "location": "Sevur, Avinashi taluk, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விபத்து",
+    "loc": "சேவூர், அவிநாசி",
+    "hl1": "சேவூர் அருகே தேனீ கடித்து விவசாயி",
+    "hl2": "தேன் கூடு கலைந்ததால்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சேவூர் அருகே குமரபாளையத்தில் தேனீ கடித்து விவசாயி உயிரிழப்பு",
+       "தோட்டத்தில் தென்னை ஓலைகளை எரித்தபோது நடந்தது",
+       "புகையால் மரத்தில் இருந்த தேன் கூடு கலைந்தது"
+      ]
+     },
+     {
+      "title": "யார் அவர்?",
+      "lines": [
+       "தண்டுக்காரம்பாளையம், குமரபாளையம்",
+       "தேனீக்கள் அவரைக் கடித்தன",
+       "பலத்த காயத்துடன் கோவை தனியார் மருத்துவமனையில் அனுமதி"
+      ]
+     },
+     {
+      "title": "என்ன நடவடிக்கை?",
+      "lines": [
+       "சிகிச்சைப் பலனின்றி முருகேஷ் உயிரிழந்தார்",
+       "சேவூர் போலீசார் வழக்குப் பதிவு செய்தனர்",
+       "போலீசார் விசாரணை நடத்தி வருகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேவூர் அருகே தேனீ கடித்து 60 வயது விவசாயி முருகேஷ் உயிரிழந்தார். அவிநாசி வட்டம், சேவூர் அருகே உள்ள தண்டுக்காரம்பாளையம், குமரபாளையம், பெரியகாட்டுத் தோட்டத்தைச் சேர்ந்தவர் முருகேஷ். சனிக்கிழமை அன்று அவர் தனது தோட்டத்தில் தென்னை ஓலைகளை எரித்ததாகக் கூறப்படுகிறது. அப்போது உருவான புகையால் மரத்தில் இருந்த தேன் கூடு கலைந்தது. தேனீக்கள் முருகேஷைக் கடித்தன. பலத்த காயமடைந்த அவரை அருகில் இருந்தவர்கள் மீட்டு, கோவை தனியார் மருத்துவமனையில் அனுமதித்தனர். ஆனால் சிகிச்சைப் பலனின்றி அவர் உயிரிழந்தார். இது குறித்து சேவூர் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐝 சேவூர் அருகே தேனீ கடித்து விவசாயி உயிரிழப்பு\n\n📰 முழு விவரம்:\nஅவிநாசி வட்டம், சேவூர் அருகே குமரபாளையத்தில் சனிக்கிழமை தேனீக்கள் கடித்து 60 வயது விவசாயி முருகேஷ் உயிரிழந்தார். தண்டுக்காரம்பாளையம், குமரபாளையம், பெரியகாட்டுத் தோட்டத்தைச் சேர்ந்தவர் அவர். தோட்டத்தில் தென்னை ஓலைகளை எரித்தபோது உருவான புகையால் மரத்தில் இருந்த தேன் கூடு கலைந்து தேனீக்கள் அவரைக் கடித்தன. பலத்த காயமடைந்த அவரை கோவை தனியார் மருத்துவமனையில் அனுமதித்தனர்; சிகிச்சைப் பலனின்றி உயிரிழந்தார்.\n👮 நடவடிக்கை: சேவூர் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nSevur farmer dies after bee attack, Avinashi | Tirupur news\n📍 சேவூர், அவிநாசி வட்டம், திருப்பூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
+   "prompts": "A swarm of bees descends from a tree onto a farmer in a plantation. The main subject is the farmer, seen from behind, standing amidst tall coconut trees while a dense cloud of bees surrounds his upper body. The location is a dense plantation in Kumara Palayam near Sevur, characterized by rows of coconut palms and undergrowth. Nearby, two or three local villagers stand at a safe distance, watching the incident with concern, dressed in simple shirts and trousers. In the foreground, a small pile of burnt coconut leaves smokes, indicating the source of the disturbance. The beehive is visible high up in a tree branch, with bees actively swarming out of it. It is daytime with bright natural light filtering through the leaves. The camera is at eye level, 35mm lens, capturing the full extent of the swarm and the farmer's position within the plantation. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large beehive attached to a tree branch, with bees actively swarming around it. The hive is the central object, showing the dense cluster of bees and the structure of the comb. Smoke from burning coconut leaves is visible in the background, rising from the ground below, indicating the cause of the disturbance. The tree bark is rough and textured, typical of coconut trees in the region. The lighting is natural daylight, highlighting the movement of the bees. The camera is slightly high, focusing on the hive and the immediate area, with the background blurred to emphasize the hive and the smoke. This scene captures the specific object that triggered the event, providing context to the farmer's attack. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/சேவூா்-அருகே-தேனீ-கடித்து-விவசாயி-உயிரிழப்பு",
+   "published": "2026-11-14T19:23:30.322Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686674/tirupur360/a2jmzwrwfrudml06fzo3.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686698/tirupur360/w8h4fygwk2vsiajcritk.jpg"
    ]
   }
  ]
