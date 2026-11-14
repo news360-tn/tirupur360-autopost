@@ -1,210 +1,295 @@
-writing [N]: திருப்பூர் சிறுமி விவகாரம்... தமிழக அரசை கடுமையாக சாடிய எடப்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-writing [N]: கந்தசஷ்டி விழாவில் நாளை சூரசம்ஹாரம்
+writing [N]: குழந்தைகள் தினத்தில் திருப்பூர் சிறுமிக்கு பாலியல் தொல்லை! வ
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-writing [N]: திருப்பூரில் 467 ஏக்கரில் சீமைக்கருவேல மரம் அகற்றம்
+writing [N]: திருப்பூருக்கு அரசு தேவையான உதவிகளை செய்யும்! பின்னலாடை வாரி
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: ஜவுளி தொழில்நுட்ப மைய திட்டத்துக்கு கருத்து கேட்கணும்! திருப
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.6-flash for 10 min
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.6-flash for 10 min
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.5-flash for 10 min
 ok gemini/gemini-3-flash-preview (11s)
 attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('நாமக்கல் பள்ளிபாளையம் அருகே நள்ளிரவில் தெருவிளக்குகளை அணைத்த')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+ok gemini/gemini-3.5-flash (48s)
+attempt 1 gemini/gemini-3.5-flash: 3 problems
+  reel_script has 85 words; need 88-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 27 ('திருத்திய பட்ஜெட்டில் (2026 – 27), திருப்பூரில் ரூ.10 கோடி ம')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+ok gemini/gemini-3-flash-preview (12s)
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 13 ('இந்நிலையில், பின்னலாடை வாரியத்தின் முதல் ஆலோசனை கூட்டம், கலெ'); 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (12s)
+attempt 2 gemini/gemini-3-flash-preview: 2 problems
+  reel_script has 88 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (16s)
+attempt 2 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+ok gemini/gemini-3-flash-preview (11s)
+attempt 2 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (12s)
+attempt 3 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 20 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 7
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (10s)
+attempt 3 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 27 ('திருத்திய பட்ஜெட்டில் (2026 – 27), திருப்பூரில் ரூ.10 கோடி ம')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (16s)
+attempt 4 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (13s)
+attempt 4 gemini/gemini-3-flash-preview: 2 problems
+  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (15s)
+attempt 3 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி'); 50 ('மதுரையில் பிரபல நகைக்கடை தனிஷ்க்-ல் 50 கோடி மதிப்புள்ள நகை க'); 1 ('காஞ்சிபுரத்தில் டாஸ்மாக் வசூல் பணம் 1.5 கோடி கொள்ளை..பெண் மா'); 5 ('காஞ்சிபுரத்தில் டாஸ்மாக் வசூல் பணம் 1.5 கோடி கொள்ளை..பெண் மா')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (11s)
+attempt 5 gemini/gemini-3-flash-preview: 2 problems
+  reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (11s)
+attempt 5 gemini/gemini-3-flash-preview: 2 problems
+  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (13s)
+attempt 4 gemini/gemini-3-flash-preview: 2 problems
   sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (14s)
+attempt 6 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
-ok gemini/gemini-3.6-flash (19s)
-attempt 1 gemini/gemini-3.6-flash: 1 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok gemini/gemini-3-flash-preview (12s)
+attempt 6 gemini/gemini-3-flash-preview: 2 problems
+  reel_script writes ages as newspaper shorthand (ஏற்றுமதியும், 30,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 27 ('திருத்திய பட்ஜெட்டில் (2026 – 27), திருப்பூரில் ரூ.10 கோடி ம')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.6-flash (19s)
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+ok gemini/gemini-3-flash-preview (14s)
+attempt 5 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('நாமக்கல் பள்ளிபாளையம் அருகே நள்ளிரவில் தெருவிளக்குகளை அணைத்த')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+switching away from gemini/gemini-3-flash-preview for 10 min
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (3s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-ok groq/openai/gpt-oss-120b (4s)
-factcheck by groq/openai/gpt-oss-120b: 1 problems
-  Draft says the complaint was sent to "பால்ராஜ் முதல்வருக்கு" whereas the article states it was sent to the personal division (தனிப்பிரிவுக்கு)
-attempt 2 groq/qwen/qwen3.8-27b: 1 problems
-  fact-check: Draft says the complaint was sent to "பால்ராஜ் முதல்வருக்கு" whereas the article states it was sent to the personal division (தனிப்பிரிவுக்கு)
+ok gemini/gemini-3-flash-preview (15s)
+attempt 6 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The article says the Kandasashti festival started on the 10th (no month given), but the draft states it was November 10 (நவம்பர் 10) and repeats the November month for the 16th-day Thirukalyanam, which the article does not specify.
-  The article says Soorasamharam is held at many temples including Thiruvannamalai-area temples; the draft's reel_script says Soorasamharam is at 'Nallur Sri Viswewara Swamy temple' as the 10 a.m. abhishekam location, but the draft's slides_spec line 'நல்லூர் விஸ்வேஸ்வர சுவாமி கோவில்' combined with the 'நல்லூரில் நாளை சூரசம்ஹாரம்' headline and the 6 p.m. event are presented as one event, mixing the Nallur abhishekam with the Soorasamharam at other temples in the caption.
-  The draft's caption and reel_script say the Soorasamharam at Nallur takes place at 6 p.m. after Sakthivel receipt, but the article only says the 6 p.m. Sakthivel-receiving event and Soorasamharam are at the Nallur temple while other temples also hold it; the caption states 'அலகுமலை, மாதப்பூர்' etc. as temples in Tirupur city, a place attribution not stated in the article.
-  The article's Soorasamharam description says Murugan defeats Gajamukasuran, Singamukasuran, Tharakasuran and Surapadman; the draft's reel_script generalizes this to 'அசுரர்களை வதம் செய்யும்' and omits the names of the asuras, which the article presents as the key event detail.
-attempt 1 gemini/gemini-3.6-flash: 4 problems
-  fact-check: The article says the Kandasashti festival started on the 10th (no month given), but the draft states it was November 10 (நவம்பர் 10) and repeats the November month for the 16th-day Thirukalyanam, which the article does not specify.
-  fact-check: The article says Soorasamharam is held at many temples including Thiruvannamalai-area temples; the draft's reel_script says Soorasamharam is at 'Nallur Sri Viswewara Swamy temple' as the 10 a.m. abhishekam location, but the draft's slides_spec line 'நல்லூர் விஸ்வேஸ்வர சுவாமி கோவில்' combined with the 'நல்லூரில் நாளை சூரசம்ஹாரம்' headline and the 6 p.m. event are presented as one event, mixing the Nallur abhishekam with the Soorasamharam at other temples in the caption.
-  fact-check: The draft's caption and reel_script say the Soorasamharam at Nallur takes place at 6 p.m. after Sakthivel receipt, but the article only says the 6 p.m. Sakthivel-receiving event and Soorasamharam are at the Nallur temple while other temples also hold it; the caption states 'அலகுமலை, மாதப்பூர்' etc. as temples in Tirupur city, a place attribution not stated in the article.
-  fact-check: The article's Soorasamharam description says Murugan defeats Gajamukasuran, Singamukasuran, Tharakasuran and Surapadman; the draft's reel_script generalizes this to 'அசுரர்களை வதம் செய்யும்' and omits the names of the asuras, which the article presents as the key event detail.
+ok groq/qwen/qwen3.8-27b (5s)
+attempt 7 groq/qwen/qwen3.8-27b: 2 problems
+  reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'திருப்பூர்' and the news itself, e.g. 'திருப்பூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 90 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The article says the Soorasamharam is held at Nallur and other temples, but the reel_script and slides say Nallur temple is where it starts; the article does not specify Nallur as the main venue of the 6 PM event, which is implied only by the listing order.
-  reel_script opens by saying the Soorasamharam 'starts at Nallur temple at 6 PM', which is not stated in the article; the article only states 6 PM for Soorasamharam in the general list of temples.
-  The draft's tamil_headline and slides state Nallur hosts the 6 PM Soorasamharam, a place/time combination not explicitly stated in the article.
-  The article says the 10 AM special abhishekam is at Nallur, but the draft's caption implies the full Soorasamharam programme (abhishekam through Soorasamharam) runs at Nallur, which the article does not explicitly say.
-  The reel_script says the 4th day (நேற்று) worship happened 'in the temples' generally, which is accurate, but it is then placed directly before Nallur's schedule, merging two facts (yesterday's rituals and tomorrow's Nallur programme) in a confusing way.
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The article says the Soorasamharam is held at Nallur and other temples, but the reel_script and slides say Nallur temple is where it starts; the article does not specify Nallur as the main venue of the 6 PM event, which is implied only by the listing order.
-  fact-check: reel_script opens by saying the Soorasamharam 'starts at Nallur temple at 6 PM', which is not stated in the article; the article only states 6 PM for Soorasamharam in the general list of temples.
-  fact-check: The draft's tamil_headline and slides state Nallur hosts the 6 PM Soorasamharam, a place/time combination not explicitly stated in the article.
-  fact-check: The article says the 10 AM special abhishekam is at Nallur, but the draft's caption implies the full Soorasamharam programme (abhishekam through Soorasamharam) runs at Nallur, which the article does not explicitly say.
-  fact-check: The reel_script says the 4th day (நேற்று) worship happened 'in the temples' generally, which is accurate, but it is then placed directly before Nallur's schedule, merging two facts (yesterday's rituals and tomorrow's Nallur programme) in a confusing way.
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  hl1 (the first headline on screen) must name the place 'அவிநாசி', e.g. 'அவிநாசி: ...' or 'அவிநாசி-இல் ...' - viewers share news of their own area
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 88 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
   sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+not available on this plan: groq/qwen/qwen3.8-27b
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
 ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 77 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('இதுதொடர்பாக அவர் தனது எக்ஸ் தளத்தில் வெளியிட்டுள்ள பதிவில் த')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script names the department as 'ஆனைமலை புலிகள் காப்பக துணை இயக்குநர் அலுவலகம்' (Anamalai Tiger Reserve), but the article says 'ஆனைலை' (Anaimalai/Anaiyalai) Tiger Reserve Deputy Director's office; the name is altered from the source.
-  The reel_script says the 467-acre removal was carried out 'திருப்பூர் மாவட்டத்தில் உயர் நீதிமன்ற உத்தரவுப்படி', which is consistent, but the reel_script's 'அவிநாசியில் 467 ஏக்கர் பரப்பில்' attributes the whole district's 467 acres to Avinashi, whereas the article states the removal was across Tirupur district (Avinashi is only the dateline and the farmer's location), so the location is misattributed.
-  The reel_script and slides say the 467-acre removal is complete ('முற்றிலும் அகற்றப்பட்டுள்ளது') while the article says the remaining work is ongoing; the reel_script's 'மீதமுள்ள பகுதிகளில் அகற்றும் பணி நடந்து வருகிறது' is present, but the caption's first line and the headline state the removal as settled without that qualifier, which is a mixing of facts.
-  The slides_spec 'ஏன் அகற்றம்?' slide states 'முதல்வர் தனிப்பிரிவுக்கு புகார் அனுப்பப்பட்டது' as a separate reason, mixing the complaint (a procedural step) with the cause of removal, and omits that the complaint asked for removal from private lands with fees collected, an important part of the article.
-claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The reel_script names the department as 'ஆனைமலை புலிகள் காப்பக துணை இயக்குநர் அலுவலகம்' (Anamalai Tiger Reserve), but the article says 'ஆனைலை' (Anaimalai/Anaiyalai) Tiger Reserve Deputy Director's office; the name is altered from the source.
-  fact-check: The reel_script says the 467-acre removal was carried out 'திருப்பூர் மாவட்டத்தில் உயர் நீதிமன்ற உத்தரவுப்படி', which is consistent, but the reel_script's 'அவிநாசியில் 467 ஏக்கர் பரப்பில்' attributes the whole district's 467 acres to Avinashi, whereas the article states the removal was across Tirupur district (Avinashi is only the dateline and the farmer's location), so the location is misattributed.
-  fact-check: The reel_script and slides say the 467-acre removal is complete ('முற்றிலும் அகற்றப்பட்டுள்ளது') while the article says the remaining work is ongoing; the reel_script's 'மீதமுள்ள பகுதிகளில் அகற்றும் பணி நடந்து வருகிறது' is present, but the caption's first line and the headline state the removal as settled without that qualifier, which is a mixing of facts.
-  fact-check: The slides_spec 'ஏன் அகற்றம்?' slide states 'முதல்வர் தனிப்பிரிவுக்கு புகார் அனுப்பப்பட்டது' as a separate reason, mixing the complaint (a procedural step) with the cause of removal, and omits that the complaint asked for removal from private lands with fees collected, an important part of the article.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The article says the Soorasamharam is held at many temples across Tirupur, including Thirumurugan Poondi, Avinashi, Malaikoil, Alagumalai and Madhapur temples, but the reel_script and slides_spec frame it as taking place at Nallur ("நல்லூரில்"); the article only mentions Nallur for the morning abhishekam and the 6 PM Sakthivel/Soorasamharam event is listed under the Nallur temple, so the location framing in the headline/loc is only partly supported.
-  The reel_script's first sentence says the Soorasamharam takes place in the Nallur area at 6 PM and then lists other temples, which mixes the Nallur 6 PM event with the general list of temples without clearly stating that the Nallur temple is the main venue.
-  The caption adds a fixed date line 'நவம்பர் 14, சனிக்கிழமை' and English tags; the date and weekday are not stated in the article (only '10-ம் தேதி' and '16-ம் தேதி' appear), so this date detail is invented.
-  The slides_spec 'வரும் விழாக்கள்' slide says 'பக்தர்கள் அனைவரும் கலந்துகொள்ளலாம்', an invented claim not present in the article.
-  The article says the 16th event is the Thirukalyanam (celestial wedding) with annadanam afterward; the reel_script omits that the Thirukalyanam is a wedding of Murugan with Valli and Deivanai, which is a missing key detail rather than an error.
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The article says the Soorasamharam is held at many temples across Tirupur, including Thirumurugan Poondi, Avinashi, Malaikoil, Alagumalai and Madhapur temples, but the reel_script and slides_spec frame it as taking place at Nallur ("நல்லூரில்"); the article only mentions Nallur for the morning abhishekam and the 6 PM Sakthivel/Soorasamharam event is listed under the Nallur temple, so the location framing in the headline/loc is only partly supported.
-  fact-check: The reel_script's first sentence says the Soorasamharam takes place in the Nallur area at 6 PM and then lists other temples, which mixes the Nallur 6 PM event with the general list of temples without clearly stating that the Nallur temple is the main venue.
-  fact-check: The caption adds a fixed date line 'நவம்பர் 14, சனிக்கிழமை' and English tags; the date and weekday are not stated in the article (only '10-ம் தேதி' and '16-ம் தேதி' appear), so this date detail is invented.
-  fact-check: The slides_spec 'வரும் விழாக்கள்' slide says 'பக்தர்கள் அனைவரும் கலந்துகொள்ளலாம்', an invented claim not present in the article.
-  fact-check: The article says the 16th event is the Thirukalyanam (celestial wedding) with annadanam afterward; the reel_script omits that the Thirukalyanam is a wedding of Murugan with Valli and Deivanai, which is a missing key detail rather than an error.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: குழந்தைகள் நாளில் திருப்பூர் மாவட்டத்தில் 11 வயது சி')
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('ஆண்டுக்கு, 45 ஆயிரம் கோடி ரூபாய்க்கு ஏற்றுமதி வர்த்தகம் நடக்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+free models unavailable: no free model answered: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read t
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 95 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 84 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script says the project report was prepared for the 'textile technology centre' and that SIMA gave the report 'to the government' — roughly consistent, but the reel_script's claim that SIMA 'gave the report' is fine; however the caption states the centre 'will be set up' with Rs 10 crore, which the article supports.
+  The reel_script and caption describe Damodaran as the 'joint secretary' of the Southern India Banian Manufacturers Association, but the article gives the full name as 'தென்னிந்திய பனியன் உற்பத்தியாளர் சங்க (சைமா) இணை செயலாளர்' — this matches, so no problem here.
+  The reel_script says 'Tiruppur ... Rs 45,000 crore in knitwear exports' and the slides say 'Tiruppur export annual Rs 45,000 crore' — matches the article.
+  The caption's description 'சீனா இத்துறையில் முன்னேறி வருவதால் ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' mixes two facts into one sentence: the article says China is advancing and separately that SIMA gave the report; the causal link ('since China is advancing, SIMA submitted the report') is not stated in the article.
+  The reel_script states 'இதையடுத்து ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' ('following this, SIMA submitted a detailed report'), introducing a sequence/cause that the article does not state.
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script says the project report was prepared for the 'textile technology centre' and that SIMA gave the report 'to the government' — roughly consistent, but the reel_script's claim that SIMA 'gave the report' is fine; however the caption states the centre 'will be set up' with Rs 10 crore, which the article supports.
+  fact-check: The reel_script and caption describe Damodaran as the 'joint secretary' of the Southern India Banian Manufacturers Association, but the article gives the full name as 'தென்னிந்திய பனியன் உற்பத்தியாளர் சங்க (சைமா) இணை செயலாளர்' — this matches, so no problem here.
+  fact-check: The reel_script says 'Tiruppur ... Rs 45,000 crore in knitwear exports' and the slides say 'Tiruppur export annual Rs 45,000 crore' — matches the article.
+  fact-check: The caption's description 'சீனா இத்துறையில் முன்னேறி வருவதால் ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' mixes two facts into one sentence: the article says China is advancing and separately that SIMA gave the report; the causal link ('since China is advancing, SIMA submitted the report') is not stated in the article.
+  fact-check: The reel_script states 'இதையடுத்து ஒருங்கிணைந்த ஆராய்ச்சி மையம் அமைக்க சைமா அரசிடம் விரிவான அறிக்கை அளித்தது' ('following this, SIMA submitted a detailed report'), introducing a sequence/cause that the article does not state.
 ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match: False The image shows a decorative shrine setup with a Murugan idol and oil lamps, which appears to be AI-generated/artistic s
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Soorasamharam of Kandasashti festival to'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261114-0952","first":"RN-23"}
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி'); 30 ('திருப்பூர்: திருப்பூரில் ஆண்டுக்கு ரூ.45 ஆயிரம் கோடி மதிப்பி')
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+real photo: vision check unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:
+ok anthropic/claude-haiku-5-5
+image match: False The photo shows an official government departmental or administrative meeting featuring uniformed personnel, which does 
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+images made: 2 for 'Govt will extend needed help to Tirupur:'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261114-1356","first":"RN-25"}
 posting job started at once
-real photo: no picture on the source page -> AI pictures
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Seemai karuvelam trees removed from 467 '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261114-0953","first":"RN-24"}
+real photo not this news (The image is a generic stock photograph of clothing racks and a mannequin in a s): https://images.dinamalar.com/data/large_2025/Tamil_News_lrg_43756422026111403533
+image match: False The image is an AI-generated stock illustration depicting a generic meeting overlooking a garment factory floor, rather 
+image match: False The image is an AI-generated visualization of a meeting near sewing equipment, not an authentic photograph from the news
+image match: False The photo is a generic stock image showing a stack of colorful fabric swatches and paper on a desk, not a specific event
+image match: False The image is a generic stock photo showing folded fabric samples and papers, not an actual news photo showing the Tirupu
+images made: 2 for 'Tirupur textile technology centre: ₹10 c'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261114-1357","first":"RN-26"}
 earlier stories still waiting for images: []
-instagram check: 21 recent posts read from the page
+instagram check: 24 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/seemaikaruvela-tree-removed-in-467-acres-in-tiruppur/4375240
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/surasamahara-on-the-occasion-of-kandashasti-tomorrow/4375644
-manual link added: https://www.dailythanthi.com/news/tamilnadu/tiruppur-girl-incident-edappadi-palaniswami-lashes-out-at-the-tamil-nadu-government
+manual link added: https://tamil.oneindia.com/news/chennai/edappadi-palanisamy-criticises-cm-vijay-regime-over-assault-on-children-845085.html
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/government-will-provide-necessary-assistance-to-tiruppur-minister-arunraj-assures-in-the-board-meeting/4375427
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/textile-technology-centre-to-seek-feedback-on-project-help-for-tiruppur-tiruppur-industry-expects/4375642
 candidate filter: collected=3
 to write: 3 Tirupur district candidates (max 3 stories)
 round: top 3 of 3 candidates
 candidates waiting: 3 Tirupur; time left 79 min
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/tiruppur-girl-in
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
-NOT filed (N) திருப்பூர் சிறுமி விவகாரம்... தமிழக அரசை கடுமையாக : duplicate after write
+try (N) manual=True: https://tamil.oneindia.com/news/chennai/edappadi-palanisamy-
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
 posting job started at once
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min
+NOT filed (N) குழந்தைகள் தினத்தில் திருப்பூர் சிறுமிக்கு பாலியல்: duplicate after write
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 71 min
 filed: 2 Tirupur district stories (target 3), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":3,"updated":0} 
