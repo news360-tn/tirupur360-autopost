@@ -81,6 +81,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-14 | `2902da6` | goldrate: import the browser only when slides are made (tests machine has none - fixes the red tests since 13 Nov) |
 | 2026-11-14 | `afa58cc` | posting: Gmail daily email limit no longer counts as a failed post record (sheet row is already saved - no 5x retries); checker notes ending 'so not a problem' no longer hold a story (14 Nov) |
 | 2026-11-14 | `5f1c14a` | powercut: notices written |
 | 2026-11-14 | `d8ab8f3` | powercut: notices written |
@@ -110,5 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `e56ac02` | stories shared |
 | 2026-11-13 | `b07f598` | pick: written and posted |
 | 2026-11-13 | `048a9f8` | stories shared |
-| 2026-11-13 | `0841b55` | pick: picked news saved |
 <!-- recent-changes:end -->
