@@ -1,17 +1,17 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 13 recent posts read from the page",
+  "instagram check: 16 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/husband-stabs-wife-to-death/4375672",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/அரசுப்-பேருந்திலிருந்து-தவறி-விழுந்த-லாரி-ஓட்டுநா்-உயிரிழப்பு",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/cannabis-sale12-year-prison-sentences-for-4-individuals",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/199-lakh-presentation-of-cake-to-children/4375250",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/he-came-to-give-the-cake-he-stood-to-hear-the-grievances-people-appealed-to-the-minister/4375249",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/வெள்ளக்கோவில்-ஐயப்ப-சுவாமி-கோயிலில்-ராகு-கேது-பெயா்ச்சி-வழிபாடு",
   "candidate filter: collected=3",
   "to write: 3 Tirupur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
@@ -24,85 +24,72 @@
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1072 (char 1071)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (30s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (38s)",
+  "ok gemini/gemini-3.6-flash (36s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.5-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (29s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (38s)",
+  "ok gemini/gemini-3.5-flash (22s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3.5-flash (41s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3.5-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "ok groq/qwen/qwen3.8-27b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -111,181 +98,190 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கஞ்சா விற்பனை: 4 பேருக்கு 12 ஆண்டுகள் சிறை",
-   "english_headline": "Ganja trafficking: 4 people get 12 years in jail from Coimbatore court",
-   "category": "Crime & Safety",
-   "location": "Avinashi, Tirupur district",
+   "tamil_headline": "வெள்ளக்கோவில் ஐயப்ப சுவாமி கோயிலில் ராகு-கேது பெயர்ச்சி சிறப்பு வழிபாடு",
+   "english_headline": "Special prayers at Velakovil Ayyappa Swamy temple on Rahu-Ketu transit",
+   "category": "Temples & Events",
+   "location": "Velakovil, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கஞ்சா வழக்கு",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் கஞ்சா: 4 பேருக்கு சிறை",
-    "hl2": "தலா 12 ஆண்டுகள் சிறை",
-    "slides": [
-     {
-      "title": "என்ன வழக்கு?",
-      "lines": [
-       "அவிநாசி அருகே <b>50 கிலோ</b> கஞ்சா கடத்தி விற்பனை",
-       "கடந்த <b>2024</b> ஆம் ஆண்டு வழக்கு பதிவு",
-       "4 பேர் கைது செய்யப்பட்டனர்"
-      ]
-     },
-     {
-      "title": "தீர்ப்பு",
-      "lines": [
-       "கோவை போதைப் பொருள் தடுப்பு நீதிமன்றம் தீர்ப்பு",
-       "4 பேருக்கும் தலா <b>12 ஆண்டுகள்</b> சிறை",
-       "ஒவ்வொருவருக்கும் <b>ரூ.2 லட்சம்</b> அபராதம்"
-      ]
-     },
-     {
-      "title": "குற்றவாளிகள்",
-      "lines": [
-       "மேற்கு வங்க மாநிலத்தைச் சேர்ந்தவர்கள்",
-       "நால்வரும் ஆண்கள்",
-       "வயது <b>22 முதல் 35</b> வரை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அவிநாசி அருகே கஞ்சா கடத்திய நால்வருக்கு 12 ஆண்டுகள் சிறை. கடந்த 2024ஆம் ஆண்டு அவிநாசி அருகே 50 கிலோ கஞ்சா கடத்தி விற்பனை செய்த வழக்கில் நால்வர் கைது செய்யப்பட்டனர். அவிநாசி போலீசார் வழக்குப் பதிவு செய்தனர். இந்த வழக்கு கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் விசாரிக்கப்பட்டது. வெள்ளிக்கிழமை வழங்கப்பட்ட தீர்ப்பில், குற்றம் சாட்டப்பட்ட மேற்கு வங்க மாநிலத்தைச் சேர்ந்த ஷகில்முஸ்தாக், 22 வயது; நார்ஜிஸ் பீபி, 35 வயது; ஹுமாயூன்ஷேக், 26 வயது; பியாருல்ஷேக், 35 வயது ஆகிய நால்வருக்கும் தலா 12 ஆண்டுகள் சிறைத் தண்டனை விதிக்கப்பட்டது. ஒவ்வொருவருக்கும் ரூ.2 லட்சம் அபராதமும் விதிக்கப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அவிநாசியில் கஞ்சா கடத்தல்: 4 பேருக்கு தலா 12 ஆண்டுகள் சிறை\n\n📰 முழு விவரம்:\nஅவிநாசி அருகே கடந்த 2024ஆம் ஆண்டு 50 கிலோ கஞ்சா கடத்தி விற்பனை செய்த வழக்கில் நால்வர் கைது செய்யப்பட்டனர். அவிநாசி போலீசார் வழக்குப் பதிவு செய்தனர். வழக்கு கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் விசாரிக்கப்பட்டது. குற்றம் சாட்டப்பட்ட மேற்கு வங்க மாநிலத்தைச் சேர்ந்த நால்வருக்கும் தலா 12 ஆண்டுகள் சிறைத் தண்டனையும், தலா ரூ.2 லட்சம் அபராதமும் விதிக்கப்பட்டது.\n👮 நடவடிக்கை: அவிநாசி போலீசார் வழக்குப் பதிவு செய்து 4 பேரைக் கைது செய்தனர்\n📍 இடம்: அவிநாசி அருகே\n⚖️ தீர்ப்பு: கோவை போதைப் பொருள் தடுப்பு நீதிமன்றம்\n\nAvinashi ganja case 4 get 12 years jail | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "Inside a Coimbatore narcotics court hall, a judge sits at a raised wooden bench while four accused stand in a row behind a low wooden railing, seen from behind and slightly blurred, in plain shirts and trousers and a woman in a salwar. Tamil Nadu police in khaki stand near the railing. The room has ceiling fans, white walls, a wooden desk with stacked case files and a few papers, and a tricolour-free plain wall. Daylight from tall windows lights the room evenly. Camera at eye level, 35 mm, wide enough to show the whole courtroom and the people standing before the bench. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on a wooden table in a police station room in Avinashi, showing several large sealed packets of dried ganja stacked beside a heap of plastic evidence bags and a bundle of case papers tied with string. A police officer's khaki sleeve and boot are just visible at the edge of the frame, out of focus. Light is a soft daytime window light falling across the table. Camera slightly high, 35 mm, close enough that the packets and bundles fill the frame, with no readable text, labels or signboards. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/cannabis-sale12-year-prison-sentences-for-4-individuals",
-   "published": "2026-11-13T18:28:10.563Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 22 ('இவ்வழக்கு விசாரணை கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் '); 35 ('இவ்வழக்கு விசாரணை கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் '); 26 ('இவ்வழக்கு விசாரணை கோவை போதைப் பொருள் தடுப்பு நீதிமன்றத்தில் ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601158/tirupur360/s9hpgrs4f0c0idedfe5v.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601161/tirupur360/hwt5pvnpabtt80vajs9h.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூரில் மனைவியை இரும்புக் கம்பியால் அடித்துக் கொலை: கணவர் தப்பியோட்டம்",
-   "english_headline": "Husband allegedly beats wife to death with iron rod in Tirupur; absconding",
-   "category": "Crime & Safety",
-   "location": "Thattan Thottam, Pallad Road, Tirupur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "தட்டான்தோட்டம், பல்லடம் சாலை",
-    "hl1": "திருப்பூரில் மனைவி கொலை: கணவர்",
-    "hl2": "இரும்புக் கம்பியால்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "திருப்பூர், பல்லடம் சாலை, தட்டான்தோட்டத்தில் கொலை",
-       "மனைவி சுகந்தம் மலர், <b>43 வயது</b>, கொலை செய்யப்பட்டார்",
-       "சுமை தூக்கும் தொழிலாளி பாலசுப்ரமணியம், <b>45 வயது</b>, கணவர்"
-      ]
-     },
-     {
-      "title": "எப்படி நடந்தது?",
-      "lines": [
-       "குடிபோதையில் வீட்டுக்கு வந்த கணவர் மனைவியுடன் தகராறு",
-       "சுகந்தம் மலரின் தலையில் இரும்புக் கம்பியால் அடித்தார்",
-       "தாக்குதலுக்குப் பிறகு கணவர் தப்பியோடினார்"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "அக்கம் பக்கத்தினர் அளித்த தகவலின்படி விசாரணை",
-       "சுகந்தம் மலர் உடல் கைப்பற்றப்பட்டது",
-       "தப்பியோடிய கணவரைத் தேடும் பணி நடைபெறுகிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர், பல்லடம் சாலை, தட்டான்தோட்டத்தில் மனைவியை இரும்புக் கம்பியால் அடித்துக் கொலை செய்யப்பட்டுள்ளார். கொலை செய்யப்பட்டவர் சுகந்தம் மலர், 43 வயது. அவரது கணவர் பாலசுப்ரமணியம், 45 வயது, சுமை தூக்கும் தொழிலாளி. இவர் கரூர் மாவட்டம், காட்டுப்புதூரைச் சேர்ந்தவர். தம்பதிக்கு இரு மகன்களும் ஒரு மகளும் உள்ளனர். மூவரும் கரூரில் உள்ள பாட்டி வீட்டில் தங்கியுள்ளனர். பாலசுப்ரமணியம் குடிப்பழக்கம் உள்ளவர். நேற்று மாலை குடித்துவிட்டு வீட்டுக்கு வந்த அவர், மனைவியுடன் தகராறு செய்தார். அப்போது சுகந்தம் மலரின் தலையில் இரும்புக் கம்பியால் அடித்துக் கொலை செய்துவிட்டு, பாலசுப்ரமணியம் தப்பியோடினார். அக்கம் பக்கத்தினர் அளித்த தகவலின்படி போலீஸார் சுகந்தம் மலர் உடலைக் கைப்பற்றி விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருப்பூர், தட்டான்தோட்டத்தில் மனைவி கொலை: கணவர் தப்பியோட்டம்\n\n📰 முழு விவரம்:\nதிருப்பூர், பல்லடம் சாலை, தட்டான்தோட்டம் முதல் வீதியில் வசித்து வந்த சுகந்தம் மலர் (43 வயது), இரும்புக் கம்பியால் தலையில் தாக்கப்பட்டு கொல்லப்பட்டார். நேற்று மாலை குடிபோதையில் வீட்டுக்கு வந்த கணவர் பாலசுப்ரமணியம் (45 வயது), மனைவியுடன் தகராறு செய்தார். தாக்குதலுக்குப் பிறகு அவர் தப்பியோடினார். அக்கம் பக்கத்தினர் அளித்த தகவலின்படி போலீஸார் சுகந்தம் மலர் உடலைக் கைப்பற்றி விசாரித்து வருகின்றனர்.\n👤 கணவர் பாலசுப்ரமணியம் சுமை தூக்கும் தொழிலாளி; கரூர் மாவட்டம், காட்டுப்புதூரைச் சேர்ந்தவர்.\n👨‍👩‍👦 தம்பதிக்கு இரு மகன்களும் ஒரு மகளும் உள்ளனர்; மூவரும் கரூரில் பாட்டி வீட்டில் தங்கியுள்ளனர்.\n\nTirupur wife murder husband absconding | Tirupur news\n📍 தட்டான்தோட்டம், பல்லடம் சாலை, திருப்பூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A row of modest concrete houses on a narrow residential street in Thattan Thottam off Palladam Road, Tirupur, in the evening after dusk. Yellow street lights glow over the lane as a few neighbours stand in small groups at a distance, seen from behind, speaking quietly with their hands at their sides. Two Tamil Nadu police constables in khaki uniform stand at the entrance of one house, their backs to the camera, and a police jeep is parked along the roadside. Two-wheelers and an autorickshaw are parked by the walls, and a few electric wires run across the sky above the rooftops. The house doorway is open with a dim light inside, but no people are clearly visible inside. The scene feels tense and quiet, with wet pavement reflecting the light. The camera sits at eye level, 35 mm lens, wide enough to show the whole street and the houses, people only as small figures from behind or far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a heavy iron rod lying on a worn cement floor just inside a doorway of a small Tirupur house, lit by a single dim bulb in the evening. Beside it sits a plastic bottle and a small empty liquor bottle, suggesting an earlier drinking session, and a folded cloth lies nearby on the floor. A police constable's khaki-trousered leg is visible at the edge of the frame, out of focus. The rod is slightly rusted and stained with dark marks, shown without any blood visible, and the surroundings are plain with a thin wall and a steel vessel in the background. Soft evening light, shallow depth of field, camera at low angle around 35 mm, focused on the rod as the object that tells the story. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/husband-stabs-wife-to-death/4375672",
-   "published": "2026-11-14T00:40:46+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தட்டான்தோட்டம்', e.g. 'தட்டான்தோட்டம்: ...' or 'தட்டான்தோட்டம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601168/tirupur360/zadbjmjsvzlhyko67i8t.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601170/tirupur360/arqfit40jkhnavgcsocn.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வெள்ளக்கோவிலில் அரசுப் பேருந்திலிருந்து தவறி விழுந்த லாரி ஓட்டுநர் சிகிச்சை பலனின்றி உயிரிழப்பு",
-   "english_headline": "Lorry driver dies after falling off government bus at Vellakoil bus stand in Tirupur district",
-   "category": "Crime & Safety",
-   "location": "Vellakoil town, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பேருந்து விபத்து",
+    "cat": "கோயில் வழிபாடு",
     "loc": "வெள்ளக்கோவில்",
-    "hl1": "வெள்ளக்கோவிலில் பேருந்து விபத்து",
-    "hl2": "லாரி ஓட்டுநர் உயிரிழப்பு",
+    "hl1": "வெள்ளக்கோவிலில் ராகு-கேது பெயர்ச்சி",
+    "hl2": "மாலை <b>5.14</b> மணிக்கு",
     "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "வெள்ளக்கோவில் ஸ்ரீ தர்மசாஸ்தா ஐயப்ப சுவாமி கோயில்",
+       "வெள்ளிக்கிழமை மாலை <b>5.00</b> முதல் <b>5.14</b> மணி வரை",
+       "ராகு, கேது இடப்பெயர்ச்சியை ஒட்டி சிறப்பு பூஜைகள்"
+      ]
+     },
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "வெள்ளக்கோவில் பேருந்து நிலையத்தில் விபத்து",
-       "அரசுப் பேருந்திலிருந்து தவறி விழுந்து காயம்",
-       "சிகிச்சை பெற்று வந்த <b>54 வயது</b> நபர் பலி"
+       "விநாயகர் வழிபாடு, ராகு-கேது காயத்ரி ஹோமம்",
+       "ஐயப்ப சுவாமிக்கு அஷ்டாபிஷேகம்",
+       "நாகராஜாவுக்கு சிறப்பு கலசாபிஷேகம்"
       ]
      },
      {
-      "title": "விபத்து விவரம்",
+      "title": "பக்தர்கள்",
       "lines": [
-       "செப்டம்பர் <b>4</b> அன்று பேருந்தில் பயணம் செய்தார்",
-       "பின்பக்க படிக்கட்டில் இறங்கும்போது ஓட்டுநர் பேருந்தை",
-       "பின்னந்தலை மற்றும் கைகளில் பலத்த காயம்"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "ஈரோடு தனியார் மருத்துவமனையில் சிகிச்சை பலனின்றி பலி",
-       "சகோதரி அளித்த புகாரில் வழக்குப்பதிவு",
-       "அரசுப் பேருந்து ஓட்டுநர் மீது வெள்ளக்கோவில் போலீசார் விசாரணை"
+       "பரிகாரம் செய்ய வேண்டிய ராசியினர் சிறப்பு அர்ச்சனை செய்தனர்",
+       "திரளான பக்தர்கள் அபிஷேகப் பொருட்கள், உளுந்து, கொள்ளு",
+       "ஸ்ரீ ஐயப்ப பூஜா சங்கம், சேவா சங்க அறக்கட்டளை ஏற்பாடு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வெள்ளக்கோவில் பேருந்து நிலையத்தில் அரசுப் பேருந்திலிருந்து தவறி விழுந்த லாரி ஓட்டுநர் சிகிச்சை பலனின்றி உயிரிழந்தார். வெள்ளக்கோவில் தீத்தம்பாளையத்தைச் சேர்ந்த 54 வயது நபர் விறகு லாரி ஓட்டுநராகப் பணியாற்றி வந்தார். கடந்த செப்டம்பர் 4ஆம் தேதி வெள்ளக்கோவில் புதிய பேருந்து நிலையத்தில் இவர் அரசுப் பேருந்தில் பயணம் செய்தார். நகராட்சி கழிப்பிடம் அருகே பேருந்து நின்றபோது பின்புற படிக்கட்டு வழியாக இவர் இறங்க முயன்றுள்ளார். அப்போது பேருந்து ஓட்டுநர் திடீரென பேருந்தை முன்னோக்கி இயக்கியதால் இவர் நிலைதடுமாறி கீழே விழுந்தார். பின்னந்தலை மற்றும் கை மூட்டுகளில் பலத்த காயமடைந்த இவர் காங்கயம் அரசு மருத்துவமனையிலும், பின்னர் திருப்பூர் அரசு மருத்துவமனையிலும் சேர்க்கப்பட்டார். தொடர்ந்து ஈரோட்டில் உள்ள தனியார் மருத்துவமனையில் தீவிர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டிருந்த இவர் வெள்ளிக்கிழமை உயிரிழந்தார். இதுகுறித்து இவரது சகோதரி அளித்த புகாரின்பேரில் வெள்ளக்கோவில் போலீசார் அரசுப் பேருந்து ஓட்டுநர் மீது வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வெள்ளக்கோவிலில் அரசுப் பேருந்திலிருந்து விழுந்த லாரி ஓட்டுநர் சிகிச்சை பலனின்றி உயிரிழப்பு\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் தீத்தம்பாளையத்தைச் சேர்ந்த 54 வயது விறகு லாரி ஓட்டுநர், கடந்த செப்டம்பர் 4ஆம் தேதி வெள்ளக்கோவில் புதிய பேருந்து நிலையத்தில் அரசுப் பேருந்திலிருந்து இறங்க முயன்றுள்ளார். அப்போது ஓட்டுநர் திடீரென பேருந்தை இயக்கியதால் கீழே விழுந்து பின்னந்தலை மற்றும் கை மூட்டுகளில் பலத்த காயமடைந்தார். காங்கயம் மற்றும் திருப்பூர் அரசு மருத்துவமனைகளில் சேர்க்கப்பட்டு, பின்னர் ஈரோடு தனியார் மருத்துவமனையில் தீவிர சிகிச்சையில் இருந்த இவர் வெள்ளிக்கிழமை உயிரிழந்தார். இதுகுறித்து சகோதரி அளித்த புகாரின் பேரில் வெள்ளக்கோவில் போலீசார் பேருந்து ஓட்டுநர் மீது வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: வெள்ளக்கோவில் புதிய பேருந்து நிலையம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: 4 செப்டம்பர் 2026 (சம்பவம்), 13 நவம்பர் 2026 (உயிரிழப்பு)\n👮 நடவடிக்கை: வெள்ளக்கோவில் போலீசார் அரசுப் பேருந்து ஓட்டுநர் மீது வழக்குப்பதிவு செய்து விசாரணை\n\nபாதுகாப்பாக பயணிக்க விழிப்புணர்வுடன் இருங்கள்.\n\nVellakoil government bus accident lorry driver dies | Tirupur news\n📍 Vellakoil, Tirupur | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
-   "prompts": "A Tamil Nadu government bus stands at the new bus stand in Vellakoil town, its rear entrance steps open and empty, as a few bystanders and a Tamil Nadu police constable in khaki stand at a distance near the platform, seen from behind. The place is a busy Tirupur district bus stand with a row of town buses, two-wheelers parked along the edge, a municipal public toilet block and a tea stall with a faded awning, dusty concrete ground and a low boundary wall. Men in shirts and veshti and a woman in a cotton saree wait on the platform; one bystander stands with hands at the sides, looking towards the bus. The bus is a red and white TNSTC government bus, its rear step visible and unoccupied. Daylight, overcast sky, the morning light falling flat across the stand. Camera at eye level, 35 mm, wide enough to show the bus, the platform and the toilet block together, no injured person visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the rear entrance step of a Tamil Nadu government bus at a crowded bus stand in Vellakoil, the metal steps slightly worn and dusty, with a loose bundle of firewood sticks lying on the concrete ground beside the back wheel, showing the spot where the man lost his footing. Behind the step a blurred row of parked two-wheelers and a municipal toilet wall make up the background, and a pair of men's worn rubber sandals sits on the platform edge, out of focus. The light is daylight, soft and grey, with dust in the air. Camera low and close, 50 mm, shallow depth of field, no people's faces, no injuries or blood visible, the scene quiet and sombre. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/அரசுப்-பேருந்திலிருந்து-தவறி-விழுந்த-லாரி-ஓட்டுநா்-உயிரிழப்பு",
-   "published": "2026-11-13T18:29:10.744Z",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "வெள்ளக்கோவில் ஐயப்ப சுவாமி கோயிலில் ராகு-கேது பெயர்ச்சியை ஒட்டி சிறப்பு வழிபாடுகள் நடைபெற்றன. வெள்ளிக்கிழமை மாலை 5 மணி முதல் 5.14 மணி வரை ராகு பகவான் கும்ப ராசியிலிருந்து மகர ராசிக்கும், கேது பகவான் சிம்ம ராசியிலிருந்து கடக ராசிக்கும் இடம் பெயர்ந்தனர். இதையொட்டி ஸ்ரீ விநாயகர் வழிபாடு, ராகு-கேது காயத்ரி ஹோமத்துடன் பூஜைகள் தொடங்கின. தொடர்ந்து ஐயப்ப சுவாமிக்கு அஷ்டாபிஷேகம் நடைபெற்றது. பெயர்ச்சி நேரமான மாலை 5.14 மணிக்கு நாகராஜாவுக்கு சிறப்பு கலசாபிஷேகம் செய்யப்பட்டது. பின்னர் மகா தீபாராதனை காட்டப்பட்டு, பக்தர்களுக்கு பிரசாதம் வழங்கப்பட்டது. பரிகாரம் செய்ய வேண்டிய மிதுனம், கடகம், சிம்மம், கன்னி, தனுசு, மகரம், கும்பம், மீனம் ராசியினரும், நற்பலன் பெறும் மேஷம், ரிஷபம், துலாம், விருச்சிகம் ராசியினரும் தங்கள் ராசி, நட்சத்திரங்களுக்கு சிறப்பு அர்ச்சனை மற்றும் பரிகார வழிபாடுகளை மேற்கொண்டனர். திரளான பக்தர்கள் அபிஷேகப் பொருட்கள், உளுந்து, கொள்ளு ஆகியவற்றை வழங்கினர். ஸ்ரீ ஐயப்ப பூஜா சங்கம் மற்றும் சேவா சங்க அறக்கட்டளை நிர்வாகிகள் ஏற்பாடுகளைச் செய்திருந்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🙏 வெள்ளக்கோவிலில் ராகு-கேது பெயர்ச்சி சிறப்பு வழிபாடு\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் ஸ்ரீ தர்மசாஸ்தா ஐயப்ப சுவாமி கோயிலில் ராகு-கேது பெயர்ச்சியை ஒட்டி சிறப்பு வழிபாடுகள் நடைபெற்றன. வெள்ளிக்கிழமை மாலை 5.00 மணி முதல் 5.14 மணி வரை ராகு பகவான் கும்ப ராசியிலிருந்து மகர ராசிக்கும், கேது பகவான் சிம்ம ராசியிலிருந்து கடக ராசிக்கும் இடம் பெயர்ந்தனர். மாலை விநாயகர் வழிபாடு, ராகு-கேது காயத்ரி ஹோமத்துடன் பூஜைகள் தொடங்கின. பின்னர் ஐயப்ப சுவாமிக்கு அஷ்டாபிஷேகமும், பெயர்ச்சி நேரமான மாலை 5.14 மணிக்கு நாகராஜாவுக்கு சிறப்பு கலசாபிஷேகமும் நடைபெற்றன. பின்னர் மகா தீபாராதனை காட்டப்பட்டு, பக்தர்களுக்கு பிரசாதம் வழங்கப்பட்டது.\n🔮 பரிகாரம் செய்ய வேண்டிய மிதுனம், கடகம், சிம்மம், கன்னி, தனுசு, மகரம், கும்பம், மீனம் ராசியினரும், நற்பலன் பெறும் மேஷம், ரிஷபம், துலாம், விருச்சிகம் ராசியினரும் சிறப்பு அர்ச்சனை மற்றும் பரிகார வழிபாடுகளை மேற்கொண்டனர்.\n🙏 திரளான பக்தர்கள் அபிஷேகப் பொருட்கள், உளுந்து, கொள்ளு ஆகியவற்றை வழங்கினர். ஸ்ரீ ஐயப்ப பூஜா சங்கம் மற்றும் சேவா சங்க அறக்கட்டளை நிர்வாகிகள் ஏற்பாடுகளைச் செய்திருந்தனர்.\n\nVelakovil Ayyappa temple Rahu Ketu transit prayers | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Velakovil #TirupurNews #திருப்பூர்",
+   "prompts": "At the Sri Dharmasastha Ayyappa Swamy temple in Velakovil, Tirupur district, a priest in white veshti and angavastram performs the kalasabhishekam to the Nagaraja shrine during the Rahu-Ketu transit, with a brass kalasam raised above the stone naga idols while devotees stand with folded hands. The setting is a village temple courtyard with a tiled roof, stone pillars, and a small gopuram-style entrance, with a few concrete houses and coconut palms visible beyond the walls on the outskirts of Tirupur city. Men in shirts and veshtis and women in sarees and salwars stand in rows, seen from behind or from the side, some holding brass plates with flowers and coconuts. Brass oil lamps and a maha deepa aradhanai plate glow in the foreground. It is Friday evening around 5 pm, the sky just dusking and the temple lit with electric bulbs and oil lamps. Shot at eye level, 35 mm, wide enough to show the courtyard and the crowd, no readable text or signboards. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of brass pooja plates on the temple floor during the Rahu-Ketu transit prayers at Velakovil Ayyappa Swamy temple, Tirupur district. Piles of ulundu (black gram) and kollu (horse gram) lie in small steel and brass bowls, with heaps of offered abhishekam items such as milk pots, honey, turmeric and sandal paste in plates beside them. A brass deepa aradhanai lamp with a burning wick and marigold garlands rests on a cloth mat on a stone floor. In the background, the blurred legs and feet of devotees in sarees, veshtis and trousers are visible, and a priest's hand holds a bell. The temple is lit with warm evening light from oil lamps and tube lights, around 5 pm on a Friday. Taken at a slightly high angle, 35 mm, shallow depth of field, no faces, no readable text or labels. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/13/வெள்ளக்கோவில்-ஐயப்ப-சுவாமி-கோயிலில்-ராகு-கேது-பெயா்ச்சி-வழிபாடு",
+   "published": "2026-11-13T18:28:40.432Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601207/tirupur360/i8zp5a3hzvh4q6e8uabd.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794601209/tirupur360/szzh6l0at46vsu4q0zky.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794614549/tirupur360/vwlupwnzb3kls6ylq38x.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794614552/tirupur360/ex0d8ivhglxdgrtkgeer.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர் மாவட்டத்தில் 1.99 லட்சம் குழந்தைகளுக்கு கேக் வழங்கல்",
+   "english_headline": "1.99 lakh children in Tirupur district get cake on Children's Day",
+   "category": "Education",
+   "location": "Jaivabai School, Tirupur, Tirupur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூரில் 1.99 லட்சம் பேருக்கு கேக்",
+    "hl2": "குழந்தைகள் தின விழா",
+    "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "திருப்பூர் ஜெய்வாபாய் பள்ளியில் விழா",
+       "நவ. 13 அன்று கல்வித்துறை சார்பில் நடந்தது",
+       "குழந்தைகள் தினத்தை முன்னிட்டு கேக் வழங்கல்"
+      ]
+     },
+     {
+      "title": "யார் பங்கேற்றனர்?",
+      "lines": [
+       "கலெக்டர் முத்துக்குமரன் தலைமை வகித்தார்",
+       "சுகாதாரத்துறை அமைச்சர் அருண்ராஜ் கேக் வழங்கினார்",
+       "எம்.பி., எம்.எல்.ஏ.க்கள் முன்னிலை வகித்தனர்"
+      ]
+     },
+     {
+      "title": "எத்தனை பேர்?",
+      "lines": [
+       "1,404 அரசு, அரசு உதவி பெறும் பள்ளிகள்",
+       "மாணவ, மாணவியர் 1 லட்சத்து 90 ஆயிரத்து 124 பேர்",
+       "பணியாளர்கள் 9,033 பேர் உட்பட 1.99 லட்சம் பேருக்கு கேக்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் மாவட்டத்தில் 1.99 லட்சம் பேருக்கு இன்று கேக் வழங்கப்பட்டது. குழந்தைகள் தினத்தை முன்னிட்டு நவம்பர் 13ஆம் தேதி கல்வித்துறை சார்பில் இந்த விழா நடைபெற்றது. திருப்பூர் ஜெய்வாபாய் பள்ளியில் நடந்த இந்த விழாவிற்கு கலெக்டர் முத்துக்குமரன் தலைமை வகித்தார். மாவட்ட முதன்மை கல்வி அலுவலர் புனிதா அந்தோணியம்மாள் வரவேற்றார். நாடாளுமன்ற உறுப்பினர் சுப்பராயன், சட்டமன்ற உறுப்பினர்க்கள் பாலமுருகன், சத்தியபாமா, சங்கர் ஆகியோர் முன்னிலை வகித்தனர். சிறப்பு விருந்தினராக பங்கேற்ற சுகாதாரத்துறை அமைச்சர் அருண்ராஜ், எல் கே ஜி ஒன்றாம் வகுப்பு குழந்தைகளுக்கு வாழ்த்து அட்டை மற்றும் கேக் வழங்கி திட்டத்தைத் தொடங்கி வைத்தார். விழாவில் குழந்தைகளின் கலைநிகழ்ச்சிகளும் நடைபெற்றன. மாவட்டத்தில் 1,404 அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளைச் சேர்ந்த 1 லட்சத்து 90 ஆயிரத்து 124 மாணவ, மாணவியர் மற்றும் 9,033 பணியாளர்கள் உட்பட 1.99 லட்சம் பேருக்கு கேக் வழங்கப்பட்டது. அதிகபட்சமாக 956 தொடக்கப் பள்ளிகளின் மாணவர்களுக்கு நேற்றே கேக் வழங்கி முடிக்கப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎂 திருப்பூர் மாவட்டத்தில் 1.99 லட்சம் பேருக்கு கேக் வழங்கல்\n\n📰 முழு விவரம்:\nகுழந்தைகள் தினத்தை முன்னிட்டு, திருப்பூர் மாவட்ட கல்வித்துறை சார்பில் நவ. 13 அன்று திருப்பூர் ஜெய்வாபாய் பள்ளியில் கேக் வழங்கும் விழா நடைபெற்றது. கலெக்டர் முத்துக்குமரன் தலைமை வகித்தார். சுகாதாரத்துறை அமைச்சர் அருண்ராஜ் எல்.கே.ஜி. ஒன்றாம் வகுப்பு குழந்தைகளுக்கு வாழ்த்து அட்டை மற்றும் கேக் வழங்கி திட்டத்தைத் தொடங்கி வைத்தார். எம்.பி. சுப்பராயன், எம்.எல்.ஏ.க்கள் முன்னிலை வகித்தனர்.\n👥 மாவட்டத்தில் 1,404 அரசு, அரசு உதவி பெறும் பள்ளிகளைச் சேர்ந்த 1 லட்சத்து 90 ஆயிரத்து 124 மாணவ, மாணவியர் மற்றும் 9,033 பணியாளர்கள் உட்பட மொத்தம் 1.99 லட்சம் பேருக்கு கேக் வழங்கப்பட்டது.\n🏫 அதிகபட்சமாக 956 தொடக்கப் பள்ளிகளின் மாணவர்களுக்கு நேற்றே கேக் வழங்கி முடிக்கப்பட்டது.\n\nTirupur 1.99 lakh children cake Children's Day | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A group of young school children in Tamil Nadu school uniform sits in rows inside a bright classroom at Jaivabai School in Tirupur city, while a few officials in formal shirts and sarees stand near a table holding cake boxes and greeting cards. Seen from behind and from a distance, the children are cheerfully waiting for their Children's Day treat. The room has whitewashed walls, wooden benches, and a chalkboard, with a school stage and balloons visible at the far end. Daylight streams through the windows, and the mood is festive. Camera at eye level, 35 mm lens, wide enough to show the classroom and the seated children. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a round Children's Day cake on a plain table, with a stack of folded greeting cards beside it and a small hand in a school uniform sleeve just reaching toward the cake. Background is softly blurred: a few children seated on benches and an official in a formal sari standing at a distance. Bright daylight from a classroom window lights the cake and the cards, making the festive moment clear. Camera slightly high, shallow depth of field, 35 mm lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/199-lakh-presentation-of-cake-to-children/4375250",
+   "published": "2026-11-13T19:19:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 3 line 3 is cut off mid-phrase ('லட்சம் பேருக்கு கேக்') - write a complete short phrase; known issue card_cut_mid_phrase: card cut off mid-phrase ('.99 லட்சம் பேருக்கு கேக்') - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794614564/tirupur360/douznz1cpqwfh8rmujqh.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794614598/tirupur360/f3zwgezbrbwxmionlxyo.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கேக் கொடுக்க வந்த அமைச்சர்: திருப்பூர் பள்ளியில் மக்கள் குறைகளை கேட்டு நடவடிக்கை உறுதி",
+   "english_headline": "Minister who came to distribute cake in Tirupur school hears public grievances and promises action",
+   "category": "Education",
+   "location": "Jaivabai School, Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பள்ளி நிகழ்ச்சி",
+    "loc": "திருப்பூர் ஜெய்வாபாய் பள்ளி",
+    "hl1": "திருப்பூர் பள்ளியில் அமைச்சரிடம் குறைகள்",
+    "hl2": "நடவடிக்கை உறுதி",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குழந்தை தினத்தை முன்னிட்டு கேக் வழங்கும் விழா",
+       "திருப்பூர் ஜெய்வாபாய் பள்ளியில் <b>நவ. 13</b> அன்று நடந்தது",
+       "மாவட்ட பொறுப்பு அமைச்சர் அருண்ராஜ் பங்கேற்றார்"
+      ]
+     },
+     {
+      "title": "என்ன கோரிக்கை?",
+      "lines": [
+       "தலைமை ஆசிரியர் மைதானம், லேப் ஏசி வசதி கேட்டு கடிதம்",
+       "மழைநீர், கழிவுநீர், தண்ணீர் வசதியை அமைச்சர் ஆய்வு செய்தார்",
+       "இடைநிலை ஆசிரியர்கள் சங்கம் கோரிக்கை மனு அளித்தது"
+      ]
+     },
+     {
+      "title": "அமைச்சர் உறுதி",
+      "lines": [
+       "கல்வித்துறை அமைச்சரிடம் பேசுவதாக அமைச்சர் உறுதியளித்தார்",
+       "மாணவியின் அம்மாவுக்கு உதவுவதாக உறுதியளித்தார்",
+       "அனைவரின் கோரிக்கைகள் மீதும் நடவடிக்கை எடுக்க உத்தரவு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் ஜெய்வாபாய் பள்ளியில் கேக் வழங்கும் விழாவுக்கு வந்த அமைச்சர், மக்களின் குறைகளைக் கேட்டு நடவடிக்கை எடுப்பதாக உறுதியளித்தார். குழந்தை தினத்தை முன்னிட்டு நவம்பர் 13ஆம் தேதி இந்த விழா நடைபெற்றது. மாவட்ட பொறுப்பு அமைச்சர் அருண்ராஜ் இதில் பங்கேற்றார். நிகழ்ச்சி முடிந்து புறப்பட்ட அமைச்சரிடம் தலைமை ஆசிரியர் மைதானம், லேப் ஏசி வசதி, கூடுதல் ஆய்வகம் மற்றும் உள்கட்டமைப்பு குறித்து கடிதம் அளித்தார். பள்ளியில் திடீர் ஆய்வு செய்த அமைச்சர், மழைநீர் வெளியேறும் பாதை, கழிவுநீர் வெளியேற்றும் இடம் மற்றும் தண்ணீர் வசதியை பார்வையிட்டார். மைதானம் இருந்த இடத்தில் கட்டடங்கள் கட்டப்பட்டுவிட்டனவா என்று மாநகராட்சி ஆணையரிடம் கேட்டார். பள்ளிக்கு அருகில் மாற்று இடம் வாங்க முடியுமா என்றும் கேள்வி எழுப்பினார். இடைநிலை ஆசிரியர்கள் சங்கத்தினர் கோரிக்கை மனு அளித்தனர். கல்வித்துறை அமைச்சரிடம் பேசி நடவடிக்கை எடுப்பதாக அமைச்சர் உறுதியளித்தார். இதற்கிடையில் பிளஸ் 2 மாணவி ஒருவர் ஓடி வந்து தனது அம்மாவின் உடல்நிலை குறித்து உதவி கேட்டார். அமைச்சர் மாணவியின் விவரங்களைப் பெற உதவியாளருக்கு உத்தரவிட்டார். அனைத்து தரப்பினரின் கோரிக்கைகள் மீதும் நடவடிக்கை எடுக்க உத்தரவிடுவதாக அமைச்சர் கூறினார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏫 திருப்பூர் பள்ளியில் அமைச்சரிடம் மக்கள் குறைகளை முறையிட்டனர்\n\n📰 முழு விவரம்:\nதிருப்பூர் ஜெய்வாபாய் பள்ளியில் குழந்தை தினத்தை முன்னிட்டு கேக் வழங்கும் விழா நவ. 13 அன்று நடைபெற்றது. மாவட்ட பொறுப்பு அமைச்சர் அருண்ராஜ் இதில் பங்கேற்றார். நிகழ்ச்சி முடிந்து புறப்பட்ட அமைச்சரிடம் தலைமை ஆசிரியர் மைதானம், லேப் ஏசி வசதி, கூடுதல் ஆய்வகம் மற்றும் உள்கட்டமைப்பு குறித்து கடிதம் அளித்தார். அமைச்சர் பள்ளியில் திடீர் ஆய்வு செய்து மழைநீர் வெளியேறும் பாதை, கழிவுநீர் வெளியேற்றும் இடம், தண்ணீர் வசதியை பார்வையிட்டார். மைதானம் இருந்த இடத்தில் கட்டடங்கள் கட்டப்பட்டுவிட்டனவா என்று மாநகராட்சி ஆணையரிடம் கேட்டார். கலெக்டர் அருகில் இருந்தபோதும் அதிகாரிகள் அமைதியாக இருந்தனர். இடைநிலை ஆசிரியர்கள் சங்கத்தினர் கோரிக்கை மனு அளித்தனர்; கல்வித்துறை அமைச்சரிடம் பேசி நடவடிக்கை எடுப்பதாக அமைச்சர் உறுதியளித்தார். பிளஸ் 2 மாணவி ஒருவர் தனது அம்மாவின் உடல்நிலை குறித்து உதவி கேட்க, அமைச்சர் அவரது விவரங்களைப் பெற உதவியாளருக்கு உத்தரவிட்டு உதவுவதாக உறுதியளித்தார். அனைத்து தரப்பினரின் கோரிக்கைகள் மீதும் நடவடிக்கை எடுக்க உத்தரவிடுவதாக அமைச்சர் கூறினார்.\n\nTirupur school minister grievances, cake distribution | Tirupur news\n📍 திருப்பூர் ஜெய்வாபாய் பள்ளி, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A minister in white shirt and veshti walks through the compound of a Tirupur city school, stopping by a parked car while a group of school staff and officials in formal wear listens. A headmaster in a sari or shirt hands over a letter, and teachers stand together on a concrete veranda with tiled school buildings behind them. Several Tamil Nadu school girls in uniform watch from a distance under a row of tall trees, a few party workers in shirts hold a shawl nearby. The day is bright and warm, with the midday light falling on the open school yard. Taken at eye level with a 35 mm lens from a slight distance, wide enough to show the school buildings, the car and the crowd, with everyone seen from behind or far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open concrete drain running along the edge of a school compound in Tirupur city, with a rainwater channel and a sewage collection point beside it. Dry leaves and dust sit at the edge, and a few plastic water pots rest on the ground nearby. Behind the drain, the corner of a school building with a shadow falls across the path. Two officials in formal shirts stand a few steps back, seen from behind and slightly out of focus, as if inspecting the channel. Bright daytime light, with a low camera angle at about 35 mm to highlight the drain and the empty space beside it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/he-came-to-give-the-cake-he-stood-to-hear-the-grievances-people-appealed-to-the-minister/4375249",
+   "published": "2026-11-13T19:19:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794614603/tirupur360/roaf39yrmnmlszojrv9l.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794614605/tirupur360/yeyzfrc2twiub65o1qcy.jpg"
    ]
   }
  ]
