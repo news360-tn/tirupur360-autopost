@@ -1,436 +1,128 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 35 recent posts read from the page",
+  "instagram check: 40 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/anna-bicycle-race-in-tiruppur-minister-arunraj-flags-off-the-event",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/dmk-calls-to-check-names-in-electoral-rolls/4376431",
-  "manual link added: https://www.dinamalar.com/news/business-general-news/clothing-exports-up-30/4376471",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/exporters-compliment-minister-for-bus-facility-to-esi-hospital/4376537",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/heartfelt-respect-to-the-noble-hands-guarding-the-town-the-people-of-baruai-who-presented-and-honoured-the-stage/4376404",
-  "candidate filter: collected=5",
-  "to write: 5 Tirupur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/business-general-news/clothin",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.dinamalar.com/news/kalvimalar-news/ai-in-classrooms-exclusive-training-for-teachers/83543",
+  "candidate filter: collected=1",
+  "to write: 1 Tirupur district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/kalvimalar-news/ai-in-classro",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Tirupur district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 73 min",
+  "filed: 1 Tirupur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok gemini/gemini-3.6-flash (21s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (19s)",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (20s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (21s)",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3.6-flash (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3.6-flash (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "அக்டோபர் ஆடை ஏற்றுமதி 30% உயர்வு: ₹12,290 கோடி",
-   "english_headline": "Tirupur garment exports rise 30% in October to ₹12,290 crore",
-   "category": "Business & Prices",
-   "location": "Tirupur, Tirupur district",
-   "importance": "High",
+   "tamil_headline": "திருப்பூர் அரசுப் பள்ளி ஆசிரியர்களுக்கு ஏ.ஐ. தொழில்நுட்பப் பயிற்சி",
+   "english_headline": "Tirupur government school teachers to get special AI training in classroom teaching",
+   "category": "Education",
+   "location": "Tirupur district",
+   "importance": "Medium",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வணிகம்",
+    "cat": "கல்வி",
     "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர்: அக். ஆடை ஏற்றுமதி 30% உயர்வு",
-    "hl2": "₹12,290 கோடியாக உயர்வு",
+    "hl1": "திருப்பூர்: ஆசிரியர்களுக்கு ஏ.ஐ.",
+    "hl2": "சென்னையில் 200 பேருக்கு",
     "slides": [
      {
-      "title": "எவ்வளவு உயர்வு?",
+      "title": "என்ன பயிற்சி?",
       "lines": [
-       "அக்டோபர் ஆடை ஏற்றுமதி <b>₹12,290 கோடி</b>",
-       "2025 அக்டோபரை விட <b>30%</b> அதிகம்",
-       "நடப்பு நிதியாண்டின் அதிகபட்ச மாத உயர்வு"
+       "ஏ.ஐ. கருவிகள் மூலம் பாடம் கற்பித்தல்",
+       "மாணவர்களின் கற்றல் திறனை மதிப்பிடுதல்",
+       "பாட வீடியோக்கள் உருவாக்குதல்"
       ]
      },
      {
-      "title": "ஏப்ரல் – அக்டோபர்",
+      "title": "யாருக்கு பயிற்சி?",
       "lines": [
-       "2025–26 ஏப்ரல்–அக்டோபரில் <b>₹76,468 கோடி</b>",
-       "2026–27 இதே காலத்தில் <b>₹81,590 கோடி</b>",
-       "ஏற்றுமதி அதிகரித்துள்ளது"
+       "சென்னையில் நடக்கும் மாநில அளவிலான முகாம்",
+       "ஒவ்வொரு மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்படும்",
+       "சுமார் <b>200 பேருக்கு</b> பயிற்சி"
       ]
      },
      {
-      "title": "ஏன் உயர்வு?",
+      "title": "பயன் என்ன?",
       "lines": [
-       "அமெரிக்க வரி உயர்வுக்குத் தீர்வு காணப்பட்டது",
-       "பிரிட்டன் ஒப்பந்தம் ஜூலை 15 முதல் அமலுக்கு வந்தது",
-       "போர்ச்சூழல் படிப்படியாக மறைந்து வருகிறது"
+       "பயிற்சி பெற்றவர்கள் தங்கள் மாவட்டத்தில் பயிற்சி அளிப்பர்",
+       "வகுப்பறை கற்பித்தல் முறையில் மாற்றம் வரும் என எதிர்பார்ப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அக்டோபரில் திருப்பூர் ஆடை ஏற்றுமதி 30 சதவீதம் உயர்ந்து ₹12,290 கோடியை எட்டியது. கடந்த ஆண்டு அக்டோபரில் ₹9,455 கோடியாக இருந்தது. அமெரிக்க இறக்குமதி வரி உயரின் பாதிப்பு அப்போதுதான் தொடங்கியது. வரி உயருக்குத் தீர்வு காணப்பட்டதால் தற்போது ஏற்றுமதி அதிக வளர்ச்சி கண்டுள்ளது. இது நடப்பு நிதியாண்டின் அதிகபட்ச மாத வளர்ச்சியாகும். 2025–26 ஏப்ரல் முதல் அக்டோபர் வரை ₹76,468 கோடியாக இருந்த ஏற்றுமதி, நடப்பு நிதியாண்டின் இதே காலத்தில் ₹81,590 கோடியாக அதிகரித்துள்ளது. போர்ச்சூழல் படிப்படியாக மறைந்து வருவதால் அக்டோபரில் ஏற்றுமதி இயல்பு நிலைக்குத் திரும்பியுள்ளதாக திருப்பூர் ஏற்றுமதியாளர்கள் சங்கத் தலைவர் சுப்பிரமணியன் தெரிவித்துள்ளார். பிரிட்டன் ஒப்பந்தம் ஜூலை 15 முதல் அமலுக்கு வந்த பின் அந்நாட்டுக்கான ஆடை ஏற்றுமதி அதிகரித்து வருகிறது. தேவையைப் பூர்த்தி செய்ய தொழிலாளர்கள் கிடைப்பதுதான் தற்போதைய சவால் என ஆயத்த ஆடை ஏற்றுமதி மேம்பாட்டு கவுன்சில் தலைவர் சக்திவேல் கூறியுள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📈 அக்டோபர் ஆடை ஏற்றுமதி 30% உயர்வு: ₹12,290 கோடி\n\n📰 முழு விவரம்:\nகடந்த அக்டோபர் மாத ஆடை ஏற்றுமதி 2025 அக்டோபரை விட 30 சதவீதம் அதிகரித்து ₹12,290 கோடியாக உள்ளது. இது நடப்பு நிதியாண்டின் அதிகபட்ச மாத வளர்ச்சியாகும். கடந்த ஆண்டு அக்டோபரில் ₹9,455 கோடியாக இருந்தது. அமெரிக்க இறக்குமதி வரி உயர்வின் பாதிப்பு அப்போதுதான் தொடங்கியது; வரி உயர்வுக்குத் தீர்வு காணப்பட்டதால் தற்போது வளர்ச்சி கண்டுள்ளது.\n📊 ஆண்டு வாரியாக அக்டோபர் ஏற்றுமதி:\n2023–24: ₹7,564 கோடி\n2024–25: ₹9,304 கோடி\n2025–26: ₹9,455 கோடி\n2026–27: ₹12,290 கோடி\n📦 2025–26 ஏப்ரல்–அக்டோபர் காலத்தில் ₹76,468 கோடியாக இருந்த ஏற்றுமதி, நடப்பு நிதியாண்டின் இதே காலத்தில் ₹81,590 கோடியாக அதிகரித்துள்ளது.\n🗣️ திருப்பூர் ஏற்றுமதியாளர்கள் சங்கத் தலைவர் சுப்பிரமணியன்: போர்ச்சூழல் படிப்படியாக மறைந்து வருவதால் அக்டோபர் முதல் ஏற்றுமதி இயல்பு நிலைக்குத் திரும்பியுள்ளது. பிரிட்டன் ஒப்பந்தம் ஜூலை 15 முதல் அமலுக்கு வந்த பின் அந்நாட்டுக்கான ஆடை ஏற்றுமதி அதிகரித்து வருகிறது.\n🗣️ ஆயத்த ஆடை ஏற்றுமதி மேம்பாட்டு கவுன்சில் தலைவர் சக்திவேல்: இந்திய ஆடை ஏற்றுமதித் துறை மீண்டும் வளர்ச்சிப் பாதைக்குத் திரும்பியுள்ளது. தேவையைப் பூர்த்தி செய்ய தொழிலாளர்கள் கிடைப்பதுதான் தற்போதைய சவால்.\n\nTirupur October garment exports up 30% | Tirupur news\n📍 திருப்பூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Business",
-   "prompts": "Inside a busy garment export factory in Tirupur city, rows of sewing machines stand under tube lights, and women workers in sarees and salwar sit at the machines stitching knitted cotton shirts and T-shirts. Stacked bales of folded finished garments in cartons are piled along the back wall, ready for shipment. A supervisor in a shirt walks between the machine rows, seen from behind and slightly blurred. The mood is busy and productive, the room is well lit by daylight from high windows, and the camera is at eye level, shot with a 35 mm lens wide enough to show the whole production floor and its many workers. No readable text, signboards or labels are visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of neatly folded knitwear garments, white and coloured cotton T-shirts and polo shirts, packed into large brown export cartons on a wooden table in a Tirupur garment unit. A tape roll and a stack of packing slips sit at the edge of the frame, with no readable text. Behind, slightly out of focus, a worker in a salwar kameez moves a carton. Daylight from a side window lights the stacked cartons, and the camera is slightly high, 35 mm, focused on the pile of finished garments ready for export. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/business-general-news/clothing-exports-up-30/4376471",
-   "published": "2026-11-14T22:36:45+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 76468, 81590; caption misses facts of the article (put every one in 📰 முழு விவரம்): 76 ('கடந்த 2025 – 26ம் நிதியாண்டின், ஏப்., – அக்., காலத்தில், 76 '); 468 ('கடந்த 2025 – 26ம் நிதியாண்டின், ஏப்., – அக்., காலத்தில், 76 '); 81 ('கடந்த 2025 – 26ம் நிதியாண்டின், ஏப்., – அக்., காலத்தில், 76 '); 590 ('கடந்த 2025 – 26ம் நிதியாண்டின், ஏப்., – அக்., காலத்தில், 76 ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "திருப்பூர் மாவட்டத்தில் உள்ள அரசுப் பள்ளி ஆசிரியர்களுக்கு ஏ.ஐ. தொழில்நுட்பப் பயிற்சி வழங்கப்பட உள்ளது. வகுப்பறைகளில் செயற்கை நுண்ணறிவு தொழில்நுட்பத்தைப் பயன்படுத்தி கற்பிக்கும் முறையை ஊக்குவிக்க கல்வித்துறை இத்திட்டத்தை அறிவித்துள்ளது. இதன்படி, ஏ.ஐ. கருவிகள் மூலம் பாடங்களை எளிமையாகவும் ஆக்கப்பூர்வமாகவும் கற்பிப்பது மற்றும் மாணவர்களின் கற்றல் திறனை மதிப்பிடுவது குறித்து பயிற்சி அளிக்கப்பட உள்ளது. மேலும், பாடம் சார்ந்த கல்வி வீடியோக்களை உருவாக்குவது, பிராம்ப்ட் இன்ஜினியரிங் போன்ற நவீன தொழில்நுட்பங்களும் கற்றுத்தரப்பட உள்ளன. இதையடுத்து, சென்னையில் நடைபெறவுள்ள மாநில அளவிலான பயிற்சி முகாமில், ஒவ்வொரு மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்படும் ஆசிரியர்கள் உட்பட சுமார் 200 பேருக்கு பயிற்சி வழங்கப்பட உள்ளது. இந்நிலையில், பயிற்சி பெறும் ஆசிரியர்கள் தங்கள் மாவட்டங்களுக்குச் சென்று மற்ற ஆசிரியர்களுக்கும் இத்தொழில்நுட்பப் பயிற்சிகளை வழங்குவர். இதன் மூலம் வகுப்பறை கற்பித்தல் முறையில் மாற்றம் ஏற்பட்டு, மாணவர்களுக்கு நவீன தொழில்நுட்பக் கல்வி எளிதில் சென்றடையும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎓 திருப்பூர் ஆசிரியர்களுக்கு ஏ.ஐ. தொழில்நுட்பப் பயிற்சி\n\n📰 முழு விவரம்:\nகல்வித்துறை, வகுப்பறைகளில் ஏ.ஐ. (செயற்கை நுண்ணறிவு) தொழில்நுட்பத்தைப் பயன்படுத்தி கற்பிக்கும் முறையை ஊக்குவிக்க ஆசிரியர்களுக்கு பிரத்யேகப் பயிற்சி அளிக்க உள்ளது. ஏ.ஐ. கருவிகள் மூலம் பாடங்களை எளிமையாகவும் ஆக்கப்பூர்வமாகவும் கற்பித்தல், மாணவர்களின் கற்றல் திறனை மதிப்பிடுதல், பாடம் சார்ந்த கல்வி வீடியோக்களை உருவாக்குதல், பிராம்ப்ட் இன்ஜினியரிங் ஆகியவை குறித்து பயிற்சி வழங்கப்படும்.\n🏫 சென்னையில் நடைபெறவுள்ள மாநில அளவிலான பயிற்சி முகாமில், ஒவ்வொரு மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்படும் ஆசிரியர்கள் உட்பட சுமார் 200 பேருக்குப் பயிற்சி வழங்கப்படும்.\n👩‍🏫 பயிற்சி பெற்ற ஆசிரியர்கள் தங்கள் மாவட்டங்களுக்குச் சென்று மற்ற ஆசிரியர்களுக்கும் பயிற்சி அளிப்பர்.\n📚 இதன் மூலம் வகுப்பறை கற்பித்தல் முறையில் மாற்றம் ஏற்படும் என எதிர்பார்க்கப்படுகிறது.\n\nTirupur teachers to get AI classroom training | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "Government school teachers attend a technology training session inside a spacious district hall in Tirupur city. From a wide camera angle behind the seated audience, female teachers in traditional colourful sarees and male teachers in formal buttoned shirts are seated at long wooden desks arranged in neat rows. At the front of the hall, a large white projection screen displays bright digital node graphics and interactive learning diagrams without any text. Sunlight streams through large high windows along the concrete walls, casting natural daylight across the room. Several laptops rest open on the wooden tables in front of the participants, who are focused forward. No faces or readable text are visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a teacher's hands placed over a laptop keyboard inside a government school hall in Tirupur city. The laptop screen lights up with abstract blue and green neural network node graphics and glowing digital flowchart icons, representing modern AI tools, without any words or letters. On the wooden desk beside the laptop lie traditional blue ink pens, a notepad, and a printed Tamil Nadu school textbook with an unreadable generic pattern on its cover. The background is softly blurred showing the edge of a saree fabric and wooden desk layout in bright natural indoor daylight. The camera shot is a 35mm close-up focused entirely on the laptop and hands. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/kalvimalar-news/ai-in-classrooms-exclusive-training-for-teachers/83543",
+   "published": "2026-11-15 13:15:37",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread gemini/gemini-3.6-flash, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717199/tirupur360/cb53alvw8jfgzk7tgdje.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717208/tirupur360/iwnfaf4wr7cjj4zsmu2u.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பருவாயில் தூய்மை பணியாளர்களுக்கு மேடையில் கவுரவம், பரிசுகள் வழங்கல்",
-   "english_headline": "Paruvai villagers honour sanitation workers on stage with gifts during Deepavali",
-   "category": "Civic Issues",
-   "location": "Paruvai village, Palladam, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கவுரவிப்பு நிகழ்ச்சி",
-    "loc": "பருவாய், பல்லடம்",
-    "hl1": "பருவாயில் தூய்மை பணியாளர்களுக்கு கவுரவம்",
-    "hl2": "25க்கும் மேற்பட்டோருக்கு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "தீபாவளியை முன்னிட்டு பருவாய் ஊராட்சியில் கவுரவ நிகழ்ச்சி",
-       "பல்லடம் அடுத்த பருவாய் பசுமை அமைப்பு நடத்தியது",
-       "தூய்மை பணியாளர்கள் நெகிழ்ச்சி அடைந்தனர்"
-      ]
-     },
-     {
-      "title": "யாருக்கு கவுரவம்?",
-      "lines": [
-       "தூய்மை பணியாளர்கள், துப்புரவு பணியாளர்கள்",
-       "குடிநீர் வினியோகிப்பாளர்கள், பாட்டில் சேகரிப்பாளர்கள்",
-       "மொத்தம் <b>25க்கும் மேற்பட்டோர்</b>"
-      ]
-     },
-     {
-      "title": "நிகழ்ச்சியில்",
-      "lines": [
-       "பொதுமக்கள் முன்னிலையில் மேடையேற்றி பாராட்டு",
-       "அனைவருக்கும் <b>காலை உணவு</b> வழங்கப்பட்டது",
-       "சமுதாயத்தை தூய்மையாக வைத்திருப்பவர்களுக்கு மரியாதை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பல்லடம் அருகே பருவாய் கிராமத்தில் தூய்மை பணியாளர்களுக்கு மேடையில் கவுரவம் கிடைத்தது. தீபாவளி பண்டிகையை முன்னிட்டு பருவாய் ஊராட்சி பசுமை அமைப்பு இந்த நிகழ்ச்சியை நடத்தியது. கிராமத்தை தூய்மையாக வைத்திருக்கும் பணியாளர்களுக்குப் பரிசுகள் வழங்கி பாராட்டு தெரிவிக்கப்பட்டது. தூய்மை பணியாளர்கள், துப்புரவு பணியாளர்கள், குடிநீர் வினியோகிப்பாளர்கள், பாட்டில் சேகரிப்பாளர்கள் என 25க்கும் மேற்பட்டோருக்கு பரிசுகள் வழங்கப்பட்டன. பொதுமக்கள் முன்னிலையில் அவர்கள் மேடையேற்றப்பட்டு கவுரவிக்கப்பட்டனர். அனைவருக்கும் காலை உணவும் வழங்கப்பட்டது. பசுமை அமைப்பு நிர்வாகிகள், அடித்தட்டு பணியாளர்களுக்கும் இதுபோன்ற கவுரவம் ஒவ்வொரு கிராமத்திலும் கிடைக்க வேண்டும் என்று கூறினர். இந்த நிகழ்வு பணியாளர்களை நெகிழ்ச்சி அடையச் செய்தது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 பருவாயில் தூய்மை பணியாளர்களுக்கு மேடையில் கவுரவம், பரிசுகள் வழங்கல்\n\n📰 முழு விவரம்:\nதீபாவளியை முன்னிட்டு பல்லடம் அடுத்த பருவாய் ஊராட்சி பசுமை அமைப்பு சார்பில், கிராமத்தை தூய்மையாக வைத்திருக்கும் பணியாளர்களுக்கு கவுரவ நிகழ்ச்சி நடைபெற்றது.\nதூய்மை பணியாளர்கள், துப்புரவு பணியாளர்கள், குடிநீர் வினியோகிப்பாளர்கள், பாட்டில் சேகரிப்பாளர்கள் என 25க்கும் மேற்பட்டோர் பொதுமக்கள் முன்னிலையில் மேடையேற்றப்பட்டு பரிசுகள் வழங்கிப் பாராட்டப்பட்டனர்.\nஅனைவருக்கும் காலை உணவு வழங்கப்பட்டது.\nபசுமை அமைப்பு நிர்வாகிகள், சமுதாயத்தின் குப்பைகளை அகற்றும் இந்தப் பணியாளர்களுக்கு உரிய மரியாதை கிடைக்க வேண்டும் என்றும், ஒவ்வொரு கிராமத்திலும் இதுபோன்ற நிகழ்ச்சிகள் நடத்தப்பட வேண்டும் என்றும் கூறினர்.\n\n📍 இடம்: பருவாய் ஊராட்சி, பல்லடம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: தீபாவளி பண்டிகையை முன்னிட்டு\n\nParuvai sanitation workers honoured with gifts, Palladam | Tirupur news\n📍 பருவாய், பல்லடம், திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "Twenty-five sanitation workers in simple work clothes stand on a raised stage at a village panchayat ground in Paruvai, Palladam, Tirupur district, as a green organisation honours them during Deepavali. Seen from behind the seated crowd at eye level, the workers, some holding gift bags and wearing towels on their shoulders, stand in a row under a plain stage canopy while villagers in shirts, veshti and sarees sit on plastic chairs and mats below. Some workers are smiling and visibly moved. Behind the stage are a few mounds of tied-up garbage bags and a water tank, reflecting the cleaning work they do. Daylight, a warm festive atmosphere with a few small Deepavali decorations, and a wide 35 mm frame that shows the full stage and the crowd. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a table at the side of the stage in a Palladam village panchayat hall, where neat gift packets and steel plates of breakfast are laid out for the sanitation workers. Beside them, a few worn broom handles, a pair of rubber gloves and a sack of collected plastic bottles sit as reminders of their daily work. Hands of workers, seen from behind and slightly blurred, reach for the packets. Daylight from the open side of the hall falls across the table, with a Deepavali garland hanging in the background. Eye-level camera, 35 mm, shallow depth of field to keep the focus on the gifts and tools. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/heartfelt-respect-to-the-noble-hands-guarding-the-town-the-people-of-baruai-who-presented-and-honoured-the-stage/4376404",
-   "published": "2026-11-14T21:30:26+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 75 words; need 80-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717222/tirupur360/srps3umikbgszhhaqbjo.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717224/tirupur360/g7aphsn1l58irpzvmnon.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருமுருகன்பூண்டி இ.எஸ்.ஐ. மருத்துவமனைக்கு பஸ் வசதி அமைச்சருக்கு ஏற்றுமதியாளர்கள் நன்றி",
-   "english_headline": "Bus service started for ESI hospital at Thirumurugan Poondi; exporters thank minister",
-   "category": "Government & Services",
-   "location": "Thirumurugan Poondi - Poluvapatti ring road, Tirupur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு சேவை",
-    "loc": "திருமுருகன்பூண்டி",
-    "hl1": "திருமுருகன்பூண்டி: இ.எஸ்.ஐ.",
-    "hl2": "தினமும் 4 முறை பஸ்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "திருமுருகன்பூண்டி – பூலுவபட்டி ரிங் ரோட்டில் இ.எஸ்.ஐ.",
-       "100 படுக்கை வசதியுள்ள மருத்துவமனை 2 ஆண்டுகளாக செயல்படுகிறது",
-       "இதுவரை ரிங் ரோட்டில் பஸ் வசதி இல்லை"
-      ]
-     },
-     {
-      "title": "ஏன் முக்கியம்?",
-      "lines": [
-       "தொழிலாளர்கள் மருத்துவமனைக்குச் செல்ல சிரமப்பட்டனர்",
-       "திருப்பூர் ஏற்றுமதியாளர்கள் சங்கம் கோரிக்கை வைத்தது",
-       "மாவட்ட பொறுப்பு அமைச்சர் அருண்ராஜ் போக்குவரத்துத்துறை"
-      ]
-     },
-     {
-      "title": "பஸ் நேரம்",
-      "lines": [
-       "குன்னத்தூர் – திருப்பூர் 10ம் நம்பர் பஸ்: காலை 10:05க்கு",
-       "10ஏ பஸ்: மதியம் 12:15க்கு மருத்துவமனை",
-       "மதியம் 1:50, மாலை 3:25, மாலை 4:50க்கும் பஸ்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருமுருகன்பூண்டி அருகே இ எஸ் ஐ மருத்துவமனைக்கு நிரந்தர பஸ் வசதி கிடைத்துள்ளது. பூலுவபட்டி ரிங் ரோட்டில் 100 படுக்கை வசதியுடன் கட்டப்பட்ட இந்த மருத்துவமனை கடந்த இரண்டு ஆண்டுகளாக செயல்பட்டு வருகிறது. இதுவரை ரிங் ரோட்டில் பஸ் வசதி இல்லாததால் தொழிலாளர்கள் சிரமப்பட்டு வந்தனர். திருப்பூர் ஏற்றுமதியாளர்கள் சங்கம் சார்பில் மாவட்ட பொறுப்பு அமைச்சர் அருண்ராஜிடம் கோரிக்கை வைக்கப்பட்டது. அவர் போக்குவரத்துத்துறை அமைச்சரிடம் பேசி பஸ் வசதிக்கு ஏற்பாடு செய்தார். இதற்காக சங்க நிர்வாகிகள் அமைச்சருக்கு நன்றி தெரிவித்தனர். குன்னத்தூரில் இருந்து திருப்பூர் செல்லும் 10ம் நம்பர் பஸ் காலை 10:05 மணிக்கு மருத்துவமனைக்கு வரும். 10ஏ பஸ் மதியம் 12:15 மணிக்கு வரும். மேலும் மதியம் 1:50, மாலை 3:25, மாலை 4:50 மணிக்கும் பஸ்கள் மருத்துவமனைக்கு வரும். இதனால் தொழிலாளர்கள் உரிய நேரத்தில் சிகிச்சை பெற உதவியாக இருக்கும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 திருமுருகன்பூண்டி இ.எஸ்.ஐ. மருத்துவமனைக்கு பஸ் வசதி\n\n📰 முழு விவரம்:\nதிருமுருகன்பூண்டி – பூலுவபட்டி ரிங் ரோட்டில் 100 படுக்கை வசதியுடன் கட்டப்பட்ட இ.எஸ்.ஐ. மருத்துவமனைக்கு இதுவரை பஸ் வசதி இல்லாமல் தொழிலாளர்கள் சிரமப்பட்டனர். திருப்பூர் ஏற்றுமதியாளர்கள் சங்கம் சார்பில் மாவட்ட பொறுப்பு அமைச்சர் அருண்ராஜிடம் கோரிக்கை வைக்கப்பட்டது. அவர் போக்குவரத்துத்துறை அமைச்சரிடம் பேசி பஸ் வசதிக்கு ஏற்பாடு செய்தார். சங்கத் தலைவர் சுப்பிரமணியன், செயலாளர் திருக்குமரன், பொருளாளர் கோபாலகிருஷ்ணன் ஆகியோர் அமைச்சருக்கு நன்றி தெரிவித்தனர்.\n📍 இடம்: திருமுருகன்பூண்டி – பூலுவபட்டி ரிங் ரோடு\n🚌 பஸ் நேரம்: குன்னத்தூரில் இருந்து 10ம் நம்பர் டவுன் பஸ் (காலை 10:05), 10ஏ டவுன் பஸ் (மதியம் 12:15); மத்திய பஸ் ஸ்டாண்டில் இருந்து மதியம் 1:15, மாலை 4:15 பஸ்கள். மருத்துவமனையிலிருந்து குன்னத்தூர், திருப்பூர் செல்லும் நேரங்களும் வெளியாகியுள்ளன.\nℹ️ மக்கள் கவனத்திற்கு: தொழிலாளர்கள் இந்த பஸ்களைப் பயன்படுத்தி உரிய நேரத்தில் சிகிச்சை பெறலாம்.\n\nThirumurugan Poondi ESI hospital bus service | Tirupur news\n📍 திருமுருகன்பூண்டி, திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #திருமுருகன்பூண்டி",
-   "prompts": "A town bus of the Tamil Nadu transport department stops at a roadside bus stop on the Thirumurugan Poondi - Poluvapatti ring road in front of a newly built ESI hospital block with a 100-bed facility. Three men in shirts and trousers, seen from behind, stand near the bus door while two garment factory workers in plain shirts step off with cloth bags, showing the new service in use. The ring road is wide and lightly busy, with two-wheelers and a small autorickshaw passing, a few coconut trees and open land beyond the hospital compound. The hospital's plain concrete facade with rows of windows fills the background. It is bright daylight, late morning, with clear skies. The camera is at eye level, 35 mm, wide enough to show the bus, the road and the hospital entrance together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a town bus front and its route board area on the Thirumurugan Poondi ring road, with the bus door open and a row of plain bus seats visible through the window. Beside it a small roadside bus stop shelter with a bench, and a worker in a plain shirt holding a folded paper timetable in one hand, seen from behind. Behind the bus, the edge of the ESI hospital compound and a concrete boundary wall with a few potted plants. Daylight, late morning, dust on the road edge. The camera is slightly high, at about waist height, focusing on the bus door and the stop to tell the story of the new bus service. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/exporters-compliment-minister-for-bus-facility-to-esi-hospital/4376537",
-   "published": "2026-11-15T00:05:17+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 33 ('33 என் 3013), காலை 10:05 மணிக்கு இ.எஸ்.ஐ., மருத்துவமனைக்கு வ'); 3013 ('33 என் 3013), காலை 10:05 மணிக்கு இ.எஸ்.ஐ., மருத்துவமனைக்கு வ'); 40 ('33 என் 3013), காலை 10:05 மணிக்கு இ.எஸ்.ஐ., மருத்துவமனைக்கு வ'); 50 ('மத்திய பஸ் ஸ்டாண்டில் இருந்து 10:50க்குப் புறப்பட்டு, 11:25க'); 11 ('மத்திய பஸ் ஸ்டாண்டில் இருந்து 10:50க்குப் புறப்பட்டு, 11:25க'); 25 ('மத்திய பஸ் ஸ்டாண்டில் இருந்து 10:50க்குப் புறப்பட்டு, 11:25க')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717241/tirupur360/hmu2suhmyravz0tqbc9z.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717244/tirupur360/ql8adm5chnqqhgyw1boz.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வாக்காளர் பட்டியலில் பெயரைச் சரிபார்க்க தி.மு.க. அழைப்பு",
-   "english_headline": "DMK urges voters to check names in electoral roll; special camps on Nov 21, 22 and 29",
-   "category": "Government & Services",
-   "location": "Tiruppur North and Avinashi constituencies, Tirupur district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வாக்காளர் பட்டியல்",
-    "loc": "திருப்பூர் மாவட்டம்",
-    "hl1": "வாக்காளர் பட்டியலில் பெயர் சரிபார்க்க",
-    "hl2": "நவ. 21, 22, 29 சிறப்பு",
-    "slides": [
-     {
-      "title": "என்ன நடக்கிறது?",
-      "lines": [
-       "திருப்பூர் வடக்கு, அவிநாசி தொகுதிகளில் வாக்காளர் பட்டியல்",
-       "தி.மு.க. கட்சியினர் இந்தப் பணியைத் துவங்கினர்",
-       "மாவட்டச் செயலாளர் தினேஷ்குமார் அறிக்கை வெளியிட்டார்"
-      ]
-     },
-     {
-      "title": "வாக்காளர்களுக்கு",
-      "lines": [
-       "உங்கள் பெயர், விவரங்களைச் சரிபார்த்துக்கொள்ளுங்கள்",
-       "திருத்தம் இருந்தால் உரிய படிவத்தைப் பூர்த்தி செய்து",
-       "புதிய வாக்காளர்கள் பெயரைச் சேர்க்கலாம்"
-      ]
-     },
-     {
-      "title": "சிறப்பு முகாம்",
-      "lines": [
-       "<b>நவ. 21, 22, 29</b> ஆகிய தேதிகளில் சிறப்பு முகாம்கள்",
-       "கட்சி நிர்வாகிகள் பூத் வாரியாக உதவி செய்வார்கள்",
-       "இந்த முகாம்கள் குறித்து விழிப்புணர்வு ஏற்படுத்தப்படும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வாக்காளர் பட்டியலில் உங்கள் பெயர் உள்ளதா என்று இப்போதே சரிபாருங்கள். திருப்பூர் வடக்கு மற்றும் அவிநாசி சட்டசபைத் தொகுதிகளில் வாக்காளர் பட்டியலைச் சரிபார்க்கும் பணியை தி மு க கட்சியினர் துவங்கியுள்ளனர். திருப்பூர் வடக்கு மாவட்ட தி மு க செயலாளர் தினேஷ்குமார் இதை அறிக்கையில் தெரிவித்துள்ளார். வாக்காளர்கள் தங்கள் பெயர் மற்றும் விவரங்களைச் சரிபார்த்துக்கொள்ள வேண்டும். திருத்தங்கள் இருந்தால் உரிய படிவங்களைப் பூர்த்தி செய்து வழங்க வேண்டும். கட்சி நிர்வாகிகள் பூத் வாரியாகப் பட்டியலைச் சரிபார்த்து, திருத்தங்கள் செய்யவும், புதிய வாக்காளர்களின் பெயர்களைச் சேர்க்கவும் பொதுமக்களுக்கு உதவுவார்கள். நவம்பர் 21, 22 மற்றும் 29ஆம் தேதிகளில் நடைபெறும் சிறப்பு முகாம்கள் குறித்தும் விழிப்புணர்வு ஏற்படுத்தப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ வாக்காளர் பட்டியலில் உங்கள் பெயரைச் சரிபாருங்கள்: நவ. 21, 22, 29 சிறப்பு முகாம்\n\n📰 முழு விவரம்:\nதிருப்பூர் வடக்கு, அவிநாசி சட்டசபைத் தொகுதிகளுக்கான வாக்காளர் பட்டியலைச் சரிபார்க்கும் பணியை தி.மு.க. கட்சியினர் துவங்கினர். மாவட்டச் செயலாளர் தினேஷ்குமார் வெளியிட்ட அறிக்கையில், வாக்காளர்கள் தங்கள் பெயர் மற்றும் விவரங்களைச் சரிபார்த்துக்கொள்ள வேண்டும் என்று கூறப்பட்டுள்ளது. திருத்தங்கள் இருந்தால் உரிய படிவங்களைப் பூர்த்தி செய்து வழங்க வேண்டும்.\n📍 இடம்: திருப்பூர் வடக்கு, அவிநாசி சட்டசபைத் தொகுதிகள், திருப்பூர் மாவட்டம்\n🗓️ சிறப்பு முகாம் நாட்கள்: நவம்பர் 21, 22 மற்றும் 29\nℹ️ மக்கள் கவனத்திற்கு: உங்கள் பெயர், விவரங்களைச் சரிபார்த்து, திருத்தம் இருந்தால் உரிய படிவத்தைப் பூர்த்தி செய்து வழங்குங்கள். புதிய வாக்காளர்கள் பெயரையும் சேர்த்துக்கொள்ளலாம்.\n\nTirupur voter list name check, special camps Nov 21 22 29 | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A group of DMK party workers in plain shirts and veshti sit around a plastic table under an open-sided shamiana in a Tiruppur neighbourhood, going through printed electoral roll sheets, with a few residents in sarees and shirts standing in a short line to check their names. The place is a small residential street with low concrete houses, a rows of two-wheelers parked along the kerb and a few coconut palms visible at the edge, typical of the outskirts of Tiruppur city. Party workers are seen from behind or in profile, holding pens and paper forms, while one resident fills a correction form on a clipboard. Daylight, a clear morning, with soft shade under the shamiana. Camera at eye level, 35 mm, wide enough to show the table, the people and the street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a stack of printed electoral roll sheets on a plain wooden or plastic table, a blue ballpoint pen resting across the top page and a few blank voter correction forms fanned out beside it, with a worker's hand lightly turning a page at the edge of the frame. Behind the table, out of focus, a row of plastic chairs and a few two-wheelers on a Tiruppur street in daylight. No readable text or numbers visible on the pages. Camera slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/dmk-calls-to-check-names-in-electoral-rolls/4376431",
-   "published": "2026-11-14T21:54:25+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717258/tirupur360/doafchyutdjpnh5ofmdl.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717267/tirupur360/mwd1cdu9dwicpu6b889g.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூரில் அண்ணா மிதிவண்டி போட்டி: அமைச்சர் அருண்ராஜ் கொடியசைத்துத் தொடங்கிவைத்தார்",
-   "english_headline": "Anna cycle race started in Tirupur by Minister K.G. Arunraj; minister also inspects Kangayam government hospital",
-   "category": "Temples & Events",
-   "location": "Tirupur city (Chikkanna Government Arts College campus) and Kangayam, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விளையாட்டு நிகழ்ச்சி",
-    "loc": "திருப்பூர் மாவட்டம்",
-    "hl1": "திருப்பூரில் அண்ணா மிதிவண்டி போட்டி",
-    "hl2": "அமைச்சர் கே.ஜி.அருண்ராஜ்",
-    "slides": [
-     {
-      "title": "எங்கே, யார்?",
-      "lines": [
-       "திருப்பூர் மாநகராட்சி சார்பில், சிக்கண்ணா",
-       "மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் தலைமை வகித்தார்",
-       "அமைச்சர் கே.ஜி.அருண்ராஜ் போட்டியைத் தொடங்கிவைத்தார்"
-      ]
-     },
-     {
-      "title": "போட்டி விவரம்",
-      "lines": [
-       "13 வயதுக்குட்பட்ட மாணவர்கள்: <b>15 கி.மீ.</b>",
-       "மாணவிகள்: <b>10 கி.மீ.</b>",
-       "15, 17 வயதுக்குட்பட்ட மாணவர்கள்: <b>20 கி.மீ.</b>"
-      ]
-     },
-     {
-      "title": "வழித்தடம், பரிசு",
-      "lines": [
-       "கல்லூரியில் தொடங்கி வஞ்சிபாளையம் சென்று மீண்டும்",
-       "வெற்றி பெற்றவர்களுக்கு ரொக்கப் பரிசுகள், சான்றிதழ்கள்",
-       "குழந்தைகள் தினத்தை முன்னிட்டு அமைச்சர் இனிப்பு வழங்கினார்"
-      ]
-     },
-     {
-      "title": "மருத்துவமனை ஆய்வு",
-      "lines": [
-       "காங்கயம் மாவட்ட அரசு தலைமை மருத்துவமனையில் திடீர் ஆய்வு",
-       "புறநோயாளி, உள்நோயாளி, பிரசவ வார்டு, அவசர சிகிச்சைப் பிரிவு",
-       "நோயாளிகளுக்கு வழங்கப்படும் சிகிச்சைகள் குறித்து"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூரில் அண்ணா மிதிவண்டி போட்டியை அமைச்சர் கே ஜி அருண்ராஜ் கொடியசைத்துத் தொடங்கிவைத்தார். திருப்பூர் மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் தலைமை வகித்தார். திருப்பூர் மாநகராட்சி சார்பில் அண்ணா பிறந்தநாளை முன்னிட்டு சிக்கண்ணா அரசுக் கலைக் கல்லூரி வளாகத்தில் இந்தப் போட்டி நடைபெற்றது. 13 வயதுக்குட்பட்ட மாணவர்களுக்கு 15 கிலோமீட்டர் மாணவிகளுக்கு 10 கிலோமீட்டர் தூரம். 15, 17 வயதுக்குட்பட்ட மாணவர்களுக்கு 20 கிலோமீட்டர் மாணவிகளுக்கு 15 கிலோமீட்டர் தூரம். போட்டி கல்லூரியில் தொடங்கி வஞ்சிபாளையம் சென்று மீண்டும் கல்லூரியில் முடிந்தது. வெற்றி பெற்றவர்களுக்கு ரொக்கப் பரிசுகளும் சான்றிதழ்களும் வழங்கப்பட்டன. குழந்தைகள் தினத்தை முன்னிட்டு அமைச்சர் குழந்தைகளுக்கு இனிப்பு வழங்கினார். சனிக்கிழமை காங்கயம் மாவட்ட அரசு தலைமை மருத்துவமனையில் அமைச்சர் திடீர் ஆய்வு மேற்கொண்டார். புறநோயாளி, உள்நோயாளி, பிரசவ வார்டு, மருந்தகம், அவசர சிகிச்சைப் பிரிவுகளைப் பார்வையிட்டார். நோயாளிகளுக்கு வழங்கப்படும் சிகிச்சைகள் குறித்தும் கேட்டறிந்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚴 திருப்பூரில் அண்ணா மிதிவண்டி போட்டி தொடக்கம்: அமைச்சர் கொடியசைத்தார்\n\n📰 முழு விவரம்:\nஅண்ணா பிறந்தநாளை முன்னிட்டு திருப்பூர் மாநகராட்சி சார்பில், சிக்கண்ணா அரசுக் கலைக் கல்லூரி வளாகத்தில் அண்ணா மிதிவண்டி போட்டி நடைபெற்றது. மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் தலைமை வகித்தார்; அமைச்சர் கே.ஜி.அருண்ராஜ் போட்டியைத் தொடங்கிவைத்தார்.\n13 வயதுக்குட்பட்ட மாணவர்களுக்கு 15 கி.மீ., மாணவிகளுக்கு 10 கி.மீ.; 15, 17 வயதுக்குட்பட்ட மாணவர்களுக்கு 20 கி.மீ., மாணவிகளுக்கு 15 கி.மீ. என போட்டித் தூரம் இருந்தது.\nபோட்டி கல்லூரியில் தொடங்கி வஞ்சிபாளையம் சென்று மீண்டும் கல்லூரியில் முடிந்தது. வெற்றி பெற்றவர்களுக்கு ரொக்கப் பரிசுகளும் சான்றிதழ்களும் வழங்கப்பட்டன.\nகுழந்தைகள் தினத்தை முன்னிட்டு அமைச்சர் குழந்தைகளுக்கு இனிப்பு வழங்கினார்.\n🏥 சனிக்கிழமை காங்கயம் மாவட்ட அரசு தலைமை மருத்துவமனையில் அமைச்சர் திடீர் ஆய்வு செய்தார். புறநோயாளி, உள்நோயாளி பிரிவுகள், பிரசவ வார்டு, மருந்தகம், அவசர சிகிச்சைப் பிரிவு ஆகியவற்றைப் பார்வையிட்டு சிகிச்சை விவரங்களைக் கேட்டறிந்தார்.\n\nAnna cycle race Tirupur, minister flags off | Tirupur news\n📍 திருப்பூர், திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kangayam #TirupurNews #திருப்பூர்",
-   "prompts": "A line of school-age boys and girls in sports vests and shorts stands with bicycles at the start line of the Anna cycle race on the campus of Chikkanna Government Arts College in Tirupur city, while a minister in a white shirt and trousers, seen from behind at a distance, raises a hand to flag off the race. The setting is a wide college campus with a tarred road, neem and palm trees, and a banner-style arch of the event at the back; the cyclists' bikes are lined up in front, with a few onlookers and a deputy mayor and sports officials in plain shirts and sarees standing to the side. The scene is bright daylight with a clear sky and a warm Tamil Nadu morning feel. Shot at eye level with a 35 mm lens, wide enough to show the campus, the start line, the bicycles and the crowd of riders, all people seen from behind or far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/anna-bicycle-race-in-tiruppur-minister-arunraj-flags-off-the-event",
-   "published": "2026-11-14T19:19:18.727Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (15); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'; slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794717292/tirupur360/ci79kznwzzutwwzs8hzw.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794731400/tirupur360/kgzgbndr1jch8inoih99.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794731428/tirupur360/xnnyawgkxi9lqgepubjy.jpg"
    ]
   }
  ]
