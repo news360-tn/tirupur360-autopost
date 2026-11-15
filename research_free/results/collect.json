@@ -1,235 +1,185 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 40 recent posts read from the page",
+  "instagram check: 42 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abuses-woman-police-personnel-in-tiruppur-while-backing-traffic-violator-845589.html",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/special-train-via-tiruppur-for-sabarimala-season",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gudka-vittavar-kaithuthiruppur-nov-16---when-the-northern-police-raided-the-tiruppur-railway-station-area-they-raided-mohammed-gulzar-23-on-suspicion-and-found-that-he-had-490-grams-of-gutka-packets-and-seized-them/4377285",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rainwater-harvesting-awareness-needed/4377239",
   "candidate filter: collected=2",
   "to write: 2 Tirupur district candidates (max 2 stories)",
   "round: top 2 of 2 candidates",
   "candidates waiting: 2 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-train-vi",
-  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
   "filed: 2 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3.6-flash (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3.6-flash (20s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (19s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (8s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (21s)",
+  "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (5s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5"
+  "ok groq/qwen/qwen3.8-27b (0s)"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூரில் பெண் போலீசிடம் அவதூறாக பேசிய தவெக நிர்வாகி: பல்வேறு பிரிவுகளில் வழக்குப்பதிவு",
-   "english_headline": "TVK cadre booked in Tirupur after video of arguing vulgarly with female traffic police officer goes viral",
-   "category": "Crime & Safety",
-   "location": "Sandaipettai, Palladam Road, Tirupur city, Tirupur district",
-   "importance": "High",
+   "tamil_headline": "திருப்பூரில் மழைநீர் சேகரிப்பு விழிப்புணர்வு அவசியம்: மாநகராட்சி கூட்டத்தில் வலியுறுத்தல்",
+   "english_headline": "Rainwater harvesting structure enhancement and awareness stressed at Tirupur Corporation meeting",
+   "category": "Civic Issues",
+   "location": "Tirupur city, Tirupur district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "காவல் துறை",
-    "loc": "சந்தைப்பேட்டை, திருப்பூர்",
-    "hl1": "திருப்பூரில் பெண் போலீசிடம் அவதூறு",
-    "hl2": "தவெக நிர்வாகி மீது வழக்கு",
+    "cat": "மாநகராட்சி செய்தி",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூரில் மழைநீர் சேகரிப்பு ஆலோசனை",
+    "hl2": "மாநகராட்சி ஆலோசனைக் கூட்டம்",
     "slides": [
      {
-      "title": "வாகன தணிக்கை",
+      "title": "மாநகராட்சி கூட்டம்",
       "lines": [
-       "திருப்பூர் பல்லடம் சாலை <b>சந்தைப்பேட்டை</b> அருகே சோதனை",
-       "போக்குவரத்து உதவி ஆய்வாளர் <b>முத்து செல்வம்</b> தலைமை",
-       "ஹெல்மெட் இன்றி செல்போன் பேசியபடி வந்த நபர்"
+       "திருப்பூர் மாநகராட்சியில் ஆலோசனைக் கூட்டம் நடந்தது",
+       "மழைநீர் சேகரிப்பு அமைப்புகளை மேம்படுத்த வலியுறுத்தல்",
+       "பொதுமக்களிடம் தொடர்ந்து விழிப்புணர்வு ஏற்படுத்த முடிவு"
       ]
      },
      {
-      "title": "வாக்குவாதம்",
+      "title": "புதிய கட்டிட விதி",
       "lines": [
-       "வாகன ஓட்டிக்கு அபராதம் விதிக்க முயன்ற போலீசார்",
-       "தவெக இளைஞரணி அமைப்பாளர் <b>விக்னேஷ்</b> சம்பவ இடம் வருகை",
-       "காவலர்களுடன் வாக்குவாதத்தில் ஈடுபட்டார்"
+       "மழைநீர் சேகரிப்பு இல்லாத புதிய கட்டிடங்களுக்கு விதி",
+       "குடிநீர், பாதாள சாக்கடை, மின் இணைப்பு வழங்கக் கடும் விதி",
+       "வரி விதிக்கும் முன் மழைநீர் சேகரிப்பை உறுதி செய்ய கோரிக்கை"
       ]
      },
      {
-      "title": "பெண் போலீசிடம்",
+      "title": "சாமக்கரை குளம்",
       "lines": [
-       "போக்குவரத்து பெண் காவலரிடம் தரக்குறைவாக பேச்சு",
-       "வாகனத்தை எடுக்க வக்கு இருக்கா என அவதூறு",
-       "போலீசாரை பணி செய்ய விடாமல் தடுத்ததாக புகார்"
-      ]
-     },
-     {
-      "title": "வழக்குப்பதிவு",
-      "lines": [
-       "ஹெல்மெட் இல்லை, நம்பர் பிளேட் இல்லை என பல பிரிவுகள்",
-       "பணி செய்ய விடாமல் தடுத்ததற்கும் வழக்கு",
-       "சம்பவத்தின் வீடியோ வெளியாகி பரபரப்பு"
+       "சாமக்கரை குளத்தைத் தூர்வார சமூக சேவை அமைப்பு மனு",
+       "மழைநீர் சேகரிப்புத் திட்டத்துடன் குளத்தை இணைக்க கோரிக்கை",
+       "கழிவுகளை அகற்றிப் பூங்கா வசதி அமைக்க வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூரில் பெண் போலீசிடம் அவதூறாக பேசிய தவெக நிர்வாகி மீது வழக்குப்பதிவு. திருப்பூர் தெற்கு போக்குவரத்து உதவி ஆய்வாளர் முத்து செல்வம் தலைமையில் பல்லடம் சாலை சந்தைப்பேட்டை அருகே வாகனத் தணிக்கை நடைபெற்றது. அப்போது ஹெல்மெட் அணியாமல் செல்போன் பேசியபடி வந்த நபரை போலீசார் தடுத்து நிறுத்தினர். அந்த நபருக்கு அபராதம் விதிக்க முயன்றபோது அவர் தனது கட்சி நண்பருக்கு தொலைபேசியில் அழைத்தார். இதையடுத்து தவெக தென்னம்பாளையம் பகுதி இளைஞர் அணி இணை அமைப்பாளர் விக்னேஷ் அங்கு வந்தார். விக்னேஷ் போக்குவரத்து பெண் காவலரிடம் தரக்குறைவாகவும் தகாத வார்த்தைகளாலும் பேசி வாக்குவாதம் செய்தார். மேலும் போலீசாரை பணி செய்ய விடாமல் தடுத்ததாகவும் குற்றச்சாட்டு எழுந்தது. ஹெல்மெட் இன்மை, செல்போன் பேசுதல், எண் பலகை இன்மை உள்ளிட்ட பிரிவுகளில் வழக்குப்பதிவு செய்து அபராதம் விதிக்கப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருப்பூரில் பெண் போலீசிடம் அவதூறாக பேசிய தவெக நிர்வாகி மீது வழக்குப்பதிவு\n\n📰 முழு விவரம்:\nதிருப்பூர் தெற்கு போக்குவரத்துக் காவல் உதவி ஆய்வாளர் முத்து செல்வம் தலைமையில் பல்லடம் சாலை சந்தைப்பேட்டை அருகே வாகனத் தணிக்கை நடைபெற்றது. ஹெல்மெட் அணியாமல் செல்போன் பேசியபடி வந்த இருசக்கர வாகன ஓட்டிக்கு அபராதம் விதிக்க முயன்றபோது, தவெக தென்னம்பாளையம் பகுதி இளைஞர் அணி இணை அமைப்பாளர் விக்னேஷ் அங்கு வந்தார்.\n\nஅவர் அங்கு பணிபுரிந்த போக்குவரத்து பெண் காவலரிடம் தரக்குறைவாக பேசி வாக்குவாதத்தில் ஈடுபட்டார். இதையடுத்து ஹெல்மெட் இன்மை, செல்போன் பேசுதல், முன் பக்க எண் பலகை இன்மை, பக்க கண்ணாடி இன்மை மற்றும் பணி செய்ய விடாமல் தடுத்தல் உள்ளிட்ட பிரிவுகளின் கீழ் போலீசார் வழக்குப்பதிவு செய்து அபராதம் விதித்தனர்.\n\n📍 இடம்: சந்தைப்பேட்டை, பல்லடம் சாலை, திருப்பூர்\n👮 நடவடிக்கை: பல்வேறு பிரிவுகளின் கீழ் வழக்குப்பதிவு மற்றும் அபராதம்\n\nதகவலை நண்பர்களுக்கு Share செய்யுங்கள்\n\nTirupur TVK cadre argues with female traffic police officer | Tirupur news\n📍 சந்தைப்பேட்டை, திருப்பூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #PalladamRoad #TirupurNews #திருப்பூர்",
-   "prompts": "A group of Tamil Nadu traffic police in khaki uniforms stop a two-wheeler rider at a vehicle checking point on Palladam Road in Tiruppur city, near the Sandaipettai junction. The two-wheeler, a scooter with no front number plate, is pulled to the roadside while the rider, seen from behind without a helmet, holds a mobile phone to his ear. A female traffic constable in khaki stands beside the scooter with a ticket book, while a male sub-inspector writes on a clipboard. Behind them a few men in shirts and veshti stand at a distance, and a stream of autorickshaws, town buses and two-wheelers passes on the busy road lined with shops and shuttered storefronts. It is bright daylight with a clear sky, and the scene is shot at eye level with a 35 mm lens wide enough to show the road, the traffic and the crowd of onlookers. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a scooter parked at the roadside in Tiruppur city, its front number plate missing and the side mirror absent, showing only the bare handlebar and the open space where the plate should be. A pair of folded khaki traffic police sleeves rests on the edge of the frame, with a black ticket book and a ballpoint pen lying on the seat. The scooter sits on a tarmac road with a painted white lane line and a few pieces of roadside dust, while a blurred bus passes in the far background. The light is harsh daylight, the framing is tight and focused on the objects, and the image is taken at eye level with a 35 mm lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abuses-woman-police-personnel-in-tiruppur-while-backing-traffic-violator-845589.html",
-   "published": "2026-11-15T15:19:57+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: reel_script has 94 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft gemini/gemini-3.6-flash, 3 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூர் மாநகராட்சியில் மழைநீர் சேகரிப்பு அமைப்புகளை மேம்படுத்த வலியுறுத்தப்பட்டுள்ளது. மாநகராட்சியில் நடைபெற்ற ஆலோசனைக் கூட்டத்தில் மழைநீர் சேகரிப்பு விழிப்புணர்வு குறித்து விவாதிக்கப்பட்டது. மழைநீர் சேகரிப்பு வசதி இல்லாத புதிய கட்டடங்களுக்குக் குடிநீர், பாதாள சாக்கடை மற்றும் மின் இணைப்பு வழங்குவதில் கடும் விதிகளைப் பின்பற்ற வேண்டும் என்று நுகர்வோர் நல முன்னேற்ற சங்கம் வலியுறுத்தியுள்ளது. மேலும் சொத்து வரி விதிக்கும் முன் மழைநீர் சேகரிப்பு வசதி இருப்பதை அதிகாரிகள் உறுதி செய்ய வேண்டும் என்றும் கேட்கப்பட்டுள்ளது. இதனிடையே சாமக்கரை குளத்தைத் தூர்வாரி மழைநீர் சேகரிப்புத் திட்டத்தில் இணைக்க வேண்டும் என்று புது ரோடு சமூக சேவை அமைப்பு சார்பில் மனு அளிக்கப்பட்டுள்ளது. குளத்தில் உள்ள கழிவுகள் மற்றும் முட்புதர்களை அகற்றி, கரைகளைப் பலப்படுத்த வேண்டும் என்றும் நடைபாதை, இருக்கைகள், விளக்குகள் மற்றும் பூங்கா வசதிகளை ஏற்படுத்த வேண்டும் என்றும் கோரிக்கை விடுக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 திருப்பூரில் மழைநீர் சேகரிப்பு கட்டமைப்பு: மாநகராட்சி கூட்டத்தில் முக்கிய வலியுறுத்தல்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சி ஆலோசனைக் கூட்டத்தில் மழைநீர் சேகரிப்பு கட்டமைப்புகளை மேம்படுத்துவதுடன், பொதுமக்களிடம் தொடர்ந்து விழிப்புணர்வு ஏற்படுத்த வேண்டும் என வலியுறுத்தப்பட்டது.\nமழைநீர் சேகரிப்பு வசதி இல்லாத புதிய கட்டடங்களுக்குக் குடிநீர், பாதாள சாக்கடை, மின் இணைப்பு வழங்குவதில் கடும் விதிகளைப் பின்பற்ற வேண்டும் எனவும், சொத்து வரி விதிக்கும் முன் வசதியை உறுதி செய்ய வேண்டும் எனவும் நுகர்வோர் நல முன்னேற்ற சங்கம் வலியுறுத்தியுள்ளது.\nமேலும், சாமக்கரை குளத்தைத் தூர்வாரி மழைநீர் சேகரிப்பு திட்டத்தில் இணைக்க வேண்டும் என புது ரோடு சமூக சேவை அமைப்பு மனு அளித்துள்ளது.\nகுளத்திலுள்ள கழிவுகள் மற்றும் முட்புதர்களை அகற்றி, கரைகளைப் பலப்படுத்துவதுடன் நடைபாதை, இருக்கைகள், விளக்குகள், பூங்கா வசதிகளை ஏற்படுத்த கோரிக்கை விடுக்கப்பட்டுள்ளது.\n\n📍 இடம்: திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம்\nℹ️ மக்கள் கவனத்திற்கு: புதிய கட்டடங்களில் மழைநீர் சேகரிப்பு வசதி அமைப்பது அவசியம்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nTirupur corporation advisory meeting rainwater harvesting | Tirupur news\n📍 திருப்பூர், திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurCity #TirupurNews #திருப்பூர்",
+   "prompts": "A group of corporation officials and social organization representatives are seated around a large U-shaped wooden table in a Tirupur Corporation meeting hall. The men, dressed in formal shirts and some in white veshtis, are seen from behind as they review a paper petition regarding rainwater harvesting rules. On the table are several files, notebooks, and stainless steel water tumblers. The room has plain white walls and bright overhead lighting, reflecting a serious administrative atmosphere. The camera is at eye level, using a 35mm lens for a wide shot of the consultation. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of the Samakkaraikulam pond in Tirupur city, showing the earthen banks overgrown with thorny bushes and scattered plastic waste as mentioned in the petition. The water level is low, revealing silted areas and dry patches that require desilting for rainwater storage. In the far background, the silhouettes of urban buildings and a few coconut trees are visible under the bright daylight. No people are in the immediate foreground, focusing the viewer's attention on the environmental state of the water body. The camera is at a slightly high angle to capture the extent of the pond and the surrounding vegetation. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rainwater-harvesting-awareness-needed/4377239",
+   "published": "2026-11-15T21:30:26+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744605/tirupur360/vl7eyzngp4ljj2lwqqbv.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744614/tirupur360/ue0dhjfuluwo1o40oioj.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794774823/tirupur360/blyeimsxpypz8rob8nns.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794774833/tirupur360/alu2billgevkv9lpr3bj.jpg"
    ]
   },
   {
-   "tamil_headline": "சபரிமலை சீசன்: திருப்பூர் வழியாக சென்னை சென்டிரல்-கொல்லம் வாராந்திர சிறப்பு ரெயில்",
-   "english_headline": "Special weekly train via Tirupur for Sabarimala season between Chennai Central and Kollam",
-   "category": "Roads & Transport",
-   "location": "Tirupur, Erode, Salem - Tirupur district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "திருப்பூர் ரயில்வே ஸ்டேஷன் அருகே குட்கா விற்றவர் கைது",
+   "english_headline": "Man arrested with 490 grams of gutka near Tirupur railway station",
+   "category": "Crime & Safety",
+   "location": "Tirupur railway station area, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரெயில் சேவை",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர் வழியாக சபரிமலை சிறப்பு ரெயில்",
-    "hl2": "புதன், வியாழன் இயக்கம்",
+    "cat": "குற்றச் செய்தி",
+    "loc": "திருப்பூர் ரயில்வே ஸ்டேஷன்",
+    "hl1": "திருப்பூர் ரயில்வே ஸ்டேஷன் அருகே குட்கா",
+    "hl2": "490 கிராம் குட்கா பறிமுதல்",
     "slides": [
      {
-      "title": "எந்த ரெயில்?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "சென்னை சென்டிரல்-கொல்லம் வாராந்திர சிறப்பு ரெயில்",
-       "சேலம், ஈரோடு, திருப்பூர் வழியாக இயக்கம்",
-       "சபரிமலை சீசன் கூட்ட நெரிசலை முன்னிட்டு"
+       "திருப்பூர் ரயில்வே ஸ்டேஷன் பகுதியில் சோதனை",
+       "வடக்கு போலீசார் சோதனை மேற்கொண்டனர்",
+       "சந்தேகத்தின் பேரில் ஒருவர் சோதனையிடப்பட்டார்"
       ]
      },
      {
-      "title": "சென்னையில் இருந்து",
+      "title": "யார் கைது?",
       "lines": [
-       "வண்டி எண் <b>06119</b>, புதன்கிழமைகளில்",
-       "சென்னை சென்டிரலில் மாலை <b>3.10 மணி</b>க்குப் புறப்படும்",
-       "திருப்பூருக்கு இரவு <b>10.03 மணி</b>க்கு வந்து 10.05"
+       "முகமது குல்சர், <b>23</b> வயது",
+       "அவரிடம் <b>490 கிராம்</b> குட்கா பாக்கெட்கள் இருந்தன",
+       "போலீசார் குட்காவை பறிமுதல் செய்தனர்"
       ]
      },
      {
-      "title": "கொல்லத்தில்",
+      "title": "நடவடிக்கை",
       "lines": [
-       "வண்டி எண் <b>06120</b>, வியாழக்கிழமைகளில்",
-       "கொல்லத்தில் காலை <b>10.40 மணி</b>க்குப் புறப்படும்",
-       "திருப்பூருக்கு இரவு <b>7.18 மணி</b>க்கு வந்து 7.20"
-      ]
-     },
-     {
-      "title": "எத்தனை சேவைகள்?",
-      "lines": [
-       "18ஆம் தேதி முதல் ஜனவரி <b>20</b> வரை - <b>10 சேவைகள்</b>",
-       "19ஆம் தேதி முதல் ஜனவரி <b>21</b> வரை - <b>10 சேவைகள்</b>",
-       "ரெயில்வே அதிகாரி ஒருவர் தகவல் தெரிவித்துள்ளார்"
+       "போலீசார் அவரைக் கைது செய்தனர்",
+       "குட்கா விற்பனை குறித்து தொடர்ந்து கண்காணிப்பு",
+       "சட்டவிரோதப் பொருட்கள் குறித்து போலீசுக்குத் தகவல் தாருங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் வழியாக சபரிமலை சீசனுக்காக சிறப்பு ரெயில் இயக்கப்பட உள்ளது. சேலம், ஈரோடு, திருப்பூர் வழியாக சென்னை சென்டிரல் மற்றும் கொல்லம் இடையே வாராந்திர சிறப்பு ரெயில் இயக்கப்படும். பயணிகளின் கூட்ட நெரிசலைக் கருத்தில் கொண்டு இந்த ஏற்பாடு செய்யப்பட்டுள்ளது. சென்னை சென்டிரல்-கொல்லம் சிறப்பு ரெயில், வண்டி எண் 06119, 18ஆம் தேதி முதல் ஜனவரி 20ஆம் தேதி வரை புதன்கிழமைகளில் இயக்கப்படும். மொத்தம் 10 சேவைகள் இருக்கும். சென்னை சென்டிரலில் இருந்து மாலை 3.10 மணிக்குப் புறப்பட்டு, மறுநாள் காலை 7.20 மணிக்கு கொல்லம் சென்றடையும். இந்த ரெயில் ஈரோட்டுக்கு இரவு 9.15 மணிக்கு வந்து 9.25 மணிக்குப் புறப்படும். திருப்பூருக்கு இரவு 10.03 மணிக்கு வந்து 10.05 மணிக்குப் புறப்படும். கொல்லம்-சென்னை சென்டிரல் சிறப்பு ரெயில், வண்டி எண் 06120, 19ஆம் தேதி முதல் ஜனவரி 21ஆம் தேதி வரை வியாழக்கிழமைகளில் இயக்கப்படும். மொத்தம் 10 சேவைகள் இருக்கும். கொல்லத்தில் இருந்து காலை 10.40 மணிக்குப் புறப்பட்டு, மறுநாள் அதிகாலை 3.30 மணிக்கு சென்னை சென்டிரல் சென்றடையும். இந்த ரெயில் திருப்பூருக்கு இரவு 7.18 மணிக்கு வந்து 7.20 மணிக்குப் புறப்படும். ஈரோட்டுக்கு 8.20 மணிக்கு வந்து 8.30 மணிக்குப் புறப்படும். இந்தத் தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 திருப்பூர் வழியாக சபரிமலை சீசன் சிறப்பு ரெயில்\n\n📰 முழு விவரம்:\nசபரிமலை சீசனை முன்னிட்டு, பயணிகளின் கூட்ட நெரிசலைக் கருத்தில் கொண்டு சேலம், ஈரோடு, திருப்பூர் வழியாக சென்னை சென்டிரல்-கொல்லம் இடையே வாராந்திர சிறப்பு ரெயில் இயக்கப்பட உள்ளது.\n🚆 சென்னை சென்டிரல்-கொல்லம் (வண்டி எண் 06119): 18ஆம் தேதி முதல் ஜனவரி 20ஆம் தேதி வரை (10 சேவைகள்), புதன்கிழமைகளில் சென்னை சென்டிரலில் மாலை 3.10 மணிக்குப் புறப்பட்டு, மறுநாள் காலை 7.20 மணிக்கு கொல்லம் சென்றடையும்.\n🕘 ஈரோடு இரவு 9.15 மணி (புறப்பாடு 9.25); திருப்பூர் இரவு 10.03 மணி (புறப்பாடு 10.05).\n🚆 கொல்லம்-சென்னை சென்டிரல் (வண்டி எண் 06120): 19ஆம் தேதி முதல் ஜனவரி 21ஆம் தேதி வரை (10 சேவைகள்), வியாழக்கிழமைகளில் கொல்லத்தில் காலை 10.40 மணிக்குப் புறப்பட்டு, மறுநாள் அதிகாலை 3.30 மணிக்கு சென்னை சென்டிரல் சென்றடையும்.\n🕘 திருப்பூர் இரவு 7.18 மணி (புறப்பாடு 7.20); ஈரோடு இரவு 8.20 மணி (புறப்பாடு 8.30).\nமேற்கண்ட தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்துள்ளார்.\nசபரிமலை செல்லும் பயணிகள் இந்த ரெயில்களைப் பயன்படுத்திக்கொள்ளலாம்.\n\nSabarimala special train via Tirupur, Chennai Central-Kollam | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A crowd of Sabarimala pilgrims and ordinary passengers with rucksacks and travel bags waits on the platform of Tirupur railway station as a long passenger train pulls in at night. Several men in black dhotis and saffron-coloured shirts, some carrying cloth bundles, stand near the coaches while women in sarees hold children by the hand. The station is a typical South Indian railway platform with a tiled roof, yellow sodium lights, a steel railing and a concrete pillar, with a tea stall in the background. The train's windows glow with light inside the coaches. The mood is busy but orderly, as travellers board for the Kollam route. Shot at eye level, 35 mm, wide enough to show the platform, the train and the crowd, seen mostly from behind or from a distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a platform signal board and a stack of travel bags and cloth bundles placed beside a steel railing at Tirupur railway station at night. Behind them a few pilgrims in black and saffron clothes wait, seen from behind and slightly blurred, while a railway porter pushes a luggage trolley loaded with bags across the concrete platform. Yellow sodium lights shine on the wet tiled floor. The detail shows the rush of Sabarimala season travel through the Tirupur station, with the train's coach lights faintly visible in the far background. Shot at eye level, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/special-train-via-tiruppur-for-sabarimala-season",
-   "published": "2026-11-15T09:09:10Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: known issue repeated_words: the same sentence is read twice - rewrite so it does not happen again",
+   "reel_script": "திருப்பூர் ரயில்வே ஸ்டேஷன் பகுதியில் குட்கா விற்றவர் போலீசாரால் கைது செய்யப்பட்டுள்ளார். வடக்கு போலீசார் அப்பகுதியில் சோதனை மேற்கொண்டனர். அப்போது சந்தேகத்தின் பேரில் முகமது குல்சர், 23 வயது இளைஞரைச் சோதனையிட்டனர். அவரிடம் 490 கிராம் குட்கா பாக்கெட்கள் இருந்தது தெரியவந்தது. போலீசார் அந்தக் குட்கா பாக்கெட்களைப் பறிமுதல் செய்து, அவரைக் கைது செய்தனர். சட்டவிரோதப் பொருட்கள் குறித்து தகவல் தெரிந்தால் போலீசுக்குத் தெரிவிக்குமாறு பொதுமக்கள் கேட்டுக்கொள்ளப்படுகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் ரயில்வே ஸ்டேஷன் அருகே குட்கா விற்றவர் கைது\n\n📰 முழு விவரம்:\nதிருப்பூர் ரயில்வே ஸ்டேஷன் பகுதியில் வடக்கு போலீசார் சோதனை மேற்கொண்டனர். சந்தேகத்தின் பேரில் முகமது குல்சர், 23 வயது இளைஞரைச் சோதனையிட்டனர். அவரிடம் 490 கிராம் குட்கா பாக்கெட்கள் இருந்தது தெரியவந்தது. அவற்றைப் பறிமுதல் செய்த போலீசார், அவரைக் கைது செய்தனர்.\n📍 இடம்: திருப்பூர் ரயில்வே ஸ்டேஷன் பகுதி\n👮 நடவடிக்கை: குட்கா பறிமுதல், ஒருவர் கைது\n\nTirupur railway station gutka seizure, 490 grams | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A group of Tamil Nadu police officers in khaki uniforms stands near the entrance of the Tirupur railway station, conducting a search of a young man. The suspect, a 23-year-old man in casual clothes, stands with his hands raised slightly, facing the officers. The scene is set on the paved platform area near the station gate, with the railway tracks and waiting area visible in the background. The police are focused on the suspect's belongings. The atmosphere is tense but orderly. Daylight illuminates the scene, casting sharp shadows. The camera is at eye level, 35 mm, capturing the interaction between the police and the suspect from a medium distance, ensuring the context of the railway station is clear. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a table where seized goods are displayed. On the table, numerous small packets of gutka are neatly arranged, representing the 490 grams seized from the suspect. The packets are uniform in size and color, typical of gutka products. Behind the table, the blurred figures of police officers in khaki uniforms stand, observing the evidence. The background shows the exterior of the police station or a nearby office, with a concrete wall and a metal gate. The lighting is bright daylight, highlighting the details of the packets. The camera is slightly high, 35 mm, focusing on the seized goods to emphasize the nature of the crime. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gudka-vittavar-kaithuthiruppur-nov-16---when-the-northern-police-raided-the-tiruppur-railway-station-area-they-raided-mohammed-gulzar-23-on-suspicion-and-found-that-he-had-490-grams-of-gutka-packets-and-seized-them/4377285",
+   "published": "2026-11-16T00:30:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744622/tirupur360/rgjwx4wbmbetagxzoqwc.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744626/tirupur360/qzkdgym874px1vsaoimy.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794774909/tirupur360/tw3cmfjmk7m2xazg5zhh.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794774913/tirupur360/n7qahmdrdfab15olz3qj.jpg"
    ]
   }
  ]

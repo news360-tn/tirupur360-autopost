@@ -1,199 +1,107 @@
-writing [N]: வக்கு இருக்கா? பெண் போக்குவரத்து போலீசாரிடம் அவதூறாக பேசிய த
+writing [N]: மழைநீர் சேகரிப்பு விழிப்புணர்வு அவசியம்
+writing [N]: குட்கா விற்றவர் கைது
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-writing [N]: சபரிமலை சீசனை முன்னிட்டு திருப்பூர் வழியாக சிறப்பு ரெயில்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (18s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok gemini/gemini-3.6-flash (15s)
-factcheck by gemini/gemini-3.6-flash: 2 problems
-  The reel_script incorrectly states that the police officer was on patrol duty ('ரோந்து பணி'), whereas the article states they were conducting vehicle checks ('வாகன தணிக்கை').
-  The reel_script omits the name of the TVK executive (Vignesh) who engaged in the argument with the police.
-attempt 1 gemini/gemini-3.6-flash: 2 problems
-  fact-check: The reel_script incorrectly states that the police officer was on patrol duty ('ரோந்து பணி'), whereas the article states they were conducting vehicle checks ('வாகன தணிக்கை').
-  fact-check: The reel_script omits the name of the TVK executive (Vignesh) who engaged in the argument with the police.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.6-flash (20s)
-attempt 2 gemini/gemini-3.6-flash: 1 problems
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-ok gemini/gemini-3.6-flash (19s)
-attempt 3 gemini/gemini-3.6-flash: 1 problems
-  reel_script has 94 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3.5-flash (21s)
-attempt 1 gemini/gemini-3.5-flash: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 25 ('.இந்த ரெயில் ஈரோட்டுக்கு புதன்கிழமைகளில் இரவு 9.15 மணிக்கு வ'); 05 ('திருப்பூருக்கு இரவு 10.03 மணிக்கு வந்து 10.05 மணிக்கு புறப்ப')
+ok gemini/gemini-3.6-flash (20s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (12s)
+ok gemini/gemini-3-flash-preview (9s)
+attempt 2 gemini/gemini-3-flash-preview: 1 problems
+  not grounded: location 'நிலையம்' is not in the article
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (10s)
-attempt 2 gemini/gemini-3-flash-preview: 3 problems
+ok gemini/gemini-3-flash-preview (13s)
+factcheck by gemini/gemini-3-flash-preview: 0 problems
+attempt 1 gemini/gemini-3.6-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (8s)
+attempt 3 gemini/gemini-3-flash-preview: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (8s)
+proofread rejected (2 problems)
   sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 25 ('.இந்த ரெயில் ஈரோட்டுக்கு புதன்கிழமைகளில் இரவு 9.15 மணிக்கு வ'); 05 ('திருப்பூருக்கு இரவு 10.03 மணிக்கு வந்து 10.05 மணிக்கு புறப்ப')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-ok groq/openai/gpt-oss-120b (5s)
-factcheck by groq/openai/gpt-oss-120b: 3 problems
-  Caption includes a specific date (15 நவம்பர் 2026) not mentioned in the article
-  Caption incorrectly calls the person a TVK functionary, while the article identifies him as a TAVEC (தவெக) party administrator
-  Headline and reel claim the case was filed under exactly 5 sections, but the article never states the exact number of sections
-attempt 4 gemini/gemini-3-flash-preview: 3 problems
-  fact-check: Caption includes a specific date (15 நவம்பர் 2026) not mentioned in the article
-  fact-check: Caption incorrectly calls the person a TVK functionary, while the article identifies him as a TAVEC (தவெக) party administrator
-  fact-check: Headline and reel claim the case was filed under exactly 5 sections, but the article never states the exact number of sections
+  caption needs 5 hashtags (Instagram max), has 7
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok gemini/gemini-3-flash-preview (6s)
+real photo: no picture on the source page -> AI pictures
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match: True The photo shows an official indoor meeting with participants gathered around a table with documents and notebooks, consi
+image match: False The photo shows a natural muddy pond in a landscape, not a Tirupur Corporation meeting or official event.
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Rainwater harvesting structure enhanceme'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-0203","first":"RN-44"}
+posting job started at once
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (6s)
+attempt 4 groq/openai/gpt-oss-120b: 1 problems
+  reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (5s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The reel_script and caption say the special train runs 10 times from 18th to January 20th for the Chennai-Kollam service, but the article gives the 18th to January 20th for 06119 and 19th to January 21st for the return service; the caption merges the two date ranges into one (18th to January 21st), which is a mixed-up fact.
-  The caption's date line says 18th to January 21st for both services, which misstates the Chennai-Kollam service's end date (January 20th).
-  The caption says the return train 'Kollam-Chennai' runs 10 services on Thursdays starting 19th to January 21st, which is correct, but the caption's 'Kollam-Chennai (06120)' run is presented with the same 10-service claim as the first train while the article says 10 services for each; this is acceptable, but the caption's combined date range is inaccurate as noted.
-  The slides_spec 'திரும்பப்' slide labels the return train with a Wednesday/Thursday mix: the slide reads 'வியாழக்கிழமை காலை 10.40 மணிக்கு புறப்பாடு' which is fine, but the slide title 'திரும்பப்' is an incomplete/meaningless Tamil word, making the slide text unclear.
-  The reel_script omits the arrival-at-Erode/Tirupur details for the return route? No omission found, but the reel_script's 'திருப்பூருக்கு இரவு 10.03 மணிக்கு வந்து 10.05 மணிக்கு புறப்படும்' matches; the reel_script omits the Salem stop named in the article as part of the route, an important route fact.
-attempt 3 groq/qwen/qwen3.8-27b: 5 problems
-  fact-check: The reel_script and caption say the special train runs 10 times from 18th to January 20th for the Chennai-Kollam service, but the article gives the 18th to January 20th for 06119 and 19th to January 21st for the return service; the caption merges the two date ranges into one (18th to January 21st), which is a mixed-up fact.
-  fact-check: The caption's date line says 18th to January 21st for both services, which misstates the Chennai-Kollam service's end date (January 20th).
-  fact-check: The caption says the return train 'Kollam-Chennai' runs 10 services on Thursdays starting 19th to January 21st, which is correct, but the caption's 'Kollam-Chennai (06120)' run is presented with the same 10-service claim as the first train while the article says 10 services for each; this is acceptable, but the caption's combined date range is inaccurate as noted.
-  fact-check: The slides_spec 'திரும்பப்' slide labels the return train with a Wednesday/Thursday mix: the slide reads 'வியாழக்கிழமை காலை 10.40 மணிக்கு புறப்பாடு' which is fine, but the slide title 'திரும்பப்' is an incomplete/meaningless Tamil word, making the slide text unclear.
-  fact-check: The reel_script omits the arrival-at-Erode/Tirupur details for the return route? No omission found, but the reel_script's 'திருப்பூருக்கு இரவு 10.03 மணிக்கு வந்து 10.05 மணிக்கு புறப்படும்' matches; the reel_script omits the Salem stop named in the article as part of the route, an important route fact.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  reel_script says the TVK functionary argued with police 'to support' the rider — article says he argued in support of the rider, which is consistent, but the draft's headline and reel_script say the 'வாக்குவாதம்' was with police; fine. However, the reel_script states the rider was given a fine and the functionary was charged, but the article says the case was registered and fines imposed on the rider (vehicle owner) for the listed offences — the draft's 'வாக்குவாதம் செய்துள்ளார்' and 'அபராதம்' attribution is ambiguous but acceptable.
-  reel_script/slides_spec say the case was registered for 'பணி செய்யவிடாமல் தடுத்தது' and 'போலீசாரிடம் தரக்குறைவாக நடந்தது' — the article attributes these to the rider's violations list, not clearly to the functionary; the draft does not specify who was charged, so the key fact of who faced the case is missing from the reel_script.
-  Caption says 'அவர் தவெக நிர்வாகி என்று கூறி நண்பருக்கு அழைத்தார்' — the article says the rider claimed to be a TVK functionary and called a friend; this is accurate.
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: reel_script says the TVK functionary argued with police 'to support' the rider — article says he argued in support of the rider, which is consistent, but the draft's headline and reel_script say the 'வாக்குவாதம்' was with police; fine. However, the reel_script states the rider was given a fine and the functionary was charged, but the article says the case was registered and fines imposed on the rider (vehicle owner) for the listed offences — the draft's 'வாக்குவாதம் செய்துள்ளார்' and 'அபராதம்' attribution is ambiguous but acceptable.
-  fact-check: reel_script/slides_spec say the case was registered for 'பணி செய்யவிடாமல் தடுத்தது' and 'போலீசாரிடம் தரக்குறைவாக நடந்தது' — the article attributes these to the rider's violations list, not clearly to the functionary; the draft does not specify who was charged, so the key fact of who faced the case is missing from the reel_script.
-  fact-check: Caption says 'அவர் தவெக நிர்வாகி என்று கூறி நண்பருக்கு அழைத்தார்' — the article says the rider claimed to be a TVK functionary and called a friend; this is accurate.
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
 ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  known issue repeated_words: the same sentence is read twice - rewrite so it does not happen again
+  reel_script has 49 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  hl1 (the first headline on screen) must name the place 'சந்தைப்பேட்டை', e.g. 'சந்தைப்பேட்டை: ...' or 'சந்தைப்பேட்டை-இல் ...' - viewers share news of their own area
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The article gives the start dates as 18th and 19th without naming a month, but the draft states them as November (நவம்பர்) in the reel_script, slides_spec headline (நவ. 18) and caption; the month is not in the article.
-  The reel_script says the trains run 'ஜனவரி 20ஆம் தேதி வரை' and 'ஜனவரி 21ஆம் தேதி வரை'; the article's end dates are January 20 and 21, which matches, but the reel_script omits that the first train's dates are for Wednesdays only as stated — not a problem; however the slides_spec 'hl2' headline 'நவ. 18 முதல் ஜனவரி வரை' repeats the unsupported November month.
-  The reel_script states the first train arrives at Erode at 9.15 PM and departs at 9.25 PM, which matches the article; no discrepancy found there.
-  The reel_script omits the article's 'சேலம்' stop for the return train and Erode/Tirupur timing context is incomplete, but the key facts are present.
-claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The article gives the start dates as 18th and 19th without naming a month, but the draft states them as November (நவம்பர்) in the reel_script, slides_spec headline (நவ. 18) and caption; the month is not in the article.
-  fact-check: The reel_script says the trains run 'ஜனவரி 20ஆம் தேதி வரை' and 'ஜனவரி 21ஆம் தேதி வரை'; the article's end dates are January 20 and 21, which matches, but the reel_script omits that the first train's dates are for Wednesdays only as stated — not a problem; however the slides_spec 'hl2' headline 'நவ. 18 முதல் ஜனவரி வரை' repeats the unsupported November month.
-  fact-check: The reel_script states the first train arrives at Erode at 9.15 PM and departs at 9.25 PM, which matches the article; no discrepancy found there.
-  fact-check: The reel_script omits the article's 'சேலம்' stop for the return train and Erode/Tirupur timing context is incomplete, but the key facts are present.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The article says the traffic sub-inspector Muthu Selvam led the checking in the Tirupur South traffic police jurisdiction; the reel_script names him correctly but the slides_spec 'பெண் காவலரிடம்' slide attributes the complaint to 'தெற்கு போக்குவரத்துக் காவல் உதவி ஆய்வாளர் முத்து செல்வம்' as if he is the complainant, which is not stated in the article
-  The reel_script says the bike rider was booked and fined for the violations, but also the article says the case was filed against the TVK functionary Vignesh for obstructing police duty; the reel_script states 'வழக்குப்பதிவு செய்யப்பட்டு அபராதம் விதிக்கப்பட்டது' without specifying that the case and fines were against the bike rider and Vignesh respectively, which blurs two different facts
-  The reel_script and headline say the TVK functionary was booked/case filed, while the article only says the rider and the functionary were booked under sections including obstructing police duty; the reel_script's 'ஆளுங்கட்சியின் தவெக நிர்வாகி' describes the rider's claim, which is presented as a fact about the person rather than his claim
-  The slides_spec 'வழக்கு, அபராதம்' slide says 'இவற்றுக்காக வழக்குப்பதிவு செய்து அபராதம் விதிக்கப்பட்டது' merging the rider's violations and the functionary's conduct into a single sentence, mixing two different facts
-  The caption says Vignesh 'போலீசாருடன் வாக்குவாதம் செய்தார்' and the reel_script mentions the policewoman abuse, but the caption and reel_script do not mention that the rider was not wearing a helmet only in the context of the case; this is acceptable, however the caption's English tag 'TVK functionary abuses policewoman' is an unsupported characterization of the article's cause
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The article says the traffic sub-inspector Muthu Selvam led the checking in the Tirupur South traffic police jurisdiction; the reel_script names him correctly but the slides_spec 'பெண் காவலரிடம்' slide attributes the complaint to 'தெற்கு போக்குவரத்துக் காவல் உதவி ஆய்வாளர் முத்து செல்வம்' as if he is the complainant, which is not stated in the article
-  fact-check: The reel_script says the bike rider was booked and fined for the violations, but also the article says the case was filed against the TVK functionary Vignesh for obstructing police duty; the reel_script states 'வழக்குப்பதிவு செய்யப்பட்டு அபராதம் விதிக்கப்பட்டது' without specifying that the case and fines were against the bike rider and Vignesh respectively, which blurs two different facts
-  fact-check: The reel_script and headline say the TVK functionary was booked/case filed, while the article only says the rider and the functionary were booked under sections including obstructing police duty; the reel_script's 'ஆளுங்கட்சியின் தவெக நிர்வாகி' describes the rider's claim, which is presented as a fact about the person rather than his claim
-  fact-check: The slides_spec 'வழக்கு, அபராதம்' slide says 'இவற்றுக்காக வழக்குப்பதிவு செய்து அபராதம் விதிக்கப்பட்டது' merging the rider's violations and the functionary's conduct into a single sentence, mixing two different facts
-  fact-check: The caption says Vignesh 'போலீசாருடன் வாக்குவாதம் செய்தார்' and the reel_script mentions the policewoman abuse, but the caption and reel_script do not mention that the rider was not wearing a helmet only in the context of the case; this is acceptable, however the caption's English tag 'TVK functionary abuses policewoman' is an unsupported characterization of the article's cause
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+  slides must have 3 or 4 items
+  reel_script has 46 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  known issue repeated_words: the same sentence is read twice - rewrite so it does not happen again
+  reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2v9kzesta80vz1eq9kyc0` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 2048. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok anthropic/claude-haiku-5-5
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo used (1192x667, sharpness 58.6, The photograph shows screenshots from the viral video of the): https://imagesvs.oneindia.com/ta/img/2026/11/tvkfunctioanries-84371794736170.jpg
-real photo: vision check out of free quota
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match: False The photo shows notebooks and a pen resting on a scooter dashboard/seat next to a road with a yellow bus in the backgrou
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'TVK cadre booked in Tirupur after video '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-1740","first":"RN-42"}
-posting job started at once
-real photo skipped (photo uploaded 2026-11-04 (older than the news)): https://media.assettype.com/dailythanthi%2F2026-11-04%2Flj5qhvzq%2Ftrain.03.jpg?w=1200&ar=
-real photo skipped (photo uploaded 2026-11-04 (older than the news)): https://media.assettype.com/dailythanthi/2026-11-04/lj5qhvzq/train.03.jpg?w=1200&h=675&aut
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (0s)
+real photo: no picture on the source page -> AI pictures
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Special weekly train via Tirupur for Sab'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-1740","first":"RN-43"}
+images made: 2 for 'Man arrested with 490 grams of gutka nea'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-0205","first":"RN-45"}
 earlier stories still waiting for images: []
-instagram check: 40 recent posts read from the page
+instagram check: 42 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abuses-woman-police-personnel-in-tiruppur-while-backing-traffic-violator-845589.html
-manual link added: https://www.dailythanthi.com/news/tamilnadu/special-train-via-tiruppur-for-sabarimala-season
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gudka-vittavar-kaithuthiruppur-nov-16---when-the-northern-police-raided-the-tiruppur-railway-station-area-they-raided-mohammed-gulzar-23-on-suspicion-and-found-that-he-had-490-grams-of-gutka-packets-and-seized-them/4377285
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rainwater-harvesting-awareness-needed/4377239
 candidate filter: collected=2
 to write: 2 Tirupur district candidates (max 2 stories)
 round: top 2 of 2 candidates
 candidates waiting: 2 Tirupur; time left 79 min
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-train-vi
-try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abu
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
 posting job started at once
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})
-candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min
 filed: 2 Tirupur district stories (target 2), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":2,"updated":0} 
