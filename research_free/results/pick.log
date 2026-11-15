@@ -1,89 +1,25 @@
-05:28:27 round 2026-11-15_05: news published 15 Nov 01:29 -> 15 Nov 05:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Tirupur)
-05:28:27 insights 2026-11-15T05:28+05:30 (26 reels): topic weights {'politics': -0.5, 'accident': 0.42, 'crime': 0.49}; best openings ['🚨 திருப்பூர் போலீஸ் டைரி: கஞ்சா, விபத்து, சூதாட்டம்', '🚨 அவிநாசியில் கஞ்சா கடத்தல்: 4 பேருக்கு தலா 12 ஆண்டுகள் சிறை']
-05:28:54 30 links on the two papers' Tirupur pages
-05:29:24 skipped: published before this window=9, not Tirupur district=7, already posted=3, power cut - posted automatically=1
-05:29:24 list: 0 new + 11 earlier news not posted yet
-05:29:24    1. [விபத்து] வாரச் சந்தையில் சடலம் போலீசார் விசாரணை (தினமலர்) (earlier)
-05:29:24    2. [குற்றம்] வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’ (தினமலர்) (earlier)
-05:29:24    3. [பொது] தோண்டிய பள்ளம்... தொடரும் துயரம் மங்கலம் ரோட்டில் எப்போதும் அவலம் (தினமலர்) (earlier)
-05:29:24    4. [பொது] சுகாதார சீர்கேடு (தினத்தந்தி) (earlier)
-05:29:24    5. [பொது] குளத்தை சீரமைக்க வேண்டும் (தினத்தந்தி) (earlier)
-05:29:24    6. [பொது] திருப்பூரில் அண்ணா மிதிவண்டி போட்டி: அமைச்சர் அருண்ராஜ் கொடியசைத்து தொ (தினமணி) (earlier)
-05:29:24    7. [பொது] ஊரைக் காக்கும் உன்னத கரங்களுக்கு உளமார்ந்த மரியாதை: மேடையேற்றி பரிசளித (தினமலர்) (earlier)
-05:29:24    8. [பொது] வாக்காளர் பட்டியலில் பெயர் சரி பார்க்க தி.மு.க. அழைப்பு (தினமலர்) (earlier)
-05:29:24    9. [பொது] அக்., ஆடை ஏற்றுமதி 30 சதவீதம் உயர்வு (தினமலர்) (earlier)
-05:29:24   10. [பொது] பெண்களுக்கான பாதுகாப்பு விழிப்புணர்வு கருத்தரங்கு (தினமலர்) (earlier)
-05:29:24   11. [பொது] இ.எஸ்.ஐ., மருத்துவமனைக்கு பஸ் வசதி அமைச்சருக்கு ஏற்றுமதியாளர்கள் பாராட (தினமலர்) (earlier)
-05:29:24 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_05
-05:29:26    not picked automatically (ceremony / shopping feature - only when the owner ticks it): பெண்களுக்கான பாதுகாப்பு விழிப்புணர்வு கருத்தரங்கு
-05:29:26 round 2026-11-15_05 (at least 5, up to 3 more of well-watched topics): 10 news to choose from (0 from earlier rounds), ranked by this page's insights
-05:29:26   PICK   1.  10.5 [other +0.00 pattern] வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-05:29:26   PICK   2.  10.2 [temple -0.10 pattern] வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’
-05:29:26   PICK   3.   7.5 [other +0.00 pattern] தோண்டிய பள்ளம்... தொடரும் துயரம் மங்கலம் ரோட்டில் எப்போதும் 
-05:29:26   PICK   4.   7.5 [other +0.00 pattern] சுகாதார சீர்கேடு
-05:29:26   PICK   5.   7.5 [other +0.00 pattern] குளத்தை சீரமைக்க வேண்டும்
-05:29:26          6.   5.5 [politics -0.50 page] திருப்பூரில் அண்ணா மிதிவண்டி போட்டி: அமைச்சர் அருண்ராஜ் கொடி
-05:29:26          7.   2.5 [other +0.00 pattern] ஊரைக் காக்கும் உன்னத கரங்களுக்கு உளமார்ந்த மரியாதை: மேடையேற்
-05:29:26          8.   2.5 [other +0.00 pattern] வாக்காளர் பட்டியலில் பெயர் சரி பார்க்க தி.மு.க. அழைப்பு
-05:29:26          9.   2.5 [other +0.00 pattern] அக்., ஆடை ஏற்றுமதி 30 சதவீதம் உயர்வு
-05:29:26         10.   2.5 [other +0.00 pattern] இ.எஸ்.ஐ., மருத்துவமனைக்கு பஸ் வசதி அமைச்சருக்கு ஏற்றுமதியாளர
-05:29:26 decided: automatic: top 5 of 10 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-search-for-body-at-weekly-market/4376403 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gundas-on-street-vendor-asami/4376434 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/digged-pit-continued-misery-everlasting-misery-on-mangalam-road/4376430 https://pukaarpetti.dailythanthi.com/garbage/news-68523 https://pukaarpetti.dailythanthi.com/water/news-68524
-05:33:01 5 listed news now in the Sheet
-05:33:09 instagram duplicate check tirupur: 29 recent posts read
-05:33:09 verify 2026-11-15_05: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:33:09    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-05:33:09    NOT POSTED C0a45df2: queued RN-33 (Queued) - வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’
-05:33:09    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-05:33:09    NOT POSTED C37c15db: queued RN-30 (Queued) - சுகாதார சீர்கேடு
-05:33:09    NOT POSTED C8a4d934: queued RN-32 (Queued) - தோண்டிய பள்ளம்... தொடரும் துயரம் மங்கலம் ரோட்டில் எப்போதும் 
-05:38:16 instagram duplicate check tirupur: 30 recent posts read
-05:38:16 verify 2026-11-15_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:38:16    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-05:38:16    NOT POSTED C0a45df2: queued RN-33 (Queued) - வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’
-05:38:16    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-05:38:16    NOT POSTED C8a4d934: queued RN-32 (Queued) - தோண்டிய பள்ளம்... தொடரும் துயரம் மங்கலம் ரோட்டில் எப்போதும் 
-05:43:23 instagram duplicate check tirupur: 30 recent posts read
-05:43:23 verify 2026-11-15_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:43:23    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-05:43:23    NOT POSTED C0a45df2: queued RN-33 (Queued) - வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’
-05:43:23    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-05:43:23    NOT POSTED C8a4d934: queued RN-32 (Queued) - தோண்டிய பள்ளம்... தொடரும் துயரம் மங்கலம் ரோட்டில் எப்போதும் 
-05:48:30 instagram duplicate check tirupur: 31 recent posts read
-05:48:30 verify 2026-11-15_05: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:48:30    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-05:48:30    NOT POSTED C0a45df2: queued RN-33 (Queued) - வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’
-05:48:30    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-05:53:38 instagram duplicate check tirupur: 31 recent posts read
-05:53:38 verify 2026-11-15_05: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:53:38    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-05:53:38    NOT POSTED C0a45df2: queued RN-33 (Queued) - வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’
-05:53:38    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-05:58:46 instagram duplicate check tirupur: 31 recent posts read
-05:58:46 verify 2026-11-15_05: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:58:46    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-05:58:46    NOT POSTED C0a45df2: queued RN-33 (Queued) - வழிப்பறி ஆசாமி மீது ‘குண்டாஸ் ’
-05:58:46    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-06:03:53 instagram duplicate check tirupur: 32 recent posts read
-06:03:53 verify 2026-11-15_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:03:53    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-06:03:53    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-06:09:00 instagram duplicate check tirupur: 32 recent posts read
-06:09:00 verify 2026-11-15_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:09:00    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-06:09:00    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-06:14:07 instagram duplicate check tirupur: 32 recent posts read
-06:14:07 verify 2026-11-15_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:14:07    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-06:14:07    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-06:19:16 instagram duplicate check tirupur: 32 recent posts read
-06:19:16 verify 2026-11-15_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:19:16    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-06:19:16    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-06:24:23 instagram duplicate check tirupur: 32 recent posts read
-06:24:23 verify 2026-11-15_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:24:23    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
-06:24:23    NOT POSTED C1fd000e: queued RN-31 (Queued) - குளத்தை சீரமைக்க வேண்டும்
-06:29:28 verify 2026-11-15_05: 4 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:29:28    SKIPPED C86e15c1: skipped RN-34: held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) - வாரச் சந்தையில் சடலம் போலீசார் விசாரணை
+09:52:43 round 2026-11-15_09: news published 15 Nov 05:28 -> 15 Nov 09:52 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Tirupur)
+09:52:43 insights 2026-11-15T09:52+05:30 (31 reels): topic weights {'politics': -0.5, 'accident': 0.47, 'crime': 0.53, 'education': -0.5, 'temple': -0.5}; best openings ['🚨 திருப்பூர் போலீஸ் டைரி: கஞ்சா, விபத்து, சூதாட்டம்', '🚨 அவிநாசியில் கஞ்சா கடத்தல்: 4 பேருக்கு தலா 12 ஆண்டுகள் சிறை']
+10:00:45 from_google dinamalar.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google dinamani.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google dinamalar.com 'பல்லடம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google dinamani.com 'பல்லடம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google dinamalar.com 'உடுமலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google dinamani.com 'உடுமலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google tamil.oneindia.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google dinakaran.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google dailythanthi.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google maalaimalar.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google hindutamil.in 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 from_google polimernews.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+10:00:45 24 links on the two papers' Tirupur pages
+10:00:58 skipped: published before this window=8, already posted=4, power cut - posted automatically=2, not Tirupur district=2
+10:00:58 list: 0 new + 6 earlier news not posted yet
+10:00:58    1. [பொது] திருப்பூரில் அண்ணா மிதிவண்டி போட்டி: அமைச்சர் அருண்ராஜ் கொடியசைத்து தொ (தினமணி) (earlier)
+10:00:58    2. [பொது] ஊரைக் காக்கும் உன்னத கரங்களுக்கு உளமார்ந்த மரியாதை: மேடையேற்றி பரிசளித (தினமலர்) (earlier)
+10:00:58    3. [பொது] வாக்காளர் பட்டியலில் பெயர் சரி பார்க்க தி.மு.க. அழைப்பு (தினமலர்) (earlier)
+10:00:58    4. [பொது] அக்., ஆடை ஏற்றுமதி 30 சதவீதம் உயர்வு (தினமலர்) (earlier)
+10:00:58    5. [பொது] பெண்களுக்கான பாதுகாப்பு விழிப்புணர்வு கருத்தரங்கு (தினமலர்) (earlier)
+10:00:58    6. [பொது] இ.எஸ்.ஐ., மருத்துவமனைக்கு பஸ் வசதி அமைச்சருக்கு ஏற்றுமதியாளர்கள் பாராட (தினமலர்) (earlier)
+10:00:58 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-15_09
