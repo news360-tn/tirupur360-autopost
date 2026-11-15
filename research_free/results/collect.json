@@ -3,126 +3,233 @@
   "earlier stories still waiting for images: []",
   "instagram check: 40 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/kalvimalar-news/ai-in-classrooms-exclusive-training-for-teachers/83543",
-  "candidate filter: collected=1",
-  "to write: 1 Tirupur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/kalvimalar-news/ai-in-classro",
+  "manual link added: https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abuses-woman-police-personnel-in-tiruppur-while-backing-traffic-violator-845589.html",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/special-train-via-tiruppur-for-sabarimala-season",
+  "candidate filter: collected=2",
+  "to write: 2 Tirupur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-train-vi",
+  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 73 min",
-  "filed: 1 Tirupur district stories (target 1), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min",
+  "filed: 2 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (26s)",
+  "ok gemini/gemini-3.6-flash (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (20s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (21s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (7s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (14s)",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர் அரசுப் பள்ளி ஆசிரியர்களுக்கு ஏ.ஐ. தொழில்நுட்பப் பயிற்சி",
-   "english_headline": "Tirupur government school teachers to get special AI training in classroom teaching",
-   "category": "Education",
-   "location": "Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
+   "tamil_headline": "திருப்பூரில் பெண் போலீசிடம் அவதூறாக பேசிய தவெக நிர்வாகி: பல்வேறு பிரிவுகளில் வழக்குப்பதிவு",
+   "english_headline": "TVK cadre booked in Tirupur after video of arguing vulgarly with female traffic police officer goes viral",
+   "category": "Crime & Safety",
+   "location": "Sandaipettai, Palladam Road, Tirupur city, Tirupur district",
+   "importance": "High",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்வி",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர்: ஆசிரியர்களுக்கு ஏ.ஐ.",
-    "hl2": "சென்னையில் 200 பேருக்கு",
+    "cat": "காவல் துறை",
+    "loc": "சந்தைப்பேட்டை, திருப்பூர்",
+    "hl1": "திருப்பூரில் பெண் போலீசிடம் அவதூறு",
+    "hl2": "தவெக நிர்வாகி மீது வழக்கு",
     "slides": [
      {
-      "title": "என்ன பயிற்சி?",
+      "title": "வாகன தணிக்கை",
       "lines": [
-       "ஏ.ஐ. கருவிகள் மூலம் பாடம் கற்பித்தல்",
-       "மாணவர்களின் கற்றல் திறனை மதிப்பிடுதல்",
-       "பாட வீடியோக்கள் உருவாக்குதல்"
+       "திருப்பூர் பல்லடம் சாலை <b>சந்தைப்பேட்டை</b> அருகே சோதனை",
+       "போக்குவரத்து உதவி ஆய்வாளர் <b>முத்து செல்வம்</b> தலைமை",
+       "ஹெல்மெட் இன்றி செல்போன் பேசியபடி வந்த நபர்"
       ]
      },
      {
-      "title": "யாருக்கு பயிற்சி?",
+      "title": "வாக்குவாதம்",
       "lines": [
-       "சென்னையில் நடக்கும் மாநில அளவிலான முகாம்",
-       "ஒவ்வொரு மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்படும்",
-       "சுமார் <b>200 பேருக்கு</b> பயிற்சி"
+       "வாகன ஓட்டிக்கு அபராதம் விதிக்க முயன்ற போலீசார்",
+       "தவெக இளைஞரணி அமைப்பாளர் <b>விக்னேஷ்</b> சம்பவ இடம் வருகை",
+       "காவலர்களுடன் வாக்குவாதத்தில் ஈடுபட்டார்"
       ]
      },
      {
-      "title": "பயன் என்ன?",
+      "title": "பெண் போலீசிடம்",
       "lines": [
-       "பயிற்சி பெற்றவர்கள் தங்கள் மாவட்டத்தில் பயிற்சி அளிப்பர்",
-       "வகுப்பறை கற்பித்தல் முறையில் மாற்றம் வரும் என எதிர்பார்ப்பு"
+       "போக்குவரத்து பெண் காவலரிடம் தரக்குறைவாக பேச்சு",
+       "வாகனத்தை எடுக்க வக்கு இருக்கா என அவதூறு",
+       "போலீசாரை பணி செய்ய விடாமல் தடுத்ததாக புகார்"
+      ]
+     },
+     {
+      "title": "வழக்குப்பதிவு",
+      "lines": [
+       "ஹெல்மெட் இல்லை, நம்பர் பிளேட் இல்லை என பல பிரிவுகள்",
+       "பணி செய்ய விடாமல் தடுத்ததற்கும் வழக்கு",
+       "சம்பவத்தின் வீடியோ வெளியாகி பரபரப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் மாவட்டத்தில் உள்ள அரசுப் பள்ளி ஆசிரியர்களுக்கு ஏ.ஐ. தொழில்நுட்பப் பயிற்சி வழங்கப்பட உள்ளது. வகுப்பறைகளில் செயற்கை நுண்ணறிவு தொழில்நுட்பத்தைப் பயன்படுத்தி கற்பிக்கும் முறையை ஊக்குவிக்க கல்வித்துறை இத்திட்டத்தை அறிவித்துள்ளது. இதன்படி, ஏ.ஐ. கருவிகள் மூலம் பாடங்களை எளிமையாகவும் ஆக்கப்பூர்வமாகவும் கற்பிப்பது மற்றும் மாணவர்களின் கற்றல் திறனை மதிப்பிடுவது குறித்து பயிற்சி அளிக்கப்பட உள்ளது. மேலும், பாடம் சார்ந்த கல்வி வீடியோக்களை உருவாக்குவது, பிராம்ப்ட் இன்ஜினியரிங் போன்ற நவீன தொழில்நுட்பங்களும் கற்றுத்தரப்பட உள்ளன. இதையடுத்து, சென்னையில் நடைபெறவுள்ள மாநில அளவிலான பயிற்சி முகாமில், ஒவ்வொரு மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்படும் ஆசிரியர்கள் உட்பட சுமார் 200 பேருக்கு பயிற்சி வழங்கப்பட உள்ளது. இந்நிலையில், பயிற்சி பெறும் ஆசிரியர்கள் தங்கள் மாவட்டங்களுக்குச் சென்று மற்ற ஆசிரியர்களுக்கும் இத்தொழில்நுட்பப் பயிற்சிகளை வழங்குவர். இதன் மூலம் வகுப்பறை கற்பித்தல் முறையில் மாற்றம் ஏற்பட்டு, மாணவர்களுக்கு நவீன தொழில்நுட்பக் கல்வி எளிதில் சென்றடையும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 திருப்பூர் ஆசிரியர்களுக்கு ஏ.ஐ. தொழில்நுட்பப் பயிற்சி\n\n📰 முழு விவரம்:\nகல்வித்துறை, வகுப்பறைகளில் ஏ.ஐ. (செயற்கை நுண்ணறிவு) தொழில்நுட்பத்தைப் பயன்படுத்தி கற்பிக்கும் முறையை ஊக்குவிக்க ஆசிரியர்களுக்கு பிரத்யேகப் பயிற்சி அளிக்க உள்ளது. ஏ.ஐ. கருவிகள் மூலம் பாடங்களை எளிமையாகவும் ஆக்கப்பூர்வமாகவும் கற்பித்தல், மாணவர்களின் கற்றல் திறனை மதிப்பிடுதல், பாடம் சார்ந்த கல்வி வீடியோக்களை உருவாக்குதல், பிராம்ப்ட் இன்ஜினியரிங் ஆகியவை குறித்து பயிற்சி வழங்கப்படும்.\n🏫 சென்னையில் நடைபெறவுள்ள மாநில அளவிலான பயிற்சி முகாமில், ஒவ்வொரு மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்படும் ஆசிரியர்கள் உட்பட சுமார் 200 பேருக்குப் பயிற்சி வழங்கப்படும்.\n👩‍🏫 பயிற்சி பெற்ற ஆசிரியர்கள் தங்கள் மாவட்டங்களுக்குச் சென்று மற்ற ஆசிரியர்களுக்கும் பயிற்சி அளிப்பர்.\n📚 இதன் மூலம் வகுப்பறை கற்பித்தல் முறையில் மாற்றம் ஏற்படும் என எதிர்பார்க்கப்படுகிறது.\n\nTirupur teachers to get AI classroom training | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "Government school teachers attend a technology training session inside a spacious district hall in Tirupur city. From a wide camera angle behind the seated audience, female teachers in traditional colourful sarees and male teachers in formal buttoned shirts are seated at long wooden desks arranged in neat rows. At the front of the hall, a large white projection screen displays bright digital node graphics and interactive learning diagrams without any text. Sunlight streams through large high windows along the concrete walls, casting natural daylight across the room. Several laptops rest open on the wooden tables in front of the participants, who are focused forward. No faces or readable text are visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a teacher's hands placed over a laptop keyboard inside a government school hall in Tirupur city. The laptop screen lights up with abstract blue and green neural network node graphics and glowing digital flowchart icons, representing modern AI tools, without any words or letters. On the wooden desk beside the laptop lie traditional blue ink pens, a notepad, and a printed Tamil Nadu school textbook with an unreadable generic pattern on its cover. The background is softly blurred showing the edge of a saree fabric and wooden desk layout in bright natural indoor daylight. The camera shot is a 35mm close-up focused entirely on the laptop and hands. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/kalvimalar-news/ai-in-classrooms-exclusive-training-for-teachers/83543",
-   "published": "2026-11-15 13:15:37",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread gemini/gemini-3.6-flash, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "திருப்பூரில் பெண் போலீசிடம் அவதூறாக பேசிய தவெக நிர்வாகி மீது வழக்குப்பதிவு. திருப்பூர் தெற்கு போக்குவரத்து உதவி ஆய்வாளர் முத்து செல்வம் தலைமையில் பல்லடம் சாலை சந்தைப்பேட்டை அருகே வாகனத் தணிக்கை நடைபெற்றது. அப்போது ஹெல்மெட் அணியாமல் செல்போன் பேசியபடி வந்த நபரை போலீசார் தடுத்து நிறுத்தினர். அந்த நபருக்கு அபராதம் விதிக்க முயன்றபோது அவர் தனது கட்சி நண்பருக்கு தொலைபேசியில் அழைத்தார். இதையடுத்து தவெக தென்னம்பாளையம் பகுதி இளைஞர் அணி இணை அமைப்பாளர் விக்னேஷ் அங்கு வந்தார். விக்னேஷ் போக்குவரத்து பெண் காவலரிடம் தரக்குறைவாகவும் தகாத வார்த்தைகளாலும் பேசி வாக்குவாதம் செய்தார். மேலும் போலீசாரை பணி செய்ய விடாமல் தடுத்ததாகவும் குற்றச்சாட்டு எழுந்தது. ஹெல்மெட் இன்மை, செல்போன் பேசுதல், எண் பலகை இன்மை உள்ளிட்ட பிரிவுகளில் வழக்குப்பதிவு செய்து அபராதம் விதிக்கப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூரில் பெண் போலீசிடம் அவதூறாக பேசிய தவெக நிர்வாகி மீது வழக்குப்பதிவு\n\n📰 முழு விவரம்:\nதிருப்பூர் தெற்கு போக்குவரத்துக் காவல் உதவி ஆய்வாளர் முத்து செல்வம் தலைமையில் பல்லடம் சாலை சந்தைப்பேட்டை அருகே வாகனத் தணிக்கை நடைபெற்றது. ஹெல்மெட் அணியாமல் செல்போன் பேசியபடி வந்த இருசக்கர வாகன ஓட்டிக்கு அபராதம் விதிக்க முயன்றபோது, தவெக தென்னம்பாளையம் பகுதி இளைஞர் அணி இணை அமைப்பாளர் விக்னேஷ் அங்கு வந்தார்.\n\nஅவர் அங்கு பணிபுரிந்த போக்குவரத்து பெண் காவலரிடம் தரக்குறைவாக பேசி வாக்குவாதத்தில் ஈடுபட்டார். இதையடுத்து ஹெல்மெட் இன்மை, செல்போன் பேசுதல், முன் பக்க எண் பலகை இன்மை, பக்க கண்ணாடி இன்மை மற்றும் பணி செய்ய விடாமல் தடுத்தல் உள்ளிட்ட பிரிவுகளின் கீழ் போலீசார் வழக்குப்பதிவு செய்து அபராதம் விதித்தனர்.\n\n📍 இடம்: சந்தைப்பேட்டை, பல்லடம் சாலை, திருப்பூர்\n👮 நடவடிக்கை: பல்வேறு பிரிவுகளின் கீழ் வழக்குப்பதிவு மற்றும் அபராதம்\n\nதகவலை நண்பர்களுக்கு Share செய்யுங்கள்\n\nTirupur TVK cadre argues with female traffic police officer | Tirupur news\n📍 சந்தைப்பேட்டை, திருப்பூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #PalladamRoad #TirupurNews #திருப்பூர்",
+   "prompts": "A group of Tamil Nadu traffic police in khaki uniforms stop a two-wheeler rider at a vehicle checking point on Palladam Road in Tiruppur city, near the Sandaipettai junction. The two-wheeler, a scooter with no front number plate, is pulled to the roadside while the rider, seen from behind without a helmet, holds a mobile phone to his ear. A female traffic constable in khaki stands beside the scooter with a ticket book, while a male sub-inspector writes on a clipboard. Behind them a few men in shirts and veshti stand at a distance, and a stream of autorickshaws, town buses and two-wheelers passes on the busy road lined with shops and shuttered storefronts. It is bright daylight with a clear sky, and the scene is shot at eye level with a 35 mm lens wide enough to show the road, the traffic and the crowd of onlookers. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a scooter parked at the roadside in Tiruppur city, its front number plate missing and the side mirror absent, showing only the bare handlebar and the open space where the plate should be. A pair of folded khaki traffic police sleeves rests on the edge of the frame, with a black ticket book and a ballpoint pen lying on the seat. The scooter sits on a tarmac road with a painted white lane line and a few pieces of roadside dust, while a blurred bus passes in the far background. The light is harsh daylight, the framing is tight and focused on the objects, and the image is taken at eye level with a 35 mm lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/tiruppur/tvk-functionary-abuses-woman-police-personnel-in-tiruppur-while-backing-traffic-violator-845589.html",
+   "published": "2026-11-15T15:19:57+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: reel_script has 94 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft gemini/gemini-3.6-flash, 3 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794731400/tirupur360/kgzgbndr1jch8inoih99.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794731428/tirupur360/xnnyawgkxi9lqgepubjy.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744605/tirupur360/vl7eyzngp4ljj2lwqqbv.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744614/tirupur360/ue0dhjfuluwo1o40oioj.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சபரிமலை சீசன்: திருப்பூர் வழியாக சென்னை சென்டிரல்-கொல்லம் வாராந்திர சிறப்பு ரெயில்",
+   "english_headline": "Special weekly train via Tirupur for Sabarimala season between Chennai Central and Kollam",
+   "category": "Roads & Transport",
+   "location": "Tirupur, Erode, Salem - Tirupur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ரெயில் சேவை",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூர் வழியாக சபரிமலை சிறப்பு ரெயில்",
+    "hl2": "புதன், வியாழன் இயக்கம்",
+    "slides": [
+     {
+      "title": "எந்த ரெயில்?",
+      "lines": [
+       "சென்னை சென்டிரல்-கொல்லம் வாராந்திர சிறப்பு ரெயில்",
+       "சேலம், ஈரோடு, திருப்பூர் வழியாக இயக்கம்",
+       "சபரிமலை சீசன் கூட்ட நெரிசலை முன்னிட்டு"
+      ]
+     },
+     {
+      "title": "சென்னையில் இருந்து",
+      "lines": [
+       "வண்டி எண் <b>06119</b>, புதன்கிழமைகளில்",
+       "சென்னை சென்டிரலில் மாலை <b>3.10 மணி</b>க்குப் புறப்படும்",
+       "திருப்பூருக்கு இரவு <b>10.03 மணி</b>க்கு வந்து 10.05"
+      ]
+     },
+     {
+      "title": "கொல்லத்தில்",
+      "lines": [
+       "வண்டி எண் <b>06120</b>, வியாழக்கிழமைகளில்",
+       "கொல்லத்தில் காலை <b>10.40 மணி</b>க்குப் புறப்படும்",
+       "திருப்பூருக்கு இரவு <b>7.18 மணி</b>க்கு வந்து 7.20"
+      ]
+     },
+     {
+      "title": "எத்தனை சேவைகள்?",
+      "lines": [
+       "18ஆம் தேதி முதல் ஜனவரி <b>20</b> வரை - <b>10 சேவைகள்</b>",
+       "19ஆம் தேதி முதல் ஜனவரி <b>21</b> வரை - <b>10 சேவைகள்</b>",
+       "ரெயில்வே அதிகாரி ஒருவர் தகவல் தெரிவித்துள்ளார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் வழியாக சபரிமலை சீசனுக்காக சிறப்பு ரெயில் இயக்கப்பட உள்ளது. சேலம், ஈரோடு, திருப்பூர் வழியாக சென்னை சென்டிரல் மற்றும் கொல்லம் இடையே வாராந்திர சிறப்பு ரெயில் இயக்கப்படும். பயணிகளின் கூட்ட நெரிசலைக் கருத்தில் கொண்டு இந்த ஏற்பாடு செய்யப்பட்டுள்ளது. சென்னை சென்டிரல்-கொல்லம் சிறப்பு ரெயில், வண்டி எண் 06119, 18ஆம் தேதி முதல் ஜனவரி 20ஆம் தேதி வரை புதன்கிழமைகளில் இயக்கப்படும். மொத்தம் 10 சேவைகள் இருக்கும். சென்னை சென்டிரலில் இருந்து மாலை 3.10 மணிக்குப் புறப்பட்டு, மறுநாள் காலை 7.20 மணிக்கு கொல்லம் சென்றடையும். இந்த ரெயில் ஈரோட்டுக்கு இரவு 9.15 மணிக்கு வந்து 9.25 மணிக்குப் புறப்படும். திருப்பூருக்கு இரவு 10.03 மணிக்கு வந்து 10.05 மணிக்குப் புறப்படும். கொல்லம்-சென்னை சென்டிரல் சிறப்பு ரெயில், வண்டி எண் 06120, 19ஆம் தேதி முதல் ஜனவரி 21ஆம் தேதி வரை வியாழக்கிழமைகளில் இயக்கப்படும். மொத்தம் 10 சேவைகள் இருக்கும். கொல்லத்தில் இருந்து காலை 10.40 மணிக்குப் புறப்பட்டு, மறுநாள் அதிகாலை 3.30 மணிக்கு சென்னை சென்டிரல் சென்றடையும். இந்த ரெயில் திருப்பூருக்கு இரவு 7.18 மணிக்கு வந்து 7.20 மணிக்குப் புறப்படும். ஈரோட்டுக்கு 8.20 மணிக்கு வந்து 8.30 மணிக்குப் புறப்படும். இந்தத் தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 திருப்பூர் வழியாக சபரிமலை சீசன் சிறப்பு ரெயில்\n\n📰 முழு விவரம்:\nசபரிமலை சீசனை முன்னிட்டு, பயணிகளின் கூட்ட நெரிசலைக் கருத்தில் கொண்டு சேலம், ஈரோடு, திருப்பூர் வழியாக சென்னை சென்டிரல்-கொல்லம் இடையே வாராந்திர சிறப்பு ரெயில் இயக்கப்பட உள்ளது.\n🚆 சென்னை சென்டிரல்-கொல்லம் (வண்டி எண் 06119): 18ஆம் தேதி முதல் ஜனவரி 20ஆம் தேதி வரை (10 சேவைகள்), புதன்கிழமைகளில் சென்னை சென்டிரலில் மாலை 3.10 மணிக்குப் புறப்பட்டு, மறுநாள் காலை 7.20 மணிக்கு கொல்லம் சென்றடையும்.\n🕘 ஈரோடு இரவு 9.15 மணி (புறப்பாடு 9.25); திருப்பூர் இரவு 10.03 மணி (புறப்பாடு 10.05).\n🚆 கொல்லம்-சென்னை சென்டிரல் (வண்டி எண் 06120): 19ஆம் தேதி முதல் ஜனவரி 21ஆம் தேதி வரை (10 சேவைகள்), வியாழக்கிழமைகளில் கொல்லத்தில் காலை 10.40 மணிக்குப் புறப்பட்டு, மறுநாள் அதிகாலை 3.30 மணிக்கு சென்னை சென்டிரல் சென்றடையும்.\n🕘 திருப்பூர் இரவு 7.18 மணி (புறப்பாடு 7.20); ஈரோடு இரவு 8.20 மணி (புறப்பாடு 8.30).\nமேற்கண்ட தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்துள்ளார்.\nசபரிமலை செல்லும் பயணிகள் இந்த ரெயில்களைப் பயன்படுத்திக்கொள்ளலாம்.\n\nSabarimala special train via Tirupur, Chennai Central-Kollam | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A crowd of Sabarimala pilgrims and ordinary passengers with rucksacks and travel bags waits on the platform of Tirupur railway station as a long passenger train pulls in at night. Several men in black dhotis and saffron-coloured shirts, some carrying cloth bundles, stand near the coaches while women in sarees hold children by the hand. The station is a typical South Indian railway platform with a tiled roof, yellow sodium lights, a steel railing and a concrete pillar, with a tea stall in the background. The train's windows glow with light inside the coaches. The mood is busy but orderly, as travellers board for the Kollam route. Shot at eye level, 35 mm, wide enough to show the platform, the train and the crowd, seen mostly from behind or from a distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a platform signal board and a stack of travel bags and cloth bundles placed beside a steel railing at Tirupur railway station at night. Behind them a few pilgrims in black and saffron clothes wait, seen from behind and slightly blurred, while a railway porter pushes a luggage trolley loaded with bags across the concrete platform. Yellow sodium lights shine on the wet tiled floor. The detail shows the rush of Sabarimala season travel through the Tirupur station, with the train's coach lights faintly visible in the far background. Shot at eye level, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/special-train-via-tiruppur-for-sabarimala-season",
+   "published": "2026-11-15T09:09:10Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: known issue repeated_words: the same sentence is read twice - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744622/tirupur360/rgjwx4wbmbetagxzoqwc.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794744626/tirupur360/qzkdgym874px1vsaoimy.jpg"
    ]
   }
  ]
