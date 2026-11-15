@@ -1,192 +1,443 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 27 recent posts read from the page",
+  "instagram check: 29 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/சேவூா்-அருகே-தேனீ-கடித்து-விவசாயி-உயிரிழப்பு",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/கஞ்சா-குட்கா-மது-லாட்டரி-விற்ற-6-போ்-கைது",
-  "candidate filter: collected=2",
-  "to write: 2 Tirupur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-search-for-body-at-weekly-market/4376403",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gundas-on-street-vendor-asami/4376434",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/digged-pit-continued-misery-everlasting-misery-on-mangalam-road/4376430",
+  "manual link added: https://pukaarpetti.dailythanthi.com/garbage/news-68523",
+  "manual link added: https://pukaarpetti.dailythanthi.com/water/news-68524",
+  "candidate filter: collected=5",
+  "to write: 5 Tirupur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Tirupur; time left 79 min",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/water/news-68524",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/news-68523",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
-  "filed: 2 Tirupur district stories (target 2), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
+  "filed: 5 Tirupur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3.5-flash (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "ok gemini/gemini-3.5-flash (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "ok groq/openai/gpt-oss-120b (2s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (28s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3.6-flash (21s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (4s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (1s)"
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "இடுவாய் உள்ளிட்ட திருப்பூர் பகுதிகளில் கஞ்சா, குட்கா, மது, லாட்டரி விற்ற 6 பேர் கைது",
-   "english_headline": "6 arrested in raids across Tirupur including Iduvai for selling ganja, gutka, liquor and lottery tickets",
-   "category": "Crime & Safety",
-   "location": "Iduvai, Tirupur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றச்செய்தி",
-    "loc": "இடுவாய், திருப்பூர்",
-    "hl1": "இடுவாய்: கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
-    "hl2": "3.1 கிலோ கஞ்சா பறிமுதல்",
-    "slides": [
-     {
-      "title": "இடுவாய் கஞ்சா",
-      "lines": [
-       "மங்கலம் எல்லை <b>இடுவாய்</b> அருகே சோதனை",
-       "<b>3.100 கிலோ</b> கஞ்சா பறிமுதல்",
-       "27, 18, 18 வயது <b>3 பேர் கைது</b>"
-      ]
-     },
-     {
-      "title": "காந்திநகர் குட்கா",
-      "lines": [
-       "காந்திநகர் பேருந்து நிறுத்தம் அருகே அதிரடி",
-       "<b>5.340 கிலோ</b> குட்கா பறிமுதல்",
-       "60 வயது முதியவர் கைது"
-      ]
-     },
-     {
-      "title": "லாட்டரி, மது",
-      "lines": [
-       "காந்திநகரில் லாட்டரி விற்ற <b>39 வயது நபர்</b> கைது",
-       "செவந்தாம்பாளையத்தில் மது விற்ற <b>32 வயது நபர்</b> கைது",
-       "நல்லூர் காவல் துறை தீவிர விசாரணை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் இடுவாய் பகுதியில் கஞ்சா விற்ற 3 பேர் கைது. திருப்பூர் மாநகரில் வெள்ளிக்கிழமை காவல் துறையினர் தீவிர சோதனை நடத்தினர். மங்கலம் காவல் எல்லைக்கு உட்பட்ட இடுவாய் பகுதியில் 3.100 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது. இது தொடர்பாக 27 வயது நபர் மற்றும் 18 வயதுடைய இளைஞர்கள் 2 பேர் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டனர். அனுப்பர்பாளையம் எல்லை காந்திநகர் பேருந்து நிறுத்தம் அருகே 5.340 கிலோ குட்கா வைத்திருந்த 60 வயது முதியவர் கைது செய்யப்பட்டார். அதே பகுதியில் லாட்டரி சீட்டுகளை விற்ற 39 வயது நபரும் கைது செய்யப்பட்டார். செவந்தாம்பாளையம் அருகே சட்டவிரோதமாக மது விற்ற 32 வயது நபரை நல்லூர் காவல் துறையினர் கைது செய்தனர். ஒரே நாளில் கஞ்சா, குட்கா, மது மற்றும் லாட்டரி விற்ற 6 பேரை காவல்துறையினர் கைது செய்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகரில் வெள்ளிக்கிழமை காவல்துறையினர் நடத்திய அதிரடி சோதனையில் கஞ்சா, குட்கா, மதுபாட்டில்கள் மற்றும் லாட்டரி சீட்டுகளை விற்ற 6 பேர் கைது செய்யப்பட்டனர். மங்கலம் காவல் எல்லைக்கு உட்பட்ட இடுவாய் அருகே நடத்திய சோதனையில் 3.100 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டு, 27 வயது நபர் மற்றும் 18 வயதுடைய இளைஞர்கள் 2 பேர் என 3 பேர் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டனர். அனுப்பர்பாளையம் எல்லை காந்திநகர் பேருந்து நிறுத்தம் அருகே 5.340 கிலோ குட்கா வைத்திருந்த 60 வயது முதியவர் மற்றும் லாட்டரி விற்ற 39 வயது நபர் ஆகிய 2 பேர் கைதாயினர். செவந்தாம்பாளையம் அருகே சட்டவிரோதமாக மது விற்ற 32 வயது நபரை நல்லூர் காவல் துறையினர் கைது செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: இடுவாய், காந்திநகர், செவந்தாம்பாளையம், திருப்பூர்\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: 6 பேர் கைது, கஞ்சா மற்றும் குட்கா பறிமுதல்\n\nIduvai Tirupur police raid ganja gutka seizure | Tirupur news\n📍 Iduvai, Tirupur | 14 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Iduvai #TirupurNews #திருப்பூர்",
-   "prompts": "A group of Tamil Nadu police officers in khaki cordons off a narrow street in Iduvai, near the Mangalam police‑station boundary, as they handcuff three young men and lead them away; another officer holds a bag of greenish cannabis while a second officer displays packets of brown gutka and a few liquor bottles on a low table. The scene is set on a typical Tirupur lane lined with modest houses and a few street‑side stalls, with a police jeep parked at the curb. Daylight illuminates the street, clear weather, and the camera is at eye level with a 35 mm lens, framing the officers, suspects and seized goods together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of the seized contraband on a police‑set table in Iduvai: a sack spilling dark green cannabis leaves, several small brown gutka packets stacked beside it, a couple of clear liquor bottles with caps, and a fan of colorful lottery tickets fanned out. A police hand in khaki rests on the edge of the table, keeping the items in view, while the background shows a blurred police jeep and the edge of the street. The shot is taken slightly high, using a 35 mm lens to capture the details of the illegal goods clearly in daylight. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/கஞ்சா-குட்கா-மது-லாட்டரி-விற்ற-6-போ்-கைது",
-   "published": "2026-11-14T19:12:55.811Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686629/tirupur360/zrcvvzsk4kuumoulhpgx.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686659/tirupur360/bgnkpf1uauq7gjsj7wea.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேவூர் அருகே தேனீ கடித்து விவசாயி உயிரிழப்பு",
-   "english_headline": "Farmer dies after bee attack near Sevur, Avinashi taluk",
-   "category": "Crime & Safety",
-   "location": "Sevur, Avinashi taluk, Tirupur district",
+   "tamil_headline": "திருவெண்ணெய்நல்லூரில் மலட்டாறு பாலம் அருகே குப்பை: சுகாதார சீர்கேடு அபாயம்",
+   "english_headline": "Garbage dumping near Malattaru bridge in Thiruvennainallur causes health hazard concerns",
+   "category": "Civic Issues",
+   "location": "Thiruvennainallur, Villupuram district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விபத்து",
-    "loc": "சேவூர், அவிநாசி",
-    "hl1": "சேவூர் அருகே தேனீ கடித்து விவசாயி",
-    "hl2": "தேன் கூடு கலைந்ததால்",
+    "cat": "சுகாதார சீர்கேடு",
+    "loc": "திருவெண்ணெய்நல்லூர்",
+    "hl1": "திருவெண்ணெய்நல்லூரில் குப்பை",
+    "hl2": "தொற்றுநோய் பரவும் அபாயம்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே பிரச்சினை?",
       "lines": [
-       "சேவூர் அருகே குமரபாளையத்தில் தேனீ கடித்து விவசாயி உயிரிழப்பு",
-       "தோட்டத்தில் தென்னை ஓலைகளை எரித்தபோது நடந்தது",
-       "புகையால் மரத்தில் இருந்த தேன் கூடு கலைந்தது"
+       "திருவெண்ணெய்நல்லூர் கல்லுக்கடை முனை",
+       "மலட்டாறு பாலத்தின் ஓரம் அதிக குப்பை",
+       "கடும் துர்நாற்றம் வீசுகிறது"
       ]
      },
      {
-      "title": "யார் அவர்?",
+      "title": "யார் பாதிப்பு?",
       "lines": [
-       "தண்டுக்காரம்பாளையம், குமரபாளையம்",
-       "தேனீக்கள் அவரைக் கடித்தன",
-       "பலத்த காயத்துடன் கோவை தனியார் மருத்துவமனையில் அனுமதி"
+       "பள்ளி, கல்லூரி மாணவர்கள்",
+       "வட்டாட்சியர் அலுவலகம் வரும் மக்கள்",
+       "தொற்றுநோய் பரவும் வாய்ப்பு"
       ]
      },
      {
-      "title": "என்ன நடவடிக்கை?",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "சிகிச்சைப் பலனின்றி முருகேஷ் உயிரிழந்தார்",
-       "சேவூர் போலீசார் வழக்குப் பதிவு செய்தனர்",
-       "போலீசார் விசாரணை நடத்தி வருகின்றனர்"
+       "சுகாதார சீர்கேடு ஏற்படும் நிலை",
+       "குப்பைகளை உடனடியாக அகற்ற கோரிக்கை",
+       "அதிகாரிகள் நடவடிக்கை எடுக்க எதிர்பார்ப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேவூர் அருகே தேனீ கடித்து 60 வயது விவசாயி முருகேஷ் உயிரிழந்தார். அவிநாசி வட்டம், சேவூர் அருகே உள்ள தண்டுக்காரம்பாளையம், குமரபாளையம், பெரியகாட்டுத் தோட்டத்தைச் சேர்ந்தவர் முருகேஷ். சனிக்கிழமை அன்று அவர் தனது தோட்டத்தில் தென்னை ஓலைகளை எரித்ததாகக் கூறப்படுகிறது. அப்போது உருவான புகையால் மரத்தில் இருந்த தேன் கூடு கலைந்தது. தேனீக்கள் முருகேஷைக் கடித்தன. பலத்த காயமடைந்த அவரை அருகில் இருந்தவர்கள் மீட்டு, கோவை தனியார் மருத்துவமனையில் அனுமதித்தனர். ஆனால் சிகிச்சைப் பலனின்றி அவர் உயிரிழந்தார். இது குறித்து சேவூர் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐝 சேவூர் அருகே தேனீ கடித்து விவசாயி உயிரிழப்பு\n\n📰 முழு விவரம்:\nஅவிநாசி வட்டம், சேவூர் அருகே குமரபாளையத்தில் சனிக்கிழமை தேனீக்கள் கடித்து 60 வயது விவசாயி முருகேஷ் உயிரிழந்தார். தண்டுக்காரம்பாளையம், குமரபாளையம், பெரியகாட்டுத் தோட்டத்தைச் சேர்ந்தவர் அவர். தோட்டத்தில் தென்னை ஓலைகளை எரித்தபோது உருவான புகையால் மரத்தில் இருந்த தேன் கூடு கலைந்து தேனீக்கள் அவரைக் கடித்தன. பலத்த காயமடைந்த அவரை கோவை தனியார் மருத்துவமனையில் அனுமதித்தனர்; சிகிச்சைப் பலனின்றி உயிரிழந்தார்.\n👮 நடவடிக்கை: சேவூர் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nSevur farmer dies after bee attack, Avinashi | Tirupur news\n📍 சேவூர், அவிநாசி வட்டம், திருப்பூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A swarm of bees descends from a tree onto a farmer in a plantation. The main subject is the farmer, seen from behind, standing amidst tall coconut trees while a dense cloud of bees surrounds his upper body. The location is a dense plantation in Kumara Palayam near Sevur, characterized by rows of coconut palms and undergrowth. Nearby, two or three local villagers stand at a safe distance, watching the incident with concern, dressed in simple shirts and trousers. In the foreground, a small pile of burnt coconut leaves smokes, indicating the source of the disturbance. The beehive is visible high up in a tree branch, with bees actively swarming out of it. It is daytime with bright natural light filtering through the leaves. The camera is at eye level, 35mm lens, capturing the full extent of the swarm and the farmer's position within the plantation. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large beehive attached to a tree branch, with bees actively swarming around it. The hive is the central object, showing the dense cluster of bees and the structure of the comb. Smoke from burning coconut leaves is visible in the background, rising from the ground below, indicating the cause of the disturbance. The tree bark is rough and textured, typical of coconut trees in the region. The lighting is natural daylight, highlighting the movement of the bees. The camera is slightly high, focusing on the hive and the immediate area, with the background blurred to emphasize the hive and the smoke. This scene captures the specific object that triggered the event, providing context to the farmer's attack. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/14/சேவூா்-அருகே-தேனீ-கடித்து-விவசாயி-உயிரிழப்பு",
-   "published": "2026-11-14T19:23:30.322Z",
+   "reel_script": "திருவெண்ணெய்நல்லூர் மலட்டாறு பாலம் அருகே கொட்டப்படும் குப்பைகளால் சுகாதார சீர்கேடு ஏற்படும் நிலை உருவாகியுள்ளது. திருவெண்ணெய்நல்லூர் கல்லுக்கடை முனை அருகே மலட்டாறு பாலத்தின் ஓரம் அதிகளவில் குப்பைகள் கொட்டப்படுகின்றன. இதனால் அந்தப் பகுதியில் கடும் துர்நாற்றம் வீசுகிறது. அவ்வழியாக பள்ளி மற்றும் கல்லூரி செல்லும் மாணவர்கள் பெரிதும் பாதிக்கப்படுகின்றனர். மேலும் வட்டாட்சியர் அலுவலகம் வரும் பொதுமக்களுக்கும் பல்வேறு விதமான தொற்றுநோய் பரவும் வாய்ப்புகள் உருவாகியுள்ளன. அப்பகுதியில் கடும் சுகாதார சீர்கேடு ஏற்படும் நிலையும் உருவாகியுள்ளது. எனவே சம்பந்தப்பட்ட அதிகாரிகள் குப்பைகளை விரைந்து அகற்ற நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ திருவெண்ணெய்நல்லூரில் மலட்டாறு பாலம் அருகே குப்பை: தொற்றுநோய் அபாயம்\n\n📰 முழு விவரம்:\nதிருவெண்ணெய்நல்லூர் கல்லுக்கடை முனை அருகே மலட்டாறு பாலத்தின் ஓரம் அதிகளவில் குப்பைகள் கொட்டப்பட்டு வருகின்றன. இதனால் அப்பகுதியில் கடும் துர்நாற்றம் வீசி வருகிறது.\nஅவ்வழியாக செல்லும் பள்ளி, கல்லூரி மாணவர்கள் மற்றும் வட்டாட்சியர் அலுவலகத்திற்கு வரும் பொதுமக்களுக்கு தொற்றுநோய் பரவும் அபாயம் ஏற்பட்டுள்ளது.\nசுகாதார சீர்கேடு உருவாகும் நிலை உள்ளதால், சம்பந்தப்பட்ட அதிகாரிகள் குப்பைகளை உடனடியாக அகற்ற நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: கல்லுக்கடை முனை, திருவெண்ணெய்நல்லூர்\nℹ️ மக்கள் கவனத்திற்கு: குப்பைகளை அகற்ற அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க பொதுமக்கள் எதிர்பார்ப்பு.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nThiruvennainallur garbage issue near Malattaru bridge | Tirupur news\n📍 திருவெண்ணெய்நல்லூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Thiruvennainallur #TirupurNews #திருப்பூர்",
+   "prompts": "Garbage heaps line the edge of the Malattaru bridge, where waste is being dumped in large piles. The scene is on the narrow road beside the concrete bridge over the Malattaru stream, just in front of a small stone‑shop (kallukkadai) typical of Thiruvennainallur. A few local residents in khaki shirts walk past from behind, and a group of schoolchildren in uniform can be seen heading toward the college, their backs turned to the camera. In the distance a lone two‑wheel scooter passes. The garbage consists of tangled plastic bags, discarded paper, broken bottles and rusted metal cans. Mid‑day daylight, clear sky. Eye‑level, 35 mm lens, medium‑wide framing captures the bridge, the shop and the waste. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose‑up of the garbage heap piled against the bridge railing, showing tangled plastic bags, crushed cardboard, broken glass and rusted metal cans. The heap sits on the concrete curb of the Malattaru bridge, with the river visible faintly in the background. No people are in frame, only a blurred silhouette of a passerby from behind near the edge. No vehicles appear. Mixed waste – plastic, paper, broken glass, a discarded wooden crate – dominates the composition. Afternoon, bright sunlight casts sharp shadows on the heap. Slightly high angle, 35 mm lens, tight framing fills the image with the waste while keeping the bridge railing in view. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/garbage/news-68523",
+   "published": "2026-11-15T00:04:18+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700821/tirupur360/xrckgc1gergwjaudjxkz.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700829/tirupur360/c0is38jcqwgbw4qsz3gb.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரகண்டநல்லூர் அதுல்யநாதஸ்வரர் மலைக்கோவில் குளத்தைச் சீரமைக்க பக்தர்கள் கோரிக்கை",
+   "english_headline": "Devotees demand repair of the temple pond at Atulyanatheswarar hill temple in Arakandanallur",
+   "category": "Temples & Events",
+   "location": "Arakandanallur, Tirupur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கோவில் குளம்",
+    "loc": "அரகண்டநல்லூர்",
+    "hl1": "அரகண்டநல்லூரில் கோவில் குளம்",
+    "hl2": "சீரமைக்க பக்தர்கள் கோரிக்கை",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "அரகண்டநல்லூர் அதுல்யநாதஸ்வரர் மலைக்கோவில் குளம்",
+       "பராமரிப்பின்றி குப்பைகள் தேங்கியுள்ளது",
+       "தேவையற்ற பொருட்களும் குளத்தில் கிடக்கின்றன"
+      ]
+     },
+     {
+      "title": "பக்தர்கள் அவதி",
+      "lines": [
+       "குளத்தைப் பயன்படுத்த முடியாமல் பக்தர்கள் அவதிப்படுகின்றனர்",
+       "குளம் சுகாதாரமற்ற நிலையில் உள்ளது"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "கோவில் குளத்தைச் சீரமைக்க வேண்டும்",
+       "குப்பைகளை அகற்றி சுகாதாரமாகப் பராமரிக்க வேண்டும்",
+       "சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அரகண்டநல்லூரில் உள்ள அதுல்யநாதஸ்வரர் மலைக்கோவில் குளம் முறையான பராமரிப்பின்றி கிடக்கிறது. இதனால் குளத்தில் குப்பைகளும் தேவையற்ற பொருட்களும் தேங்கிக் கிடக்கின்றன. மேலும், குளம் சுகாதாரமற்ற நிலையில் இருப்பதால் பக்தர்கள் அதைப் பயன்படுத்த முடியாமல் அவதிப்படுகின்றனர். இதையடுத்து, கோவில் குளத்தைச் சீரமைத்து, குப்பைகளை அகற்றி சுகாதாரமாகப் பராமரிக்க வேண்டும் என்று பக்தர்கள் கோரிக்கை விடுத்துள்ளனர். இந்நிலையில், சம்பந்தப்பட்ட அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்று அவர்கள் வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 அரகண்டநல்லூர் மலைக்கோவில் குளத்தைச் சீரமைக்க பக்தர்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nஅரகண்டநல்லூரில் உள்ள அதுல்யநாதஸ்வரர் மலைக்கோவிலில் உள்ள குளம் முறையான பராமரிப்பின்றிக் காணப்படுகிறது. குளத்தில் குப்பைகளும் தேவையற்ற பொருட்களும் தேங்கியுள்ளன. இதனால் பக்தர்கள் குளத்தைப் பயன்படுத்த முடியாமல் அவதிப்படுகின்றனர்.\n📍 இடம்: அரகண்டநல்லூர், அதுல்யநாதஸ்வரர் மலைக்கோவில்\nℹ️ மக்கள் கவனத்திற்கு: கோவில் குளத்தைச் சீரமைத்து, குப்பைகளை அகற்றி சுகாதாரமாகப் பராமரிக்க சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என பக்தர்கள் கோரிக்கை விடுத்துள்ளனர்.\n\nAtulyanatheswarar temple pond repair demand | Tirupur news\n📍 அரகண்டநல்லூர், திருப்பூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Arakandanallur #TirupurNews #திருப்பூர்",
+   "prompts": "A group of devotees stands near the edge of a stagnant, garbage-filled pond at the Atulyanatheswarar hill temple in Arakandanallur. The location is a hilltop temple complex in Tirupur district, surrounded by rocky terrain and temple walls. Several men in shirts and trousers and women in sarees are seen from behind, looking towards the water body. The pond is visibly cluttered with floating debris, dry leaves, and accumulated waste, indicating a lack of maintenance. No vehicles are present in the immediate vicinity. The scene is set in daylight with natural lighting. The camera is positioned at eye level, 35 mm, capturing the devotees and the polluted pond in a wide shot to show the scale of the issue. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the temple pond water surface at the Atulyanatheswarar hill temple in Arakandanallur. The water is murky and stagnant, covered with a layer of floating garbage, plastic waste, and organic debris. The edge of the pond shows signs of neglect with piled-up dirt and discarded items. No people are visible in this frame, focusing entirely on the state of the water body. The lighting is natural daylight, highlighting the texture of the waste and the stillness of the water. The camera is slightly high, 35 mm, providing a detailed look at the pollution that has prevented devotees from using the pond. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/water/news-68524",
+   "published": "2026-11-15T00:04:24+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700890/tirupur360/iv7cncm5uyecmc0ktisu.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700915/tirupur360/fgwtrkoxcnd6ync25elw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மங்கலம் ரோடில் தோண்டிய பள்ளங்களால் தொடரும் அவதி",
+   "english_headline": "Dug-up pits keep Mangalam Road in a state of misery in Tirupur",
+   "category": "Roads & Transport",
+   "location": "Mangalam Road, Chinnandipalayam area, Tirupur city, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை அவலம்",
+    "loc": "மங்கலம் ரோடு, திருப்பூர்",
+    "hl1": "மங்கலம் ரோடில் தொடரும் பள்ளம் அவதி",
+    "hl2": "குண்டும் குழியுமான சாலை",
+    "slides": [
+     {
+      "title": "எந்தச் சாலை?",
+      "lines": [
+       "திருப்பூர் – சோமனூர், சூலூர், கோவை செல்லும் முக்கிய சாலை",
+       "தினமும் ஆயிரக்கணக்கான வாகனங்கள் பயன்படுத்துகின்றன",
+       "சின்னாண்டிபாளையம் பிரிவு பகுதி"
+      ]
+     },
+     {
+      "title": "ஏன் பள்ளம்?",
+      "lines": [
+       "பாதாள சாக்கடை, குடிநீர்க் குழாய்ப் பணிகளுக்காக தோண்டப்பட்டது",
+       "குழாய் உடைப்பு சீரமைப்பிற்காக மீண்டும் தோண்டப்படுகிறது",
+       "பணிக்குப் பின் சாலை முறையாகச் சீரமைக்கப்படவில்லை"
+      ]
+     },
+     {
+      "title": "இப்போதைய நிலை",
+      "lines": [
+       "பல கிலோ மீட்டர் தூரத்துக்கு குண்டும் குழியுமாக உள்ளது",
+       "குழாய் உடைப்பால் தண்ணீர் சாலையில் வழிந்தோடுகிறது",
+       "ஏற்கெனவே உள்ள குழிகள் மேலும் பெரிதாகின்றன"
+      ]
+     },
+     {
+      "title": "மக்கள்",
+      "lines": [
+       "மாநகராட்சி, நெடுஞ்சாலைத்துறை, குடிநீர் வாரியம்",
+       "குழாய்ப் பணிகளை முறைப்படுத்தி முடிக்க வேண்டும்",
+       "சேதமடைந்த சாலையை முழுமையாகச் சீரமைக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மங்கலம் ரோடில் பள்ளங்களால் வாகன ஓட்டிகள் தினமும் அவதிப்படுகின்றனர். திருப்பூரிலிருந்து சோமனூர், சூலூர், கோவை செல்லும் முக்கிய சாலை மங்கலம் ரோடு. தினமும் ஆயிரக்கணக்கான வாகனங்களும் பல்லாயிரக்கணக்கான மக்களும் இச்சாலையைப் பயன்படுத்துகின்றனர். சின்னாண்டிபாளையம் பிரிவு பகுதியில் மாநகராட்சியின் பாதாள சாக்கடைத் திட்ட சுத்திகரிப்பு நிலையம் அமைந்துள்ளது. இதற்கான குழாய்கள் மற்றும் 3வது குடிநீர்த் திட்டக் குழாய்கள் இச்சாலையில் பதிக்கப்பட்டுள்ளன. மங்கலம் ஊராட்சிப் பகுதிகளுக்கான பிரதான குடிநீர்க் குழாயும் இவ்வழியே செல்கிறது. குழாய் பதிக்கத் தோண்டிய குழிகள், குழாய் உடைப்பு சீரமைப்புக்காக மீண்டும் தோண்டப்படும் பள்ளங்களால் இச்சாலை பல ஆண்டுகளாகச் சேதமடைந்து வருகிறது. பணிகள் முடிந்த பின்னரும் சாலை முறையாகச் சீரமைக்கப்படவில்லை. பல கிலோ மீட்டர் தூரத்துக்கு சாலை குண்டும் குழியுமாகக் காட்சியளிக்கிறது. குடிநீர், கழிவுநீர்க் குழாய் உடைப்புகளால் தண்ணீர் சாலையில் வழிந்தோடுவதும் தொடர்கிறது. இதனால் ஏற்கெனவே உள்ள குழிகள் மேலும் பெரிதாகி வருகின்றன. அனைத்து வாகன ஓட்டிகளும் மிகுந்த சிரமத்துடன் சாலையைக் கடக்க வேண்டியுள்ளது. மாநகராட்சி, நெடுஞ்சாலைத்துறை, குடிநீர் வாரியம், ஒப்பந்த நிறுவனங்கள் ஒருங்கிணைந்து செயல்பட்டு, குழாய்ப் பணிகளை முறைப்படுத்தி முடித்து, சேதமடைந்த சாலையை முழுமையாகச் சீரமைக்க வேண்டும் என்பதே பொதுமக்களின் எதிர்பார்ப்பு. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 மங்கலம் ரோடில் தொடரும் பள்ளம் அவதி: வாகன ஓட்டிகள் கடும் சிரமம்\n\n📰 முழு விவரம்:\nதிருப்பூரிலிருந்து சோமனூர், சூலூர், கோவை செல்லும் முக்கிய சாலையான மங்கலம் ரோடு பல ஆண்டுகளாகச் சேதமடைந்து வருகிறது. சின்னாண்டிபாளையம் பிரிவு பகுதியில் பாதாள சாக்கடை, குடிநீர்க் குழாய்ப் பணிகளுக்காகத் தோண்டப்பட்ட குழிகளும், குழாய் உடைப்பு சீரமைப்புக்காக மீண்டும் தோண்டப்படும் பள்ளங்களும் சாலையை மேலும் சேதப்படுத்துகின்றன. பணிகள் முடிந்த பின்னரும் சாலை முறையாகச் சீரமைக்கப்படவில்லை. பல கிலோ மீட்டர் தூரத்துக்கு குண்டும் குழியுமாக உள்ளது. குழாய் உடைப்புகளால் தண்ணீர் சாலையில் வழிந்தோடுகிறது.\n📍 இடம்: மங்கலம் ரோடு, சின்னாண்டிபாளையம் பிரிவு, திருப்பூர்\n🚗 பாதிப்பு: தினமும் ஆயிரக்கணக்கான வாகனங்கள், பல்லாயிரக்கணக்கான மக்கள்\n🏛️ பொறுப்பு: மாநகராட்சி, நெடுஞ்சாலைத்துறை, குடிநீர் வாரியம், ஒப்பந்த நிறுவனங்கள்\nℹ️ மக்கள் எதிர்பார்ப்பு: குழாய்ப் பணிகளை முறைப்படுத்தி முடித்து, சாலையை முழுமையாகச் சீரமைக்க வேண்டும்.\n\nMangalam Road potholes Tirupur | Tirupur news\n📍 மங்கலம் ரோடு, திருப்பூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Mangalam #TirupurNews #திருப்பூர்",
+   "prompts": "A row of two-wheelers and a town bus slow down as they steer around a deep dug-up pit on Mangalam Road in Chinnandipalayam, Tirupur city. The wide tarred road is broken into potholes and open trenches, with loose gravel and grey mud piled at the edges and a narrow stretch of muddy rainwater seeping across the carriageway from a leaking pipe. Riders in shirts and trousers and a woman in a saree sit on their vehicles, seen from behind and at a distance, carefully weaving between the cracked patches of asphalt. Low commercial buildings, a few roadside shops and a row of concrete utility poles line the road, with overhead wires strung above. Daylight, neutral overcast sky. Camera at eye level or slightly high, 35 mm lens, wide enough to show the full stretch of damaged road and the traffic moving through it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a deep, uneven pit cut into the tarred surface of a city road, its edges crumbled and the sides showing exposed grey soil and broken pipe-trench debris. Muddy water pools at the bottom and trickles across the cracked asphalt toward the drain. Two-wheeler tyres and the edge of a rider's sandal are visible at the frame's edge as the vehicle slowly passes the pit. Loose gravel, sand heaps and a plastic water pipe segment lie beside the hole. Daylight, neutral overcast light. Camera low and close, 35 mm lens, focused on the broken road surface and the water in the pit. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/digged-pit-continued-misery-everlasting-misery-on-mangalam-road/4376430",
+   "published": "2026-11-14T21:52:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('இதற்கான பிரதான குழாய்கள் மட்டுமின்றி, 3வது குடிநீர்த் திட்டத')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700929/tirupur360/mavui270lqowla3od5su.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700940/tirupur360/gxjqbxdm8kpy1bjigrqh.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூரில் வழிப்பறி வழக்கில் பாண்டியராஜன் மீது குண்டர் தடுப்புச் சட்டம்",
+   "english_headline": "Pandiyarajan booked under Goondas Act for robbery in Tirupur Palayakkadu area",
+   "category": "Crime & Safety",
+   "location": "Palayakkadu area, Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "பாளையக்காடு, திருப்பூர்",
+    "hl1": "திருப்பூரில் வழிப்பறி ஆசாமி மீது",
+    "hl2": "சேலம் சிறையில் உத்தரவு நகல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர், பாளையக்காடு பகுதியில் வழிப்பறி",
+       "அக். <b>12</b> ஆம் தேதி இருவரைக் கத்தி காட்டி மிரட்டி பணம் பறிப்பு",
+       "பாதிக்கப்பட்டோர்: மணிகண்டன், சிவசஞ்சய்"
+      ]
+     },
+     {
+      "title": "கைது எப்படி?",
+      "lines": [
+       "பாண்டியராஜன், <b>31</b>, மீது வழக்குப்பதிவு",
+       "வடக்கு போலீசார் கைது செய்து சிறையில் அடைத்தனர்",
+       "இப்போது சேலம் மத்திய சிறையில் உள்ளார்"
+      ]
+     },
+     {
+      "title": "குண்டாஸ் நடவடிக்கை",
+      "lines": [
+       "குண்டர் தடுப்புச் சட்டத்தின் கீழ் நடவடிக்கை",
+       "மாநகர போலீஸ் கமிஷனர் ராஜேஸ்வரி உத்தரவு",
+       "உத்தரவு நகல் சிறையில் வழங்கப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் வழிப்பறி செய்த ஒருவர் மீது குண்டர் தடுப்புச் சட்டம் பாய்ந்துள்ளது. திருப்பூர், பாளையக்காடு பகுதியில் அக்டோபர் 12ஆம் தேதி மணிகண்டன், சிவசஞ்சய் ஆகிய இருவரைக் கத்தியைக் காட்டி மிரட்டி பணம் பறித்ததாக பாண்டியராஜன், 31 வயது நபர் மீது வழக்குப்பதிவு செய்யப்பட்டது. வடக்கு போலீசார் அவரைக் கைது செய்து சிறையில் அடைத்தனர். இந்நிலையில், பாண்டியராஜன் மீது குண்டர் தடுப்புச் சட்டத்தின் கீழ் நடவடிக்கை எடுக்க மாநகர போலீஸ் கமிஷனர் ராஜேஸ்வரி உத்தரவிட்டார். சேலம் மத்திய சிறையில் அடைக்கப்பட்டுள்ள அவரிடம் அந்த உத்தரவின் நகல் வழங்கப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் பாளையக்காடு வழிப்பறி வழக்கில் பாண்டியராஜன் மீது குண்டாஸ்\n\n📰 முழு விவரம்:\nதிருப்பூர், பாளையக்காடு பகுதியில் அக். 12ஆம் தேதி மணிகண்டன், சிவசஞ்சய் ஆகிய இருவரைக் கத்தியைக் காட்டி மிரட்டி பணம் பறித்ததாக பாண்டியராஜன், 31 வயது நபர் மீது வழக்குப்பதிவு செய்யப்பட்டது.\nவடக்கு போலீசார் அவரைக் கைது செய்து சிறையில் அடைத்தனர்.\nபாண்டியராஜன் மீது குண்டர் தடுப்புச் சட்டத்தின் கீழ் நடவடிக்கை எடுக்க மாநகர போலீஸ் கமிஷனர் ராஜேஸ்வரி உத்தரவிட்டார்.\nசேலம் மத்திய சிறையில் அடைக்கப்பட்டுள்ள அவரிடம் உத்தரவு நகல் வழங்கப்பட்டது.\n\n📍 இடம்: பாளையக்காடு, திருப்பூர்\n🗓️ நாள்: அக். 12\n👮 நடவடிக்கை: குண்டர் தடுப்புச் சட்டம்\nℹ️ மக்கள் கவனத்திற்கு: வழிப்பறி, மிரட்டல் குறித்து உடனே போலீசாருக்குத் தெரிவியுங்கள்.\n\nTirupur robbery Goondas Act Palayakkadu | Tirupur news\n📍 பாளையக்காடு, திருப்பூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #குற்றச்செய்தி",
+   "prompts": "Two Tamil Nadu police officers in khaki uniforms escort a handcuffed male suspect in a white shirt and dark trousers away from a police station gate in the Palayakkadu area of Tirupur. The suspect, identified as Pandiyarajan, is seen from behind, walking with his hands bound, while the officers flank him firmly. The location is a typical urban street in Tirupur with narrow roads, concrete buildings, and parked two-wheelers visible in the background. No readable signs or logos are visible on the buildings or vehicles. The scene captures the moment of custody transfer, emphasizing the law enforcement action. Daylight illuminates the scene, casting soft shadows on the pavement. The camera is positioned at eye level, 35 mm lens, capturing the full figures of the three individuals and the immediate street context without showing faces clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on a pair of metallic handcuffs clamped around the wrists of a man in a white shirt, seen from behind. The handcuffs are silver and shiny, reflecting the daylight. In the blurred background, the khaki uniform of a police officer is partially visible, indicating the presence of law enforcement. The setting is an outdoor area, likely near a police station or jail entrance in Palayakkadu, Tirupur. The focus is sharp on the handcuffs and the man's wrists, while the background elements, including a concrete wall and a parked police vehicle, are out of focus. This detail highlights the legal consequence of the robbery incident, specifically the arrest and detention under the Goondas Act, without showing any faces or readable text. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gundas-on-street-vendor-asami/4376434",
+   "published": "2026-11-14T22:04:28+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686674/tirupur360/a2jmzwrwfrudml06fzo3.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794686698/tirupur360/w8h4fygwk2vsiajcritk.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700953/tirupur360/o56ijpirdd5jnwwnsqvx.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700959/tirupur360/ujtebeiryy3kjujifghq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "காங்கயம் வாரச்சந்தை வளாகத்தில் ஆண் சடலம் மீட்பு: போலீசார் விசாரணை",
+   "english_headline": "Man found dead at Kangeyam weekly market complex; police investigating",
+   "category": "Crime & Safety",
+   "location": "Kangeyam weekly market complex, Kangeyam, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் விசாரணை",
+    "loc": "காங்கயம்",
+    "hl1": "காங்கயம் வாரச்சந்தையில் ஆண் சடலம்",
+    "hl2": "போலீசார் விசாரணை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "காங்கயம் வாரச்சந்தை வளாகத்தில் ஆண் சடலம் மீட்பு",
+       "தற்கொலை செய்துகொண்ட நிலையில் கிடந்தார்",
+       "போலீசார் உடலை மீட்டனர்"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "இடம்: காங்கயம் வாரச்சந்தை வளாகம்",
+       "நாள்: <b>14 நவம்பர்</b> (இன்று)",
+       "பொதுமக்கள் அளித்த தகவலின்பேரில் போலீசார் சென்றனர்"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "உடல் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது",
+       "இறந்தவர் யார், எந்த ஊர் என விசாரணை",
+       "வாரச்சந்தை வளாகத்தில் சமூக விரோதச் செயல்கள் குறித்தும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "காங்கயம் வாரச்சந்தை வளாகத்தில் தற்கொலை செய்துகொண்ட நிலையில் ஓர் ஆண் சடலம் மீட்கப்பட்டது. இன்று நவம்பர் 14ஆம் தேதி பொதுமக்கள் அளித்த தகவலின்பேரில் போலீசார் அங்கு சென்று உடலை மீட்டனர். ஆள்நடமாட்டம் குறைவான ஒதுக்குப்புறப் பகுதியில் அமைந்துள்ள இந்த வளாகத்தில், மற்ற நாட்களில் மது விற்பனை உள்ளிட்ட சமூக விரோதச் செயல்கள் நடைபெறுவதாகப் பொதுமக்கள் குற்றம்சாட்டி வருகின்றனர். மீட்கப்பட்ட உடல் அரசு மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டது. இறந்தவர் யார், எந்த ஊரைச் சேர்ந்தவர் என்பது குறித்து போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 காங்கயம் வாரச்சந்தையில் ஆண் சடலம் மீட்பு: போலீசார் விசாரணை\n\n📰 முழு விவரம்:\nகாங்கயம் வாரச்சந்தை வளாகத்தில் தற்கொலை செய்துகொண்ட நிலையில் ஓர் ஆண் சடலம் இன்று (நவ. 14) மீட்கப்பட்டது. பொதுமக்கள் அளித்த தகவலின்பேரில் போலீசார் உடலை மீட்டு அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர்.\nஆள்நடமாட்டம் குறைவான ஒதுக்குப்புறப் பகுதியில் உள்ள இந்த வளாகத்தில், மற்ற நாட்களில் மது விற்பனை உள்ளிட்ட சமூக விரோதச் செயல்கள் நடைபெறுவதாகப் பொதுமக்கள் குற்றம்சாட்டி வருகின்றனர்.\nஇறந்தவர் யார், எந்த ஊரைச் சேர்ந்தவர் என போலீசார் விசாரித்து வருகின்றனர்.\n\n📍 இடம்: காங்கயம் வாரச்சந்தை வளாகம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: நவம்பர் 14 (இன்று)\n👮 நடவடிக்கை: உடல் மீட்பு; அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது; விசாரணை நடைபெறுகிறது\nℹ️ மக்கள் கவனத்திற்கு: வாரச்சந்தை வளாகத்தில் சமூக விரோதச் செயல்கள் குறித்துப் பொதுமக்கள் குற்றம்சாட்டி வருகின்றனர்.\n\nKangeyam weekly market body found, police probe | Tirupur news\n📍 காங்கயம், திருப்பூர் மாவட்டம் | 14 நவம்பர்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kangeyam #TirupurNews #திருப்பூர்",
+   "prompts": "Early afternoon in Kangeyam, an empty weekly market complex on the outskirts of the town, its open concrete stalls and tin-roofed sheds shut and deserted. In the middle of the cordoned area, two police personnel in khaki uniforms stand near a low shed with a white cloth screen set up, their backs to the camera. A few local men in shirts and veshti stand at a distance behind a rope barrier, watching quietly. A dusty two-wheeler and a white police jeep are parked at the edge of the compound, with a few dry palm trees and scattered plastic debris on the ground. Daylight, slightly overcast, muted colours. Shot at eye level, 35 mm lens, wide enough to show the whole secluded compound and the investigation site, no faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a rough concrete floor at the back corner of a deserted weekly market shed in Kangeyam, with a folded white cloth and an empty plastic bag lying near a pillar, and a pair of rubber slippers placed neatly on the ground beside it. Behind, a khaki-uniformed police constable stands at a distance, seen only from behind, his hand resting on a wooden lathi. Dust, dry leaves and a few scattered liquor-free plastic cups on the floor suggest an isolated spot. Daylight through the open side of the shed, soft shadows. Shot slightly high, 35 mm, focus on the slippers and cloth, figures blurred and faceless. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-search-for-body-at-weekly-market/4376403",
+   "published": "2026-11-14T21:33:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) and states it as fact in the reel_script, headline, slides and caption; the article only says the man was found dead and is silent on cause, so this cause is not in the article.; fact-check: The slides_spec line 'தற்கொலை செய்துகொண்ட நிலையில் கிடந்தார்' repeats the unsupported suicide claim as fact.; fact-check: The reel_script and caption state the body was taken to the government hospital; the article says it was sent to the government hospital, which matches, but the caption's 'அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர்' is consistent; no problem here. (No further issues.)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700967/tirupur360/sbd0r4uwvl4nhvfzdztp.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794700974/tirupur360/aa2uhnaufvnssyezh7cl.jpg"
    ]
   }
  ]
