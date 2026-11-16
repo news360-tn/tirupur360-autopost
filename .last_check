@@ -1,20 +1,17 @@
-06:33:04 SKIP RN-4 held: fact-check problems - numbers not found in the article: 23457
-06:33:04 SKIP RN-6 held: location is only the district - the town from the article is missing
-06:33:06 SKIP RN-13 held: fact-check problems - numbers not found in the article: 10
-06:33:06 SKIP RN-34 held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) and states it as fact in the reel_script, headline, slides and caption; fact-check
-06:33:08 SKIP RN-36 held: fact-check problems - numbers not found in the article: 76468, 81590
+06:36:27 SKIP RN-4 held: fact-check problems - numbers not found in the article: 23457
+06:36:27 SKIP RN-6 held: location is only the district - the town from the article is missing
+06:36:29 SKIP RN-13 held: fact-check problems - numbers not found in the article: 10
+06:36:29 SKIP RN-34 held: fact-check problems - fact-check: The draft says the body was found 'தற்கொலை செய்துகொண்ட நிலையில்' (in a state of having committed suicide) and states it as fact in the reel_script, headline, slides and caption; fact-check
+06:36:30 SKIP RN-36 held: fact-check problems - numbers not found in the article: 76468, 81590
 ::warning title=Held from posting RN-36::held: fact-check problems - numbers not found in the article: 76468, 81590
-06:33:08 SKIP RN-41 held: location is only the district - the town from the article is missing
+06:36:30 SKIP RN-41 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-41::held: location is only the district - the town from the article is missing
-06:33:11 story catch-up tirupur: quota 21/50, 40 recent posts, 6 live stories, owner ids ['17841480869502038', '28970570925957553']
-06:33:11 7 stories in the queue, ready to post: 1
-06:33:11   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'tirupur_link', 'verification']
-06:33:11    RN-4 review= 'Auto' images= 100 spec= 635 pages= ['tirupur'] links= '' '' age_h= 67.5 ready= False set_started= True
-06:33:11    RN-6 review= 'Auto' images= 100 spec= 923 pages= ['tirupur'] links= '' '' age_h= 67.4 ready= False set_started= True
-06:33:11    RN-13 review= 'Auto' images= 199 spec= 726 pages= ['tirupur'] links= '' '' age_h= 56.7 ready= False set_started= True
-06:33:11    RN-34 review= 'Auto' images= 199 spec= 626 pages= ['tirupur'] links= '' '' age_h= 25.0 ready= False set_started= True
-06:33:11    RN-36 review= 'Auto' images= 199 spec= 646 pages= ['tirupur'] links= '' '' age_h= 20.5 ready= False set_started= True
-06:33:11    RN-41 review= 'Auto' images= 199 spec= 613 pages= ['tirupur'] links= '' '' age_h= 16.6 ready= False set_started= True
-06:33:11    RN-47 review= 'Auto' images= 199 spec= 960 pages= ['tirupur'] links= '' '' age_h= 0.9 ready= True set_started= True
-06:33:13 publishing quota tirupur: 21/50
-06:33:15 instagram duplicate check tirupur: 48 recent posts read
+06:36:33 story catch-up tirupur: quota 22/50, 40 recent posts, 6 live stories, owner ids ['17841480869502038', '28970570925957553']
+06:36:33 6 stories in the queue, ready to post: 0
+06:36:33   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'tirupur_link', 'verification']
+06:36:33    RN-4 review= 'Auto' images= 100 spec= 635 pages= ['tirupur'] links= '' '' age_h= 67.5 ready= False set_started= True
+06:36:33    RN-6 review= 'Auto' images= 100 spec= 923 pages= ['tirupur'] links= '' '' age_h= 67.4 ready= False set_started= True
+06:36:33    RN-13 review= 'Auto' images= 199 spec= 726 pages= ['tirupur'] links= '' '' age_h= 56.8 ready= False set_started= True
+06:36:33    RN-34 review= 'Auto' images= 199 spec= 626 pages= ['tirupur'] links= '' '' age_h= 25.1 ready= False set_started= True
+06:36:33    RN-36 review= 'Auto' images= 199 spec= 646 pages= ['tirupur'] links= '' '' age_h= 20.6 ready= False set_started= True
+06:36:33    RN-41 review= 'Auto' images= 199 spec= 613 pages= ['tirupur'] links= '' '' age_h= 16.6 ready= False set_started= True
