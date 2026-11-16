@@ -1,37 +1,38 @@
 {
- "updated": "2026-11-16T05:35+05:30",
- "posts_measured": 39,
+ "updated": "2026-11-16T16:15+05:30",
+ "posts_measured": 44,
  "topic_weight": {
   "politics": -0.5,
-  "accident": 0.43,
-  "crime": 0.99,
+  "accident": 0.11,
+  "crime": 1.12,
   "education": -0.5,
+  "power_cut": -0.5,
   "temple": -0.5,
   "civic": -0.5
  },
  "topic_n": {
   "politics": 9,
-  "accident": 4,
+  "accident": 5,
   "crime": 7,
   "education": 3,
-  "jobs": 1,
-  "power_cut": 2,
+  "jobs": 2,
+  "power_cut": 3,
   "temple": 3,
-  "civic": 4
+  "civic": 6
  },
  "best_hours_ist": [
   12,
   17,
-  23,
-  18
+  1,
+  23
  ],
  "top_openings": [
   "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
   "🚨 திருப்பூர் போலீஸ் டைரி: கஞ்சா, விபத்து, சூதாட்டம்",
   "🚨 அவிநாசியில் கஞ்சா கடத்தல்: 4 பேருக்கு தலா 12 ஆண்டுகள் சிறை",
-  "🚨 திருப்பூரில் பெண் போலீசிடம் அவதூறாக பேசிய தவெக நிர்வாகி மீது வழக்குப்பதிவு"
+  "🚨 திருப்பூர் பாளையக்காடு வழிப்பறி வழக்கில் பாண்டியராஜன் மீது குண்டாஸ்"
  ],
- "avg_watch_s": 7.1,
+ "avg_watch_s": 6.9,
  "best_topics": [
   "crime",
   "accident",
