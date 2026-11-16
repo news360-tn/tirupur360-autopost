@@ -1,24 +1,25 @@
 {
- "updated": "2026-11-16T16:15+05:30",
- "posts_measured": 44,
+ "updated": "2026-11-16T19:03+05:30",
+ "posts_measured": 50,
  "topic_weight": {
-  "politics": -0.5,
-  "accident": 0.11,
-  "crime": 1.12,
+  "politics": -0.23,
+  "accident": 0.28,
+  "crime": 1.14,
   "education": -0.5,
-  "power_cut": -0.5,
+  "power_cut": -0.17,
   "temple": -0.5,
-  "civic": -0.5
+  "civic": -0.48
  },
  "topic_n": {
   "politics": 9,
   "accident": 5,
-  "crime": 7,
+  "crime": 8,
   "education": 3,
   "jobs": 2,
   "power_cut": 3,
   "temple": 3,
-  "civic": 6
+  "civic": 8,
+  "poultry_agri": 1
  },
  "best_hours_ist": [
   12,
@@ -32,14 +33,14 @@
   "🚨 அவிநாசியில் கஞ்சா கடத்தல்: 4 பேருக்கு தலா 12 ஆண்டுகள் சிறை",
   "🚨 திருப்பூர் பாளையக்காடு வழிப்பறி வழக்கில் பாண்டியராஜன் மீது குண்டாஸ்"
  ],
- "avg_watch_s": 6.9,
+ "avg_watch_s": 7.0,
  "best_topics": [
   "crime",
   "accident",
-  "politics"
+  "power_cut"
  ],
  "weak_topics": [
-  "politics",
-  "education"
+  "education",
+  "temple"
  ]
 }
