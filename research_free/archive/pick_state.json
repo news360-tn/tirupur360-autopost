@@ -11,7 +11,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-16T01:56:52.398338+05:30"
+   "listed_at": "2026-11-16T01:56:52.398338+05:30",
+   "picked_at": "2026-11-16T05:37:14.462515+05:30"
   },
   "Cb69bab6": {
    "id": "Cb69bab6",
@@ -23,7 +24,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-16T01:56:52.398338+05:30"
+   "listed_at": "2026-11-16T01:56:52.398338+05:30",
+   "picked_at": "2026-11-16T05:37:14.462516+05:30"
   },
   "C5d5b83b": {
    "id": "C5d5b83b",
@@ -35,7 +37,8 @@
    "category": "பொது",
    "score": 7.0,
    "power_cut": false,
-   "listed_at": "2026-11-16T01:56:52.398338+05:30"
+   "listed_at": "2026-11-16T01:56:52.398338+05:30",
+   "picked_at": "2026-11-16T05:37:14.462518+05:30"
   },
   "Cda80e12": {
    "id": "Cda80e12",
@@ -182,7 +185,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/15/%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-%E0%AE%A8%E0%AF%87%E0%AE%A4%E0%AE%BE%E0%AE%9C%E0%AE%BF-%E0%AE%86%E0%AE%AF%E0%AE%A4%E0%AF%8D%E0%AE%A4-%E0%AE%86%E0%AE%9F%E0%AF%88-%E0%AE%AA%E0%AF%82%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE-%E0%AE%B5%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D"
    ],
-   "listed_at": "2026-11-16T05:35:29.220231+05:30"
+   "listed_at": "2026-11-16T05:35:29.220231+05:30",
+   "picked_at": "2026-11-16T05:37:14.462510+05:30"
   },
   "Cbed3d89": {
    "id": "Cbed3d89",
@@ -194,7 +198,8 @@
    "category": "விபத்து",
    "score": 10.43,
    "power_cut": false,
-   "listed_at": "2026-11-16T05:35:29.220231+05:30"
+   "listed_at": "2026-11-16T05:35:29.220231+05:30",
+   "picked_at": "2026-11-16T05:37:14.462512+05:30"
   },
   "C24dd20f": {
    "id": "C24dd20f",
@@ -206,7 +211,8 @@
    "category": "சாலை",
    "score": 9.5,
    "power_cut": false,
-   "listed_at": "2026-11-16T05:35:29.220231+05:30"
+   "listed_at": "2026-11-16T05:35:29.220231+05:30",
+   "picked_at": "2026-11-16T05:37:14.462514+05:30"
   },
   "C11627b9": {
    "id": "C11627b9",
@@ -886,8 +892,26 @@
    ],
    "sent": false,
    "deadline": "2026-11-16T06:35:29.220231+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 19 by insights + 1 power cut",
+    "ids": [
+     "Cce800f8",
+     "Cbed3d89",
+     "C24dd20f",
+     "Cf6c55d7",
+     "Cb69bab6",
+     "C5d5b83b"
+    ],
+    "at": "2026-11-16T05:37:14.462500+05:30"
+   },
+   "written": [
+    "C24dd20f",
+    "C5d5b83b",
+    "Cb69bab6",
+    "Cbed3d89",
+    "Cce800f8",
+    "Cf6c55d7"
+   ]
   }
  },
  "retry": {
