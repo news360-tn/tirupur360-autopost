@@ -3,105 +3,65 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/monsoon-rains-boost-maize-cultivation-again-farmers-upbeat-over-price-hike/4377601",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sewage-from-a-mining-bridge-a-trip-around-the-city/4377668",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/thirukkalyan-festival-in-murugan-temples-kolakalam-devotees-chant-aroghara-paravasam/4377631",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/technic-is-new-for-taking-bribes-raus-is-on-the-subject-of-aggression/4377674",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/district-level-farmers-grievance-redressal-meeting-on-20th/4377663",
-  "candidate filter: collected=5",
-  "to write: 5 Tirupur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motor-cable-theft-3-people-arrested-recovery-of-goods/4378105",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delay-in-water-supply-alleged-by-cpi-m/4378102",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vegetable-prices-fluctuate-due-to-low-rainfall/4377999",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/crane-mole-govt-school-student-dies-after-being-hit-by-two-wheeler/4378104",
+  "candidate filter: collected=4",
+  "to write: 4 Tirupur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "real photo from the source (Dinamalar) for 'Tirupur Corporation wards 42 and 43 get '",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Tirupur district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 75 min",
+  "filed: 4 Tirupur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (22s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (45s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3.6-flash (47s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -109,10 +69,33 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -123,302 +106,254 @@
  ],
  "stories": [
   {
-   "tamil_headline": "உடுமலை முருகன் கோவில்களில் திருக்கல்யாண உற்சவம் கோலாகலம்",
-   "english_headline": "Kanda Sashti Thirukalyanam celebrated with fervour at Murugan temples in Udumalaipettai",
-   "category": "Temples & Events",
-   "location": "Udumalaipettai, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
+   "tamil_headline": "திருப்பூர் மாநகராட்சி 42, 43வது வார்டுகளில் குடிநீர் 15 நாட்களுக்கு ஒருமுறை மட்டுமே சப்ளை",
+   "english_headline": "Tirupur Corporation wards 42 and 43 get drinking water only once in 15 days; CPI(M) complains",
+   "category": "Civic Issues",
+   "location": "Tirupur Corporation, 4th zone, wards 42 and 43, Tirupur district",
+   "importance": "High",
+   "scope": "",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கோவில் விழா",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலை முருகன் கோவில்களில்",
-    "hl2": "கந்த சஷ்டி விழா நிறைவு",
+    "cat": "குடிநீர் பிரச்சனை",
+    "loc": "திருப்பூர் மாநகராட்சி",
+    "hl1": "திருப்பூர் மாநகராட்சி: 15 நாட்களுக்கு",
+    "hl2": "42, 43வது வார்டுகளில்",
     "slides": [
      {
-      "title": "எங்கே நடந்தது?",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "உடுமலை பகுதியிலுள்ள முருகன் கோவில்களில்",
-       "கந்த சஷ்டி விழாவில் திருக்கல்யாண உற்சவம்",
-       "பக்தர்கள் அரோகரா கோஷத்துடன் பங்கேற்றனர்"
+       "4வது மண்டலம், <b>42, 43</b> வது வார்டுகளில் குடிநீர் சப்ளை தாமதம்",
+       "குடிநீர் <b>15 நாட்களுக்கு ஒருமுறை</b> மட்டுமே சப்ளை",
+       "பள்ளி குழந்தைகள், வேலைக்குச் செல்லும் பெண்கள் கடும் சிரமம்"
       ]
      },
      {
-      "title": "சூரசம்ஹாரம்",
+      "title": "அதிகாரிகளிடம்",
       "lines": [
-       "கடந்த <b>10ம் தேதி</b> விழா தொடங்கியது",
-       "நேற்று முன்தினம் மாலை சூரசம்ஹாரம் நடந்தது",
-       "வேல் பெற்று சூரனை முருகப்பெருமான் வதம் செய்தார்"
+       "பல முறை அதிகாரிகளிடம் முறையிட்டும் நடவடிக்கை இல்லை",
+       "15 நாட்களுக்கு முன், பூச்சக்காடு தண்ணீர் தொட்டி அருகே",
+       "ஆறு நாட்களுக்கு ஒருமுறை குடிநீர் என ஆய்வாளர் உறுதி அளித்தார்"
       ]
      },
      {
-      "title": "திருக்கல்யாணம்",
+      "title": "இன்னும்",
       "lines": [
-       "மடத்துக்குளம் பாப்பான்குளம் கோவிலில் அதிகாலை <b>5",
-       "பிரசன்ன விநாயகர் கோவிலில் காலை <b>10:30 மணி</b>க்கு நடந்தது",
-       "மாலை <b>7 மணி</b>க்கு வெள்ளி ரதத்தில் திருவீதி உலா"
+       "ஆனால் இதுவரை குடிநீர் வினியோகம் சீராக்கப்படவில்லை",
+       "கருவம்பாளையம் கே.வி.பி. லே-அவுட் பகுதி மா.கம்யூ. கட்சி"
+      ]
+     },
+     {
+      "title": "லாரி குடிநீர்",
+      "lines": [
+       "தண்ணீர் தொட்டியிலிருந்து லாரிகளில் குடிநீர்",
+       "ஓட்டல், கடைகள், தொழிற்சாலைகளுக்கு விற்பனை",
+       "இதுகுறித்தும் மாநகராட்சி விசாரணை நடத்த வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலை பகுதியிலுள்ள முருகன் கோவில்களில் கந்த சஷ்டி விழாவில் திருக்கல்யாண உற்சவம் கோலாகலமாக நடைபெற்றது. விழா கடந்த 10ம் தேதி தொடங்கியது, பக்தர்கள் காப்பு கட்டி விரதம் துவக்கினர். ஆறு நாட்களும் முருகப்பெருமானுக்கு சிறப்பு அபிஷேகம் மற்றும் அலங்கார பூஜைகள் நடைபெற்றன. நேற்று முன்தினம் மாலை சூரசம்ஹாரம் நடைபெற்றது. அம்மை சக்தியிடம் வேல் பெற்ற முருகப்பெருமான், சூரனை நான்கு வீதிகளில் வலம் வந்து வதம் செய்தார். நேற்று வள்ளி தெய்வானை சமேத சுப்ரமணியருக்கு திருக்கல்யாண உற்சவம் நடைபெற்றது. மடத்துக்குளம் பாப்பான்குளம் ஞான தண்டபாணி சுவாமி கோவிலில் அதிகாலை 5 மணிக்கு நிகழ்ச்சிகள் தொடங்கின. பிரசன்ன விநாயகர் கோவிலில் காலை 10:30 மணிக்கு திருக்கல்யாணம் நடைபெற்றது. பக்தர்கள் திருக்கல்யாண விருந்து அருந்தி விரதத்தை நிறைவு செய்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 உடுமலை முருகன் கோவில்களில் திருக்கல்யாண உற்சவம் கோலாகலம்\n\n📰 முழு விவரம்:\nஉடுமலை பகுதியிலுள்ள முருகன் கோவில்களில் கந்த சஷ்டி விழாவை முன்னிட்டு திருக்கல்யாண உற்சவம் நடைபெற்றது. விழா கடந்த 10ம் தேதி தொடங்கியது; பக்தர்கள் காப்பு கட்டி விரதம் துவக்கினர். ஆறு நாட்களும் முருகப்பெருமானுக்கு பல்வேறு திரவியங்களில் சிறப்பு அபிஷேகம் மற்றும் அலங்கார பூஜைகள் நடைபெற்றன.\nநேற்று முன்தினம் மாலை சூரசம்ஹாரம் நடைபெற்றது. அம்மை சக்தியிடம் வேல் பெற்ற முருகப்பெருமான், தாருகன், பானுகோபன், சிங்கமுகன், சூரன் என பல வடிவங்கள் எடுத்த சூரனை நான்கு வீதிகளில் வலம் வந்து வதம் செய்தார். வெற்றி மாலை அணிந்த முருகனுக்கு இரவு சிறப்பு பூஜைகள் நடைபெற்றன.\nநேற்று மடத்துக்குளம் பாப்பான்குளம் ஞான தண்டபாணி சுவாமி கோவிலில் அதிகாலை 5 மணிக்கு மங்கள இசையுடன் திருக்கல்யாண சீர்வரிசை ஊர்வலம், வேத பாராயணம், திருமாங்கல்ய தாரணம், மகா தீபாராதனை ஆகியவை நடைபெற்றன. வெஞ்சமடை வாஞ்சிநாத சுவாமி கோவிலிலும் வள்ளி தெய்வானை சுப்ரமணியருக்கு திருக்கல்யாணம் நடைபெற்றது.\n🕙 பிரசன்ன விநாயகர் கோவிலில் நேற்று காலை 10:30 மணிக்கு கந்த சஷ்டி விழாவின் ஏழாம் நாளில் திருக்கல்யாண உற்சவம் நடைபெற்றது.\n🚩 மாலை 7:00 மணிக்கு வெள்ளி ரதத்தில் சுவாமி திருவீதி உலா நடைபெற்றது.\nபோடிபட்டி முருகன் கோவில், ராயல் லட்சுமி நகர் ராஜவிநாயகர் கோவில், பழனியாண்டவர் நகர் சுப்ரமணிய சுவாமி கோவில், சோமவாரபட்டி பாலமுருகன் கோவில் ஆகியவற்றிலும் திருக்கல்யாண உற்சவம் நடைபெற்றது. பக்தர்கள் திருக்கல்யாண விருந்து அருந்தி விரதத்தை நிறைவு செய்தனர்.\n\nUdumalaipettai Murugan temples Thirukalyanam Kanda Sashti | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "Devotees gather in a South Indian Murugan temple in Udumalaipettai, Tirupur district, as priests conduct the divine wedding of Lord Murugan with Valli and Deivanai during the Kanda Sashti festival. The temple is a traditional stone structure with a tall gopuram, its courtyard decorated with banana stalks, mango leaves and rows of brass lamps glowing in the early morning light. Devotees in white veshti, silk saree and salwar stand in orderly rows, seen from behind and at a distance, some holding brass plates of offerings. Near the sanctum, a priest in white dhoti stands beside a fire-pit (yaga-sala) where lamps are lit. A small group of mangala isai musicians plays nadaswaram and thavil. The sky is pale with dawn light, and the scene is shot at eye level with a 35 mm lens, wide enough to show the temple architecture and the crowd. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close view of brass trays of offerings (seervarisai) carried by devotees for the divine wedding at a Murugan temple in Udumalaipettai, Tirupur district. Silver and brass plates hold betel leaves, fruits, coconuts, flowers, turmeric, kumkum and sacred thread arranged on a white cloth. Hands of devotees, seen from the wrist down, hold the trays as they wait near a yaga-sala where a small brass lamp burns. Behind the trays, a blurred temple pillar carved with traditional patterns and a row of oil lamps glow softly. The early morning light is warm and gentle. Shot at close range with a 35 mm lens and shallow depth of field, eye level, with no readable text or signs in the frame. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/thirukkalyan-festival-in-murugan-temples-kolakalam-devotees-chant-aroghara-paravasam/4377631",
-   "published": "2026-11-16T17:10:14+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 88 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "reel_script": "திருப்பூர் மாநகராட்சியில் 15 நாட்களுக்கு ஒருமுறை மட்டுமே குடிநீர். 4வது மண்டலத்தின் 42, 43வது வார்டுகளில் குடிநீர் சப்ளை தாமதமாகிறது. பள்ளி குழந்தைகளும், வேலைக்குச் செல்லும் பெண்களும் கடும் சிரமத்துக்கு ஆளாகின்றனர். அப்பகுதி மக்கள் அதிகாரிகளிடம் பல முறை முறையிட்டும் எந்த நடவடிக்கையும் எடுக்கப்படவில்லை. 15 நாட்களுக்கு முன், பாதிக்கப்பட்ட பெண்கள் பூச்சக்காடு தண்ணீர் தொட்டி அருகே மாநகராட்சி அதிகாரியைச் சந்தித்தனர். அப்போது ஆறு நாட்களுக்கு ஒருமுறை குடிநீர் சப்ளை செய்யப்படும் என்று ஆய்வாளர் உறுதி அளித்தார். ஆனால் இதுவரை குடிநீர் வினியோகம் சீராகவில்லை. இதையடுத்து, கருவம்பாளையம் கே வி பி லே-அவுட் பகுதி மா.கம்யூ. கட்சி சார்பில் கலெக்டர் அலுவலகத்தில் மனு அளிக்கப்பட்டது. தண்ணீர் தொட்டியிலிருந்து லாரிகளில் ஓட்டல், கடைகள், தொழிற்சாலைகளுக்குக் குடிநீர் விற்கப்படுவதாகப் பொதுமக்கள் குற்றம் சாட்டுகின்றனர். இதுகுறித்தும் மாநகராட்சி நிர்வாகம் விசாரணை நடத்த வேண்டும் என்று அவர்கள் கோருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 திருப்பூர் மாநகராட்சி 42, 43வது வார்டுகளில் 15 நாட்களுக்கு ஒருமுறை குடிநீர்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சி, 4வது மண்டலம், 42, 43வது வார்டுகளில் குடிநீர் 15 நாட்களுக்கு ஒருமுறை மட்டுமே சப்ளை செய்யப்படுகிறது. பள்ளி குழந்தைகளும், வேலைக்குச் செல்லும் பெண்களும் கடும் சிரமத்துக்கு ஆளாகின்றனர். பல முறை அதிகாரிகளிடம் முறையிட்டும் நடவடிக்கை இல்லை. 15 நாட்களுக்கு முன், பூச்சக்காடு தண்ணீர் தொட்டி அருகே பாதிக்கப்பட்ட பெண்கள் மாநகராட்சி அதிகாரியைச் சந்தித்தனர். ஆறு நாட்களுக்கு ஒருமுறை குடிநீர் சப்ளை செய்யப்படும் என்று ஆய்வாளர் உறுதி அளித்தார். ஆனால் இதுவரை குடிநீர் வினியோகம் சீராகவில்லை.\nகருவம்பாளையம் கே.வி.பி. லே-அவுட் பகுதி மா.கம்யூ. கட்சி சார்பில் கலெக்டர் அலுவலகத்தில் மனு அளிக்கப்பட்டது.\n🚚 தண்ணீர் தொட்டியிலிருந்து லாரிகளில் ஓட்டல், கடைகள், தொழிற்சாலைகளுக்குக் குடிநீர் விற்கப்படுவதாகப் பொதுமக்கள் குற்றம் சாட்டுகின்றனர். இதுகுறித்தும் மாநகராட்சி விசாரணை நடத்த வேண்டும்.\n\nTirupur Corporation water supply delay wards 42 43 | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #குடிநீர்",
+   "prompts": "Women of a Tirupur residential colony stand with empty plastic water pots and steel vessels in a queue near a large concrete overhead water tank complex, while a corporation water lorry is parked at the edge of the road. Behind them are modest two-storey houses and a narrow street with a few two-wheelers parked along the side. Several women wear cotton sarees and salwars, and a school child in a Tamil Nadu school uniform stands among them, shown from behind or far away. A man in a shirt and trousers talks with a corporation inspector in a light shirt and trousers, both seen from behind and slightly distant. The scene is in bright daylight with a dry, dusty road and the tank rising above the rooftops. Shot at eye level, 35 mm, wide enough to show the tank, the houses and the waiting crowd. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of several empty plastic water pots and a steel vessel placed on the dusty ground beside the wheel of a parked corporation water lorry at the Poochakkadu tank area in Tirupur. The lorry's tank and rear tyres fill part of the frame, with the concrete base of the overhead water tank visible in soft focus behind. A woman's hand in a cotton saree sleeve rests on the edge of one pot, shown only partially and from behind. The light is bright daytime sun casting short shadows on the cracked ground. The pots are dry and waiting, emphasising the shortage. Camera at slightly high angle, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delay-in-water-supply-alleged-by-cpi-m/4378102",
+   "published": "2026-11-16T20:52:25+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (42); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836272/tirupur360/n4jikcmusywpmg0vf1kc.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836276/tirupur360/pgthz5ur36tabua4wnse.jpg"
-   ]
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849463/tirupur360/tjenevrhm7r2x9t8h881.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849464/tirupur360/poyyfrmd6ytknf7irm67.jpg"
+   ],
+   "real_photo": "Dinamalar"
   },
   {
-   "tamil_headline": "அவிநாசி, பூண்டி கோவில்களில் கந்த சஷ்டி கூட்டம்; காசிபாளையத்தில் ஆக்கிரமிப்பு பிரச்சனை",
-   "english_headline": "Huge crowds at Kanda Sashti festival in Avinashi and Poondi; encroachment dispute at Kasipalayam anganwadi",
-   "category": "Temples & Events",
-   "location": "Avinashi and Poondi, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் நிகழ்வு",
-    "loc": "அவிநாசி, பூண்டி",
-    "hl1": "அவிநாசி, பூண்டியில் கந்த சஷ்டி கூட்டம்",
-    "hl2": "இந்த ஆண்டு பக்தர்கள்",
-    "slides": [
-     {
-      "title": "கந்த சஷ்டி கூட்டம்",
-      "lines": [
-       "அவிநாசி, பூண்டியில் பக்தர்கள் கூட்டம் அதிகம்",
-       "இந்த ஆண்டு எந்த வருடமும் இல்லாத அளவு கூட்டம்",
-       "பல இளைஞர்கள் ஏழு நாள் சஷ்டி விரதம் இருந்தனர்"
-      ]
-     },
-     {
-      "title": "பூண்டி கோவில்",
-      "lines": [
-       "பூண்டி கோவில் திருக்கல்யாண உற்சவத்துக்கு 600 வி.ஐ.பி. பாஸ்",
-       "ஆயிரக்கணக்கில் பக்தர்கள் திரண்டு தள்ளுமுள்ளு ஏற்பட்டது",
-       "போலீசார் சிலர் தங்களுக்கு வேண்டியவர்களை உள்ளே"
-      ]
-     },
-     {
-      "title": "காசிபாளையம்",
-      "lines": [
-       "அங்கன்வாடி மையம், தண்ணீர் தொட்டி உள்ள இடத்தில் ஆக்கிரமிப்பு",
-       "பாதுகாப்பு சுற்றுச்சுவர் பணி பாதியில் நின்றது",
-       "கல்லறைத் தோட்டமாக மாற்ற முயற்சி என மக்கள் கூறுகின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அவிநாசி, பூண்டி கோவில்களில் இந்த ஆண்டு கந்த சஷ்டி விழாவுக்கு எந்த வருடமும் இல்லாத அளவு பக்தர்கள் கூட்டம் இருந்தது. பல இளைஞர்கள் ஏழு நாள் சஷ்டி விரதம் இருந்து கோவிலுக்குச் சென்றனர். இதையடுத்து, பூண்டி கோவில் திருக்கல்யாண உற்சவத்துக்கு 600 வி.ஐ.பி. பாஸ் கொடுக்கப்பட்டது. ஆனால், ஆயிரக்கணக்கில் பக்தர்கள் திரண்டதால் தள்ளுமுள்ளு ஏற்பட்டது. பாதுகாப்புக்கு வந்த போலீசார் சிலர் தங்களுக்கு வேண்டியவர்களை உள்ளே அழைத்துச் சென்று சுவாமி கும்பிட வைத்ததாக பக்தர்கள் குற்றம் சாட்டினர். இந்நிலையில், காசிபாளையத்தில் அங்கன்வாடி மையம், தண்ணீர் தொட்டி உள்ள இடத்தில் ஆக்கிரமிப்பு உள்ளதாகவும், பாதுகாப்பு சுற்றுச்சுவர் கட்டும் பணி பாதியில் நின்றுவிட்டதாகவும் அங்கு வசிப்பவர்கள் கூறுகின்றனர். மேலும், ஆக்கிரமிப்பு இடத்தில் கல்லறைத் தோட்டமாக மாற்ற முயற்சி நடப்பதாக மக்கள் சொல்கின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 அவிநாசி, பூண்டியில் கந்த சஷ்டி கூட்டம்: 600 வி.ஐ.பி. பாஸ், தள்ளுமுள்ளு\n\n📰 முழு விவரம்:\nஇந்த ஆண்டு கந்த சஷ்டி விழாவுக்கு அவிநாசி, பூண்டியில் எந்த வருடமும் இல்லாத அளவு பக்தர்கள் திரண்டனர். பல இளைஞர்கள் ஏழு நாள் சஷ்டி விரதம் இருந்து கோவிலுக்குச் சென்றனர். பூண்டி கோவில் திருக்கல்யாண உற்சவத்துக்கு 600 வி.ஐ.பி. பாஸ் கொடுக்கப்பட்டது. ஆயிரக்கணக்கில் பக்தர்கள் உள்ளே வர முயன்றபோது தள்ளுமுள்ளு ஏற்பட்டது. போலீசார் சிலர் தங்களுக்கு வேண்டியவர்களை உள்ளே அழைத்துச் சென்று சுவாமி கும்பிட வைத்ததாக பக்தர்கள் குற்றம் சாட்டினர்.\n🏗️ காசிபாளையத்தில் அங்கன்வாடி மையம், தண்ணீர் தொட்டி உள்ள இடத்தில் ஆக்கிரமிப்பு உள்ளதாக மக்கள் கூறுகின்றனர். அங்கன்வாடி மைய பாதுகாப்புக்காக கட்டப்பட்ட சுற்றுச்சுவர் பணி, ஆக்கிரமிப்பாளர்களால் பாதியில் நின்றுவிட்டது. ஆக்கிரமிப்பு இடத்தில் கல்லறைத் தோட்டமாக மாற்ற முயற்சி நடப்பதாகவும், அதிகாரிகள் எதுவும் பேசவில்லை என்றும் மக்கள் சொல்கின்றனர்.\n\nAvinashi Poondi Kanda Sashti crowd | Tirupur news\n📍 அவிநாசி, பூண்டி, திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A large crowd of devotees fills the street outside a temple in Avinashi during the Kanda Sashti festival, with a tall gopuram rising above the rows of people. Men in white veshti and shirts and women in sarees and salwar walk in the procession, some carrying flower garlands, brass lamps and coconuts on plates. Many of the devotees are young, and a few carry kavadi frames decorated with peacock feathers. Shops line the road with stalls selling flowers, sweets and religious items, and a Tamil Nadu police constable in khaki stands at the edge of the crowd keeping order. The scene is in daylight with a bright sky over the temple tower. Shot at eye level, 35 mm, wide enough to show the temple gopuram, the crowd and the street, with the people seen from behind or at a distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a half-built compound wall beside an overhead water tank at an anganwadi centre in Kasipalayam, Tirupur. Exposed rusty iron rods stick out from unfinished grey concrete blocks, and a few loose bricks and cement bags lie on the ground next to the wall. Behind the wall, the concrete legs of the water tank rise against a plain sky, and a bare patch of dry earth shows where an encroachment has been made. The area is a quiet residential street in Tirupur city with low concrete houses at the edge of the frame. No people are visible, the light is daytime, and the camera is at eye level with a 35 mm lens, focused on the unfinished wall and the water tank. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/technic-is-new-for-taking-bribes-raus-is-on-the-subject-of-aggression/4377674",
-   "published": "2026-11-16T17:36:31+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 90 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 11 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836288/tirupur360/mj4kildffw76vpcpgyml.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836292/tirupur360/irwatnwaegtyouy3n3xj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "உடுமலையில் 20ம் தேதி விவசாயிகள் குறை தீர் கூட்டம்",
-   "english_headline": "Udumalaipettai farmers' grievance meeting on 20th at the RDO office",
-   "category": "Government & Services",
-   "location": "Udumalaipettai, Tirupur district",
+   "tamil_headline": "மங்கலம் அருகே கிரேன் மோதி அரசுப் பள்ளி மாணவன் பலி",
+   "english_headline": "Government school student dies after crane hits two-wheeler near Mangalam",
+   "category": "Roads & Transport",
+   "location": "63 வேலம்பாளையம், Mangalam, Tirupur district",
    "importance": "High",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயிகள் கூட்டம்",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலையில் விவசாயிகள் குறை தீர் கூட்டம்",
-    "hl2": "வரும் 20ம் தேதி",
+    "cat": "சாலை விபத்து",
+    "loc": "மங்கலம், திருப்பூர் மாவட்டம்",
+    "hl1": "மங்கலம் அருகே கிரேன் மோதி மாணவன் பலி",
+    "hl2": "டூவீலரில் சென்றபோது விபத்து",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "வரும் <b>20ம் தேதி</b>, காலை <b>11:30 மணி</b>க்கு",
-       "உடுமலை கோட்ட அளவிலான குறை தீர் கூட்டம்",
-       "வருவாய் கோட்டாட்சியர் அலுவலகத்தில் நடக்கிறது"
+       "மங்கலம் அருகே டூவீலர் மீது கிரேன் மோதியது",
+       "அரசுப் பள்ளி மாணவன் <b>சம்பவ இடத்திலேயே</b> உயிரிழந்தார்",
+       "விபத்து மாலை பள்ளி முடிந்த பின் நடந்தது"
       ]
      },
      {
-      "title": "யார் பங்கேற்கலாம்?",
+      "title": "யார்? எங்கே?",
       "lines": [
-       "உடுமலை, மடத்துக்குளம் தாலுகா விவசாயிகள்",
-       "பொதுமக்களும் பங்கேற்கலாம்",
-       "தங்கள் குறைகளை நேரில் தெரிவிக்கலாம்"
+       "63 வேலம்பாளையம், அண்ணாமலை கார்டன் பகுதி",
+       "கிருஷ்ணமூர்த்தியின் மகன் சவுந்தரராஜன், <b>12 வயது</b>",
+       "ஏழாம் வகுப்பு படித்து வந்தார்"
       ]
      },
      {
-      "title": "அறிவிப்பு",
+      "title": "எப்படி நடந்தது?",
       "lines": [
-       "கோட்டாட்சியர் குமார் இதை தெரிவித்துள்ளார்",
-       "குறைகள் இருப்போர் கூட்டத்தில் கலந்து கொள்ளுங்கள்"
+       "மகனை டூவீலரில் அழைத்துக்கொண்டு வீட்டுக்குச் சென்றபோது",
+       "63 வேலம்பாளையம் அருகே கிரேன் டூவீலர் மீது மோதியது",
+       "சிறுவன் கிரேனின் முன் டயரில் விழுந்தார்"
+      ]
+     },
+     {
+      "title": "போலீஸ் விசாரணை",
+      "lines": [
+       "மங்கலம் போலீசார் விபத்து குறித்து விசாரிக்கின்றனர்",
+       "இன்று (நவ. 16) மாலை நடந்த சம்பவம்",
+       "சாலையில் வாகனங்களை கவனமாக ஓட்டுங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலை கோட்ட அளவிலான விவசாயிகள் குறை தீர்க்கும் கூட்டம் வரும் 20ம் தேதி நடைபெறுகிறது. காலை 11:30 மணிக்கு வருவாய் கோட்டாட்சியர் அலுவலகத்தில் இக்கூட்டம் நடைபெறும். உடுமலை மற்றும் மடத்துக்குளம் தாலுகாவிலுள்ள விவசாயிகளும் பொதுமக்களும் இதில் பங்கேற்கலாம். தங்கள் குறைகளை இக்கூட்டத்தில் நேரில் தெரிவிக்கலாம். இதுகுறித்து கோட்டாட்சியர் குமார் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 உடுமலையில் வரும் 20ம் தேதி விவசாயிகள் குறை தீர் கூட்டம்\n\n📰 முழு விவரம்:\nஉடுமலை கோட்ட அளவிலான விவசாயிகள் குறை தீர்க்கும் கூட்டம் வரும் 20ம் தேதி நடைபெறுகிறது.\nகாலை 11:30 மணிக்கு வருவாய் கோட்டாட்சியர் அலுவலகத்தில் இக்கூட்டம் நடைபெறும்.\nஉடுமலை, மடத்துக்குளம் தாலுகாவிலுள்ள விவசாயிகள் மற்றும் பொதுமக்கள் பங்கேற்கலாம்.\nதங்கள் குறைகளை இக்கூட்டத்தில் தெரிவிக்கலாம். இதுகுறித்து கோட்டாட்சியர் குமார் தெரிவித்துள்ளார்.\n\n📍 இடம்: வருவாய் கோட்டாட்சியர் அலுவலகம், உடுமலை\n🗓️ நாள்: வரும் 20ம் தேதி\n🕘 நேரம்: காலை 11:30 மணி\nℹ️ மக்கள் கவனத்திற்கு: உடுமலை, மடத்துக்குளம் தாலுகா விவசாயிகள் குறைகளுடன் கலந்து கொள்ளலாம்.\n\nUdumalaipettai farmers grievance meeting on 20th | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nதேவைப்படும் விவசாயிகளுக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "A line of farmers in white veshti and shirts, some with towels on their shoulders, sits on plastic chairs in the front hall of a government building in Udumalaipettai, waiting their turn for the grievance meeting. Seen from behind at eye level, they face a long wooden table where officials sit with files and papers stacked in front of them. The room has tiled floors, whitewashed walls, ceiling fans, and tube lights, with a Tamil Nadu state flag and a framed portrait on the back wall. Some farmers carry cloth bags and rolled papers in their hands. It is late morning, around 11:30, and daylight comes through tall windows, casting soft light across the room. Shot with a 35 mm lens at eye level, wide enough to show the whole hall and the officials' table. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of farmers' petition papers and a blue file placed on a wooden government office desk, next to a steel tumbler of water and a black ballpoint pen. A farmer's hand, wearing a plain cotton shirt sleeve, rests on the edge of the desk. Behind the desk the blurred outline of a government office in Udumalaipettai is visible, with a cream-painted wall and a ceiling fan. Morning daylight from a window falls across the papers, giving a calm, official mood. Shot at slightly high eye level with a 35 mm lens, shallow depth of field keeping the papers sharp and the background softly out of focus. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/district-level-farmers-grievance-redressal-meeting-on-20th/4377663",
-   "published": "2026-11-16T17:32:44+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 43 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "மங்கலம் அருகே கிரேன் மோதியதில் 12 வயது அரசுப் பள்ளி மாணவன் சம்பவ இடத்திலேயே உயிரிழந்தார். திருப்பூர் மாவட்டம், 63 வேலம்பாளையம், அண்ணாமலை கார்டனைச் சேர்ந்த கிருஷ்ணமூர்த்தியின் மகன் சவுந்தரராஜன் ஏழாம் வகுப்பு படித்து வந்தார். இன்று நவம்பர் 16ஆம் தேதி மாலை பள்ளி முடிந்த பின், மகனை டூவீலரில் அழைத்துக்கொண்டு வீட்டுக்குச் சென்று கொண்டிருந்தார். 63 வேலம்பாளையம் அருகே சென்றபோது, எதிரே வந்த கிரேன் டூவீலர் மீது மோதியது. சிறுவன் கிரேனின் முன் டயரில் விழுந்தார். இந்த விபத்து குறித்து மங்கலம் போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மங்கலம் அருகே கிரேன் மோதி அரசுப் பள்ளி மாணவன் பலி\n\n📰 முழு விவரம்:\nமங்கலம் அருகே டூவீலர் மீது கிரேன் மோதிய விபத்தில் 12 வயது அரசுப் பள்ளி மாணவன் சம்பவ இடத்திலேயே உயிரிழந்தார். திருப்பூர் மாவட்டம், 63 வேலம்பாளையம், அண்ணாமலை கார்டனைச் சேர்ந்த கிருஷ்ணமூர்த்தியின் மகன் சவுந்தரராஜன், ஏழாம் வகுப்பு படித்து வந்தார். இன்று (நவ. 16) மாலை பள்ளி முடிந்த பின், மகனை டூவீலரில் அழைத்துக்கொண்டு வீட்டுக்குச் சென்றபோது இந்த விபத்து நடந்தது. 63 வேலம்பாளையம் அருகே அவ்வழியாக வந்த கிரேன் டூவீலர் மீது மோதியது. சிறுவன் கிரேனின் முன் டயரில் விழுந்து உயிரிழந்தார். விபத்து குறித்து மங்கலம் போலீசார் விசாரிக்கின்றனர்.\n\n📍 இடம்: 63 வேலம்பாளையம், மங்கலம் அருகே\n🗓️ நாள்: நவ. 16, 2026\n🕘 நேரம்: மாலை, பள்ளி முடிந்த பின்\n👮 நடவடிக்கை: மங்கலம் போலீசார் விசாரணை\n\nMangalam crane accident student dies | Tirupur news\n📍 மங்கலம், திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Mangalam #TirupurNews #திருப்பூர்",
+   "prompts": "A heavy mobile crane stands stopped on a village road in Velampalayam near Mangalam, Tirupur district, while a Tamil Nadu police constable in khaki uniform and a few onlookers stand at a distance on the roadside. Behind them a damaged two-wheeler lies on the tarmac near the crane's front wheels, its front part crushed, and a small school bag is nearby on the road. The place is an open outskirts road with low houses, a few coconut trees and dry roadside grass, typical of the edge of Tiruppur city. The people are seen from behind or far away, men in shirts and veshti, and a woman in a saree holding her head at a distance. The time is early evening with dusk light and a soft orange sky, no rain. Camera: eye level, slightly high, 35 mm lens, wide enough to show the crane, the road and the surrounding houses. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a damaged two-wheeler on a village road at dusk, its front wheel bent and the front panel crushed, parked beside the large black front tyre of a crane. A child's school bag lies on the tarmac beside the scooter, with a few scattered road grit and tyre marks on the asphalt. In the background, slightly blurred, a Tamil Nadu police constable in khaki stands near the roadside. The place is a Tiruppur outskirts road with dry grass and a mud shoulder. Light is evening dusk with a faint orange glow, no rain. Camera: low angle near the ground, 50 mm lens, focus on the crushed two-wheeler and the crane tyre, shallow depth of field so people are soft and far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/crane-mole-govt-school-student-dies-after-being-hit-by-two-wheeler/4378104",
+   "published": "2026-11-16T20:58:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836300/tirupur360/ryouc38ldhhauoedsuzi.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836304/tirupur360/lxhe73ng7vifuwczh347.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849514/tirupur360/xjzk1yq1qhrzjuub2vqc.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849519/tirupur360/metga59umq8uuud3lzwf.jpg"
    ]
   },
   {
-   "tamil_headline": "உடுமலையில் சுரங்கப்பாலத்தில் கழிவு நீர் தேக்கம்: மக்கள் பல கி.மீ. சுற்றிச் செல்லும் நிலை",
-   "english_headline": "Sewage stagnates in Udumalaipettai railway subway; residents forced to detour several kilometres",
-   "category": "Civic Issues",
-   "location": "Periyar Nagar railway subway, Udumalaipettai, Tirupur district",
+   "tamil_headline": "திருப்பூர்: மழை குறைந்ததால் காய்கறி விலையில் மாற்றம், எலுமிச்சை கிலோ ரூ.180",
+   "english_headline": "Tirupur: vegetable prices change after rain eases; lemon at Rs 180 per kg, carrot down to Rs 40",
+   "category": "Business & Prices",
+   "location": "Tirupur district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதார சீர்கேடு",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலை சுரங்கப்பாலத்தில் கழிவு நீர்",
-    "hl2": "பல கி.மீ. சுற்றிச் செல்லும்",
+    "cat": "காய்கறி விலை",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூர்: காய்கறி விலையில் மாற்றம்",
+    "hl2": "எலுமிச்சை கிலோ ரூ.180",
     "slides": [
      {
-      "title": "எங்கே பிரச்சினை?",
+      "title": "விலை குறைந்தவை",
       "lines": [
-       "உடுமலை பெரியார் நகர் ரயில்வே சுரங்கப்பாலம்",
-       "இருபுறமும் சாக்கடை கால்வாய்களிலிருந்து கழிவு நீர் தேக்கம்",
-       "மழை காலத்தில் மழை நீரும் சேர்ந்து தேங்குகிறது"
+       "மழை குறைந்ததால் மலைக் காய்கறி விலை குறைந்தது",
+       "காரட் கிலோ <b>ரூ.40</b>, முன்பு ரூ.60",
+       "பீட்ரூட் கிலோ <b>ரூ.50</b>, ரூ.10 குறைந்தது"
       ]
      },
      {
-      "title": "ஏன் தேங்குகிறது?",
+      "title": "விலை உயர்ந்தவை",
       "lines": [
-       "கழிவு நீர், மழை நீரை வெளியேற்றும் மோட்டார்கள் பழுது",
-       "போதிய வடிகால் வசதி இல்லை",
-       "பல ஆண்டுகளாக நிரந்தரமாக தேக்கம்"
-      ]
-     },
-     {
-      "title": "மக்கள் படும் பாடு",
-      "lines": [
-       "ராமசாமி நகர், பழநியாண்டவர் நகர், ஜீவா நகர் மக்கள் பாதிப்பு",
-       "சுகாதார சீர்கேடு ஏற்படுகிறது",
-       "பல கி.மீ. சுற்றிச் செல்ல வேண்டிய நிலை"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "பாலத்தில் கழிவு நீர் தேங்காமல் உரிய கட்டமைப்பு வசதி",
-       "நீர் சேகரிப்பு கிணறு, மின் மோட்டார் வசதி ஏற்படுத்த வேண்டும்",
-       "மக்கள் வலியுறுத்தல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "உடுமலை பெரியார் நகர் ரயில்வே சுரங்கப்பாலத்தில் கழிவு நீர் தேங்கி, மக்கள் பல கிலோமீட்டர் சுற்றிச் செல்லும் நிலை உள்ளது. பாலத்தின் இரு புறமும் உள்ள சாக்கடை கால்வாய்களிலிருந்து கழிவு நீர் தேங்குகிறது. மழை காலங்களில் மழை நீரும் சேர்ந்து பாலம் முழுவதும் தேங்குகிறது. கழிவு நீரை வெளியேற்ற அமைக்கப்பட்ட மோட்டார்கள் பழுதடைந்துள்ளன. போதிய வடிகால் வசதியும் இல்லை. இதனால் பல ஆண்டுகளாக சுரங்கப்பாலத்தில் கழிவு நீர் நிரந்தரமாக தேங்கி உள்ளது. இதனால் சுற்றுப்பகுதி மக்களுக்கு சுகாதார சீர்கேடு ஏற்படுகிறது. ராமசாமி நகர், பழநியாண்டவர் நகர், ஜீவா நகர் மக்கள், வாகன ஓட்டுநர்கள், விவசாயிகள், பள்ளி மாணவர்கள் இந்தப் பாலத்தை கடக்க முடியாமல் பல கிலோமீட்டர் சுற்றிச் செல்ல வேண்டியுள்ளது. பாலத்தில் கழிவு நீர் தேங்காமல் உரிய கட்டமைப்பு வசதிகளையும், நீர் சேகரிப்பு கிணறு, மின் மோட்டார் வசதிகளையும் ஏற்படுத்த வேண்டும் என மக்கள் வலியுறுத்தியுள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 உடுமலை சுரங்கப்பாலத்தில் கழிவு நீர் தேக்கம்: மக்கள் பல கி.மீ. சுற்றும் அவலம்\n\n📰 முழு விவரம்:\nஉடுமலை நகரின் தெற்கு பகுதியில் உள்ள ரயில்வே சுரங்கப்பாலத்தில் கழிவு நீர் தேங்கி வருகிறது. பெரியார் நகர் பகுதியில் உள்ள இந்த சுரங்கப்பாலத்தின் இரு புறமும் உள்ள சாக்கடை கால்வாய்களிலிருந்து கழிவு நீர் வருகிறது. மழை காலங்களில் மழை நீரும் சேர்ந்து பாலம் முழுவதும் தேங்குகிறது.\nகழிவு நீரை வெளியேற்றும் மோட்டார்கள் பழுதடைந்துள்ளதாலும், போதிய வடிகால் வசதி இல்லாததாலும் பல ஆண்டுகளாக இந்த தேக்கம் நிரந்தரமாக உள்ளது. இதனால் சுற்றுப்பகுதி மக்களுக்கு சுகாதார சீர்கேடு ஏற்படுகிறது.\n📍 இடம்: உடுமலை, பெரியார் நகர் ரயில்வே சுரங்கப்பாலம்\n🏘️ பாதிப்பு: ராமசாமி நகர், பழநியாண்டவர் நகர், ஜீவா நகர் குடியிருப்புகள்\n🚶 பொதுமக்கள், வாகன ஓட்டுநர்கள், விவசாயிகள், பள்ளி மாணவர்கள் பாலத்தை கடக்க முடியாமல் பல கி.மீ. சுற்றிச் செல்கின்றனர்.\n📢 கோரிக்கை: கழிவு நீர் தேங்காமல் உரிய கட்டமைப்பு வசதி, நீர் சேகரிப்பு கிணறு, மின் மோட்டார் வசதி ஏற்படுத்த வேண்டும் என மக்கள் வலியுறுத்தல்.\n\nUdumalaipettai subway sewage stagnation | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "A row of residents, schoolchildren in uniform and a farmer with a bicycle stand at the edge of a railway subway in Periyar Nagar, Udumalaipettai, Tirupur district, looking at dark, stagnant sewage that has filled the underpass almost to the level of their knees and beyond. The subway is a concrete tunnel passing beneath a railway embankment, with its walls stained dark and algae-green near the waterline, and open drainage channels on both sides spilling murky water into the passage. Two-wheelers and a bicycle wait on the dry approach road, and the group, seen from behind and at a distance, is clearly turning back rather than crossing. Daylight, slightly overcast, with the sheen of wet concrete. Camera at eye level, 35 mm, wide enough to show the full tunnel mouth, the railway embankment above, and the stagnant water filling the passage. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the flooded floor of a railway subway in Udumalaipettai, where dark sewage and rainwater lie stagnant across the concrete, reflecting the grey light from the tunnel entrance. A rusted pump motor and a concrete drainage channel with sludge and debris sit at the edge of the water, showing the broken drainage that causes the stagnation. Ridges of silt and wet footprints mark the tunnel floor at the water's edge, and the walls are streaked with dark damp marks. Overcast daylight from the tunnel mouth. Camera low and close, 35 mm, focused on the murky water surface and the pump housing with the blurred tunnel walls behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sewage-from-a-mining-bridge-a-trip-around-the-city/4377668",
-   "published": "2026-11-16T17:36:16+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836324/tirupur360/ehbbftb75dvmidoy71fa.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836328/tirupur360/xzjbpoaukbrdr2kylqdw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "உடுமலையில் மக்காச்சோளம் சாகுபடி மீண்டும் அதிகரிப்பு; விலை குவிண்டால் ரூ.3,450",
-   "english_headline": "Maize cultivation rising again in Udumalaipettai as prices reach record high of Rs 3,450 per quintal",
-   "category": "Weather & Agriculture",
-   "location": "Udumalaipettai, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலையில் மக்காச்சோளம் சாகுபடி",
-    "hl2": "குவிண்டால் ரூ.3,450 வரை",
-    "slides": [
-     {
-      "title": "சாகுபடி அதிகரிப்பு",
-      "lines": [
-       "உடுமலை பகுதியில் மக்காச்சோளம் சாகுபடி மீண்டும் அதிகரிக்கிறது",
-       "நீண்ட இடைவெளிக்கு பின் விவசாயிகள் ஆர்வம் காட்டுகின்றனர்",
-       "பருவமழை, பாசன நீர் திறப்பு இதற்கு காரணம்"
+       "தக்காளி கிலோ <b>ரூ.30</b>, ரூ.5 உயர்ந்தது",
+       "வரத்து குறைவே காரணம்",
+       "பெரிய வெங்காயம் கிலோ <b>ரூ.50</b>, சற்று குறைந்தது"
       ]
      },
      {
       "title": "விலை நிலவரம்",
       "lines": [
-       "ஒரு குவிண்டால் <b>ரூ.3,450</b> முதல் <b>ரூ.3,550</b> வரை விற்பனை",
-       "இதுவரை இல்லாத அளவுக்கு உச்ச விலை",
-       "தேவை அதிகரித்து வரத்து குறைவதால் விலை உயர்வு"
-      ]
-     },
-     {
-      "title": "பின்னணி",
-      "lines": [
-       "கடந்த ஆண்டுகளில் படைப்புழு தாக்குதல், மகசூல் குறைவு",
-       "தென்மேற்கு பருவமழை ஏமாற்றியதால் ராபி சாகுபடி குறைந்தது",
-       "தற்போது வடகிழக்கு பருவமழை பரவலாக பெய்துள்ளது"
-      ]
-     },
-     {
-      "title": "அறுவடை எப்போது?",
-      "lines": [
-       "ஜன–பிப். மாதங்களில் அறுவடைக்கு வரும்",
-       "விலை பெரிய அளவில் குறைய வாய்ப்பில்லை என வேளாண் அதிகாரிகள்"
+       "சின்ன வெங்காயம் கிலோ <b>ரூ.120</b>, மாற்றமில்லை",
+       "எலுமிச்சை கிலோ <b>ரூ.180</b>, முன்பு ரூ.240 வரை",
+       "முருங்கை கிலோ <b>ரூ.100</b>, இஞ்சி கிலோ <b>ரூ.150</b>"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலை பகுதியில் மக்காச்சோளம் சாகுபடி மீண்டும் அதிகரித்து வருகிறது. ஒரு குவிண்டால் மக்காச்சோளம் ரூ.3,450 முதல் ரூ.3,550 வரை விற்பனையாகிறது. இது இதுவரை இல்லாத உச்ச விலையாகும். உடுமலை, மடத்துக்குளம், குடிமங்கலம் பகுதிகளில் சுமார் 60 ஆயிரம் ஏக்கரில் மக்காச்சோளம் பயிரிடப்படுகிறது. கடந்த ஆண்டுகளில் படைப்புழு தாக்குதல், மகசூல் குறைவு, குறைந்த விலை போன்ற காரணங்களால் விவசாயிகள் இந்தப் பயிரைக் குறைத்திருந்தனர். இந்த ஆண்டு தென்மேற்கு பருவமழை ஏமாற்றியதால் ராபி பருவ சாகுபடி பெருமளவு குறைந்தது. தற்போது வடகிழக்கு பருவமழை பரவலாகப் பெய்துள்ளது. பிஏபி இரண்டாம் மண்டலப் பாசனத்துக்கும் நீர் திறக்கப்பட்டுள்ளது. தேவை அதிகரித்து வரத்து குறைந்துள்ளதால் விலை தொடர்ந்து உயர்ந்து வருகிறது. இதனால் விவசாயிகள் மீண்டும் மக்காச்சோளத்தில் ஆர்வம் காட்டுகின்றனர். இந்த பயிர்கள் ஜனவரி, பிப்ரவரி மாதங்களில் அறுவடைக்கு வரும். அறுவடை காலத்திலும் விலை பெரிய அளவில் குறைய வாய்ப்பில்லை என வேளாண் துறை அதிகாரிகள் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌽 உடுமலையில் மக்காச்சோளம் சாகுபடி மீண்டும் அதிகரிப்பு; குவிண்டால் ரூ.3,450 வரை\n\n📰 முழு விவரம்:\nஉடுமலை, மடத்துக்குளம், குடிமங்கலம் பகுதிகளில் பிஏபி, அமராவதி பாசனம், இறவை மற்றும் மானாவாரியில் சுமார் 60 ஆயிரம் ஏக்கரில் மக்காச்சோளம் பயிரிடப்பட்டு வந்தது. கடந்த ஆண்டுகளில் படைப்புழு தாக்குதல், மகசூல் குறைவு, அறுவடையின்போது போதிய விலை கிடைக்காதது போன்ற காரணங்களால் விவசாயிகள் பின்வாங்கினர்.\nகோழி மற்றும் மாட்டுத்தீவன உற்பத்திக்கு மக்காச்சோளம் முக்கியமாக தேவைப்படுகிறது. உடுமலை, பல்லடம் பகுதிகளில் கறிக்கோழி மற்றும் தீவன உற்பத்தி நிறுவனங்கள் அதிகம் உள்ளதால் தேவை அதிகரித்துள்ளது. பிற மாநிலங்களிலிருந்து மக்காச்சோளம் வந்தாலும் கோழித்தீவன ஆலைகளுக்கு தேவை அதிகரித்ததால் விலை தொடர்ந்து உயர்கிறது.\nஉடுமலை ஒழுங்குமுறை விற்பனைக்கூட விலையே சந்தை நிலவரத்துக்கு அடிப்படையாக உள்ளது. வேளாண் துறை அதிகாரிகள், கர்நாடகா, மகாராஷ்டிரா போன்ற பிற மாநிலங்களிலும் சாகுபடி குறைந்ததால் தீவன ஆலைகளுக்கு கடும் பற்றாக்குறை ஏற்பட்டுள்ளதாகத் தெரிவித்தனர்.\n🌧️ வடகிழக்கு பருவமழை துவங்கி உடுமலை பகுதிகளில் பரவலாக பெய்துள்ளது. பிஏபி இரண்டாம் மண்டல பாசனத்துக்கும் நீர் திறக்கப்பட்டுள்ளது.\n🌾 உடுமலை பகுதியில் புரட்டாசி–ஐப்பசி மாதங்களில் விதைத்து, மார்கழி–தை மாதங்களில் அறுவடை செய்யப்படும்.\n🗓️ இங்கு பயிரிடப்பட்டுள்ள மக்காச்சோளம் ஜனவரி–பிப்ரவரி மாதங்களில் அறுவடைக்கு வரும்.\nவிவசாயிகள் குறுகிய கால சாகுபடி, குறைந்த நீர்த்தேவை காரணமாக மீண்டும் இந்தப் பயிரில் ஈடுபடுகின்றனர்.\n\nUdumalaipettai maize cultivation rising, price Rs 3,450 per quintal | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "A farmer in a checked lungi and banian stands in a green maize field near Udumalaipettai, bending to lift a cob from a tall maize plant, while other farmers work further back between the rows. The field is a flat irrigated plot on the outskirts of Udumalaipettai, with the dark-brown soil still damp after recent north-east monsoon rain, and a row of coconut palms and a distant concrete irrigation channel behind. The maize plants are thick and full, with golden-yellow cobs ready for harvest, and a few heaped sacks lie at the edge of the field. The farmers are seen from behind or far off, wearing veshti and shirts, one woman in a cotton saree tying a bundle. Soft morning light after rain, a light mist over the fields. Shot at eye level, 35 mm, wide enough to show the whole field and the palm line. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of freshly harvested maize cobs with their husks peeled back, piled high in a gunny sack and spilling onto a wooden weighing platform at the regulated sales yard in Udumalaipettai. Behind the pile, a blurred trader in a shirt and veshti stands beside a weighing scale, and a few sacks of loose grain sit on the concrete floor. The yellow kernels catch the daylight coming through the open shed. Light rain-wet dust on the floor and a damp concrete platform, tin roof edges visible at the top of the frame. Shot at slightly high angle, 35 mm, focused on the cobs with the scale and sacks softly blurred behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/monsoon-rains-boost-maize-cultivation-again-farmers-upbeat-over-price-hike/4377601",
-   "published": "2026-11-16T17:36:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('அதோடு, பி.ஏ.பி., 2ம் மண்டல பாசனத்திற்கும் நீர் திறக்கப்பட்டு'); 3,550 ('நேற்றைய நிலவரப்படி, ஒரு குவிண்டால், 3,450 முதல், 3,550 ரூபாய')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூரில் எலுமிச்சை விலை கிலோ 180 ரூபாயாகக் குறைந்துள்ளது. வெயில் அதிகமாக இருந்தபோது 240 ரூபாய் வரை விற்ற எலுமிச்சை, குளிரின் தாக்கத்தால் விலை சற்று குறைந்துள்ளது. மழை குறைந்ததையடுத்து மலைக் காய்கறிகளின் விலையும் குறைந்துள்ளது. தீபாவளிக்கு முந்தைய வாரம் கிலோ 60 ரூபாய்க்கு விற்ற காரட், இன்று கிலோ 40 ரூபாயாக உள்ளது. ஊட்டி பீட்ரூட் கிலோவுக்கு 10 ரூபாய் குறைந்து, கிலோ 50 ரூபாயாக விற்கப்படுகிறது. வரத்து குறைவால் தக்காளி கிலோவுக்கு 5 ரூபாய் உயர்ந்து, கிலோ 30 ரூபாயாக உள்ளது. பெரிய வெங்காயம் சற்று குறைந்து கிலோ 50 ரூபாயாக விற்கப்படுகிறது. சின்ன வெங்காயம் விலை மாற்றமின்றி கிலோ 120 ரூபாயாகத் தொடர்கிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🍋 திருப்பூரில் எலுமிச்சை கிலோ ரூ.180, காரட் ரூ.40 - காய்கறி விலை மாற்றம்\n\n📰 முழு விவரம்:\nமழை குறைந்ததையடுத்து மலைக் காய்கறிகளின் விலை குறைந்துள்ளது. நடப்பு வாரம் தக்காளி விலை உயர்ந்துள்ளது; சின்ன வெங்காயம் விலையில் மாற்றமில்லை.\nதீபாவளிக்கு முந்தைய வாரம் கிலோ ரூ.60 ஆக இருந்த காரட், இன்று (நவ. 16) கிலோ ரூ.40.\nஊட்டி பீட்ரூட் கிலோவுக்கு ரூ.10 குறைந்து கிலோ ரூ.50.\nவெயிலின் தாக்கம் அதிகமாக இருந்தபோது கிலோ ரூ.240 வரை விற்ற எலுமிச்சை, குளிரின் தாக்கத்தால் தற்போது கிலோ ரூ.180.\nவரத்து குறைவால் தக்காளி கிலோவுக்கு ரூ.5 உயர்ந்து கிலோ ரூ.30.\nபெரிய வெங்காயம் சற்று குறைந்து கிலோ ரூ.50. சின்ன வெங்காயம் கிலோ ரூ.120 என மாற்றமின்றித் தொடர்கிறது.\n\n🥬 காய்கறி விலை நிலவரம்:\nகத்தரி ரூ.40–70, வெண்டை ரூ.60, பச்சை மிளகாய் ரூ.45, புடலங்காய் ரூ.40, அவரை ரூ.90, கொத்தவரை ரூ.40, பீர்க்கன்காய் ரூ.50, சுரைக்காய் ரூ.20, பாகற்காய் ரூ.60, முள்ளங்கி ரூ.40, உருளை ரூ.35–60, முட்டைகோஸ் ரூ.20, பீன்ஸ் ரூ.80, காலிபிளவர் ரூ.40, மேரக்காய் ரூ.25, நூல்கோல் ரூ.30, இஞ்சி ரூ.150, முருங்கை ரூ.100.\n\nTirupur vegetable prices: lemon Rs 180, carrot Rs 40 | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #காய்கறி",
+   "prompts": "A vegetable vendor at a busy Tirupur market stall arranges heaps of fresh lemons, carrots, and tomatoes in wicker baskets and steel trays, with price boards out of focus behind. The stall sits under a tin-roofed shed along a market street where the morning light is soft and grey after recent rain, with damp patches on the concrete floor. Shoppers in cotton saris and shirts with veshti stand at a distance, seen from behind and slightly blurred, sorting through heaps. The stall holds bright yellow lemons, orange carrots, red tomatoes, and green beans in separate piles. The vendor's hands tend the heaps, and loose vegetables cover the wooden counter. Camera at eye level, 35 mm, wide enough to show the market and the vegetable piles. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a steel tray on a market counter piled with fresh orange carrots, deep red Ooty beetroot, and bright yellow lemons, with a few green chillies scattered across the top. Water droplets glisten on the vegetables after the rain, and a corner of a wet cloth shows at the edge of the frame. Blurred hands of a vendor reach into the tray at the side, and the background shows a damp concrete floor and out-of-focus baskets. Soft natural daylight from the shed opening brightens the colours. No readable labels or prices are visible. Camera close and slightly high, 35 mm, shallow depth of field focused on the carrots and lemons. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vegetable-prices-fluctuate-due-to-low-rainfall/4377999",
+   "published": "2026-11-16T19:51:01+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 10; caption misses facts of the article (put every one in 📰 முழு விவரம்): 140, ('கத்தரி, 40 – 70, வெண்டை – 60, தக்காளி – 30, பச்சை மிளகாய் – ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836341/tirupur360/frwfarnnokfrn4fpiqsz.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794836345/tirupur360/h5txxxjhhyiep91u0cst.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849524/tirupur360/e3oqbiusprrjtr8ayu3a.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849528/tirupur360/gvh0c0phnzzcrjujajbk.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குண்டடத்தில் மோட்டார் கேபிள் திருட்டு: 3 பேர் கைது, ரூ.1.50 லட்சம் ஒயர்கள் மீட்பு",
+   "english_headline": "Three arrested for motor cable theft in Kundadam; wires worth Rs 1.50 lakh recovered",
+   "category": "Crime & Safety",
+   "location": "Kundadam, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "திருட்டு கைது",
+    "loc": "குண்டடம்",
+    "hl1": "குண்டடத்தில் கேபிள் திருட்டு: 3 பேர்",
+    "hl2": "ரூ.1.50 லட்சம் ஒயர் மீட்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குண்டடம் பகுதியில் விவசாயத் தோட்ட மின்மோட்டார் கேபிள்கள்",
+       "கடந்த வாரம் ஒரே நாளில் 5 இடங்களில் திருட்டு",
+       "விவசாயிகள் புகார் அளித்தும் நடவடிக்கை இல்லை என குற்றச்சாட்டு"
+      ]
+     },
+     {
+      "title": "எப்படி",
+      "lines": [
+       "இன்று (நவ. 16) மேட்டுக்கடையில் போலீசார் வாகன தணிக்கை",
+       "சாக்கு மூட்டையுடன் டூவீலரில் வந்த இருவரிடம் விசாரணை",
+       "மூட்டையில் ஒயர்கள் இருந்தது தெரியவந்தது"
+      ]
+     },
+     {
+      "title": "கைது, மீட்பு",
+      "lines": [
+       "திருவாரூர் பாலமுருகன் (24 வயது), கோவை மதன் (27 வயது) கைது",
+       "நவ. 3ஆம் தேதி நடந்த கேபிள் திருட்டில் ஈடுபட்டவர்கள்",
+       "ரூ.1.50 லட்சம் மதிப்பிலான ஒயர்கள் பறிமுதல்"
+      ]
+     },
+     {
+      "title": "வாங்கியவர் கைது",
+      "lines": [
+       "திருடிய கேபிள்களை பொங்கலூர், டி.கே.டி. மில் பகுதி",
+       "திருட்டுப் பொருள் என தெரிந்து வாங்கியதற்காக அவரும் கைது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குண்டடம் பகுதியில் மோட்டார் கேபிள் திருடிய 3 பேர் கைது செய்யப்பட்டனர். ரூ.1.50 லட்சம் மதிப்பிலான ஒயர்கள் பறிமுதல் செய்யப்பட்டன. குண்டடம் சுற்றுவட்டாரத்தில் விவசாயத் தோட்டங்களின் மின்மோட்டார் கேபிள்கள் சமீபத்தில் அதிகம் திருடப்பட்டன. கடந்த வாரம் ஒரே நாளில் 5 இடங்களில் மின்மோட்டார் மற்றும் ஒயர்கள் திருட்டுப் போனது. விவசாயிகளின் புகாருக்குப் போலீசார் நடவடிக்கை எடுக்கவில்லை என குற்றச்சாட்டு எழுந்தது. இன்று நவம்பர் 16ஆம் தேதி மேட்டுக்கடையில் குண்டடம் போலீசார் வாகன தணிக்கை செய்தனர். சாக்கு மூட்டையுடன் டூவீலரில் வந்த இருவரிடம் விசாரணை நடத்தப்பட்டது. சோதனையில் மூட்டையில் ஒயர்கள் இருந்தன. விசாரணையில் திருவாரூரைச் சேர்ந்த 24 வயது பாலமுருகன், கோவையைச் சேர்ந்த 27 வயது மதன் ஆகியோர் என தெரியவந்தது. இவர்கள் நவம்பர் 3ஆம் தேதி நடந்த கேபிள் திருட்டில் ஈடுபட்டவர்கள். இருவரும் கைது செய்யப்பட்டு, ரூ.1.50 லட்சம் மதிப்பிலான ஒயர்கள் பறிமுதல் செய்யப்பட்டன. திருடிய கேபிள்களைப் பொங்கலூர், டி கே டி மில் பகுதியைச் சேர்ந்த 26 வயது ராமலிங்கம் வாங்கியுள்ளார். திருட்டுப் பொருள் என தெரிந்தே வாங்கியதால் அவரும் கைது செய்யப்பட்டார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குண்டடத்தில் மோட்டார் கேபிள் திருட்டு: 3 பேர் கைது, ரூ.1.50 லட்சம் ஒயர்கள் மீட்பு\n\n📰 முழு விவரம்:\nகுண்டடம் சுற்றுவட்டாரத்தில் விவசாயத் தோட்டங்களின் மின்மோட்டார் கேபிள்கள் சமீபத்தில் அதிகம் திருடப்பட்டன. கடந்த வாரம் ஒரே நாளில் 5 இடங்களில் திருட்டு நடந்தது. இன்று (நவ. 16) மேட்டுக்கடையில் குண்டடம் போலீசார் வாகன தணிக்கையில் சாக்கு மூட்டையுடன் வந்த இருவரைப் பிடித்து விசாரித்தனர். மூட்டையில் ஒயர்கள் இருந்தன. திருவாரூர் பாலமுருகன் (24 வயது), கோவை மதன் (27 வயது) ஆகியோர் நவ. 3ஆம் தேதி நடந்த கேபிள் திருட்டில் ஈடுபட்டது தெரியவந்து கைது செய்யப்பட்டனர். ரூ.1.50 லட்சம் மதிப்பிலான ஒயர்கள் பறிமுதல் செய்யப்பட்டன. திருடிய கேபிள்களை வாங்கிய பொங்கலூர், டி.கே.டி. மில் பகுதி ராமலிங்கம் (26 வயது) திருட்டுப் பொருள் எனத் தெரிந்தே வாங்கியதால் அவரும் கைது செய்யப்பட்டார்.\n\nKundadam cable theft 3 arrested | Tirupur news\n📍 குண்டடம், திருப்பூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kundadam #TirupurNews #திருப்பூர்",
+   "prompts": "Along a rural road at a village junction in Kundadam, Tirupur district, two Tamil Nadu police constables in khaki uniform stop a two-wheeler at a vehicle check. The two young male suspects stand beside the parked two-wheeler, seen from behind and far away, with no faces visible. Behind them lies open farmland with coconut trees and a farm well's electric motor shed on the roadside. The rider's two-wheeler is parked on the tarmac, and a large white gunny sack bulging with cable wire rests on its seat. Men in shirts and trousers stand at a distance as onlookers, while a police jeep is parked at the roadside. Bright daylight, clear weather, late morning. Shot at eye level, 35 mm lens, wide enough to show the rural road, fields and the checking police in the frame. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a rough cloth gunny sack on the ground at a roadside in Kundadam, Tirupur district, spilling out coils of thick black and copper-coloured electric motor cable wire. Beside it sits a neat bundle of cut cable lengths tied with a cord, laid on the dusty earth in front of a khaki-uniformed police boot. Farm field and dry soil stretch softly blurred behind, with a farm well's concrete edge and a rusted pipe visible. Natural daylight from above, no people's faces, only the police boot and the trouser hem of a seated man visible. Shot close at a slightly high angle, 35 mm lens, shallow focus on the wire, with the sack and cables as the clear story object. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motor-cable-theft-3-people-arrested-recovery-of-goods/4378105",
+   "published": "2026-11-16T20:58:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the 3 arrested men were 'கேபிள் திருடிய' and says Ramalingam 'வாங்கியுள்ளார்' — consistent, but the draft's 'இவர்கள் நவம்பர் 3ஆம் தேதி நடந்த கேபிள் திருட்டில் ஈடுபட்டவர்கள்' is acceptable; however the reel_script omits that the cable theft was on 3rd of the month and that the two men were caught with wire in a sack, and the slides/caption describe Ramalingam's arrest without the detail that he bought the stolen cables from the two men — the article's key link (who sold to whom) is incomplete; fact-check: reel_script states the date as 'நவம்பர் 3ஆம் தேதி' whereas the article only says 'கடந்த, 3 ம் தேதி' with no month named; the month (November) is an invented detail; fact-check: reel_script and caption say the 3 arrested persons are caught at Mettukadai; the article says the vehicle check was at Mettukadai, which is consistent, but the caption says 'இன்று (நவ. 16)' using 'நவ.' month inferred rather than stated in the article (article says 'நவ.,16'), so this is consistent; the invented element is only the month attribution to the 3rd date",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849534/tirupur360/p5kwvg1y30vrhyp11pri.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794849567/tirupur360/jakxpmgentvclgiuidr2.jpg"
    ]
   }
  ]
