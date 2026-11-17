@@ -81,6 +81,26 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-17 | `1328bd4` | pictures: NVIDIA FLUX no longer accepts 'seed' (422) - dropped so the free NVIDIA pictures work again |
+| 2026-11-17 | `9b4beae` | goldrate posted |
+| 2026-11-17 | `edbceed` | rasipalan posted |
+| 2026-11-17 | `37a09aa` | powercut: notices written |
+| 2026-11-17 | `2b1d7fa` | powercut: notices written |
+| 2026-11-17 | `d15b13f` | pick: written and posted |
+| 2026-11-17 | `0567b7c` | pick: picked news saved |
+| 2026-11-17 | `27ca77b` | pick: picked news saved |
+| 2026-11-17 | `1cc4973` | pick: list sent |
+| 2026-11-17 | `8eb19cf` | pick: written and posted |
+| 2026-11-17 | `e258805` | pick: picked news saved |
+| 2026-11-17 | `1ddbdd1` | pick: picked news saved |
+| 2026-11-17 | `42708b1` | pick: list sent |
+| 2026-11-16 | `4d79733` | pick: written and posted |
+| 2026-11-16 | `87ab621` | powercut: notices written |
+| 2026-11-16 | `262bf7e` | pick: picked news saved |
+| 2026-11-16 | `c34912b` | pick: picked news saved |
+| 2026-11-16 | `5bba6e7` | pick: list sent |
+| 2026-11-16 | `47a7914` | powercut: notices written |
+| 2026-11-16 | `56f0ea3` | pick: written and posted |
 | 2026-11-16 | `ea945a3` | post: while news is still waiting, a live posting run starts the next one (GitHub skipped most 5-minute runs on 16 Nov) |
 | 2026-11-16 | `65e3c97` | pick: picked news saved |
 | 2026-11-16 | `90a721e` | pick: picked news saved |
@@ -91,24 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-16 | `15f3bfe` | pick: list sent |
 | 2026-11-16 | `2a383e6` | stories shared |
 | 2026-11-16 | `4d1392b` | powercut: notices written |
-| 2026-11-16 | `df4787d` | stories shared |
-| 2026-11-16 | `ba229ed` | powercut: notices written |
-| 2026-11-16 | `c0ca409` | goldrate posted |
-| 2026-11-16 | `30a2871` | stories shared |
-| 2026-11-16 | `c9e76f8` | pick: a round GitHub skipped adds its count to the next round; lifestyle columns not written automatically; leftover count in the round log |
-| 2026-11-16 | `2c40da5` | rasipalan posted |
-| 2026-11-16 | `813b7e2` | pick: written and posted |
-| 2026-11-16 | `161d966` | pick: picked news saved |
-| 2026-11-16 | `8b0df77` | pick: picked news saved |
-| 2026-11-16 | `b5feace` | pick: list sent |
-| 2026-11-15 | `2c4a857` | stories shared |
-| 2026-11-15 | `c930a62` | pick: written and posted |
-| 2026-11-15 | `e5f2b8b` | pick: picked news saved |
-| 2026-11-15 | `276107d` | pick: picked news saved |
-| 2026-11-15 | `33e8e5e` | pick: list sent |
-| 2026-11-15 | `e3577ff` | stories shared |
-| 2026-11-15 | `4c877a4` | powercut: notices written |
-| 2026-11-15 | `ba38926` | powercut: notices written |
-| 2026-11-15 | `a9e72ca` | stories shared |
-| 2026-11-15 | `1ffdfbf` | powercut: notices written |
 <!-- recent-changes:end -->
