@@ -1,54 +1,19 @@
-22:42:29 round 2026-11-16_22: news published 16 Nov 19:03 -> 16 Nov 22:42 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Tirupur)
-22:42:29 insights 2026-11-16T22:42+05:30 (55 reels): topic weights {'politics': 0.0, 'accident': 0.57, 'crime': 1.5, 'education': -0.5, 'power_cut': 0.04, 'temple': -0.5, 'civic': -0.25, 'poultry_agri': -0.5}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 திருப்பூர் போலீஸ் டைரி: கஞ்சா, விபத்து, சூதாட்டம்']
-22:44:04 44 links on the two papers' Tirupur pages
-22:44:48 skipped: not Tirupur district=20, already posted=6, power cut - posted automatically=2, published before this window=1, same event already posted=1, could not open (404 Client Error: Not Found for url: https://pukaa)=1
-22:44:48 list: 10 new + 1 earlier news not posted yet
-22:44:48    1. [குற்றம்] மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் மீட்பு (தினமலர்)
-22:44:48    2. [மழை / வானிலை] மழைப்பொழிவு குறைந்தது காய்கறி விலையில் மாற்றம் (தினமலர்)
-22:44:48    3. [குடிநீர்] குடிநீர் சப்ளை தாமதம் மா.கம்யூ., குற்றச்சாட்டு (தினமலர்)
-22:44:48    4. [விபத்து] டூவீலர் மீது கிரேன் மோல் அரசு பள்ளி மாணவன் பலி (தினமலர்)
-22:44:48    5. [பொது] பயிர் காப்பீட்டு திட்டம் பதிவு செய்வதில் தளர்வு (தினமலர்)
-22:44:48    6. [கல்வி] கிட்ஸ் கிளப் பள்ளியில் விளையாட்டு தின விழா (தினமலர்)
-22:44:48    7. [கல்வி] ஏ.வி.பி. டிரஸ்ட் பள்ளியில் குழந்தைகள் தின விழா (தினமலர்)
-22:44:48    8. [பொது] கந்த சஷ்டி திருக்கல்யாணம் காண பக்தர்கள் தவிப்பு! முறையான முன்னேற்பாடு  (தினமலர்)
-22:44:48    9. [பொது] நாளை கோபாஷ்டமி விழா 1,208 இடத்தில் கோ பூஜை (தினமலர்)
-22:44:48   10. [பொது] நாட்டுக்கோழி வளர்ப்பு பயிற்சி (தினமலர்)
-22:44:48   11. [பொது] விளையாட்டு அலுவலர் திருப்பூருக்கு மாற்றம் (தினமலர்) (earlier)
-22:44:48 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-16_22
-22:44:49    not picked automatically (ceremony / award / awareness event (low views)): கிட்ஸ் கிளப் பள்ளியில் விளையாட்டு தின விழா
-22:44:49    not picked automatically (ceremony / award / awareness event (low views)): ஏ.வி.பி. டிரஸ்ட் பள்ளியில் குழந்தைகள் தின விழா
-22:44:49 round 2026-11-16_22 (at least 4, up to 3 more of well-watched topics): 9 news to choose from (1 from earlier rounds), ranked by this page's insights
-22:44:49   PICK   1.  17.0 [crime +1.50 page] மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் மீட்பு
-22:44:49   PICK   2.  15.0 [crime +1.50 page] குடிநீர் சப்ளை தாமதம் மா.கம்யூ., குற்றச்சாட்டு
-22:44:49   PICK   3.  13.4 [weather +0.80 pattern] மழைப்பொழிவு குறைந்தது காய்கறி விலையில் மாற்றம்
-22:44:49   PICK   4.   9.2 [education -0.10 pattern] டூவீலர் மீது கிரேன் மோல் அரசு பள்ளி மாணவன் பலி
-22:44:49          5.   7.0 [other +0.00 pattern] பயிர் காப்பீட்டு திட்டம் பதிவு செய்வதில் தளர்வு
-22:44:49          6.   3.0 [other +0.00 pattern] கந்த சஷ்டி திருக்கல்யாணம் காண பக்தர்கள் தவிப்பு! முறையான முன
-22:44:49          7.   1.6 [poultry_agri -0.30 pattern] நாட்டுக்கோழி வளர்ப்பு பயிற்சி
-22:44:49          8.   1.0 [temple -0.50 page] நாளை கோபாஷ்டமி விழா 1,208 இடத்தில் கோ பூஜை
-22:44:49          9.   0.4 [sports_culture -0.20 pattern] (earlier) விளையாட்டு அலுவலர் திருப்பூருக்கு மாற்றம்
-22:44:49 decided: automatic: top 4 of 9 by insights -> 4 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motor-cable-theft-3-people-arrested-recovery-of-goods/4378105 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delay-in-water-supply-alleged-by-cpi-m/4378102 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vegetable-prices-fluctuate-due-to-low-rainfall/4377999 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/crane-mole-govt-school-student-dies-after-being-hit-by-two-wheeler/4378104
-22:49:34 4 listed news now in the Sheet
-22:49:44 instagram duplicate check tirupur: 50 recent posts read
-22:49:44 verify 2026-11-16_22: 0 of 4 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-22:49:44    SKIPPED Caecbf93: skipped RN-67: held: location is only the district - the town from the article is missing - மழைப்பொழிவு குறைந்தது காய்கறி விலையில் மாற்றம்
-22:49:44    SKIPPED Cbbb00d3: skipped RN-68: held: fact-check problems - fact-check: reel_script says the 3 arrested men were 'கேபிள் திருடிய' and says Ramalingam 'வாங்கியுள்ளார்' — consiste - மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் மீட்பு
-22:49:44    NOT POSTED Cda71c24: queued RN-65 (Queued) - குடிநீர் சப்ளை தாமதம் மா.கம்யூ., குற்றச்சாட்டு
-22:49:44    NOT POSTED Ce253495: queued RN-66 (Queued) - டூவீலர் மீது கிரேன் மோல் அரசு பள்ளி மாணவன் பலி
-22:54:54 instagram duplicate check tirupur: 50 recent posts read
-22:54:54 verify 2026-11-16_22: 0 of 4 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-22:54:54    SKIPPED Caecbf93: skipped RN-67: held: location is only the district - the town from the article is missing - மழைப்பொழிவு குறைந்தது காய்கறி விலையில் மாற்றம்
-22:54:54    SKIPPED Cbbb00d3: skipped RN-68: held: fact-check problems - fact-check: reel_script says the 3 arrested men were 'கேபிள் திருடிய' and says Ramalingam 'வாங்கியுள்ளார்' — consiste - மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் மீட்பு
-22:54:54    NOT POSTED Cda71c24: queued RN-65 (Queued) - குடிநீர் சப்ளை தாமதம் மா.கம்யூ., குற்றச்சாட்டு
-22:54:54    NOT POSTED Ce253495: queued RN-66 (Queued) - டூவீலர் மீது கிரேன் மோல் அரசு பள்ளி மாணவன் பலி
-23:00:03 instagram duplicate check tirupur: 50 recent posts read
-23:00:03 verify 2026-11-16_22: 0 of 4 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-23:00:03    SKIPPED Caecbf93: skipped RN-67: held: location is only the district - the town from the article is missing - மழைப்பொழிவு குறைந்தது காய்கறி விலையில் மாற்றம்
-23:00:03    SKIPPED Cbbb00d3: skipped RN-68: held: fact-check problems - fact-check: reel_script says the 3 arrested men were 'கேபிள் திருடிய' and says Ramalingam 'வாங்கியுள்ளார்' — consiste - மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் மீட்பு
-23:00:03    NOT POSTED Cda71c24: queued RN-65 (Queued) - குடிநீர் சப்ளை தாமதம் மா.கம்யூ., குற்றச்சாட்டு
-23:00:03    NOT POSTED Ce253495: queued RN-66 (Queued) - டூவீலர் மீது கிரேன் மோல் அரசு பள்ளி மாணவன் பலி
-23:05:13 verify 2026-11-16_22: 2 of 4 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-23:05:13    SKIPPED Caecbf93: skipped RN-67: held: location is only the district - the town from the article is missing - மழைப்பொழிவு குறைந்தது காய்கறி விலையில் மாற்றம்
-23:05:13    SKIPPED Cbbb00d3: skipped RN-68: held: fact-check problems - fact-check: reel_script says the 3 arrested men were 'கேபிள் திருடிய' and says Ramalingam 'வாங்கியுள்ளார்' — consiste - மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் மீட்பு
+08:02:53 round 2026-11-17_08: news published 16 Nov 22:42 -> 17 Nov 08:02 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Tirupur)
+08:02:53 insights 2026-11-17T08:02+05:30 (57 reels): topic weights {'politics': 0.0, 'accident': 1.13, 'crime': 1.5, 'education': -0.5, 'power_cut': 0.07, 'temple': -0.5, 'civic': -0.26, 'poultry_agri': -0.5}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 மங்கலம் அருகே கிரேன் மோதிய அரசுப் பள்ளி மாணவன் பலி']
+08:05:17 50 links on the two papers' Tirupur pages
+08:05:56 skipped: not Tirupur district=24, published before this window=3, already posted=3, feature / tips / recipe, not a Tirupur event=1
+08:05:56 list: 6 new + 6 earlier news not posted yet
+08:05:56    1. [மின்தடை] நாளைய மின்தடை: இந்திரா நகா் (தினமணி)
+08:05:56    2. [குற்றம்] குண்டடம் பகுதியில் மின்மோட்டாா் கேபிள் வயா்களை திருடிய 3 போ் கைது (தினமணி)
+08:05:56    3. [குற்றம்] வெள்ளகோவில் அருகே குடும்பப் பிரச்னையால் வடமாநிலத் தொழிலாளி தற்கொலை (தினமணி)
+08:05:56    4. [விபத்து] சிமென்ட் சீட் பொருத்தும்போது தவறி விழுந்து தொழிலாளி உயிரிழப்பு (தினமணி)
+08:05:56    5. [குற்றம்] 950 கிராம் கஞ்சா பறிமுதல் (தினமலர்)
+08:05:56    6. [பொது] திருப்பரங்குன்றம் தீபத் தூணில் தீபம் ஏற்றக் கோரி மனு (தினமணி)
+08:05:56    7. [பொது] பயிர் காப்பீட்டு திட்டம் பதிவு செய்வதில் தளர்வு (தினமலர்) (earlier)
+08:05:56    8. [கல்வி] கிட்ஸ் கிளப் பள்ளியில் விளையாட்டு தின விழா (தினமலர்) (earlier)
+08:05:56    9. [கல்வி] ஏ.வி.பி. டிரஸ்ட் பள்ளியில் குழந்தைகள் தின விழா (தினமலர்) (earlier)
+08:05:56   10. [பொது] கந்த சஷ்டி திருக்கல்யாணம் காண பக்தர்கள் தவிப்பு! முறையான முன்னேற்பாடு  (தினமலர்) (earlier)
+08:05:56   11. [பொது] நாளை கோபாஷ்டமி விழா 1,208 இடத்தில் கோ பூஜை (தினமலர்) (earlier)
+08:05:56   12. [பொது] நாட்டுக்கோழி வளர்ப்பு பயிற்சி (தினமலர்) (earlier)
+08:05:56 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-17_08
