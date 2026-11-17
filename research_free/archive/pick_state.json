@@ -23,7 +23,8 @@
    "category": "மின்தடை",
    "score": 11.69,
    "power_cut": true,
-   "listed_at": "2026-11-17T22:28:31.451108+05:30"
+   "listed_at": "2026-11-17T22:28:31.451108+05:30",
+   "picked_at": "2026-11-17T22:31:50.459549+05:30"
   },
   "Cd96a0b2": {
    "id": "Cd96a0b2",
@@ -35,7 +36,8 @@
    "category": "விபத்து",
    "score": 11.1,
    "power_cut": false,
-   "listed_at": "2026-11-17T22:28:31.451108+05:30"
+   "listed_at": "2026-11-17T22:28:31.451108+05:30",
+   "picked_at": "2026-11-17T22:31:50.459552+05:30"
   },
   "C58369e7": {
    "id": "C58369e7",
@@ -47,7 +49,8 @@
    "category": "பொது",
    "score": 11.0,
    "power_cut": false,
-   "listed_at": "2026-11-17T22:28:31.451108+05:30"
+   "listed_at": "2026-11-17T22:28:31.451108+05:30",
+   "picked_at": "2026-11-17T22:31:50.459554+05:30"
   },
   "Cad3b10f": {
    "id": "Cad3b10f",
@@ -62,7 +65,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/baby-s-body-found-in-garbage-dumpster-in-tiruppur/4379042"
    ],
-   "listed_at": "2026-11-17T22:28:31.451108+05:30"
+   "listed_at": "2026-11-17T22:28:31.451108+05:30",
+   "picked_at": "2026-11-17T22:31:50.459557+05:30"
   },
   "Ce039864": {
    "id": "Ce039864",
@@ -74,7 +78,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-17T22:28:31.451108+05:30"
+   "listed_at": "2026-11-17T22:28:31.451108+05:30",
+   "picked_at": "2026-11-17T22:31:50.459560+05:30"
   },
   "C7a2b899": {
    "id": "C7a2b899",
@@ -946,8 +951,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-17T23:28:31.451108+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 4 of 21 by insights + 1 power cut",
+    "ids": [
+     "Cdae27a3",
+     "Cd96a0b2",
+     "C58369e7",
+     "Cad3b10f",
+     "Ce039864"
+    ],
+    "at": "2026-11-17T22:31:50.459535+05:30"
+   },
+   "written": [
+    "C58369e7",
+    "Cad3b10f",
+    "Cd96a0b2",
+    "Cdae27a3",
+    "Ce039864"
+   ]
   }
  },
  "retry": {}
