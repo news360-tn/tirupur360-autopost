@@ -35,7 +35,8 @@
    "category": "பொது",
    "score": 2.5,
    "power_cut": false,
-   "listed_at": "2026-11-16T22:42:29.170458+05:30"
+   "listed_at": "2026-11-16T22:42:29.170458+05:30",
+   "picked_at": "2026-11-17T10:42:12.507343+05:30"
   },
   "Ce964486": {
    "id": "Ce964486",
@@ -743,8 +744,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-17T11:40:19.493966+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 1 by insights",
+    "ids": [
+     "C62b7955"
+    ],
+    "at": "2026-11-17T10:42:12.507319+05:30"
+   },
+   "written": [
+    "C62b7955"
+   ]
   }
  },
  "retry": {}
