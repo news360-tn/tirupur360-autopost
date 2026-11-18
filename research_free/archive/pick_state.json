@@ -11,7 +11,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-18T22:06:54.317562+05:30"
+   "listed_at": "2026-11-18T22:06:54.317562+05:30",
+   "picked_at": "2026-11-19T02:29:47.113379+05:30"
   },
   "C6a09cab": {
    "id": "C6a09cab",
@@ -179,7 +180,8 @@
    "category": "விபத்து",
    "score": 11.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T02:28:36.080604+05:30"
+   "listed_at": "2026-11-19T02:28:36.080604+05:30",
+   "picked_at": "2026-11-19T02:29:47.113376+05:30"
   },
   "Cc818973": {
    "id": "Cc818973",
@@ -998,8 +1000,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-19T03:28:36.080604+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 2 of 16 by insights",
+    "ids": [
+     "Cb0f98c1",
+     "Cedff2c4"
+    ],
+    "at": "2026-11-19T02:29:47.113368+05:30"
+   },
+   "written": [
+    "Cb0f98c1",
+    "Cedff2c4"
+   ]
   }
  },
  "retry": {}
