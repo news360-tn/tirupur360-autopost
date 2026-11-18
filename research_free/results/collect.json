@@ -3,87 +3,121 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/welcome-to-the-change-in-power-outage-time-industry-is-a-little-relieved/4378843",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/fire-breaks-out-at-fire-station-in-khas-khudon/4379037",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-fail-to-control-heavy-vehicles/4378842",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/baby-s-body-found-in-garbage-dumpster-in-tiruppur/4379042",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/take-security-measures/4379036",
-  "candidate filter: collected=5",
-  "to write: 5 Tirupur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/17/கைப்பேசியை-திருடிய-இளைஞருக்கு-ஓராண்டு-சிறை",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/woman-pushed-into-canal-killed-police/4379221",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/17/alarm-functioning-at-jewellery-shops-should-be-checked-periodically-police-advise",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/kidnapper-of-chennai-girl-tiruppur-near-rounded-up/4379234",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/time-frame-required-for-dispatch-of-ration/4379212",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sewage-treatment-plant-board-chairman-conducts-surprise-inspection/4379214",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/hose-valve-in-the-middle-a-danger-to-people/4378989",
+  "candidate filter: collected=7",
+  "to write: 7 Tirupur district candidates (max 7 stories)",
+  "round: top 7 of 7 candidates",
+  "candidates waiting: 7 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/kidnapper-of-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/woman-pushed-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Tirupur district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
+  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 75 min",
+  "filed: 7 Tirupur district stories (target 7), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (4s)",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "not available on this plan: groq/qwen/qwen3.8-27b",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -95,38 +129,17 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -137,325 +150,445 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பல்லடம் நகரில் கனரக வாகனங்கள்: நேரக் கட்டுப்பாட்டை போலீசார் கடுமையாக அமல்படுத்த வேண்டும்",
-   "english_headline": "Heavy vehicles ignore time limits in Palladam town; traffic police urged to strictly enforce the restriction",
+   "tamil_headline": "திருப்பூர், வீரபாண்டி, காசிபாளையம் கழிவுநீர் சுத்திகரிப்பு நிலையங்களில் வாரியத் தலைவர் திடீர் ஆய்வு",
+   "english_headline": "Pollution Control Board chairman makes surprise inspection of sewage treatment plants at Tirupur, Veerapandi and Kasipalayam",
+   "category": "Civic Issues",
+   "location": "Tirupur, Veerapandi and Kasipalayam, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கழிவுநீர் ஆய்வு",
+    "loc": "திருப்பூர்",
+    "hl1": "கழிவுநீர் நிலையங்களில் திடீர் ஆய்வு",
+    "hl2": "வாரியத் தலைவர் பாராட்டு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மாசு கட்டுப்பாடு வாரியத் தலைவர் <b>திடீர் ஆய்வு</b> செய்தார்",
+       "திருப்பூர், வீரபாண்டி, காசிபாளையம் கழிவுநீர் சுத்திகரிப்பு",
+       "ஆய்வு நேற்று நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "பாராட்டு",
+      "lines": [
+       "சுத்திகரிப்பு நிலையச் செயல்பாடுகள் குறித்து கேட்டறிந்தார்",
+       "பணிகளுக்காக வாரியத் தலைவர் பாராட்டு தெரிவித்தார்"
+      ]
+     },
+     {
+      "title": "யார் பங்கேற்றனர்?",
+      "lines": [
+       "கோவை மாவட்ட மாசு கட்டுப்பாடு வாரியத் தலைவர்",
+       "சுற்றுச்சூழல் பொறியாளர் உட்பட பலர்",
+       "திருப்பூர் வடக்கு, தெற்கு வாரிய அதிகாரிகள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் கழிவுநீர் சுத்திகரிப்பு நிலையங்களில் வாரியத் தலைவர் திடீர் ஆய்வு செய்தார். தமிழ்நாடு மாசு கட்டுப்பாடு வாரியத் தலைவர் அனுராக் மிஷ்ரா நேற்று இந்த ஆய்வை மேற்கொண்டார். திருப்பூர், வீரபாண்டி மற்றும் காசிபாளையத்தில் இயங்கும் பொது கழிவுநீர் சுத்திகரிப்பு நிலையங்கள் ஆய்வுக்கு உட்படுத்தப்பட்டன. சுத்திகரிப்பு நிலையச் செயல்பாடுகள் குறித்து அவர் கேட்டறிந்தார். பணிகளுக்காக அவர் பாராட்டு தெரிவித்தார். இந்த ஆய்வின்போது கோவை மாவட்ட மாசு கட்டுப்பாடு வாரியத் தலைவர் பங்கேற்றார். சுற்றுச்சூழல் பொறியாளர், திருப்பூர் வடக்கு மற்றும் தெற்கு மாசு கட்டுப்பாடு வாரிய அதிகாரிகள் உட்பட பலரும் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏭 திருப்பூரில் கழிவுநீர் சுத்திகரிப்பு நிலையங்களில் வாரியத் தலைவர் திடீர் ஆய்வு\n\n📰 முழு விவரம்:\nதமிழ்நாடு மாசு கட்டுப்பாடு வாரியத் தலைவர் அனுராக் மிஷ்ரா, திருப்பூர், வீரபாண்டி மற்றும் காசிபாளையத்தில் இயங்கும் பொது கழிவுநீர் சுத்திகரிப்பு நிலையங்களில் நேற்று திடீர் ஆய்வு மேற்கொண்டார்.\nசுத்திகரிப்பு நிலையச் செயல்பாடுகள் குறித்து கேட்டறிந்த அவர், பாராட்டு தெரிவித்தார்.\nஆய்வின்போது கோவை மாவட்ட மாசு கட்டுப்பாடு வாரியத் தலைவர், சுற்றுச்சூழல் பொறியாளர், திருப்பூர் வடக்கு மற்றும் தெற்கு மாசு கட்டுப்பாடு வாரிய அதிகாரிகள் உட்பட பலர் பங்கேற்றனர்.\n\n📍 இடம்: திருப்பூர், வீரபாண்டி, காசிபாளையம்\n🗓️ நாள்: நேற்று (நவம்பர் 17, 2026)\n👥 பங்கேற்றோர்: கோவை மாவட்ட மாசு கட்டுப்பாடு வாரியத் தலைவர், சுற்றுச்சூழல் பொறியாளர், திருப்பூர் வடக்கு, தெற்கு அதிகாரிகள் உட்பட பலர்\n\nTirupur sewage treatment plants inspected by Pollution Control Board chairman | Tirupur news\n📍 திருப்பூர், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A group of pollution control officials in shirts and trousers walks along the concrete walkway of a sewage treatment plant in Tirupur, inspecting the large open settling tanks where grey sewage water is being treated. The setting is a flat, fenced government facility on the outskirts of Tirupur city, with a few low sheds, metal railings, and distant factory rooftops and coconut trees visible beyond the boundary. Several men in formal shirts and trousers, one in a pale khaki-style uniform, are seen from behind or far away, some pointing toward the tanks as if discussing the process. Officials' official cars are parked at the edge of the compound. It is bright daylight with clear sky, the concrete reflecting sunlight. Camera at eye level, 35 mm, wide enough to show the full tank layout and the group of inspecting officials. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a concrete inspection channel at a sewage treatment plant in Tirupur, where treated water flows through a shallow outlet with a metal grating and a steel pipe running alongside. The water is slightly cloudy but clearer than the sewage in the tanks, showing the treatment stage that officials were checking. Dry concrete edges, a painted metal railing, and a few small weeds at the base of the wall give the scene a practical, maintenance-focused look. A pair of polished leather shoes of an inspecting officer stands at the edge of the walkway, seen from above, showing the visit without showing any face. Daylight, slightly overcast brightness, 50 mm close focus with a shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sewage-treatment-plant-board-chairman-conducts-surprise-inspection/4379214",
+   "published": "2026-11-17T23:12:29+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966562/tirupur360/zqtl20nir2ivaccaqaaw.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966604/tirupur360/orxgnttis29qkc0nngra.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ரேஷன் கடைகளுக்கு பொருள் அனுப்ப நேர வரைமுறை வேண்டும்: கூட்டுறவு பணியாளர் சங்கம் மனு",
+   "english_headline": "Tirupur cooperative staff union petitions collector for time limit on ration goods dispatch to shops",
+   "category": "Government & Services",
+   "location": "Tirupur district (ration shops across the district)",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ரேஷன் கடை",
+    "loc": "திருப்பூர் மாவட்டம்",
+    "hl1": "ரேஷன் பொருள் நேரம் தவறி அனுப்பப்படுகிறது",
+    "hl2": "மாலை 6 மணிக்கு மேல் அனுப்பல்",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சினை?",
+      "lines": [
+       "ரேஷன் கடைகளுக்கு பொருட்கள் சரியான நேரத்தில்",
+       "விடுமுறை மற்றும் வேலை நாட்களில் <b>மாலை 6 மணிக்கு</b> மேல்",
+       "இதனால் விற்பனையாளர்கள் மிகுந்த சிரமத்தில் உள்ளனர்"
+      ]
+     },
+     {
+      "title": "ஊழியர்களின் நிலை",
+      "lines": [
+       "ரேஷன் ஊழியர்கள் வெவ்வேறு பகுதிகளிலிருந்து பணிக்கு வந்து",
+       "பொருட்களை இறக்கி வைக்க வேண்டியிருப்பதால் வீடு திரும்ப"
+      ]
+     },
+     {
+      "title": "மனுவில் கோரிக்கை",
+      "lines": [
+       "பணி நேரம் தவிர்த்து மற்ற நேரங்களில் பொருட்கள் அனுப்புவதை",
+       "திருப்பூர் மாவட்ட கூட்டுறவு பணியாளர் சங்கத் தலைவர் கௌதமன்",
+       "கலெக்டர், கூட்டுறவு இணை பதிவாளரிடம் மனு வழங்கப்பட்டுள்ளது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ரேஷன் கடைகளுக்கு மாலை 6 மணிக்கு மேல் பொருட்கள் அனுப்பப்படுவதால் விற்பனையாளர்கள் சிரமப்படுகின்றனர். திருப்பூர் மாவட்டத்திலுள்ள ரேஷன் கடைகளுக்கு உணவுப் பொருட்கள் சரியான நேரத்தில் அனுப்பப்படுவதில்லை. விடுமுறை நாட்கள் மற்றும் ரேஷன் கடை வேலை நாட்களில் மாலை 6 மணிக்கு மேல் பொருட்கள் அனுப்பப்படுகின்றன. இதனால் விற்பனையாளர்கள் மிகவும் சிரமப்படுகின்றனர். வெவ்வேறு பகுதிகளிலிருந்து பணிக்கு வந்து செல்லும் ரேஷன் ஊழியர்களுக்கு, பொருட்களை இறக்கி வைக்க வேண்டியிருப்பதால் வீடு திரும்ப தாமதம் ஏற்படுகிறது. இந்த நிலையை மாற்ற, பணி நேரம் தவிர்த்து மற்ற நேரங்களில் பொருட்கள் அனுப்புவதைத் தவிர்க்க வேண்டும் என்று திருப்பூர் மாவட்ட கூட்டுறவு பணியாளர் சங்கத் தலைவர் கௌதமன் மனு அளித்துள்ளார். இந்த மனு கலெக்டர் மற்றும் கூட்டுறவு சங்கங்களின் இணைப் பதிவாளரிடம் வழங்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛒 ரேஷன் பொருள் மாலை 6 மணிக்கு மேல் அனுப்பல்: நேர வரைமுறை கோரி மனு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டத்திலுள்ள ரேஷன் கடைகளுக்கு உணவுப் பொருட்கள் சரியான நேரத்தில் அனுப்பப்படுவதில்லை என திருப்பூர் மாவட்ட கூட்டுறவு பணியாளர் சங்கம் (சி.ஐ.டி.யு.) குற்றம் சாட்டியுள்ளது. விடுமுறை நாட்கள் மற்றும் ரேஷன் கடை வேலை நாட்களில் மாலை 6 மணிக்கு மேல் பொருட்கள் அனுப்பப்படுவதால் விற்பனையாளர்கள் மிகவும் சிரமப்படுகின்றனர்.\nவெவ்வேறு பகுதிகளிலிருந்து பணிக்கு வந்து செல்லும் ரேஷன் ஊழியர்கள், பொருட்களை இறக்கி வைக்க வேண்டியிருப்பதால் இரவு நேரத்தில் வீடு திரும்ப தாமதம் ஏற்படுவதாகத் தெரிவித்துள்ளனர்.\nஇதற்குத் தீர்வாக, பணி நேரம் தவிர்த்து மற்ற நேரங்களில் ரேஷன் பொருட்கள் அனுப்புவதைத் தவிர்க்க வேண்டும் என்று சங்கத் தலைவர் கௌதமன் மனு அளித்துள்ளார். இந்த மனு கலெக்டர் மற்றும் கூட்டுறவு சங்கங்களின் இணைப் பதிவாளரிடம் வழங்கப்பட்டுள்ளது.\n\nTirupur ration shop goods dispatch time limit petition | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A row of ration shop staff in shirts and sarees stands in front of a cooperative godown in Tirupur district as a lorry loaded with rice and sugar sacks is being unloaded in the late evening. The place is a cooperative distribution point with a shuttered warehouse, a concrete floor and a few bicycles and two-wheelers parked at the side, typical of the Tirupur town outskirts. Two workers lift gunny sacks from the lorry bed while others stand by, seen from behind or at a distance, faces not visible. Several bags of ration goods are stacked on a pallet, and a small group of people is waiting to load a second vehicle. The time is dusk, around 6 pm, with the sky turning orange and the first street lights just coming on, and the light is soft and warm. Camera at eye level, 35 mm, wide enough to show the godown, the lorry and the stacked sacks in the foreground. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of gunny sacks of rice and sugar stacked on a wooden pallet inside a cooperative godown in Tirupur district, with a few loose packets of dal and a pile of ration bags beside them. The sacks are slightly rough and dusty, with a bare concrete floor and the corner of a steel shutter visible in the background. A pair of worn hands, seen only partly from behind and slightly blurred, rests on the top sack as if just unloaded. The light is dim evening light from a single bulb, with a warm yellow tone mixed with the fading daylight outside. Camera slightly high, 35 mm macro-like close framing, shallow depth of field so the goods are sharp and the background is soft. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/time-frame-required-for-dispatch-of-ration/4379212",
+   "published": "2026-11-17T23:12:24+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966610/tirupur360/tjyh9ewptzxonqctjkal.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966619/tirupur360/p0mb9eymltv6bkenzl2w.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பல்லடம் மாணிக்காபுரம் ரோட்டில் நடுரோட்டில் குடிநீர் குழாய் வால்வு: விபத்து ஆபத்து",
+   "english_headline": "Water pipe valves in the middle of Manikapuram road near Palladam pose accident risk at night; highway and municipal officials asked to relocate them",
    "category": "Roads & Transport",
+   "location": "Manikapuram Road, Palladam, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை ஆபத்து",
+    "loc": "பல்லடம்",
+    "hl1": "பல்லடம் ரோட்டில் நடுரோட்டில் குழாய்",
+    "hl2": "இரவில் விபத்து அபாயம்",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "பல்லடம் – மாணிக்காபுரம் ரோடு",
+       "தேசிய நெடுஞ்சாலையுடன் சந்திக்கும் சிக்னல் பகுதி",
+       "நெடுஞ்சாலைத் துறை கட்டுப்பாட்டில் உள்ள ரோடு"
+      ]
+     },
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "நடுரோட்டில் <b>2 குடிநீர் குழாய் வால்வுகள்</b> அடுத்தடுத்து",
+       "ரோடு ஏற்கனவே குறுகலாக உள்ளது",
+       "வாகனங்கள் குழாயில் மோதும் நிலை"
+      ]
+     },
+     {
+      "title": "ஏன் ஆபத்து?",
+      "lines": [
+       "இரவு நேரங்களில் கவனக்குறைவாக வரும் வாகன ஓட்டிகளுக்கு ஆபத்து",
+       "மாணிக்காபுரம், பூமலூர், வேலம்பாளையம், சோமனூர்",
+       "சாமளாபுரம், அய்யன்கோவில் கிராமங்களையும் இணைக்கும் வழித்தடம்"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "வால்வுகளை மாற்றி அமைக்க வேண்டும்",
+       "நெடுஞ்சாலைத் துறை, நகராட்சி நிர்வாகம் நடவடிக்கை எடுக்க"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பல்லடம் மாணிக்காபுரம் ரோட்டில் நடுரோட்டில் குடிநீர் குழாய் வால்வுகள் அமைக்கப்பட்டுள்ளதால் விபத்து அபாயம் உள்ளது. தேசிய நெடுஞ்சாலையுடன் மாணிக்காபுரம் ரோடு சந்திக்கும் சிக்னல் பகுதியில் இரண்டு குடிநீர் குழாய் வால்வுகள் அடுத்தடுத்து ரோட்டில் அமைக்கப்பட்டுள்ளன. இந்த ரோடு நெடுஞ்சாலைத் துறை கட்டுப்பாட்டில் உள்ளது. இரவு நேரங்களில் கவனக்குறைவுடன் வரும் வாகன ஓட்டிகள் குழாயில் மோதி விபத்துக்குள்ளாகும் வாய்ப்பு உள்ளது. இந்த ரோடு ஏற்கனவே குறுகலாக உள்ளது. இதுபோன்ற இடையூறுகள் வாகன ஓட்டிகளுக்கு மேலும் அச்சுறுத்தலாக உள்ளன. இந்த ரோடு பல்லடம், மாணிக்காபுரம், பூமலூர், அய்யன்கோவில், வேலம்பாளையம், சோமனூர், சாமளாபுரம் உள்ளிட்ட கிராமங்களை இணைக்கும் முக்கிய வழித்தடமாக உள்ளது. எனவே ரோட்டில் அமைக்கப்பட்டுள்ள குடிநீர் குழாய் வால்வுகளை மாற்றி அமைக்க நெடுஞ்சாலைத் துறை மற்றும் நகராட்சி நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என்று கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பல்லடம் மாணிக்காபுரம் ரோட்டில் நடுரோட்டில் குழாய் வால்வு: இரவில் விபத்து அபாயம்\n\n📰 முழு விவரம்:\nபல்லடம் – மாணிக்காபுரம் ரோட்டில் நடுரோட்டில் குடிநீர் குழாய் வால்வுகள் அமைக்கப்பட்டுள்ளன.\nதேசிய நெடுஞ்சாலையுடன் மாணிக்காபுரம் ரோடு சந்திக்கும் சிக்னல் பகுதியில் இரண்டு வால்வுகள் அடுத்தடுத்து உள்ளன.\nஇரவு நேரங்களில் கவனக்குறைவாக வரும் வாகன ஓட்டிகள் குழாயில் மோதி விபத்துக்குள்ளாகும் வாய்ப்பு உள்ளது. ரோடு ஏற்கனவே குறுகலாக உள்ளதால் ஆபத்து அதிகம்.\nமாணிக்காபுரம், பூமலூர், அய்யன்கோவில், வேலம்பாளையம், சோமனூர், சாமளாபுரம் உள்ளிட்ட கிராமங்களை இணைக்கும் முக்கிய வழித்தடம் இது.\nவால்வுகளை மாற்றி அமைக்க நெடுஞ்சாலைத் துறை மற்றும் நகராட்சி நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என்று கோரிக்கை எழுந்துள்ளது.\n\nPalladam Manikapuram road water valves in middle of road, night accident risk | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #சாலை #TirupurNews",
+   "prompts": "At dusk, a two-wheeler rider slows down near a traffic signal on a narrow road in Palladam, Tirupur district, as he approaches two drinking-water pipe valve covers built right in the middle of the carriageway. The road is a narrow village link road that meets the national highway at a signal junction, lined with shops, low concrete compound walls, coconut trees and a few electric poles at the edge. Beyond the bend, one auto-rickshaw and a private car wait at the signal, seen from behind and far away, and a few pedestrians in shirts and trousers walk on the footpath. The two metal valve covers sit one after another on the tarmac, clearly raised above the surface, and the rider swerves around them. Dusk light with the sky still faintly lit and the first street lamps glowing, dim headlights on the vehicles. Camera at eye level or slightly high, 35 mm lens, wide enough to show the junction, the narrow road and the signal. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of two metal water pipe valve covers set into the middle of a narrow tarmac road at night, placed one right after the other. Their raised rims catch the light of a passing two-wheeler's headlamp, and the worn, slightly cracked black road surface around them shows tyre marks. The edge of a concrete kerb and the base of a roadside electric pole are visible at the frame's edge, with a dim street lamp above. Blurred tail-lights of a car far behind suggest the danger for a driver coming fast in the dark. No people in focus; the scene shows only the valves and the narrow road. Night time, low light with headlight glare, camera low and close, 35 mm lens, shallow depth so the valves are sharp and the background softly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/hose-valve-in-the-middle-a-danger-to-people/4378989",
+   "published": "2026-11-17T20:22:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script says the valves are located on Palladam-Manikapuram road, which matches, but the caption and reel_script describe the 'இரண்டு வால்வுகள்' as being at the signal junction; the article says two valves are placed one after another at the signal area, so this is consistent. However, the reel_script and slides say the road 'connects Palladam, Manikapuram, Poomalur, Ayyankovil, Velampalayam, Somanur, Samalapuram' and the caption lists these as villages, while the article lists Palladam within the route rather than as a village being connected, which is a minor mismatch.; fact-check: The reel_script states that the request was raised ('கோரிக்கை எழுந்துள்ளது') and the caption adds the English line 'night accident risk' which is not a claim in the article, but the English line is part of the caption footer and is not a Tamil claim, so it is not counted.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966630/tirupur360/j2ec267bvshj8xgipdaq.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966632/tirupur360/fssknadlvzuitqdgc6hk.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னையில் 12 வயது சிறுமியை காருடன் கடத்தியவர் பல்லடத்தில் கைது",
+   "english_headline": "Man who kidnapped 12-year-old girl with car in Chennai outskirts arrested near Palladam, Tirupur district",
+   "category": "Crime & Safety",
    "location": "Palladam town, Tirupur district",
    "importance": "High",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போக்குவரத்து",
+    "cat": "கைது செய்தி",
     "loc": "பல்லடம்",
-    "hl1": "பல்லடத்தில் கனரக வாகனங்கள்",
-    "hl2": "நேரக் கட்டுப்பாடு",
-    "slides": [
-     {
-      "title": "என்ன நடக்கிறது?",
-      "lines": [
-       "கோவை – திருச்சி தேசிய நெடுஞ்சாலை பல்லடம் நகர்",
-       "கனரக வாகனங்கள் அதிகம் வந்து செல்கின்றன",
-       "நகருக்குள் போக்குவரத்து நெரிசல் ஏற்படுகிறது"
-      ]
-     },
-     {
-      "title": "நேரக் கட்டுப்பாடு",
-      "lines": [
-       "காலை <b>7 மணி</b> முதல் மதியம் <b>12 மணி</b> வரை",
-       "மாலை <b>4 மணி</b> முதல் இரவு <b>8 மணி</b> வரை",
-       "இந்த நேரத்தில் நகருக்குள் அனுமதி கிடையாது"
-      ]
-     },
-     {
-      "title": "ஏன் பிரச்சினை?",
-      "lines": [
-       "பெரும்பாலான வாகனங்கள் கட்டுப்பாட்டைப் பின்பற்றுவதில்லை",
-       "மாநில நெடுஞ்சாலைகளிலிருந்தும் வாகனங்கள் வருகின்றன",
-       "விபத்து அபாயமும் அதிகரித்து வருகிறது"
-      ]
-     },
-     {
-      "title": "போலீசாருக்கு",
-      "lines": [
-       "போக்குவரத்து போலீசார் கண்காணிக்க வேண்டும்",
-       "நேரக் கட்டுப்பாட்டை கடுமையாக அமல்படுத்த வேண்டும்",
-       "நெரிசல், விபத்தைத் தடுக்க நடவடிக்கை தேவை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பல்லடம் நகருக்குள் கனரக வாகனங்கள் நேரக் கட்டுப்பாட்டை மீறி வருகின்றன. கோவை – திருச்சி தேசிய நெடுஞ்சாலை பல்லடம் நகர் வழியாகச் செல்கிறது. கேரளாவை இணைக்கும் இந்த சாலையில் கன்டெய்னர் லாரிகள், சரக்கு வாகனங்கள் அதிக அளவில் செல்கின்றன. நகருக்குள் ஏற்படும் கட்டுக்கடங்காத போக்குவரத்து நெரிசலைக் கருத்தில் கொண்டு, காலை 7 மணி முதல் மதியம் 12 மணி வரையும், மாலை 4 மணி முதல் இரவு 8 மணி வரையும் கனரக வாகனங்களுக்கு நேரக் கட்டுப்பாடு உள்ளது. இந்த நேரத்தில் கனரக வாகனங்கள் நகருக்குள் நுழையக் கூடாது. ஆனால் பெரும்பாலான வாகனங்கள் இந்தக் கட்டுப்பாட்டைப் பின்பற்றுவதில்லை. தேசிய நெடுஞ்சாலை உட்பட அனைத்து மாநில நெடுஞ்சாலைகளிலிருந்தும் கனரக வாகனங்கள் கட்டுப்பாடின்றி வந்து செல்கின்றன. இதனால் நகரில் தேவையற்ற நெரிசலும் விபத்து அபாயமும் ஏற்பட்டு வருகின்றன. இதைக் கண்காணித்து நடவடிக்கை எடுக்க வேண்டிய போக்குவரத்து போலீசார் கண்டுகொள்ளாமல் உள்ளனர். நேரக் கட்டுப்பாட்டைக் கடுமையாக அமல்படுத்த போலீசார் நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚛 பல்லடத்தில் கனரக வாகனங்கள் நேரக் கட்டுப்பாட்டை மீறுகின்றன\n\n📰 முழு விவரம்:\nபல்லடம் நகர் வழியாகச் செல்லும் கோவை – திருச்சி தேசிய நெடுஞ்சாலையில் கன்டெய்னர் லாரிகள், கனரக மற்றும் சரக்கு வாகனங்கள் அதிக அளவில் செல்கின்றன. நகருக்குள் நெரிசலைக் குறைக்க காலை 7 மணி முதல் மதியம் 12 மணி வரையும், மாலை 4 மணி முதல் இரவு 8 மணி வரையும் கனரக வாகனங்களுக்கு நேரக் கட்டுப்பாடு உள்ளது. அந்த நேரத்தில் நகருக்குள் அனுமதி கிடையாது. ஆனால் பெரும்பாலான வாகனங்கள் இதைப் பின்பற்றுவதில்லை. தேசிய நெடுஞ்சாலை உட்பட மாநில நெடுஞ்சாலைகளிலிருந்தும் கனரக வாகனங்கள் கட்டுப்பாடின்றி வந்து செல்கின்றன. இதனால் தேவையற்ற நெரிசலும் விபத்து அபாயமும் ஏற்படுகின்றன. இதைக் கண்காணிக்க வேண்டிய போக்குவரத்து போலீசார் நடவடிக்கை எடுக்கவில்லை. நேரக் கட்டுப்பாட்டைக் கடுமையாக அமல்படுத்த போலீசார் நடவடிக்கை எடுக்க வேண்டும்.\n\n📍 இடம்: பல்லடம் நகர், திருப்பூர் மாவட்டம்\n🕘 கட்டுப்பாட்டு நேரம்: காலை 7–மதியம் 12, மாலை 4–இரவு 8\n\nPalladam heavy vehicle time restriction ignored | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A long container lorry and several heavy goods lorries crawl through the crowded centre of Palladam town on the Coimbatore-Trichy national highway, while two-wheelers, autorickshaws and a few cars are squeezed alongside them in the daytime traffic. The road runs past rows of small shops, shop fronts with shutters half open, and a few concrete electric poles along the edge. Several men in shirts and trousers walk along the footpath and a traffic policeman in khaki stands at the junction, visible from behind and far away. The lorries are large and dark with their cargo bodies towering above the smaller vehicles, and the road is packed bumper to bumper. The light is bright daylight with a hazy sky, and the camera is at eye level, shot wide at 35 mm to show the full street and the heavy vehicles in the town centre. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the rear of a heavy container lorry stuck in the narrow town road, its tailgate and bumper pressed close to a two-wheeler and an autorickshaw in the same lane. Behind them, the road surface shows faded white lane markings and a worn edge, and a corner of a roadside shop and a concrete pole is visible. A traffic policeman in khaki stands at the edge of the frame, seen from behind and blurred. The scene is in daylight, with a slightly hazy sky and no readable signboards. The camera is at a slightly high angle, 35 mm, to show the lorry crowding the smaller vehicles and the tight space of the town road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/police-fail-to-control-heavy-vehicles/4378842",
-   "published": "2026-11-17T19:17:06+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935014/tirupur360/qdgrnpwmbiwqii9ksyeu.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935017/tirupur360/b2ai9noclx068vbdme5b.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூரில் குப்பை மேட்டில் ஆண் சிசு உடல் மீட்பு: போலீசார் விசாரணை",
-   "english_headline": "Male newborn body found in garbage heap near Tirupur central bus stand; police investigating",
-   "category": "Crime & Safety",
-   "location": "Tirupur city, opposite Tirupur central bus stand, Tirupur district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றம்",
-    "loc": "திருப்பூர் மத்திய பஸ் ஸ்டாண்ட் எதிரே",
-    "hl1": "திருப்பூரில் குப்பையில் ஆண் சிசு சடலம்",
-    "hl2": "போலீசார் விசாரணை",
+    "hl1": "சிறுமியை கடத்தியவர் பல்லடத்தில் கைது",
+    "hl2": "சிறுமி சீர்காழியில் மீட்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "திருப்பூர் மத்திய பஸ் ஸ்டாண்ட் எதிரே குப்பை மேட்டில் ஆண்",
-       "இன்று (நவ. 17) மதியம் தூய்மை பணியாளர்கள் பார்த்தனர்",
-       "ஈக்கள் மொய்த்ததையும் நாய்கள் வலம் வருவதையும் கண்டு சந்தேகம்"
+       "கூடுவாஞ்சேரி அருகே காருடன் <b>12 வயது</b> சிறுமி கடத்தப்பட்டார்",
+       "சிறுமி சீர்காழியில் ஆட்டோ டிரைவர்களால் மீட்கப்பட்டார்",
+       "கடத்தியவர் பல்லடத்தில் கைது செய்யப்பட்டார்"
       ]
      },
      {
-      "title": "எப்படிக்",
+      "title": "எப்படி கடத்தல்?",
       "lines": [
-       "நூலகம் எதிரே கிடந்த பழைய மெத்தைக்குள் உடல் இருந்தது",
-       "பிறந்து சில மணி நேரமே ஆன குழந்தை, ரத்தக்கறையுடன் கிடந்தது",
-       "பிறந்து <b>2 நாட்களுக்குள்</b> இருக்கலாம்"
+       "உணவகம் முன் கார் இயங்கிக்கொண்டிருந்தபோது கடத்தல்",
+       "சிறுமி காரில் உறங்கியதால் ஏசி ஓடவேண்டும் என காரை",
+       "கடத்தியவர் டீ குடிக்க நிறுத்தியபோது சிறுமி தப்பினார்"
       ]
      },
      {
-      "title": "போலீசார் கூறுவது",
+      "title": "போலீஸ் விசாரணை",
       "lines": [
-       "வயிற்றுக்குக் கீழ் பகுதியை நாய், பெருச்சாளி கடித்துள்ளன",
-       "பாலினத்தை கண்டறிவதில் சிக்கல் ஏற்பட்டது",
-       "பிரேத பரிசோதனையில் தெரியவரும்; திருப்பூர் தெற்கு போலீசார்"
+       "கடத்தியவர் <b>ராஜ்மோகன், 47</b>, மனநலம் பாதிக்கப்பட்டவர்",
+       "நேற்று காலை கூடுவாஞ்சேரிக்கு அழைத்து வரப்பட்டார்",
+       "போலீசார் தொடர்ந்து விசாரித்து வருகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் மத்திய பஸ் ஸ்டாண்ட் எதிரே குப்பை மேட்டில் ஆண் சிசுவின் உடல் மீட்கப்பட்டுள்ளது. இன்று நவம்பர் 17ஆம் தேதி மதியம், அவ்வழியாகச் சென்ற தூய்மை பணியாளர்கள் இந்தக் குப்பையைப் பார்த்தனர். நூலகம் எதிரே கிடந்த குப்பையில் ஈக்கள் அதிகம் மொய்த்துக் கொண்டிருந்தன. நாய்கள் வலம் வருவதையும் அவர்கள் கண்டனர். சந்தேகம் அடைந்து அருகில் சென்று பார்த்தபோது, பழைய மெத்தைக்குள் குழந்தையின் உடல் இருந்தது. பிறந்து சில மணி நேரமே ஆன அந்தக் குழந்தையின் உடலில் ரத்தக்கறை இருந்தது. குழந்தை பிறந்து இரண்டு நாட்களுக்குள் இருக்கலாம். குழந்தையின் வயிற்றுக்குக் கீழ் பகுதியை நாய்களும் பெருச்சாளிகளும் கடித்துள்ளன. இதனால் குழந்தையின் பாலினத்தைக் கண்டறிவதில் சிக்கல் ஏற்பட்டது. குறை பிரசவத்தில் பிறந்து இறந்த குழந்தையை குப்பையில் வீசியிருக்கலாம் என போலீசார் கருதுகின்றனர். திருப்பூர் தெற்கு போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருப்பூர் மத்திய பஸ் ஸ்டாண்ட் எதிரே குப்பையில் ஆண் சிசு சடலம் மீட்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மத்திய பஸ் ஸ்டாண்ட் எதிரே குப்பை மேட்டில் ஆண் சிசுவின் உடல் கிடப்பது இன்று (நவ. 17) மதியம் தூய்மை பணியாளர்களால் கண்டறியப்பட்டது.\nநூலகம் எதிரே கிடந்த குப்பையில் ஈக்கள் மொய்த்ததையும் நாய்கள் வலம் வருவதையும் பார்த்து சந்தேகம் அடைந்த அவர்கள், அருகில் சென்றபோது பழைய மெத்தைக்குள் குழந்தையின் உடலைக் கண்டனர்.\nபிறந்து சில மணி நேரமே ஆன குழந்தையின் உடலில் ரத்தக்கறை இருந்தது; பிறந்து இரண்டு நாட்களுக்குள் இருக்கலாம்.\nவயிற்றுக்குக் கீழ் பகுதியை நாய்களும் பெருச்சாளிகளும் கடித்துள்ளதால் பாலினத்தைக் கண்டறிவதில் சிக்கல் ஏற்பட்டது.\nகுறை பிரசவத்தில் பிறந்து இறந்த குழந்தையை குப்பையில் வீசியிருக்கலாம் என போலீசார் கருதுகின்றனர்.\n📍 இடம்: திருப்பூர் மத்திய பஸ் ஸ்டாண்ட் எதிரே, தினசரி மார்க்கெட் வளாகம் அருகில்\n🗓️ நாள்: நவம்பர் 17, 2026 (செவ்வாய்க்கிழமை)\n🕘 நேரம்: மதியம்\n\nTirupur newborn body found in garbage | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "Tamil Nadu police in khaki stand beside a roadside garbage heap at the edge of a busy city street in Tirupur, near a bus stand where town buses and autorickshaws pass in the background. Sanitation workers in plain uniforms stand at a distance, seen from behind, while a few stray dogs roam around the heap and flies hover in the afternoon light. An old, worn mattress lies half-buried in the pile of waste, partly covered by a cloth. Shot at eye level, 35 mm lens, wide enough to show the library building, the market complex and the bus stand traffic, midday daylight. The mood is sombre and quiet, with no visible injuries and no close view of any body. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an old, stained mattress lying in a heap of household garbage on a Tirupur roadside, with flies circling and a stray dog sniffing at the edge of the frame. A corner of a faded cloth and a few plastic wrappers are visible in the pile, while the blurred outline of a police khaki sleeve enters from the side. The background is softly out of focus, showing a low municipal building wall and the blurred shapes of passing two-wheelers. Shot at slightly high angle, 35 mm, midday light, muted and sombre tones. No visible body, no blood in frame, no readable text. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/baby-s-body-found-in-garbage-dumpster-in-tiruppur/4379042",
-   "published": "2026-11-17T20:57:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: known issue meta_article: script talks about the article instead of the news ('விவரம் தெரியவரும்') - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935026/tirupur360/nqbdgc2qzj7xn34rwwsh.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935030/tirupur360/xitdnh0ddfejmyuwlvvx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பல்லடம் காரணம்பேட்டையில் விபத்து அபாயம்: பாதுகாப்பு நடவடிக்கை கோரி மக்கள் கலெக்டரிடம் மனு",
-   "english_headline": "Karanampettai residents petition collector seeking safety measures due to accident risk on national highway in Palladam",
-   "category": "Roads & Transport",
-   "location": "Karanampettai, Palladam, Tirupur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை பாதுகாப்பு",
-    "loc": "காரணம்பேட்டை, பல்லடம்",
-    "hl1": "காரணம்பேட்டையில் விபத்து அபாயம்",
-    "hl2": "பாதுகாப்பு கோரி மனு",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சினை?",
-      "lines": [
-       "காரணம்பேட்டையில் கோவை - திருச்சி தேசிய நெடுஞ்சாலை பகுதியில்",
-       "இரவு நேரங்களில் நெடுஞ்சாலை இருளாக இருக்கிறது",
-       "பல இடங்களில் நெடுஞ்சாலை பழுதடைந்துள்ளது"
-      ]
-     },
-     {
-      "title": "எங்கே ஆபத்து?",
-      "lines": [
-       "விநாயகர் கோவில் முதல் வி.ஏ.ஓ. அலுவலகம் வரை",
-       "சங்கோதிபாளையம் பிரிவு, பெருமாள் கவுண்டம்பாளையம் பிரிவு",
-       "சாலையைக் கடக்கும்போது மக்கள் மிகவும் சிரமப்படுகின்றனர்"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "நெடுஞ்சாலையில் மையத் தடுப்பு விளக்குகள் அமைக்க வேண்டும்",
-       "எச்சரிக்கை விளக்கு, வேகத்தடை அமைக்க வேண்டும்",
-       "நெடுஞ்சாலைத் துறை, உள்ளாட்சி நிர்வாகத்துக்கு உத்தரவிட"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பல்லடம் காரணம்பேட்டையில் சாலை விபத்து அபாயம் அதிகரித்துள்ளதாக மக்கள் கலெக்டரிடம் மனு அளித்துள்ளனர். காரணம்பேட்டை பகுதியில் கோவை - திருச்சி தேசிய நெடுஞ்சாலையும், அன்னூர், பொள்ளாச்சி செல்லும் மாநில நெடுஞ்சாலைகளும் இணைகின்றன. இரவு நேரங்களில் தேசிய நெடுஞ்சாலை இருளாக இருப்பதால் வாகன ஓட்டிகளும் பாதசாரிகளும் பாதிக்கப்படுகின்றனர். விநாயகர் கோவில் முதல் கிராம நிர்வாக அலுவலர் அலுவலகம் வரை மையத் தடுப்பு விளக்குகள் அமைக்க வேண்டும் என்று மக்கள் கோரியுள்ளனர். தேசிய நெடுஞ்சாலை பல இடங்களில் பழுதடைந்துள்ளதால் விபத்துகள் அடிக்கடி நடைபெறுகின்றன. சங்கோதிபாளையம் பிரிவு, பெருமாள் கவுண்டம்பாளையம் பிரிவு ஆகிய இடங்களில் சாலையைக் கடக்கும்போது மக்கள் மிகவும் சிரமப்படுகின்றனர். எச்சரிக்கை விளக்கு, வேகத்தடை அமைக்க வேண்டும் என்றும் கோரியுள்ளனர். இந்தப் பாதுகாப்பு நடவடிக்கைகளை மேற்கொள்ள நெடுஞ்சாலைத் துறை மற்றும் உள்ளாட்சி நிர்வாகத்துக்கு உத்தரவிட வேண்டும் என்று கலெக்டரிடம் மனு அளிக்கப்பட்டுள்ளது. இந்த மனு மீது அதிகாரிகள் எடுக்கும் நடவடிக்கைகள் குறித்து தொடர்ந்து தகவல் வெளியிடப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பல்லடம் காரணம்பேட்டையில் விபத்து அபாயம்: பாதுகாப்பு நடவடிக்கை கோரி மக்கள் மனு\n\n📰 முழு விவரம்:\nபல்லடம் காரணம்பேட்டை பகுதி பொதுமக்கள் சார்பில் கலெக்டரிடம் மனு அளிக்கப்பட்டுள்ளது. கோவை - திருச்சி தேசிய நெடுஞ்சாலை, அன்னூர், பொள்ளாச்சி செல்லும் மாநில நெடுஞ்சாலைகள் இணையும் இடத்தில் வாகன ஓட்டிகளுக்கும் பாதசாரிகளுக்கும் விபத்து அபாயம் உள்ளது. இரவு நேரங்களில் தேசிய நெடுஞ்சாலை இருளாகக் காணப்படுகிறது. விநாயகர் கோவில் முதல் வி.ஏ.ஓ. அலுவலகம் வரை மையத் தடுப்பு விளக்குகள் அமைக்க வேண்டும் என மக்கள் கோரியுள்ளனர். தேசிய நெடுஞ்சாலை பல இடங்களில் பழுதடைந்துள்ளதுடன், அடிக்கடி விபத்துகளும் நடைபெறுகின்றன.\n📍 இடம்: காரணம்பேட்டை, பல்லடம்\n🛣️ பாதிப்பு இடங்கள்: சங்கோதிபாளையம் பிரிவு, பெருமாள் கவுண்டம்பாளையம் பிரிவு\n📝 கோரிக்கை: எச்சரிக்கை விளக்கு, வேகத்தடை அமைத்தல்; நெடுஞ்சாலைத் துறை, உள்ளாட்சி நிர்வாகத்துக்கு கலெக்டர் உத்தரவு\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKaranampettai Palladam road safety petition | Tirupur news\n📍 காரணம்பேட்டை, பல்லடம், திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A row of rural villagers from Karanampettai stand at the roadside of the Coimbatore-Trichy National Highway near a crossroads in Palladam, a few of them holding a folded petition paper, seen from behind. The place is a wide two-lane national highway junction where a state road branches off, lined with dusty shoulders, a few electric poles and low shops in the background. Two-wheelers, a private bus and a lorry move along the tarred road, and their headlights are switched on as dusk settles. The men wear shirts and veshti, the women wear sarees, and they stand at a distance, slightly blurred. The road surface shows patches of wear and cracks, and there are no lit median lights along the divider. Early evening, dim orange-grey light with the highway just beginning to darken. Camera at eye level, 35 mm, wide enough to show the highway and the crossroads. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cracked and broken section of tarmac on a National Highway in Palladam, with a rough pothole edge, loose gravel and a faded white road marking. A two-wheeler rider's wheel passes at the edge of the frame, and a low median divider with no working lights runs along the side. The road is dark and uneven, with a few scattered stones and dust on the shoulder. Night-time light from a passing vehicle's headlights shines across the broken asphalt. Camera low and close, 35 mm, focusing on the damaged surface and the unlit divider edge. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/take-security-measures/4379036",
-   "published": "2026-11-17T20:52:20+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935037/tirupur360/kry9bg2wwnil3uwnsdci.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935039/tirupur360/ayavrxoz9y3focn0utie.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அவிநாசியில் காஸ் குடோனில் தீ விபத்து என பரபரப்பு: உண்மையில் விறகு குவியல் எரிந்தது",
-   "english_headline": "Fire rumour at gas godown in Avinashi: firewood pile behind the godown was actually burning, no gas godown fire",
-   "category": "Crime & Safety",
-   "location": "Kurundhangadu near Chinthamani bus stop, Sevur Road, Avinashi, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "தீ விபத்து",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் காஸ் குடோனில் தீ விபத்து என",
-    "hl2": "உண்மையில் விறகு எரிந்தது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "அவிநாசி, சேவூர் ரோடு, சிந்தாமணி பஸ் ஸ்டாப் அருகே",
-       "இன்று (நவ. 17) மாலை <b>6:30 மணிக்கு</b>"
-      ]
-     },
-     {
-      "title": "உண்மை என்ன?",
-      "lines": [
-       "நிலைய அலுவலர் ராதாகிருஷ்ணன் தலைமையில் வீரர்கள் ஆய்வு",
-       "காஸ் குடோனின் பின்புறம் உள்ள காட்டுப்பகுதியில்",
-       "குடோனுக்குப் பரவாமல் வீரர்கள் தீயை அணைத்தனர்"
-      ]
-     },
-     {
-      "title": "மக்கள் நிலை",
-      "lines": [
-       "தகவல் பரவியதால் அப்பகுதி மக்கள் அச்சமடைந்தனர்",
-       "உண்மை நிலை தெரிந்ததும் நிம்மதி அடைந்தனர்"
-      ]
-     },
-     {
-      "title": "தீயணைப்புத் துறை",
-      "lines": [
-       "அவசர காலங்களில் சரியான தகவல்களைத் தெளிவாகத் தெரிவிக்க",
-       "தீயணைப்புத் துறையினர் அறிவுறுத்தல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அவிநாசியில் காஸ் குடோனில் தீ விபத்து என்ற தகவல் பரவியதால் பரபரப்பு ஏற்பட்டது. அவிநாசி, சேவூர் ரோடு, சிந்தாமணி பஸ் ஸ்டாப் அருகே குருந்தங்காட்டில் உள்ள காஸ் குடோனில் தீ விபத்து என இன்று நவம்பர் 17ஆம் தேதி மாலை 6:30 மணிக்கு அவிநாசி தீயணைப்புத் துறைக்குத் தகவல் கிடைத்தது. நிலைய அலுவலர் ராதாகிருஷ்ணன் தலைமையிலான வீரர்கள் விரைந்து சென்று ஆய்வு செய்தனர். அப்போது, காஸ் குடோனின் பின்புறம் உள்ள காட்டுப்பகுதியில் குவித்து வைக்கப்பட்டிருந்த காய்ந்த விறகுகள் தீப்பற்றி எரிந்தது தெரியவந்தது. வீரர்கள் தீயை அணைத்து, குடோனுக்குப் பரவாமல் தடுத்தனர். தீ விபத்து என்ற தகவலால் அப்பகுதி மக்கள் அச்சமடைந்தனர். உண்மை நிலை தெரிந்ததும் நிம்மதி அடைந்தனர். அவசர காலங்களில் சரியான தகவல்களைத் தெளிவாகத் தெரிவிக்க வேண்டும் என தீயணைப்புத் துறையினர் அறிவுறுத்தினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔥 அவிநாசியில் காஸ் குடோன் தீ விபத்து என பரபரப்பு: உண்மையில் விறகு எரிந்தது\n\n📰 முழு விவரம்:\nஅவிநாசி, சேவூர் ரோடு, சிந்தாமணி பஸ் ஸ்டாப் அருகே குருந்தங்காட்டில் உள்ள காஸ் குடோனில் தீ விபத்து என இன்று (நவ. 17) மாலை 6:30 மணிக்கு தீயணைப்புத் துறைக்குத் தகவல் கிடைத்தது.\nநிலைய அலுவலர் ராதாகிருஷ்ணன் தலைமையிலான வீரர்கள் ஆய்வு செய்தபோது, காஸ் குடோனின் பின்புறம் உள்ள காட்டுப்பகுதியில் குவித்து வைக்கப்பட்டிருந்த காய்ந்த விறகுகள் தீப்பற்றி எரிந்தது தெரியவந்தது.\nவீரர்கள் தீயை அணைத்து, குடோனுக்குப் பரவாமல் தடுத்தனர்.\n📍 இடம்: குருந்தங்காடு, சேவூர் ரோடு, அவிநாசி\n🗓️ நாள்: நவ. 17\n🕘 நேரம்: மாலை 6:30 மணி\n👮 நடவடிக்கை: தீயணைப்புத் துறை வீரர்கள் தீயை அணைத்தனர்\nℹ️ மக்கள் கவனத்திற்கு: அவசர காலங்களில் சரியான தகவல்களைத் தெளிவாகத் தெரிவிக்க வேண்டும் என தீயணைப்புத் துறையினர் அறிவுறுத்தியுள்ளனர்.\n\nAvinashi gas godown fire rumour, firewood burned | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A team of Tamil Nadu Fire and Rescue Services firefighters in uniform stand beside a fire engine on Sevur Road in Avinashi, spraying water onto a smouldering heap of dry firewood in the scrubland behind a gas godown in Kurundhangadu. The place is a roadside edge of Avinashi town: a plain concrete godown wall with a corrugated roof, low bushes and dry grass, a few two-wheelers and an autorickshaw parked on the road, and power poles along the verge. Local residents stand at a distance on the roadside, some men in shirts and veshti, a woman in a saree holding a child, all seen from behind or far away, looking relieved rather than panicked. A white jet of water arcs over the dry wood, with thin smoke rising into the early evening sky. The time is around 6:30 pm, under soft dusk light with a fading orange sky. Shot at eye level, 35 mm, wide enough to show the godown wall, the firewood smoke and the fire engine together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a pile of dry firewood logs and branches, blackened and smoking after being doused, lying in dry scrubland right behind the wall of a gas godown in Avinashi. Fire-service hose lies across the ground, its water darkening the soil and the scattered dry leaves. Behind the pile, the plain concrete wall of the godown is visible, with no gas cylinders shown being affected, the building intact and untouched by flames. A firefighter's booted foot and the edge of his uniform trousers enter the frame at the bottom edge, with the scene otherwise unpeopled. The light is evening dusk, slightly warm, with fine grey smoke drifting upward. Shot at a low-to-mid angle, 35 mm, focusing on the wood and smouldering ash with the intact godown wall softly blurred behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/fire-breaks-out-at-fire-station-in-khas-khudon/4379037",
-   "published": "2026-11-17T20:57:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The draft's reel_script and captions say the fire was reported at 'a gas godown' in Kurundhangadu and that people were alarmed; the article says the report came in at 6:30 pm and the fire was in firewood, which is consistent, but the reel_script says the call was about 'the gas godown fire' while the article says it was a report of a gas godown fire, so the wording is acceptable; however, the reel_script's sentence 'தீ விபத்து என்ற தகவலால் அப்பகுதி மக்கள் அச்சமடைந்தனர்' is fine, so no clear factual error is present except the caption's phrase 'காஸ் குடோன் தீ விபத்து' presented as fact in the headline and slides_spec ('உண்மையில் விறகு எரிந்தது') is consistent with the article.; fact-check: The reel_script omits that the fire was in dry firewood piled in the forest area behind the godown and was extinguished before reaching the godown, but it does state this; no missing key fact is found beyond the article's content.",
+   "reel_script": "சென்னை கூடுவாஞ்சேரி அருகே காருடன் 12 வயது சிறுமி கடத்தப்பட்டார். உணவகம் முன் கார் இயங்கிக்கொண்டிருந்தபோது இந்தக் கடத்தல் நடந்தது. கமுதியைச் சேர்ந்த மலையரசன் வல்லாஞ்சேரியில் குடும்பத்துடன் தங்கி உணவகம் நடத்தி வருகிறார். அவர் உணவு சாப்பிடும்போது, காரில் உறங்கிக்கொண்டிருந்த மகளுக்காக ஏசி ஓடவேண்டும் என்பதால் கார் இயக்கத்தில் இருந்தது. அப்போது கடலூரைச் சேர்ந்த ராஜ்மோகன் (47 வயது), சிறுமியுடன் காரைக் கடத்திச் சென்றார். டீ குடிக்க அவர் காரை நிறுத்தியபோது சிறுமி தப்பினார். சீர்காழி பேருந்து நிலையம் அருகே ஆட்டோ டிரைவர்கள் சிறுமியை மீட்டு, சீர்காழி போலீசாரிடம் ஒப்படைத்தனர். நேற்று முன்தினம் இரவு பல்லடத்தில் ராஜ்மோகன் கைது செய்யப்பட்டார். நேற்று காலை அவர் கூடுவாஞ்சேரிக்கு அழைத்து வரப்பட்டு விசாரிக்கப்படுகிறார். அவர் மனநலம் பாதிக்கப்பட்டவர் என்று போலீசார் தெரிவித்துள்ளனர். சிகிச்சைக்காக 10 நாட்களுக்கு முன் கூடுவாஞ்சேரி வந்தவர் என்றும், 15ம் தேதி இரவு மைத்துனரை வீட்டில் பூட்டிவிட்டு சாலையில் சுற்றித் திரிந்தபோது இந்தக் கடத்தல் நடந்ததாகவும் போலீசார் கூறியுள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை சிறுமி கடத்தல் வழக்கு: பல்லடத்தில் கடத்தியவர் கைது\n\n📰 முழு விவரம்:\nகூடுவாஞ்சேரி அருகே வல்லாஞ்சேரியில், உணவகம் முன் கார் இயங்கிக்கொண்டிருந்தபோது 12 வயது சிறுமியுடன் கார் கடத்தப்பட்டது. கமுதியைச் சேர்ந்த மலையரசன் உணவு சாப்பிடும்போது, காரில் உறங்கிய மகளுக்காக ஏசி ஓடவேண்டும் என்பதால் கார் இயக்கத்தில் இருந்தது. கடலூரைச் சேர்ந்த ராஜ்மோகன் (47 வயது), சிறுமியுடன் காரைக் கடத்திச் சென்றார்.\nடீ குடிக்க அவர் காரை நிறுத்தியபோது சிறுமி தப்பினார். சீர்காழி பேருந்து நிலையம் அருகே ஆட்டோ டிரைவர்கள் சிறுமியை மீட்டு, சீர்காழி போலீசாரிடம் ஒப்படைத்தனர்.\n👮 நடவடிக்கை: நேற்று முன்தினம் இரவு பல்லடத்தில் ராஜ்மோகன் கைது செய்யப்பட்டார். நேற்று காலை அவர் கூடுவாஞ்சேரிக்கு அழைத்து வரப்பட்டு விசாரிக்கப்படுகிறார்.\n🩺 மனநலம் பாதிக்கப்பட்ட ராஜ்மோகன் சிகிச்சைக்காக 10 நாட்களுக்கு முன் கூடுவாஞ்சேரி வந்தவர் என போலீசார் தெரிவித்துள்ளனர். 15ம் தேதி இரவு மைத்துனரை வீட்டில் பூட்டிவிட்டு சாலையில் சுற்றித் திரிந்தபோது கடத்தல் நடந்ததாகவும், தொடர்ந்து அவரிடம் விசாரிப்பதாகவும் போலீசார் கூறியுள்ளனர்.\n\nChennai girl kidnapped with car, accused arrested in Palladam | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "A police jeep in khaki-uniformed officers stands outside a small police station in Palladam town, Tirupur district, as a man is brought out for questioning. Palladam is a modest town on a main road with two-wheelers, autorickshaws and a few private buses moving past, and shops with shutters half-open along the roadside. The officers are seen from behind or at a distance, and the detained man is only a blurred figure seen from behind, his face not visible, wearing a plain shirt and trousers. The scene is at dusk with fading daylight and streetlights just switching on. A car of the kind used in the kidnapping is parked near the police gate, its details not clearly visible. Shot at eye level, 35 mm lens, wide enough to show the police station gate, the road and the town's traffic in the background. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the rear of a dark-coloured car parked on the side of a town road in Palladam, with its door partly open and a police officer's hand resting on the frame, out of focus. Behind it, a stretch of tarmac with a two-wheeler and an autorickshaw passing, and a row of small roadside shops with shutters. The image is taken at dusk with warm streetlight glow on the road. No readable number plates or signboards are shown; the focus is the car and the policeman's uniform sleeve, suggesting the arrest. Shot at eye level with a 35 mm lens, shallow depth of field so the background is softly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/kidnapper-of-chennai-girl-tiruppur-near-rounded-up/4379234",
+   "published": "2026-11-17T23:40:12+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'பல்லடம்' and the news itself, e.g. 'பல்லடம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 13 ('கடந்த 13ம் தேதி குடும்பத்துடன் கமுதி சென்றவர், 15ம் தேதி இரவ')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935072/tirupur360/pi0cba4tislhlxxhn8ut.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935074/tirupur360/vhughngsp3zi1wm63ahe.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966656/tirupur360/gkrxnas51y0z0iygc2ou.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966659/tirupur360/zjtvkyuc57jritafammi.jpg"
    ]
   },
   {
-   "tamil_headline": "திருப்பூர்: மின் நிறுத்த நேரம் காலை 10 முதல் மாலை 3 வரை மாற்றம்",
-   "english_headline": "Tirupur: power-cut timing changed to 10 AM to 3 PM for monthly maintenance, welcomed by students and industry",
-   "category": "மின் தடை",
-   "location": "Tirupur and Palladam electricity circles, Tirupur district",
+   "tamil_headline": "உடுமலை அருகே பெண் கால்வாயில் தள்ளி கொலை",
+   "english_headline": "Woman pushed into canal and killed near Udumalaipettai; police investigating",
+   "category": "Crime & Safety",
+   "location": "Udumalaipettai, Tirupur district",
    "importance": "High",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மின் தடை",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர்: மின் நிறுத்த நேரம் மாற்றம்",
-    "hl2": "காலை 10 – மாலை 3 வரை",
+    "cat": "குற்றம்",
+    "loc": "உடுமலை",
+    "hl1": "உடுமலை அருகே கால்வாயில் தள்ளி பெண் கொலை",
+    "hl2": "போலீஸ் விசாரணை",
     "slides": [
      {
-      "title": "புதிய நேரம்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "மாதாந்திரப் பராமரிப்பு மின் நிறுத்தம்",
-       "காலை <b>10 மணி</b> முதல் மாலை <b>3 மணி</b> வரை",
-       "முன்பு காலை 9 மணி முதல் இருந்தது"
+       "உடுமலை அருகே பி.ஏ.பி. பிரதான கால்வாயில் பெண்",
+       "ரத்தினபுரி நகரைச் சேர்ந்த கீதா (35 வயது), உயிரிழந்தார்",
+       "குடிமங்கலம் போலீசார் விசாரிக்கின்றனர்"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "பின்னணி",
       "lines": [
-       "திருப்பூர் மற்றும் பல்லடம் மின்பகிர்மான வட்டங்கள்",
-       "மாவட்டத்தில் உள்ள துணை மின் நிலையங்கள்",
-       "வாராந்திர சுழற்சி முறையில் பராமரிப்பு"
+       "கீதா பைனான்ஸ் தொழில் செய்து வந்தார்",
+       "கதிரவன் (36 வயது), என்பவரிடம் சில மாதங்களுக்கு முன் <b>20",
+       "நகையைத் திரும்பத் தராததால் இருவருக்கும் பிரச்னை ஏற்பட்டது"
       ]
      },
      {
-      "title": "ஏன் மாற்றம்?",
+      "title": "கொலை எப்படி?",
       "lines": [
-       "மாணவர்கள், தொழிலாளர்கள் நலன் கருதி மாற்றம்",
-       "தொழில்துறை ஆலோசனைக் கூட்டத்தில் உத்தரவு",
-       "மாநிலம் தழுவிய அறிவிப்பு உடனே நடைமுறைக்கு"
+       "நெகமம் அருகே நகை இருப்பதாகக் கூறி கதிரவன் காரில் அழைத்து",
+       "கால்வாய் அருகே வாக்குவாதம் ஏற்பட்டது",
+       "ஆத்திரமடைந்த கதிரவன் கீதாவை கால்வாயில் தள்ளினார்"
       ]
      },
      {
-      "title": "மக்கள் கருத்து",
+      "title": "மீட்பு",
       "lines": [
-       "இல்லத்தரசிகளுக்கு வேலைகளை முடிக்க எளிது",
-       "மாணவர்களின் மாலை நேரப் படிப்பு பாதிக்காது",
-       "தொழிற்சாலைகள் உற்பத்தியைத் திட்டமிடலாம்"
+       "அரை கி.மீ. வரை கீதா நீரில் தத்தளித்துச் சென்றார்",
+       "அரசூர் ஷட்டர் அருகே கதிரவன் கீதாவை மீட்டு 108",
+       "பொள்ளாச்சி அரசு மருத்துவமனைக்கு செல்லும் வழியில் கீதா"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூரில் மின் நிறுத்த நேரம் மாறியுள்ளது. இனி காலை 9 மணிக்குப் பதிலாக காலை 10 மணி முதல் மாலை 3 மணி வரை மின் நிறுத்தம் இருக்கும். திருப்பூர் மற்றும் பல்லடம் மின்பகிர்மான வட்டங்களில் மாதாந்திர மின் பராமரிப்புப் பணிக்காக இந்த மாற்றம் செய்யப்பட்டுள்ளது. முன்பு காலை 9 மணி முதல் மாலை 5 மணி வரை மின் நிறுத்தம் இருந்தது. பின்னர் மாலை 4 மணி, அதன்பின் மதியம் 2 மணி என நேரம் குறைக்கப்பட்டது. தொழில்துறை ஆலோசனைக் கூட்டத்தில் மாணவர்கள், வேலைக்குச் செல்வோர், தொழிற்சாலைகள் நலன் கருதி நேரத்தை மாற்ற உத்தரவிடப்பட்டது. மாநிலம் தழுவிய அறிவிப்பு வெளியாகி உடனடியாக நடைமுறைக்கு வந்துள்ளது. காலை 9 மணிக்கு மின்தடை ஏற்பட்டதால் இல்லத்தரசிகளும், பள்ளி மாணவர்களும் சிரமப்பட்டனர். இப்போது மாலை 3 மணிக்கே மின் இணைப்பு கொடுக்கப்படுவதால் மாணவர்களின் மாலை நேரப் படிப்பும் பாதிக்கப்படாது. தொழிற்சாலைகள் உற்பத்தியைத் திட்டமிட்டு இழப்பைத் தவிர்க்கலாம். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ திருப்பூரில் மின் நிறுத்த நேரம் மாற்றம்: இனி காலை 10 முதல் மாலை 3 வரை\n\n📰 முழு விவரம்:\nதிருப்பூர் மற்றும் பல்லடம் மின்பகிர்மான வட்டங்களில் மாதாந்திர மின்பராமரிப்புப் பணிக்கான மின் நிறுத்த நேரம் மாற்றப்பட்டுள்ளது. மாணவர்கள், தொழிலாளர்கள், தொழில்துறையினர் இதை வரவேற்றுள்ளனர்.\nமுன்பு பராமரிப்பு நாளில் பகல் முழுவதும் மின்சாரம் இருக்காது என்று விடுமுறை கூட மாற்றி வழங்கப்பட்ட நிலை இருந்தது. பணிகளில் தாமதம் ஏற்பட்டால் மாலை 6:30 மணி வரை கூட மின்வினியோகம் தொடங்காமல் இருந்திருக்கிறது.\nமுதலில் காலை 9:00 முதல் மாலை 5:00 வரை மின் நிறுத்தம் இருந்தது. அதன்பின் காலை 9:00 முதல் மாலை 4:00 மணிக்கு மாற்றப்பட்டது. அடுத்த சில மாதங்களில் காலை 9:00 முதல் மதியம் 2:00 மணி வரை என மாற்றப்பட்டது.\nதொழில்துறை ஆலோசனைக் கூட்டத்தில் மாணவர்கள், வேலைக்குச் செல்வோர், தொழிற்சாலைகள் நலன் கருதி நேரத்தை மாற்ற உத்தரவிடப்பட்டது.\nஇனி காலை 10:00 முதல் மாலை 3:00 மணி வரை மின் நிறுத்தம் செய்யப்படும். மாநிலம் தழுவிய அறிவிப்பு வெளியாகி உடனடியாக நடைமுறைக்கு வந்துள்ளது.\nகாலை 9 மணிக்கு மின்தடை ஏற்பட்டபோது மின்வினியோகம் மீண்டும் தொடங்க தாமதமானதால் இல்லத்தரசிகள் அன்றாட வேலைகளை முடிக்கச் சிரமப்பட்டனர்; பள்ளி மாணவர்கள் புறப்படவும் சிரமம் ஏற்பட்டது. மாலை 3 மணிக்கே மின் இணைப்பு கொடுக்கப்படுவதால் மாணவர்களின் மாலை நேரப் படிப்பும் பாதிக்கப்படாது. தொழிற்சாலைகள் உற்பத்தியைத் திட்டமிட்டு பாதிப்பைத் தவிர்க்கலாம்.\n\nTirupur power cut timing changed 10 AM to 3 PM | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurPowerCut #TirupurNews #திருப்பூர்",
-   "prompts": "A TNEB lineman in uniform stands on a ladder beside a substation transformer in Tirupur, carrying out routine maintenance during a scheduled midday power shutdown. The place is an open electricity substation yard with concrete poles, overhead wires and steel switchgear under bright daylight, with a clear sky and no rain. Behind the worker, a small group of students in Tamil Nadu school uniform and office workers walk along a nearby street lined with two-wheelers and an autorickshaw, seen from behind and far away. The lineman wears a helmet and work clothes, with a tool bag hanging from the ladder. Time is late morning, around ten o'clock, in strong sunlight. The camera is at eye level, 35 mm, wide enough to show the substation and the road beyond. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an electricity substation transformer and switchgear panel in Tirupur, with its metal cooling fins, bushings and thick cables, showing the equipment that is being serviced during the scheduled power cut. Behind it, a few concrete poles and overhead wires are visible against a bright daytime sky. A TNEB worker's gloved hand rests on a tool case in the corner of the frame, with the rest of the worker out of view. The light is clear midday sunlight with sharp shadows, no rain, and no people's faces visible. The camera is slightly high, 35 mm, focused on the transformer with the surrounding substation yard softly blurred behind it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/welcome-to-the-change-in-power-outage-time-industry-is-a-little-relieved/4378843",
-   "published": "2026-11-17T19:34:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: Reel script says the power cut was 'changed' from 9am and that the earlier timing shortened to 4pm then 2pm; the article says the 9am-to-2pm stage happened after 9am-to-4pm, which the draft mostly matches, but the reel script omits the important fact that the earlier outage ran until 5pm before being cut, so 'பின்னர் மாலை 4 மணி, அதன்பின் மதியம் 2 மணி' is a compressed sequence that drops the 9am-5pm starting point context partially (minor); fact-check: Caption states the power cut was extended to 'மாலை 6:30 மணி வரை' for delayed restoration, but the article says restoration could take until 6:30pm in delayed cases, not that the outage ran to 6:30pm; the caption wording 'மாலை 6:30 மணி வரை கூட மின்வினியோகம் தொடங்காமல் இருந்திருக்கிறது' is roughly accurate but the reel script omits this, which is an important fact of the article; fact-check: Caption says the holiday was changed for viewers ('விடுமுறை கூட மாற்றி வழங்கப்பட்ட நிலை'), which matches the article, but the reel script omits the delayed-restoration problem entirely, which is an important detail of the article's account of what went wrong; fact-check: Slide 'மக்கள் கருத்து' states the change benefits housewives and student evening study, while the article attributes these benefits to consumers quoted; the slide presents them as neutral facts rather than views, a mild misattribution",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 4 validator problem(s)",
+   "reel_script": "உடுமலை அருகே பெண் ஒருவர் கால்வாயில் தள்ளப்பட்டு உயிரிழந்தார். கோவை ரத்தினபுரி நகரைச் சேர்ந்த கீதா (35 வயது), பைனான்ஸ் தொழில் செய்து வந்தார். அதே பகுதியைச் சேர்ந்த கதிரவன் (36 வயது), என்பவரிடம் சில மாதங்களுக்கு முன் 20 சவரன் நகை கொடுத்திருந்தார். நகையைத் திரும்பத் தராததால் இருவருக்கும் பிரச்னை ஏற்பட்டது. நகையைக் கேட்டு கீதா நெருக்கடி கொடுத்ததால், நெகமம் அருகே நண்பரிடம் நகை இருப்பதாகக் கூறி கதிரவன் நேற்று காலை கீதாவைக் காரில் அழைத்து வந்தார். பி ஏ பி பிரதான கால்வாய் அருகே வந்தபோது இருவருக்கும் வாக்குவாதம் ஏற்பட்டது. ஆத்திரமடைந்த கதிரவன், கீதாவைத் தண்ணீர் செல்லும் கால்வாயில் தள்ளினார். அரை கிலோமீட்டர் வரை கீதா நீரில் தத்தளித்துச் சென்றார். அரசூர் ஷட்டர் அருகே கதிரவன் அவரை மீட்டு, 108 ஆம்புலன்சுக்குத் தகவல் அளித்தார். பொள்ளாச்சி அரசு மருத்துவமனைக்கு கொண்டு செல்லும் வழியில் கீதா உயிரிழந்தார். குடிமங்கலம் போலீசார் கதிரவனைப் பிடித்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 உடுமலை அருகே கால்வாயில் தள்ளி பெண் கொலை: போலீஸ் விசாரணை\n\n📰 முழு விவரம்:\nஉடுமலை அருகே பி.ஏ.பி. பிரதான கால்வாயில் தள்ளி பெண் கொலை செய்யப்பட்டது குறித்து போலீசார் விசாரிக்கின்றனர். கோவை ரத்தினபுரி நகரைச் சேர்ந்த கீதா (35 வயது), பைனான்ஸ் தொழில் செய்து வந்தார். அதே பகுதியைச் சேர்ந்த கதிரவன் (36 வயது), என்பவரிடம் சில மாதங்களுக்கு முன் 20 சவரன் நகை கொடுத்திருந்தார். நகையைத் திரும்பத் தராததால் பிரச்னை ஏற்பட்டது. நெகமம் அருகே நகை இருப்பதாகக் கூறி கதிரவன் நேற்று காலை காரில் அழைத்து வந்தார். கால்வாய் அருகே வாக்குவாதத்தின்போது கதிரவன் கீதாவைக் கால்வாயில் தள்ளினார். அரை கிலோமீட்டர் வரை நீரில் தத்தளித்துச் சென்ற கீதா, அரசூர் ஷட்டர் அருகே மீட்கப்பட்டார். பொள்ளாச்சி அரசு மருத்துவமனைக்கு கொண்டு செல்லும் வழியில் உயிரிழந்தார். குடிமங்கலம் போலீசார் கதிரவனைப் பிடித்து விசாரிக்கின்றனர்.\n\nUdumalaipettai woman pushed into canal, police probe | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "A group of Tamil Nadu police in khaki stand on the concrete bank of a fast-flowing irrigation canal near Udumalaipettai as a 108 ambulance waits on the road beside them. The canal carries muddy brown water between smooth concrete walls, with a steel sluice gate and shutter structure visible ahead, and a few rows of coconut palms and dry scrub line the far bank. Two police officers in khaki shirts and trousers are seen from behind, looking down at the water, while a bystander in a shirt and veshti stands a short distance away. A white car is parked on the canal bank with its doors shut. The scene is in the morning under soft daylight, with a clear sky and a light haze. Taken at eye level with a 35 mm lens, wide enough to show the canal, the shutter, the road and the police gathered at the scene. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the steel shutter gate of an irrigation canal in Udumalaipettai, with fast brown water rushing through the gap and foam spinning against the concrete wall. Wet, muddy footprints and a few scattered wet leaves lie on the concrete edge in front of the gate. In the soft background, a pair of khaki uniform trousers of a police officer is seen from knee level, standing on the canal bank. The light is pale morning daylight with no people's faces visible. Taken at low eye level with a 50 mm lens, focusing on the water pressing against the shutter and the wet concrete ledge, to suggest where the incident happened. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/woman-pushed-into-canal-killed-police/4379221",
+   "published": "2026-11-17T23:22:26+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 108 ('அரை கி.மீ., வரை அவர் நீரில் தத்தளித்து சென்ற நிலையில், காரில')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935121/tirupur360/nthuek8u0vihk8mpiwi0.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794935125/tirupur360/z36dpz10uskdgtf3ofvw.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966676/tirupur360/slogvbvtnydrzojli9qu.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966678/tirupur360/yalkhactdv5atf8tvxqa.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "நகைக்கடைகளில் அலாரம், கேமராவை அவ்வப்போது பரிசோதிக்க போலீஸார் அறிவுரை",
+   "english_headline": "Police advise jewellery shops to regularly check alarms and CCTV after a Madurai jewellery theft",
+   "category": "Crime & Safety",
+   "location": "Palladam town, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் அறிவுரை",
+    "loc": "பல்லடம்",
+    "hl1": "பல்லடம்: நகைக்கடைகளுக்கு போலீஸ் அறிவுரை",
+    "hl2": "கேமரா, அலாரம் பரிசோதனை",
+    "slides": [
+     {
+      "title": "ஏன் இந்த அறிவுரை?",
+      "lines": [
+       "மதுரையில் நகைக்கடையில் <b>ரூ.21 கோடி</b> மதிப்பிலான நகைகள் திருட்டு",
+       "பல்லடம் போலீஸ் நகைக்கடை உரிமையாளர்களுடன்",
+       "பல்லடம், பொங்கலூர், காமநாயக்கன்பாளையம் பகுதி கடைகள்"
+      ]
+     },
+     {
+      "title": "என்ன செய்ய",
+      "lines": [
+       "அனைத்துக் கடைகளிலும் கண்காணிப்பு கேமரா <b>கட்டாயம்</b>",
+       "முன் நுழைவாயில், பின்புறம் இரண்டிலும் கேமரா பொருத்த வேண்டும்",
+       "கேமரா பதிவுகளை காவல் நிலைய கட்டுப்பாட்டு அறையுடன் இணைக்கலாம்"
+      ]
+     },
+     {
+      "title": "கவனிக்க வேண்டியவை",
+      "lines": [
+       "அலாரம், கேமரா செயல்பாட்டை அவ்வப்போது பரிசோதிக்க வேண்டும்",
+       "காவலாளிகள் பின்புறத்தையும் அவ்வப்போது கண்காணிக்க வேண்டும்",
+       "சந்தேக நபர்கள் தென்பட்டால் உடனே போலீஸுக்கு தகவல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மதுரையில் பிரபல நகைக்கடையில் சுமார் 21 கோடி ரூபாய் மதிப்பிலான நகைகள் திருடு போனதை அடுத்து, போலீஸார் நகைக்கடை உரிமையாளர்களுக்கு முக்கிய அறிவுரை வழங்கியுள்ளனர். பல்லடம் காவல் நிலையத்தில் திங்கள்கிழமை நடைபெற்ற விழிப்புணர்வுக் கூட்டத்தில், பல்லடம், பொங்கலூர், காமநாயக்கன்பாளையம் காவல் நிலைய எல்லையில் உள்ள நகைக்கடை உரிமையாளர்கள் கலந்துகொண்டனர். பல்லடம் காவல் துணைக் கண்காணிப்பாளர் பார்த்திபன் இதனைத் தெரிவித்தார். அனைத்து நகைக்கடைகளிலும் கண்காணிப்பு கேமரா கட்டாயம் பொருத்தப்பட வேண்டும். குறிப்பாக கடையின் முன்புற நுழைவாயில் மற்றும் பின்புறத்தில் கேமரா இருக்க வேண்டும். கேமரா பதிவுகளை காவல் நிலைய கட்டுப்பாட்டு அறையுடன் இணைக்கலாம். காவலாளிகள் முன்புறத்தில் மட்டுமின்றி பின்புறத்தையும் அவ்வப்போது கண்காணிக்க வேண்டும். கேமரா மற்றும் அலாரம் செயல்பாட்டை அவ்வப்போது பரிசோதிப்பது அவசியம். சந்தேகப்படும் நபர்கள் நடமாட்டம் இருந்தால் உடனடியாக போலீஸாரைத் தொடர்புகொண்டு தகவல் தெரிவிக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பல்லடத்தில் நகைக்கடைகளுக்கு போலீஸ் அறிவுரை: கேமரா, அலாரத்தை அவ்வப்போது பரிசோதியுங்கள்\n\n📰 முழு விவரம்:\nமதுரையில் பிரபல நகைக்கடையில் சுமார் ரூ.21 கோடி மதிப்பிலான நகைகள் அண்மையில் திருடு போனது. இதையடுத்து பல்லடம் காவல் நிலையத்தில் திங்கள்கிழமை நகைக்கடை உரிமையாளர்களுக்கான விழிப்புணர்வுக் கூட்டம் நடைபெற்றது. பல்லடம், பொங்கலூர், காமநாயக்கன்பாளையம் காவல் நிலைய எல்லையில் உள்ள நகைக்கடை உரிமையாளர்கள், காவல் ஆய்வாளர்கள் கலந்துகொண்டனர். பல்லடம் காவல் துணைக் கண்காணிப்பாளர் பார்த்திபன் செவ்வாய்க்கிழமை இதனைத் தெரிவித்தார்.\n📹 அனைத்து நகைக்கடைகளிலும் கண்காணிப்பு கேமரா கட்டாயம் பொருத்த வேண்டும். கடையின் முன்புற நுழைவாயில், பின்புறம் இரண்டிலும் கேமரா இருக்க வேண்டும்.\n🚓 கேமரா பதிவுகளை காவல் நிலைய கட்டுப்பாட்டு அறையுடன் இணைத்தால் கடைகளை கூடுதலாக கண்காணிக்க முடியும்.\n🔍 காவலாளிகள் முன்புறம் மட்டுமின்றி பின்புறத்தையும் அவ்வப்போது சென்று கண்காணிக்க வேண்டும். கேமரா, அலாரம் செயல்பாட்டை அவ்வப்போது பரிசோதிக்க வேண்டும்.\n📞 சந்தேகப்படும் நபர்கள் நடமாட்டம் இருந்தால் உடனடியாக போலீஸாரைத் தொடர்புகொண்டு தகவல் தெரிவிக்கவும்.\n\nPalladam police advise jewellery shops CCTV alarm checks | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "Inside a police station hall in Palladam town, Tirupur district, a group of jewellery shop owners and police inspectors in khaki sit on rows of plastic chairs facing a table at the front of the room, where a senior police officer in khaki uniform stands and addresses the meeting. Seen from behind at the back of the hall, the men wear shirts and veshtis and some women are present in sarees; a Tamil Nadu police banner stands near the wall but carries no readable text. Ceiling fans turn and tube lights glow, with bright daylight coming through the open windows. Behind the officer, a wall-mounted clock and framed notices are blurred. The camera is at eye level, about 35 mm, wide enough to show the full room and the attentive crowd, with no faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a CCTV camera mounted high on the front wall of a jewellery shop in a busy Palladam town street, its black dome and lens angled down toward the shop entrance. Below it, the shop's glass display frontage shows empty gold-coloured jewellery stands and a security guard in khaki uniform standing at the doorway, seen from behind. A two-wheeler and a town bus pass on the road in the background, and the street is in daylight with a few pedestrians walking past at a distance. Above the camera a small alarm box is fixed to the concrete wall. No readable signs or text appear, and the camera is slightly low, around 35 mm, focused on the security equipment. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/17/alarm-functioning-at-jewellery-shops-should-be-checked-periodically-police-advise",
+   "published": "2026-11-17T20:00:55.836Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 18 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; reel_script sentence 1 (heard in the first 3 seconds) must name the place 'பல்லடம்' and the news itself, e.g. 'பல்லடம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966683/tirupur360/mjxvvdpdjszcizk4cnms.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966685/tirupur360/theo58dje4az2dlzh9kj.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கைப்பேசி திருடிய இளைஞருக்கு ஓராண்டு கடுங்காவல் சிறை",
+   "english_headline": "Youth gets one year rigorous imprisonment for stealing a mobile phone in Tiruppur",
+   "category": "Crime & Safety",
+   "location": "Pushpa bus stop area, Tiruppur city, Tiruppur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "தீர்ப்பு",
+    "loc": "திருப்பூர் நகரம்",
+    "hl1": "கைப்பேசி திருடிய இளைஞருக்கு 1 ஆண்டு சிறை",
+    "hl2": "திருப்பூர்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "புஷ்பா பேருந்து நிறுத்தம் அருகே கைப்பேசி திருட்டு",
+       "2019 மே 4ஆம் தேதி நந்தகுமார் கைப்பேசி திருடப்பட்டது",
+       "திருட்டு வழக்கில் ராகுல் (26 வயது) கைது செய்யப்பட்டார்"
+      ]
+     },
+     {
+      "title": "தீர்ப்பு",
+      "lines": [
+       "இறுதி விசாரணை முடிந்தது",
+       "செவ்வாய்க்கிழமை நீதிபதி செந்தில்ராஜா தீர்ப்பளித்தார்",
+       "ராகுலுக்கு <b>ஓராண்டு கடுங்காவல் சிறை</b>"
+      ]
+     },
+     {
+      "title": "வழக்கு விவரம்",
+      "lines": [
+       "திருப்பூர் மாவட்ட முதலாம் குற்றவியல் நீதித்துறை நடுவர்",
+       "அரசுத் தரப்பில் அரசு வழக்குரைஞர் ஹேமா மகேஸ்வரி ஆஜரானார்",
+       "திருப்பூர் மாநகர வடக்கு குற்றப் பிரிவு போலீஸ் நிலைய எல்லை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் கைப்பேசி திருடிய இளைஞருக்கு ஓராண்டு கடுங்காவல் சிறைத் தண்டனை விதிக்கப்பட்டுள்ளது. 2019 மே 4ஆம் தேதி புஷ்பா பேருந்து நிறுத்தம் அருகே நந்தகுமார் என்பவரின் கைப்பேசி திருடப்பட்டது. நந்தகுமாருக்கு 46 வயது. திருட்டுக் குற்றத்துக்காக 26 வயது ராகுல் என்பவரை போலீசார் கைது செய்து நீதிமன்றக் காவலுக்கு அனுப்பினர். இவ்வழக்கின் இறுதி விசாரணை முடிந்த நிலையில், திருப்பூர் மாவட்ட முதலாம் குற்றவியல் நீதித்துறை நடுவர் செந்தில்ராஜா செவ்வாய்க்கிழமை தீர்ப்பளித்தார். ராகுலுக்கு ஓராண்டு கடுங்காவல் சிறைத் தண்டனை விதித்து உத்தரவிடப்பட்டது. இவ்வழக்கில் அரசுத் தரப்பில் அரசு வழக்குரைஞர் ஹேமா மகேஸ்வரி ஆஜரானார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூரில் கைப்பேசி திருடிய இளைஞருக்கு ஓராண்டு கடுங்காவல் சிறை\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகர வடக்கு குற்றப் பிரிவு போலீஸ் நிலைய எல்லைக்குள்பட்ட புஷ்பா பேருந்து நிறுத்தம் அருகே 2019 மே 4ஆம் தேதி நந்தகுமார் (46 வயது) என்பவரின் கைப்பேசி திருடப்பட்டது. இத்திருட்டுக் குற்றத்துக்காக ராகுல் (26 வயது) கைது செய்யப்பட்டு நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டார். இறுதி விசாரணை முடிந்த நிலையில், திருப்பூர் மாவட்ட முதலாம் குற்றவியல் நீதித்துறை நடுவர் செந்தில்ராஜா செவ்வாய்க்கிழமை தீர்ப்பளித்தார். ராகுலுக்கு ஓராண்டு கடுங்காவல் சிறைத் தண்டனை விதிக்கப்பட்டது. இவ்வழக்கில் அரசுத் தரப்பில் அரசு வழக்குரைஞர் ஹேமா மகேஸ்வரி ஆஜரானார்.\n\nThiruppur phone theft youth gets one year jail | Tirupur news\n📍 திருப்பூர் நகரம், திருப்பூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A district court judge sits at a raised bench in a Tiruppur courtroom while a young man in a plain shirt stands from behind at the accused's dock, awaiting the verdict of one year rigorous imprisonment. The setting is a government court hall in Tiruppur city with wooden benches, a ceiling fan, and a tall window letting in daylight. A government lawyer in a black coat and a few onlookers in shirts and sarees sit on the benches, seen from behind and far away. Case papers and a stack of files lie on the judge's desk, and a Tamil Nadu police constable in khaki stands near the dock. The scene is taken in the afternoon in soft daylight, at eye level from the back of the courtroom with a 35 mm lens wide enough to show the whole hall, the bench, and the accused together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of court case files tied with a red string on a wooden table, with a mobile phone placed beside them as the seized evidence of the theft case. The phone is a plain black handset with no readable screen content, resting on a sheet of official paper. Behind the table, slightly out of focus, a Tamil Nadu police constable in khaki uniform stands, with a blurred courtroom bench and a window with daylight in the background. The light is soft and natural from the side, taken at a slightly high angle with a 35 mm lens to focus on the files and phone while keeping the courtroom setting visible in the background. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/17/கைப்பேசியை-திருடிய-இளைஞருக்கு-ஓராண்டு-சிறை",
+   "published": "2026-11-17T20:12:40.703Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'நகரம்' is not in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966699/tirupur360/bj6gmhfgmsqukv5tccxm.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1794966701/tirupur360/qiau9szrywj0mswrhmvw.jpg"
    ]
   }
  ]
