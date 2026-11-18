@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-18T17:16+05:30",
- "posts_measured": 77,
+ "updated": "2026-11-18T22:06+05:30",
+ "posts_measured": 82,
  "topic_weight": {
-  "politics": -0.32,
+  "politics": -0.36,
   "accident": 1.5,
-  "crime": 1.38,
+  "crime": 1.5,
   "education": -0.5,
-  "power_cut": -0.31,
-  "temple": -0.5,
-  "civic": -0.29,
+  "power_cut": -0.2,
+  "temple": -0.39,
+  "civic": -0.15,
   "poultry_agri": -0.5
  },
  "topic_n": {
-  "politics": 9,
+  "politics": 10,
   "accident": 8,
   "crime": 14,
-  "education": 4,
+  "education": 5,
   "jobs": 2,
   "power_cut": 3,
-  "temple": 7,
+  "temple": 9,
   "civic": 13,
   "poultry_agri": 5,
   "weather": 1
  },
  "best_hours_ist": [
   12,
-  17,
   22,
-  18
+  17,
+  1
  ],
  "top_openings": [
   "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
   "🚨 மங்கலம் அருகே கிரேன் மோதிய அரசுப் பள்ளி மாணவன் பலி",
   "🫀 பல்லடம் இளைஞரின் உடல் உறுப்புகள் தானம்: மூளைச்சாவுக்குப் பின் பல உயிர்களுக்கு ",
-  "🚨 உடுமலை அருகே கால்வாயில் தள்ளி பெண் கொலை: போலீஸ் விசாரணை"
+  "🚨 திருப்பூர் போலீஸ் டைரி: கஞ்சா, விபத்து, சூதாட்டம்"
  ],
- "avg_watch_s": 7.4,
+ "avg_watch_s": 7.3,
  "best_topics": [
   "accident",
   "crime",
@@ -43,6 +43,6 @@
  ],
  "weak_topics": [
   "education",
-  "temple"
+  "poultry_agri"
  ]
 }
