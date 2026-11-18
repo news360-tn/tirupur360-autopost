@@ -3,116 +3,63 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tiruppur-city-police-awesomeness/4379968",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/14-kg-plastic-products-seized/4379933",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/missing-woman-rescued-after-3-years/4379804",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gangster-prevention-act-cases-special-office-at-avinashi/4379803",
-  "candidate filter: collected=4",
-  "to write: 4 Tirupur district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motorists-at-risk-of-stampede-on-noyyal-riverbank/4380122",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/there-s-a-tiny-snake-house-in-town/4379833",
+  "candidate filter: collected=2",
+  "to write: 2 Tirupur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 75 min",
-  "filed: 4 Tirupur district stories (target 4), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min",
+  "filed: 2 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (36s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -121,251 +68,139 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அவிநாசியில் 14 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் பறிமுதல்: 7 கடைகளுக்கு ரூ.5,200 அபராதம்",
-   "english_headline": "14 kg banned plastic seized from 7 shops in Avinashi municipal area; fine of Rs 5,200 imposed",
+   "tamil_headline": "திருப்பூர் சுகுமார் நகர் சாலையில் முட்புதர்கள்: விபத்து அபாயம்",
+   "english_headline": "Thorny bushes along Noyyal riverbank on Sukumar Nagar road in Tirupur pose accident risk to motorists",
+   "category": "Roads & Transport",
+   "location": "Sukumar Nagar road, Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை பாதுகாப்பு",
+    "loc": "சுகுமார் நகர், திருப்பூர்",
+    "hl1": "சுகுமார் நகர் சாலையில் முட்புதர்கள்",
+    "hl2": "விபத்து அபாயம்",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "திருப்பூர், சுகுமார் நகர் சாலை",
+       "நொய்யல் ஆற்றங்கரை தடுப்புவேலி ஓரத்தில் முட்புதர்கள்",
+       "மாணிக்காபுரம் பாலம் முதல் சுகுமார் நகர் வரை"
+      ]
+     },
+     {
+      "title": "என்ன பிரச்சினை?",
+      "lines": [
+       "புதர்கள் சாலையை ஆக்கிரமித்துள்ளன",
+       "எதிரே வரும் வாகனங்கள் தெரிவதில்லை",
+       "சாலையின் அகலம் குறைந்துள்ளது"
+      ]
+     },
+     {
+      "title": "இரவில் நிலை",
+      "lines": [
+       "இரவு நேரங்களில் தடுப்புவேலி தெரிவதில்லை",
+       "விபத்து அபாயம் அதிகரித்துள்ளது"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "புதர்களை அகற்ற வாகன ஓட்டிகள் கோரிக்கை",
+       "மாநகராட்சி, நீர்வளத்துறை அதிகாரிகள் சீரமைக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் சுகுமார் நகர் சாலையில் முட்புதர்கள் வளர்ந்து விபத்து அபாயம் ஏற்பட்டுள்ளது. நொய்யல் ஆற்றங்கரை தடுப்புவேலியை ஒட்டி முட்புதர்கள் அடர்ந்து வளர்ந்துள்ளன. மாணிக்காபுரம் பாலம் முதல் சுகுமார் நகர் வரையிலான பகுதியில் புதர்கள் சாலையை ஆக்கிரமித்துள்ளன. இதனால் எதிரே வரும் வாகனங்கள் தெரியாமல் விபத்து அபாயம் ஏற்படுகிறது. சாலையின் அகலமும் குறைந்துள்ளது. இரவு நேரங்களில் தடுப்புவேலி இருப்பதுகூடத் தெரியவில்லை. விபத்துகள் ஏற்படுவதற்கு முன் புதர்களை அகற்ற வேண்டும் என வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனர். மாநகராட்சி மற்றும் நீர்வளத்துறை அதிகாரிகள் புதர்களை அகற்றி சாலையைச் சீரமைக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 திருப்பூர் சுகுமார் நகர் சாலையில் முட்புதர்கள்: விபத்து அபாயம்\n\n📰 முழு விவரம்:\nதிருப்பூர், சுகுமார் நகர் சாலையில் நொய்யல் ஆற்றங்கரை தடுப்புவேலியை ஒட்டி முட்புதர்கள் அடர்ந்து வளர்ந்துள்ளன. மாணிக்காபுரம் பாலம் முதல் சுகுமார் நகர் வரையிலான பகுதியில் புதர்கள் சாலையை ஆக்கிரமித்துள்ளன. எதிரே வரும் வாகனங்கள் தெரியாததால் விபத்து அபாயம் ஏற்படுகிறது. சாலையின் அகலமும் குறைந்துள்ளது. இரவு நேரங்களில் தடுப்புவேலி தெரியாத நிலை உள்ளது.\n📍 இடம்: சுகுமார் நகர் சாலை, நொய்யல் ஆற்றங்கரை, திருப்பூர்\n👮 கோரிக்கை: புதர்களை அகற்றி சாலையைச் சீரமைக்க மாநகராட்சி மற்றும் நீர்வளத்துறை அதிகாரிகளுக்கு வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனர்.\n\nThorny bushes on Sukumar Nagar road Tirupur, accident risk | Tirupur news\n📍 திருப்பூர் நகரம், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #சாலை",
+   "prompts": "A two-wheeler rider slows down on a narrow Tirupur city road as dense thorny bushes spill over the edge of the lane, pushing into the carriageway beside a worn metal riverside barrier fence. The place is a Sukumar Nagar stretch of road near the Noyyal river, with the riverbank dropping away behind the greenery and a concrete bridge parapet visible further along toward Manikapuram. The rider and a car ahead are seen from behind and far away, moving cautiously because oncoming vehicles are hard to spot through the overgrowth. Bushes with thorny branches and wild shrubs have taken over much of the shoulder, visibly narrowing the road. It is a bright daytime scene in soft natural daylight with a few scattered clouds. The camera sits at eye level, about 35 mm, wide enough to show the road, the bushes, the barrier and the river edge together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of dense thorny shrubs and wild bushes growing thickly over a rusted riverside metal barrier fence, their spiky branches reaching out over the edge of a Tirupur road. The fence posts and wire are partly hidden by the foliage, and the tarmac edge is visibly overtaken by the growth. Behind the greenery a glimpse of the Noyyal river bank and a few coconut palms is seen softly out of focus. No people or readable signs are in frame. Soft daylight falls across the leaves, showing the sharp thorns and tangled stems. The camera is low and close, about 50 mm, focusing on the bushes and the fence so the road hazard is clear. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motorists-at-risk-of-stampede-on-noyyal-riverbank/4380122",
+   "published": "2026-11-18T22:44:46+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035750/tirupur360/x1exrxldijqcexfap182.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035794/tirupur360/boyjb9rwzi25xm0cfa33.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கொடுவாய் நகர மையத்தில் காடுபோல் வளர்ந்த சீமைக்கருவேல மரங்கள், பாம்பு அச்சம்",
+   "english_headline": "Dense seemai karuvelam trees and bushes grown like a forest in Koduvai town centre; residents fear snakes and demand removal",
    "category": "Civic Issues",
-   "location": "Madathupalayam Road, Avinashi municipal area, Tirupur district",
+   "location": "Koduvai town centre, Pongalur, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பிளாஸ்டிக் தடை",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் 14 கிலோ பிளாஸ்டிக் பறிமுதல்",
-    "hl2": "7 கடைகளுக்கு ரூ.5,200",
+    "cat": "பொதுமக்கள் கோரிக்கை",
+    "loc": "கொடுவாய், பொங்கலூர்",
+    "hl1": "கொடுவாயில் காடுபோல் வளர்ந்த புதர்கள்",
+    "hl2": "பாம்பு அச்சத்தில் மக்கள்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன பிரச்சினை?",
       "lines": [
-       "அவிநாசி நகராட்சியில் தடை செய்யப்பட்ட பிளாஸ்டிக் விற்பனை",
-       "மடத்துப்பாளையம் ரோட்டில் பேக்கரிகள், ஓட்டல்களில் ஆய்வு",
-       "இன்று (<b>நவ. 18</b>) நகராட்சி ஊழியர்கள் சோதனை"
+       "கொடுவாய் நகர மையத்தில் சீமைக்கருவேல மரங்கள் அடர்ந்து",
+       "மழைக்காலத்தில் பல இடங்களிலும் வளர்ச்சி அதிகரித்துள்ளது",
+       "சிறிய காடு போல் காட்சியளிக்கின்றன"
       ]
      },
      {
-      "title": "எவ்வளவு பறிமுதல்?",
+      "title": "மக்கள் அச்சம்",
       "lines": [
-       "<b>7 கடைகளில்</b> தடை செய்யப்பட்ட பொருட்கள் கண்டுபிடிப்பு",
-       "மொத்தம் <b>14 கிலோ</b> பாலிதீன் பேக், பிளாஸ்டிக் டம்ளர்கள்",
-       "அனைத்தும் பறிமுதல் செய்யப்பட்டன"
+       "புதர்களில் பாம்புகள் உள்ளிட்ட விஷ ஜந்துக்கள் தங்கும் அபாயம்",
+       "பாம்புகள் குடியிருப்புகளுக்குள் புகுந்தால் உயிருக்கு ஆபத்து",
+       "பொதுமக்கள் அச்சமடைந்துள்ளனர்"
       ]
      },
      {
-      "title": "அபராதம்",
+      "title": "மக்களின் கோரிக்கை",
       "lines": [
-       "சம்பந்தப்பட்ட கடைகளுக்கு மொத்தம் <b>ரூ.5,200</b> அபராதம்",
-       "இனி தடை செய்த பிளாஸ்டிக் விற்க வேண்டாம் என எச்சரிக்கை",
-       "நகராட்சி சுகாதார ஆய்வாளர் அரவிந்த் தலைமையில் ஆய்வு"
+       "ஊர் மையப்பகுதியில் உள்ள மரங்களையும் புதர்களையும் உடனடியாக",
+       "சீமைக்கருவேல மரங்களை அகற்ற நீதிமன்றம் உத்தரவிட்டுள்ளது",
+       "நீர்நிலைகளில் புதர் வளர்வதை அனுமதிக்கலாம், ஊருக்குள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அவிநாசியில் தடை செய்யப்பட்ட 14 கிலோ பிளாஸ்டிக் பொருட்கள் பறிமுதல் செய்யப்பட்டன. அவிநாசி நகராட்சிப் பகுதியில் தடை செய்யப்பட்ட பிளாஸ்டிக் பொருட்கள் விற்கப்படுவதாகப் பொதுமக்கள் நகராட்சி நிர்வாகத்துக்குத் தகவல் தெரிவித்தனர். இதையடுத்து, இன்று நவம்பர் 18ஆம் தேதி மடத்துப்பாளையம் ரோட்டில் உள்ள பேக்கரிகள், ஓட்டல்கள் மற்றும் வணிக நிறுவனங்களில் நகராட்சி சுகாதார ஆய்வாளர் அரவிந்த் தலைமையிலான ஊழியர்கள் ஆய்வு செய்தனர். சோதனையில் 7 கடைகளில் தடை செய்யப்பட்ட 14 கிலோ பாலிதீன் பேக், பிளாஸ்டிக் டம்ளர்கள் இருப்பது கண்டறியப்பட்டு பறிமுதல் செய்யப்பட்டன. அந்தக் கடைகளுக்கு மொத்தம் ரூ.5,200 அபராதம் விதிக்கப்பட்டது. மேலும் எச்சரிக்கையும் விடுக்கப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அவிநாசியில் 14 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் பறிமுதல்\n\n📰 முழு விவரம்:\nஅவிநாசி நகராட்சிப் பகுதியில் தடை செய்யப்பட்ட பிளாஸ்டிக் பொருட்கள் விற்கப்படுவதாகப் பொதுமக்கள் தகவல் தெரிவித்தனர். இதையடுத்து இன்று (நவ. 18) மடத்துப்பாளையம் ரோட்டில் உள்ள பேக்கரிகள், ஓட்டல்கள் மற்றும் வணிக நிறுவனங்களில் நகராட்சி சுகாதார ஆய்வாளர் அரவிந்த் தலைமையிலான ஊழியர்கள் ஆய்வு செய்தனர்.\n7 கடைகளில் தடை செய்யப்பட்ட 14 கிலோ பாலிதீன் பேக், பிளாஸ்டிக் டம்ளர்கள் பறிமுதல் செய்யப்பட்டன. சம்பந்தப்பட்ட கடைகளுக்கு மொத்தம் ரூ.5,200 அபராதம் விதிக்கப்பட்டு எச்சரிக்கையும் விடுக்கப்பட்டது.\n\n📍 இடம்: மடத்துப்பாளையம் ரோடு, அவிநாசி நகராட்சி\n🗓️ நாள்: நவம்பர் 18, 2026\n👮 நடவடிக்கை: 14 கிலோ பறிமுதல், ரூ.5,200 அபராதம், எச்சரிக்கை\nℹ️ மக்கள் கவனத்திற்கு: தடை செய்யப்பட்ட பிளாஸ்டிக் பொருட்களைத் தவிர்ப்போம்\n\nAvinashi banned plastic seized 14 kg | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A municipal health inspector and corporation workers in uniform inspect the shelves of a bakery on a busy commercial street in Avinashi, Tirupur district, where a heap of seized banned polythene bags and plastic tumblers is being gathered from the counter. The street is lined with small bakeries, hotels and shops with shutters and hanging signboard frames left blank, with a town bus and two-wheelers passing on the road beside them. Shopkeepers stand back near the entrance, seen from behind and slightly blurred. Bright daylight falls on the street, and the scene is shot at eye level with a 35 mm lens wide enough to show the shop fronts and the road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a large pile of seized banned polythene carry bags and stacked plastic tumblers, placed on a wooden bakery counter or on a municipal worker's cloth sheet on the pavement of a Tirupur city shop. Behind the pile, the gloved hand of a corporation worker in a plain shirt is seen from the side, sorting the items, with a few shopkeepers standing far back out of focus. Daylight from the shop front falls on the plastic, and the camera is at slightly high eye level with a 35 mm lens to show the pile and the shop interior. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/14-kg-plastic-products-seized/4379933",
-   "published": "2026-11-18T20:14:02+05:30",
+   "reel_script": "கொடுவாய் நகர மையத்தில் சீமைக்கருவேல மரங்கள் காடுபோல் அடர்ந்து வளர்ந்துள்ளன. மழைக்காலம் என்பதால் பல இடங்களிலும் இவற்றின் வளர்ச்சி அதிகரித்துள்ளது. சீமைக்கருவேல மரங்களை அகற்ற வேண்டும் என நீதிமன்றம் உத்தரவிட்டுள்ள நிலையில், இவை ஊரின் மையப்பகுதியிலேயே சிறிய காடு போல் காட்சியளிக்கின்றன. இந்தப் புதர்களில் பாம்புகள் உள்ளிட்ட விஷ ஜந்துக்கள் தங்கும் அபாயம் உள்ளதால் பொதுமக்கள் அச்சமடைந்துள்ளனர். பாம்புகள் குடியிருப்புகளுக்குள் புகுந்தால் உயிருக்கு ஆபத்து ஏற்படலாம். எனவே, ஊர் மையப்பகுதியில் வளர்ந்துள்ள மரங்களையும் புதர்களையும் உடனடியாக அகற்ற வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். நீர்நிலைகள், சாலையோரங்களில் புதர் வளர்வதை அனுமதிக்கலாம்; ஊருக்குள் அடர்வனமாக வளர்வதை எப்படி அனுமதிக்கலாம் என்றும் பொதுமக்கள் கேள்வி எழுப்பியுள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌳 கொடுவாயில் ஊருக்குள் காடுபோல் வளர்ந்த புதர்கள், பாம்பு அச்சத்தில் மக்கள்\n\n📰 முழு விவரம்:\nகொடுவாய் நகரின் மையப்பகுதியில் சீமைக்கருவேல மரங்களும் புதர் செடிகளும் அடர்ந்து வளர்ந்துள்ளன. மழைக்காலம் என்பதால் பல இடங்களிலும் இவற்றின் வளர்ச்சி அதிகரித்துள்ளது.\nசீமைக்கருவேல மரங்களை அகற்ற நீதிமன்றம் உத்தரவிட்டுள்ள நிலையில், ஊரின் மையப்பகுதியிலேயே இவை சிறிய காடு போல் காட்சியளிக்கின்றன.\nஇந்தப் புதர்களில் பாம்புகள் உள்ளிட்ட விஷ ஜந்துக்கள் தங்கும் அபாயம் உள்ளதால் பொதுமக்கள் அச்சமடைந்துள்ளனர். பாம்புகள் குடியிருப்புகளுக்குள் புகுந்தால் உயிருக்கு ஆபத்து ஏற்படலாம்.\nஎனவே, ஊர் மையப்பகுதியில் வளர்ந்துள்ள மரங்களையும் புதர்களையும் உடனடியாக அகற்ற வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\n📍 இடம்: கொடுவாய் நகர மையப்பகுதி, பொங்கலூர்\n🙋 கோரிக்கை: ஊர் மையப்பகுதியில் உள்ள சீமைக்கருவேல மரங்கள், புதர்களை உடனடியாக அகற்ற வேண்டும்\nநீர்நிலைகள், சாலையோரங்களில் புதர் வளர்வதை அனுமதிக்கலாம்; ஊருக்குள் அடர்வனமாக வளர்வதை எப்படி அனுமதிக்கலாம் என பொதுமக்கள் கேள்வி எழுப்பியுள்ளனர்.\nஇதுபோன்ற பகுதிகளில் வசிப்போர் பாம்புகள் குறித்து கவனமாக இருங்கள். இந்தச் செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKoduvai overgrown bushes snake fear | Tirupur news\n📍 கொடுவாய், பொங்கலூர், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Pongalur #TirupurNews #திருப்பூர்",
+   "prompts": "A dense thicket of seemai karuvelam trees and shrubs has grown like a small forest in the middle of a town centre in Koduvai, Pongalur, Tirupur district. Thorny karuvelam branches and tall bushes crowd together between the houses and shop fronts of a narrow village street, their dense green canopy blocking the view beyond. The monsoon rains have pushed the growth up in many places, and creepers wind through the undergrowth. Two local residents stand at the edge of the thicket seen from behind, one holding a cloth bag, looking at the wild growth. A few two-wheelers are parked at the roadside of the street, and an old concrete house with a tiled roof stands at the edge of the frame. Overcast daylight with soft green tones. Camera at eye level, 35 mm, wide enough to show the dense forest-like growth beside the houses. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of dense seemai karuvelam branches and thorny shrubs growing thickly along the edge of a Koduvai town street in Tirupur district, Tamil Nadu. Small thorns, dark-green feathery leaves and dry-tinged twigs fill the frame, with monsoon-wet leaves glistening and tangled creepers winding through the undergrowth. The bushes look like a dark, hidden shelter where snakes could hide, and the ground beneath is dense with fallen leaves and damp earth. In the background, the blurred wall of a house and a patch of roadside are visible. Overcast daylight, soft natural colour. Camera slightly low, 35 mm macro-style, close enough to show the thorny density of the trees. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/there-s-a-tiny-snake-house-in-town/4379833",
+   "published": "2026-11-18T19:24:46+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020154/tirupur360/hij2nzlzulcbxgimpffs.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020161/tirupur360/dg8ywqwzva0q1nuizlsb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மூன்று ஆண்டுக்குப் பின் மாயமான பெண் மீட்பு: தாராபுரம் போலீசார் நடவடிக்கை",
-   "english_headline": "Woman missing for three years traced and rescued by Dharapuram police",
-   "category": "Crime & Safety",
-   "location": "Dharapuram town, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மீட்பு",
-    "loc": "தாராபுரம்",
-    "hl1": "3 ஆண்டுக்குப் பின் மாயமான பெண் மீட்பு",
-    "hl2": "தாராபுரம் போலீசார் நடவடிக்கை",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "தாராபுரம் குளத்துப்பாளையத்தைச் சேர்ந்த <b>35 வயது</b> பெண்",
-       "குடும்பத்தினர் எல்லா இடங்களிலும் தேடியும் கிடைக்கவில்லை",
-       "மொபைல் போன் பயன்படுத்தாததால் தேடல் தாமதமானது"
-      ]
-     },
-     {
-      "title": "எப்படி மீட்டனர்?",
-      "lines": [
-       "திருப்பூர் மாவட்ட எஸ்.பி. சிருஷ்டி சிங் உத்தரவின் பேரில்",
-       "பெங்களூருவில் இருப்பது கண்டறியப்பட்டது",
-       "தொடர் கண்காணிப்பில் மதுரைக்கு வந்தது தெரிந்தது"
-      ]
-     },
-     {
-      "title": "மீட்பு",
-      "lines": [
-       "மதுரை சென்று தாராபுரம் போலீசார் பெண்ணை மீட்டனர்",
-       "பெண் குடும்பத்தினரிடம் ஒப்படைக்கப்பட்டார்",
-       "துரித நடவடிக்கைக்காக போலீசாரை உயரதிகாரிகள் பாராட்டினர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மூன்று ஆண்டுகளுக்கு முன் மாயமான பெண், தாராபுரம் போலீசாரால் மீட்கப்பட்டார். திருப்பூர் மாவட்டம் தாராபுரம், குளத்துப்பாளையத்தைச் சேர்ந்த 35 வயது பெண் 2023 ஜூலை மாதம் மாயமானார். குடும்பத்தினர் எல்லா இடங்களிலும் தேடியும் அவர் கிடைக்கவில்லை. புகாரின் பேரில் தாராபுரம் போலீசார் தேடி வந்தனர். மொபைல் போனைப் பயன்படுத்தாததால் அவர் எங்கு சென்றார் என்று கண்டறிவதில் தாமதம் ஏற்பட்டது. நீண்ட நாட்களாக நிலுவையில் உள்ள மிஸ்சிங் வழக்குகளைக் கண்டறிய திருப்பூர் மாவட்ட காவல் கண்காணிப்பாளர் சிருஷ்டி சிங் உத்தரவிட்டார். இதையடுத்து போலீஸ் ஏட்டுகள் பாலுசாமி, பாலசுப்ரமணியம் ஆகியோர் மாயமான பெண் குறித்துத் தொடர்ந்து விசாரித்தனர். அவர் மாயமாவதற்கு முன் யாரிடம் பேசி வந்தார் என்ற விவரங்களைச் சேகரித்தனர். விசாரணையில் அந்தப் பெண் பெங்களூருவில் இருப்பது கண்டறியப்பட்டது. தொடர்ந்து கண்காணித்தபோது அவர் மதுரைக்கு வந்தது தெரிந்தது. உடனே மதுரை சென்ற போலீசார் பெண்ணை மீட்டு அழைத்து வந்தனர். பின்னர் அவர் குடும்பத்தினரிடம் ஒப்படைக்கப்பட்டார். துரித நடவடிக்கையால் மூன்று ஆண்டுகளுக்குப் பின் பெண்ணைக் கண்டுபிடித்த போலீசாரை உயரதிகாரிகள் பாராட்டினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தாராபுரத்தில் 3 ஆண்டுக்குப் பின் மாயமான பெண் மீட்பு\n\n📰 முழு விவரம்:\nதாராபுரம், குளத்துப்பாளையத்தைச் சேர்ந்த 35 வயது பெண் 2023 ஜூலையில் மாயமானார். குடும்பத்தினர் பல இடங்களில் தேடியும் கிடைக்கவில்லை. புகாரின் பேரில் தாராபுரம் போலீசார் தேடி வந்தனர். மொபைல் போனைப் பயன்படுத்தாததால் தேடல் தாமதமானது.\nதிருப்பூர் மாவட்ட எஸ்.பி. சிருஷ்டி சிங் உத்தரவின் பேரில் போலீஸ் ஏட்டுகள் பாலுசாமி, பாலசுப்ரமணியம் ஆகியோர் விசாரணையைத் தொடர்ந்தனர். விசாரணையில் அந்தப் பெண் பெங்களூருவில் இருப்பது கண்டறியப்பட்டது. தொடர் கண்காணிப்பில் அவர் மதுரைக்கு வந்தது தெரிந்தது. மதுரை சென்ற போலீசார் அவரை மீட்டு அழைத்து வந்து குடும்பத்தினரிடம் ஒப்படைத்தனர்.\n📍 இடம்: தாராபுரம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: 2026 நவம்பர் 18 (செய்தி வெளியீடு)\n👮 நடவடிக்கை: துரித விசாரணைக்காக போலீசாரை உயரதிகாரிகள் பாராட்டினர்\nகாணாமல் போன அறிக்கைகள் குறித்த தகவல் இருந்தால் அருகிலுள்ள காவல் நிலையத்தில் தெரிவியுங்கள்.\n\nDharapuram missing woman traced after three years | Tirupur news\n📍 தாராபுரம், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Dharapuram #TirupurNews #திருப்பூர்",
-   "prompts": "Two Tamil Nadu police constables in khaki uniform stand beside a white police jeep parked outside a small police station in Dharapuram town, Tirupur district. Seen from slightly behind and at a distance, one officer holds a folder of case papers while the other opens the rear door of the jeep. Behind them is a plain, low-rise town street with a few two-wheelers parked along the kerb and a town bus passing in the background. The scene is in daylight with soft, even light, and a faint morning haze over the dry Tamil Nadu town. The camera is at eye level, shot on 35 mm, wide enough to show the police station, the jeep and the street together. No faces are visible; the officers are shown only from behind or in profile at a distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a table inside a police station in Dharapuram, Tirupur district, showing a thick open case file with handwritten papers, a few printed sheets, a blue ballpoint pen, and a steel tumbler of tea beside it. Behind the table, out of focus, a khaki-uniformed police officer's sleeve is visible resting on the desk. The background is a plain wall with a wooden bench, lit by daylight from a window. The mood is quiet and methodical, showing the long investigation of a missing-person case. The camera is slightly high, 35 mm, shallow depth of field, with no readable text or names on the papers. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/missing-woman-rescued-after-3-years/4379804",
-   "published": "2026-11-18T19:16:40+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The draft's reel_script and slides say the woman was missing from July 2023 and was found after three years, which matches the article, but the caption adds that the police 'traced' her, which is consistent; however the caption and reel_script state the police 'went to Madurai and brought her back', while the article says she was traced in Madurai, so the caption's claim that the police directly 'brought her back' is acceptable; the main actual problem is that the reel_script omits the important fact that the woman was found in Madurai after being located via tracking, which is included; no issue found in place names, numbers or roles, so the only remaining concern is the caption's '2026 நவம்பர் 18 (செய்தி வெளியீடு)' presented as the article's news release date, which is not stated in the article and is an invented date.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020201/tirupur360/corixt8aweslozhlwgfb.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020205/tirupur360/ihbqeufd6zh77lz7ckai.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அவிநாசியில் குண்டர் தடுப்புச் சட்ட வழக்குகளுக்கான சிறப்பு அலுவலகம் திறப்பு",
-   "english_headline": "Special office for Goondas Act cases opens in Avinashi, first in Tirupur district",
-   "category": "Crime & Safety",
-   "location": "Avinashi, Tirupur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "காவல் துறை",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் குண்டர் தடுப்பு சிறப்பு",
-    "hl2": "மாவட்டத்தில் முதல்முறை",
-    "slides": [
-     {
-      "title": "என்ன திறப்பு?",
-      "lines": [
-       "குண்டர் தடுப்புச் சட்ட வழக்குகளுக்கான சிறப்பு அலுவலகம்",
-       "திருப்பூர் மாவட்டத்திலேயே <b>முதல்முறை</b>",
-       "அவிநாசியில் திறக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "அவிநாசி போலீஸ் ஸ்டேஷன் அருகே காவலர் குடியிருப்பில்",
-       "<b>நவ. 18</b> அன்று மாவட்ட எஸ்.பி. சிருஷ்டி சிங் திறந்து வைத்தார்",
-       "நிகழ்ச்சியில் பல போலீஸ் அதிகாரிகள் பங்கேற்றனர்"
-      ]
-     },
-     {
-      "title": "என்ன வேலை?",
-      "lines": [
-       "மாவட்டம் முழுவதும் உள்ள காவல் நிலைய குற்ற வழக்குகள் ஆய்வு",
-       "குண்டர் தடுப்புச் சட்டத்தில் குற்றவாளிகளைக் கைது செய்ய",
-       "சட்ட நடைமுறைகள் இங்கேயே மேற்கொள்ளப்படும்"
-      ]
-     },
-     {
-      "title": "யார் பணியில்?",
-      "lines": [
-       "ஒரு சிறப்பு காவல் உதவி ஆய்வாளரும் <b>3 போலீசாரும்</b> நியமனம்",
-       "கூடுதல் எஸ்.பி. ஆறுமுகம், அவிநாசி டி.எஸ்.பி. சங்கவி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அவிநாசியில் குண்டர் தடுப்புச் சட்ட வழக்குகளுக்கான சிறப்பு அலுவலகம் திறக்கப்பட்டுள்ளது. திருப்பூர் மாவட்டத்திலேயே இது முதல்முறை. நவம்பர் 18ஆம் தேதி மாவட்ட காவல் கண்காணிப்பாளர் சிருஷ்டி சிங் இந்த அலுவலகத்தைத் திறந்து வைத்தார். அவிநாசி போலீஸ் ஸ்டேஷன் அருகேயுள்ள காவலர் குடியிருப்பில் இந்த அலுவலகம் அமைக்கப்பட்டுள்ளது. மாவட்டம் முழுவதும் உள்ள காவல் நிலையங்களில் பதிவான குற்ற வழக்குகள் இங்கே ஆய்வு செய்யப்படும். குண்டர் தடுப்புச் சட்டத்தின் கீழ் குற்றவாளிகளைக் கைது செய்வதற்கான ஆவணங்கள் தயாரிப்பு உள்ளிட்ட சட்ட நடைமுறைகள் இங்கேயே மேற்கொள்ளப்படும். இதற்காக ஒரு சிறப்பு காவல் உதவி ஆய்வாளரும், மூன்று போலீசாரும் நியமிக்கப்பட்டுள்ளனர். நிகழ்ச்சியில் கூடுதல் காவல் கண்காணிப்பாளர் ஆறுமுகம், அவிநாசி காவல் துணை கண்காணிப்பாளர் சங்கவி, இன்ஸ்பெக்டர்கள் நவநீதகிருஷ்ணன், சரஸ்வதி, அம்பிகா ஆகியோரும் போலீசாரும் பங்கேற்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அவிநாசியில் குண்டர் தடுப்புச் சட்ட வழக்குகளுக்கான சிறப்பு அலுவலகம் திறப்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டத்திலேயே முதல்முறையாக, குண்டர் தடுப்புச் சட்ட வழக்குகளைப் பரிசீலித்து நடவடிக்கை எடுக்கும் சிறப்பு அலுவலகம் அவிநாசியில் திறக்கப்பட்டது. அவிநாசி போலீஸ் ஸ்டேஷன் அருகேயுள்ள காவலர் குடியிருப்பில் இந்த அலுவலகம் அமைக்கப்பட்டுள்ளது. நவம்பர் 18ஆம் தேதி மாவட்ட எஸ்.பி. சிருஷ்டி சிங் இதைத் திறந்து வைத்தார். மாவட்டம் முழுவதும் உள்ள காவல் நிலையங்களில் பதிவான குற்ற வழக்குகள் இங்கே ஆய்வு செய்யப்படும். குண்டர் தடுப்புச் சட்டத்தின் கீழ் குற்றவாளிகளைக் கைது செய்வதற்கான ஆவணங்கள் தயாரிப்பு உள்ளிட்ட சட்ட நடைமுறைகள் மேற்கொள்ளப்படும்.\n\n👮 பணியாளர்கள்: ஒரு சிறப்பு காவல் உதவி ஆய்வாளரும், மூன்று போலீசாரும் நியமிக்கப்பட்டுள்ளனர்.\n🏛️ பங்கேற்றவர்கள்: கூடுதல் எஸ்.பி. ஆறுமுகம், அவிநாசி டி.எஸ்.பி. சங்கவி, இன்ஸ்பெக்டர்கள் நவநீதகிருஷ்ணன், சரஸ்வதி, அம்பிகா மற்றும் போலீசார்.\n\nAvinashi special office for Goondas Act cases opens | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A group of Tamil Nadu police officers in khaki uniform stands in front of a newly opened office in a police quarters compound in Avinashi, Tirupur district, as a senior officer cuts a ribbon at the entrance. The setting is a government police residential complex near an Avinashi police station, with plain concrete walls, a tiled veranda and a few parked two-wheelers and a police jeep at the edge of the frame. Several sub-inspectors and constables stand in a neat line, some seen from behind, others far off and slightly blurred, while a small cluster of junior officers holds files under their arms. The inauguration is taking place in daylight on a bright morning, with a clear sky and soft natural light. Shot at eye level, 35 mm, wide enough to show the full compound, the entrance and the officers gathered in front of the new office. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of case files and paper documents laid out on a wooden desk inside the new special office, with a folder open and a few loose sheets arranged neatly beside it. Behind the desk, a policeman in khaki uniform sits slightly out of focus, seen from behind, while a sub-inspector's cap rests on a corner of the table. The room has plain painted walls, a ceiling fan and a window letting in daylight from one side. The papers relate to criminal case records and arrest documentation under the Goondas Act, shown as stacked files and forms without any readable text. Daylight, shot at close range with a 35 mm lens, shallow depth of field keeping the files sharp and the background officers softly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gangster-prevention-act-cases-special-office-at-avinashi/4379803",
-   "published": "2026-11-18T19:23:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020213/tirupur360/kub8rmp327reqk7vs7eb.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020217/tirupur360/d5taqrc564sgr5i9armz.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மாநில காவல் திறனாய்வுப் போட்டியில் திருப்பூர் மாநகர போலீசார் அசத்தல்: புகைப்படப் போட்டியில் முதலிடம்",
-   "english_headline": "Tirupur city police shine in state-level police skill competition: first place in photography, second in forensic investigation and police videography",
-   "category": "Government & Services",
-   "location": "Tirupur city, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போலீஸ் சாதனை",
-    "loc": "திருப்பூர் மாநகரம்",
-    "hl1": "திருப்பூர் போலீசார் மாநில அளவில் அசத்தல்",
-    "hl2": "புகைப்படப் போட்டியில்",
-    "slides": [
-     {
-      "title": "எந்தப் போட்டி?",
-      "lines": [
-       "மாநில அளவிலான காவல் பணி திறனாய்வுப் போட்டிகள்",
-       "<b>செப். 8</b> முதல் <b>25ம் தேதி</b> வரை நடைபெற்றன",
-       "தமிழ்நாடு காவல் உயர் பயிற்சியகம், ஆவடியில்"
-      ]
-     },
-     {
-      "title": "எவ்வளவு பேர்?",
-      "lines": [
-       "<b>368 போலீசார்</b>, <b>68 மோப்ப நாய்கள்</b> பங்கேற்பு",
-       "6 பிரிவுகளில் <b>20 போட்டிகள்</b> நடத்தப்பட்டன",
-       "அறிவியல் புலனாய்வு, கணினி போட்டிகளும் உண்டு"
-      ]
-     },
-     {
-      "title": "திருப்பூர் வெற்றி",
-      "lines": [
-       "புகைப்படப் போட்டியில் <b>முதலிடம்</b>",
-       "அறிவியல் புலனாய்வு, காவல் ஒளிப்பதிவில் <b>இரண்டாமிடம்</b>",
-       "டி.ஜி.பி. மகேஷ்குமார் அகர்வால் கோப்பை வழங்கிப் பாராட்டு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாநகர போலீசார் மாநில அளவிலான காவல் பணி திறனாய்வுப் போட்டியில் அசத்தியுள்ளனர். புகைப்படப் போட்டியில் முதலிடமும், அறிவியல் சார்ந்த புலனாய்வு மற்றும் காவல் ஒளிப்பதிவுப் போட்டிகளில் இரண்டாமிடமும் பெற்றுள்ளனர். செப்டம்பர் 8ஆம் தேதி முதல் 25ஆம் தேதி வரை போட்டிகள் நடைபெற்றன. தமிழ்நாடு காவல் உயர் பயிற்சியகம் மற்றும் ஆவடி படைப் பயிற்சி மையத்தில் இவை நடத்தப்பட்டன. மொத்தம் 368 போலீசாரும் 68 மோப்ப நாய்களும் பங்கேற்றனர். அறிவியல் சார்ந்த புலனாய்வு, கணினி, கணினி விழிப்புணர்வு உள்ளிட்ட 6 பிரிவுகளில் 20 போட்டிகள் நடத்தப்பட்டன. வெற்றி பெற்றவர்களுக்கு டி ஜி பி மகேஷ்குமார் அகர்வால் கோப்பைகளை வழங்கிப் பாராட்டினார். திருப்பூர் மாநகர போலீஸ் அதிகாரிகளும் வெற்றி பெற்ற போலீசாரைப் பாராட்டினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚔 திருப்பூர் மாநகர போலீசார் மாநில அளவில் அசத்தல்: புகைப்படப் போட்டியில் முதலிடம்\n\n📰 முழு விவரம்:\nமாநில அளவிலான காவல் பணி திறனாய்வுப் போட்டிகள் செப். 8 முதல் 25ம் தேதி வரை தமிழ்நாடு காவல் உயர் பயிற்சியகம் மற்றும் ஆவடி படைப் பயிற்சி மையத்தில் நடைபெற்றன. மொத்தம் 368 போலீசார், 68 மோப்ப நாய்கள் பங்கேற்றனர். அறிவியல் சார்ந்த புலனாய்வு, கணினி, கணினி விழிப்புணர்வு உள்ளிட்ட 6 பிரிவுகளில் 20 போட்டிகள் நடத்தப்பட்டன.\n🏆 திருப்பூர் மாநகர போலீசார் புகைப்படப் போட்டியில் முதலிடமும், அறிவியல் சார்ந்த புலனாய்வு மற்றும் காவல் ஒளிப்பதிவுப் போட்டிகளில் இரண்டாமிடமும் பெற்றனர்.\n🏅 வெற்றி பெற்றவர்களுக்கு டி.ஜி.பி. மகேஷ்குமார் அகர்வால் கோப்பைகளை வழங்கிப் பாராட்டினார்.\n👮 திருப்பூர் மாநகர போலீஸ் அதிகாரிகளும் வெற்றி பெற்ற போலீசாரைப் பாராட்டினர்.\n\nTirupur city police win state police skill competition | Tirupur news\n📍 திருப்பூர் மாநகரம், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A group of Tamil Nadu police officers in khaki uniform stand together on a stage in a police training hall, while a senior officer in uniform presents a gold-coloured trophy cup to a winning constable, seen from behind a row of seated officers. The setting is a government police training academy hall in Tiruppur city, Tamil Nadu, with a plain wall backdrop, a long table draped with a cloth, and a few small trophy cups set out on it. Behind the stage a row of wooden chairs holds other police officers in khaki shirts and trousers, their backs partly turned to the camera. Indoor fluorescent hall lighting gives an even, slightly warm glow, and there are no windows showing weather. Shot at eye level with a 35 mm lens, wide enough to show the stage, the trophy table, and the row of uniformed officers. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a gleaming gold-coloured trophy cup resting on a white-draped table in a police training hall, with a camera lens and a folded khaki police cap placed beside it. In the soft background, a few police officers in khaki uniform stand out of focus, seen from behind, applauding. The cup is the central object, showing a small award emblem, and its sheen catches the indoor hall light. The setting is an indoor police academy hall in Tiruppur city, Tamil Nadu, with a plain wall and stacked chairs visible far back. Indoor lighting only, no weather or time cues. Shot at a slightly high angle with a 50 mm lens, shallow depth of field to keep the trophy sharp and the officers softly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tiruppur-city-police-awesomeness/4379968",
-   "published": "2026-11-18T20:25:10+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020227/tirupur360/jniu9ksyoejvdjk10k2v.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795020266/tirupur360/xvb3vzfsjexgvndxbcon.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035807/tirupur360/v2zwkbhztiukxlxt6rxq.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035840/tirupur360/jsjyeuizhcogh5ej3742.jpg"
    ]
   }
  ]
