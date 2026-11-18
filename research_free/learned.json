@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-18T08:04+05:30",
- "posts_measured": 71,
+ "updated": "2026-11-18T10:07+05:30",
+ "posts_measured": 74,
  "topic_weight": {
-  "politics": -0.35,
-  "accident": 0.84,
-  "crime": 0.9,
+  "politics": -0.09,
+  "accident": 1.5,
+  "crime": 1.02,
   "education": -0.5,
-  "power_cut": -0.37,
+  "power_cut": -0.08,
   "temple": -0.5,
-  "civic": -0.37,
+  "civic": -0.11,
   "poultry_agri": -0.5
  },
  "topic_n": {
   "politics": 9,
   "accident": 8,
-  "crime": 12,
+  "crime": 14,
   "education": 3,
   "jobs": 2,
   "power_cut": 3,
@@ -26,8 +26,8 @@
  "best_hours_ist": [
   12,
   17,
-  18,
-  1
+  22,
+  18
  ],
  "top_openings": [
   "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
@@ -35,11 +35,11 @@
   "🫀 பல்லடம் இளைஞரின் உடல் உறுப்புகள் தானம்: மூளைச்சாவுக்குப் பின் பல உயிர்களுக்கு ",
   "🚨 திருப்பூர் போலீஸ் டைரி: கஞ்சா, விபத்து, சூதாட்டம்"
  ],
- "avg_watch_s": 7.2,
+ "avg_watch_s": 7.1,
  "best_topics": [
-  "crime",
   "accident",
-  "politics"
+  "crime",
+  "power_cut"
  ],
  "weak_topics": [
   "education",
