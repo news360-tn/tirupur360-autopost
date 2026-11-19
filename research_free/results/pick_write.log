@@ -1,294 +1,290 @@
-writing [N]: பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-writing [N]: தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றப்பட்ட விவகாரம்: ரூ.35
+writing [N]: 40 வயது திருப்பூர் கீதாவுக்கு 3 கணவன்கள்.. 1 ஆண் நண்பர்.. கட
+writing [N]: அப்பா கை பிடித்து சென்ற திருப்பூர் தண்டவாளம்.. 6 மாதம் கழித்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-writing [N]: மாவட்ட வாலிபால் போட்டி: வித்ய விகாஷினி பள்ளி வெற்றி
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-switching away from gemini/gemini-3.6-flash for 10 min
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-switching away from gemini/gemini-3.6-flash for 10 min
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-switching away from gemini/gemini-3.6-flash for 10 min
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-switching away from gemini/gemini-3.5-flash for 10 min
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-switching away from gemini/gemini-3.5-flash for 10 min
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 4 problems
-  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  hl1 (the first headline on screen) must name the place 'வெள்ளக்கோவில்', e.g. 'வெள்ளக்கோவில்: ...' or 'வெள்ளக்கோவில்-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('2 உதவிப் பொறியாளா் க.குகன், வெள்ளக்கோவில் காவல் நிலையத்தில் '); 20 ('திட்ட வெள்ளக்கோவில் கிளை வாய்க்கால் சரகம் 20.160 கி.மீ.'); 160 ('திட்ட வெள்ளக்கோவில் கிளை வாய்க்கால் சரகம் 20.160 கி.மீ.')
+dead for this round: gemini/gemini-3.6-flash
+writing [N]: கால்நடை மருத்துவ விழிப்புணர்வு முகாம்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
-switching away from gemini/gemini-3.5-flash for 10 min
-ok gemini/gemini-3-flash-preview (9s)
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (15s)
 attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('2 பேரும் ஒன்றாக வாழ்ந்து வந்ததாகவும் கூறப்படுகிறது.திருப்பூர'); 2 ('இதனால் 2 பேருக்குமிடையே அடிக்கடி தகராறு ஏற்பட்டுள்ளது.'); 108 ('விஜய்க்கு இபிஎஸ் கேள்விவாய்க்காலில் மிதந்த உடல்பிறகு கீதா தவ'); 2 ('கதிரவனின் நண்பர் சண்முக வடிவேலுக்கும் இந்தக் கொலையில் தொடர்ப')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (14s)
+attempt 2 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('2 பேரும் ஒன்றாக வாழ்ந்து வந்ததாகவும் கூறப்படுகிறது.திருப்பூர'); 2 ('இதனால் 2 பேருக்குமிடையே அடிக்கடி தகராறு ஏற்பட்டுள்ளது.'); 2 ('கதிரவனின் நண்பர் சண்முக வடிவேலுக்கும் இந்தக் கொலையில் தொடர்ப')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
 ok gemini/gemini-3-flash-preview (12s)
+attempt 1 gemini/gemini-3-flash-preview: 3 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 12
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('ஜானகி வேலை பார்த்த அதே பள்ளியில் சாதனா பிளஸ்-2 படித்து வந்தா'); 2 ('மகளுக்கு எந்தக் குறையும் தெரியாமல் பார்த்துக் கொண்டார்.சாதனா')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (14s)
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  caption needs 5 hashtags (Instagram max), has 6
+  numbers not found in the article: 10
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
-switching away from gemini/gemini-3-flash-preview for 10 min
+dead for this round: gemini/gemini-3-flash-preview
 ok groq/openai/gpt-oss-120b (7s)
 attempt 2 groq/openai/gpt-oss-120b: 3 problems
   missing key: reel_script
   missing key: caption
   missing key: scenes
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok gemini/gemini-3-flash-preview (13s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  caption needs 5 hashtags (Instagram max), has 6
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 30 ('அங்கு உரிய சிகிச்சை அளிக்கப்படாததால் அவரது காலின் நிலை மிகவு')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok gemini/gemini-3-flash-preview (32s)
-factcheck by gemini/gemini-3-flash-preview: 3 problems
-  The reel script and caption incorrectly state the poles are in two separate locations (20.160 km and 1.060 km) instead of the 1.060 km mark of the canal branching at the 20.160 km mark
-  The name of the contractor (Jayaram) and the company (Tata Power) mentioned in the article are missing from the reel script
-  Slide headline hl2 'அனுமதியின்றி 11 மின்' is an incomplete phrase and lacks clear meaning in Tamil
-attempt 2 gemini/gemini-3-flash-preview: 3 problems
-  fact-check: The reel script and caption incorrectly state the poles are in two separate locations (20.160 km and 1.060 km) instead of the 1.060 km mark of the canal branching at the 20.160 km mark
-  fact-check: The name of the contractor (Jayaram) and the company (Tata Power) mentioned in the article are missing from the reel script
-  fact-check: Slide headline hl2 'அனுமதியின்றி 11 மின்' is an incomplete phrase and lacks clear meaning in Tamil
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-ok groq/qwen/qwen3.8-27b (3s)
+ok gemini/gemini-3-flash-preview (19s)
+attempt 3 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('2 பேரும் ஒன்றாக வாழ்ந்து வந்ததாகவும் கூறப்படுகிறது.திருப்பூர'); 2 ('இதனால் 2 பேருக்குமிடையே அடிக்கடி தகராறு ஏற்பட்டுள்ளது.'); 2 ('கதிரவனின் நண்பர் சண்முக வடிவேலுக்கும் இந்தக் கொலையில் தொடர்ப')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has 208 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 4 ('கீதாவின் வாழ்க்கையில் 4-வது நபராக வந்த கதிரவனுடன் நாளடைவில் '); 2 ('2 பேரும் ஒன்றாக வாழ்ந்து வந்ததாகவும் கூறப்படுகிறது.திருப்பூர'); 2 ('இதனால் 2 பேருக்குமிடையே அடிக்கடி தகராறு ஏற்பட்டுள்ளது.'); 2 ('கதிரவனின் நண்பர் சண்முக வடிவேலுக்கும் இந்தக் கொலையில் தொடர்ப')
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 3 groq/qwen/qwen3.8-27b: 1 problems
+  numbers not found in the article: 10
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 4 ('கீதாவின் வாழ்க்கையில் 4-வது நபராக வந்த கதிரவனுடன் நாளடைவில் '); 2 ('2 பேரும் ஒன்றாக வாழ்ந்து வந்ததாகவும் கூறப்படுகிறது.திருப்பூர'); 2 ('இதனால் 2 பேருக்குமிடையே அடிக்கடி தகராறு ஏற்பட்டுள்ளது.'); 2 ('கதிரவனின் நண்பர் சண்முக வடிவேலுக்கும் இந்தக் கொலையில் தொடர்ப')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-1
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 95 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'செம்மாண்டம்பாளையம்' and the news itself, e.g. 'செம்மாண்டம்பாளையம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script says the school's தாளாளர் (chairman/principal-level head) alone praised the students, but the article lists the தாளாளர், நிர்வாக அதிகாரி, செயலாளர், துணை நிர்வாக அதிகாரி, முதல்வர், ஆசிரியர்கள் and மாணவர்கள together as praising them; the reel_script splits these into separate, inaccurate statements (e.g., 'நிர்வாக அதிகாரி மற்றும் செயலாளர் மாணவர்களை பாராட்டினர்' and 'துணை நிர்வாக அதிகாரி மற்றும் முதல்வர் மாணவர்களை பாராட்டினர்' present groupings not stated in the article)
-  slides_spec hl2 'வித்ய விகாஷினி பள்ளி மாநில' is an incomplete/ungrammatical phrase with no clear meaning in Tamil
-  slides_spec 'பள்ளி தாளாளர் மற்றும் நிர்வாகிகள் பாராட்டினர்' merges the article's list of praising groups into a generalized 'நிர்வாகிகள்' category not present in the article
-  slides_spec 'வெற்றி பெற்ற மாணவர்களுக்கு வாழ்த்துக்கள்' and the caption's 'வாழ்த்துக்கள்' are added wording not stated in the article (minor invented sentiment), and the reel_script's 'நிர்வாக அதிகாரி' and 'துணை நிர்வாக அதிகாரி' split is structurally misrepresenting the praise list
-  caption says 'மாவட்ட அளவில் வெற்றி பெற்று மாநில அளவிலான போட்டிகளுக்கு தகுதி பெற்றது' which is consistent, but the caption's 'இந்த அணி' merges the team into the paragraph with the praise list such that the praise is attributed as a single sentence to all listed groups, which is acceptable; however the reel_script's 'வெற்றி பெற்ற மாணவர்களை பள்ளியின் தாளாளர் பாராட்டினார்' attributes praise solely to the தாளாளர, which is a factual change from the article
-attempt 3 groq/qwen/qwen3.8-27b: 5 problems
-  fact-check: reel_script says the school's தாளாளர் (chairman/principal-level head) alone praised the students, but the article lists the தாளாளர், நிர்வாக அதிகாரி, செயலாளர், துணை நிர்வாக அதிகாரி, முதல்வர், ஆசிரியர்கள் and மாணவர்கள together as praising them; the reel_script splits these into separate, inaccurate statements (e.g., 'நிர்வாக அதிகாரி மற்றும் செயலாளர் மாணவர்களை பாராட்டினர்' and 'துணை நிர்வாக அதிகாரி மற்றும் முதல்வர் மாணவர்களை பாராட்டினர்' present groupings not stated in the article)
-  fact-check: slides_spec hl2 'வித்ய விகாஷினி பள்ளி மாநில' is an incomplete/ungrammatical phrase with no clear meaning in Tamil
-  fact-check: slides_spec 'பள்ளி தாளாளர் மற்றும் நிர்வாகிகள் பாராட்டினர்' merges the article's list of praising groups into a generalized 'நிர்வாகிகள்' category not present in the article
-  fact-check: slides_spec 'வெற்றி பெற்ற மாணவர்களுக்கு வாழ்த்துக்கள்' and the caption's 'வாழ்த்துக்கள்' are added wording not stated in the article (minor invented sentiment), and the reel_script's 'நிர்வாக அதிகாரி' and 'துணை நிர்வாக அதிகாரி' split is structurally misrepresenting the praise list
-  fact-check: caption says 'மாவட்ட அளவில் வெற்றி பெற்று மாநில அளவிலான போட்டிகளுக்கு தகுதி பெற்றது' which is consistent, but the caption's 'இந்த அணி' merges the team into the paragraph with the praise list such that the praise is attributed as a single sentence to all listed groups, which is acceptable; however the reel_script's 'வெற்றி பெற்ற மாணவர்களை பள்ளியின் தாளாளர் பாராட்டினார்' attributes praise solely to the தாளாளர, which is a factual change from the article
+  The reel_script and slides say the camp was held 'near Madathukulam' and the caption says 'Madathukulam, Cholamadevi' — the article matches this, so no issue there; however the reel_script says the veterinary doctors explained 'மடிநோய், வெறி நாய்க்கடி நோய் தடுப்பு' only — acceptable.
+  The reel_script states 'விவசாயிகளுக்கு விளக்கம் அளிக்கப்பட்டது' about 'முறையான பராமரிப்பு', which the article does say, but the reel_script omits the names of the 10 agriculture final-year students (not required), so no issue.
+  The slides_spec line 'கிராமப்புற கால்நடை வளர்ப்போருடன் கலந்துரையாடல் நடந்தது' sits under 'விவசாயிகளுக்கு' and merges the discussion with the farmer-directed advice, mixing two facts into one slide item.
+  The reel_script sentence 'நோய்களை ஆரம்ப நிலையிலேயே கண்டறிவதும், உரிய காலத்தில் கால்நடை மருத்துவரை அணுகுவதும் முக்கியம் என்று வலியுறுத்தப்பட்டது' is grammatically awkward Tamil that mixes the emphasis with the advice wording, reading as a stilted translation rather than clear natural Tamil.
+  The caption's 'மக்கள் கவனத்திற்கு' note is presented as advice from the camp, but the article's mention of 'மேற்கொள்ள வேண்டிய வழிமுறைகள' is only partially reflected; the phrase 'முன்னெச்சரிக்கை நடவடிக்கைகள்' is included in the caption but the reel_script omits it, so the reel_script misses this detail from the article.
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script and slides say the camp was held 'near Madathukulam' and the caption says 'Madathukulam, Cholamadevi' — the article matches this, so no issue there; however the reel_script says the veterinary doctors explained 'மடிநோய், வெறி நாய்க்கடி நோய் தடுப்பு' only — acceptable.
+  fact-check: The reel_script states 'விவசாயிகளுக்கு விளக்கம் அளிக்கப்பட்டது' about 'முறையான பராமரிப்பு', which the article does say, but the reel_script omits the names of the 10 agriculture final-year students (not required), so no issue.
+  fact-check: The slides_spec line 'கிராமப்புற கால்நடை வளர்ப்போருடன் கலந்துரையாடல் நடந்தது' sits under 'விவசாயிகளுக்கு' and merges the discussion with the farmer-directed advice, mixing two facts into one slide item.
+  fact-check: The reel_script sentence 'நோய்களை ஆரம்ப நிலையிலேயே கண்டறிவதும், உரிய காலத்தில் கால்நடை மருத்துவரை அணுகுவதும் முக்கியம் என்று வலியுறுத்தப்பட்டது' is grammatically awkward Tamil that mixes the emphasis with the advice wording, reading as a stilted translation rather than clear natural Tamil.
+  fact-check: The caption's 'மக்கள் கவனத்திற்கு' note is presented as advice from the camp, but the article's mention of 'மேற்கொள்ள வேண்டிய வழிமுறைகள' is only partially reflected; the phrase 'முன்னெச்சரிக்கை நடவடிக்கைகள்' is included in the caption but the reel_script omits it, so the reel_script misses this detail from the article.
+ok anthropic/claude-haiku-5-5
+writing [N]: ‘நகை-பணத்தை திருப்பிக்கேட்டதால் தீர்த்துக்கட்டிய கள்ளக்காதலன
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free models unavailable: no free model answered: None
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 6 problems
-  reel_script says the court ordered Udumalai private hospital to pay compensation, while the article says the hospital management is to pay; the draft implies a different party is responsible in the reel_script — actually consistent; however the reel_script states the amputation was 'due to incorrect treatment' (தவறான சிகிச்சையால்) in the first sentence, while the article only says the case concerns wrong treatment and the court-ordered payment is from the hospital; this is consistent, so no issue there
-  reel_script says 'கோவையிலுள்ள தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார்' without the article's detail that the surgery happened there; this matches the article
-  slides_spec line 'உடுமலை தனியார் மருத்துவமனையில் உரிய சிகிச்சை இல்லை' ('no proper treatment at Udumalai private hospital') overstates the article, which says only that proper treatment was not given there, and the wording 'இல்லை' (did not exist) is a slight change of meaning
-  slides_spec and reel_script omit that the injury was a road accident on a two-wheeler and that he is a 'கூலித் தொழிலாளி' only in some places; the reel_script does mention கூலித் தொழிலாளி, so no omission here
-  slides_spec contains a raw '<b>' HTML tag inside a line, which is markup rather than Tamil text
-  caption states the victim is 'தினேஷ்குமார் (24 வயது)' and the English hashtag line 'Udumalaipettai leg amputation compensation Rs 35 lakh' introduces 'Udumalaipettai', a place name not in the article
-claude rewrite 1 anthropic/claude-haiku-5-5: 6 problems
-  fact-check: reel_script says the court ordered Udumalai private hospital to pay compensation, while the article says the hospital management is to pay; the draft implies a different party is responsible in the reel_script — actually consistent; however the reel_script states the amputation was 'due to incorrect treatment' (தவறான சிகிச்சையால்) in the first sentence, while the article only says the case concerns wrong treatment and the court-ordered payment is from the hospital; this is consistent, so no issue there
-  fact-check: reel_script says 'கோவையிலுள்ள தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார்' without the article's detail that the surgery happened there; this matches the article
-  fact-check: slides_spec line 'உடுமலை தனியார் மருத்துவமனையில் உரிய சிகிச்சை இல்லை' ('no proper treatment at Udumalai private hospital') overstates the article, which says only that proper treatment was not given there, and the wording 'இல்லை' (did not exist) is a slight change of meaning
-  fact-check: slides_spec and reel_script omit that the injury was a road accident on a two-wheeler and that he is a 'கூலித் தொழிலாளி' only in some places; the reel_script does mention கூலித் தொழிலாளி, so no omission here
-  fact-check: slides_spec contains a raw '<b>' HTML tag inside a line, which is markup rather than Tamil text
-  fact-check: caption states the victim is 'தினேஷ்குமார் (24 வயது)' and the English hashtag line 'Udumalaipettai leg amputation compensation Rs 35 lakh' introduces 'Udumalaipettai', a place name not in the article
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
   sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 7 problems
-  reel_script says the 24-year-old's left leg was amputated after a road accident and that he was admitted to Udumalai private hospital for treatment, but the article says the amputation was done at a Coimbatore private hospital — the reel_script omits that the leg was removed in Coimbatore, which is a key fact
-  slides_spec headline 'உடுமலையில் தவறான சிகிச்சையால் கால்' and slide 1 line 'உடுமலை தனியார் மருத்துவமனையின் தவறான சிகிச்சையால் இளைஞரின்' attribute the wrong treatment to the Udumalai private hospital's staff, whereas the article's amputation (the wrong treatment outcome) took place at the Coimbatore hospital; the Udumalai hospital was where care was inadequate, so the attribution conflates two facts
-  slides_spec slide 1 line 'உடுமலை தனியார் மருத்துவமனையின் தவறான சிகிச்சையால் இளைஞரின்' is an incomplete sentence that does not form clear Tamil meaning
-  slides_spec slide 2 line 'பின்னர் உடுமலை தனியார் மருத்துவமனையில் அனுமதி; உரிய' is cut off mid-sentence and has no clear meaning
-  slides_spec slide 2 line 'கோவை தனியார் மருத்துவமனையில் 30 நவம்பர் 2023 அன்று' is cut off and missing the verb (the amputation/அகற்றம்)
-  slides_spec slide 1 line '2023 நவம்பரில் இருசக்கர வாகன விபத்தில் இடது காலில் பலத்த' is cut off mid-sentence and incomplete
-  slides_spec slide 3 line '85 சதவீத மாற்றுத்திறனாளியாக மாறினார்' lacks its subject (the 24-year-old) in the slide, making it unclear who became disabled
+  The article does not mention a 'Tamil Nadu' or 'Tiruppur' location beyond Madathukulam; caption hashtag-like English line 'Tirupur news' is in the body, not footer (minor, but not in article)
+  Caption says 'மக்கள் கவனத்திற்கு: நோய் அறிகுறி தெரிந்தவுடன் கால்நடை மருத்துவரை உடனே அணுகுங்கள்' — an advisory line not present in the article
+  Caption contains English text 'Veterinary awareness camp Cholamadevi Madathukulam' not supported as an article claim and is an invented addition to the body
+  Reel script omits the participation of the ten named final-year agriculture students (Anjimaa, Divyasri, etc.), who are an important part of the article's 'who did what' even if not all names are required
+  Slide 2 title 'மாடுகளுக்கான' is an incomplete/ungrammatical heading fragment with no clear meaning
+  Slide 3 title 'கோழி' is an incomplete heading with no clear meaning as a Tamil phrase
+  Slide 2 line 'முன்னெச்சரிக்கை நடவடிக்கைகள் குறித்தும் விளக்கம்' and similar bullet lines are grammatically clipped, lacking a clear subject-verb structure
 claude rewrite 2 anthropic/claude-haiku-5-5: 7 problems
-  fact-check: reel_script says the 24-year-old's left leg was amputated after a road accident and that he was admitted to Udumalai private hospital for treatment, but the article says the amputation was done at a Coimbatore private hospital — the reel_script omits that the leg was removed in Coimbatore, which is a key fact
-  fact-check: slides_spec headline 'உடுமலையில் தவறான சிகிச்சையால் கால்' and slide 1 line 'உடுமலை தனியார் மருத்துவமனையின் தவறான சிகிச்சையால் இளைஞரின்' attribute the wrong treatment to the Udumalai private hospital's staff, whereas the article's amputation (the wrong treatment outcome) took place at the Coimbatore hospital; the Udumalai hospital was where care was inadequate, so the attribution conflates two facts
-  fact-check: slides_spec slide 1 line 'உடுமலை தனியார் மருத்துவமனையின் தவறான சிகிச்சையால் இளைஞரின்' is an incomplete sentence that does not form clear Tamil meaning
-  fact-check: slides_spec slide 2 line 'பின்னர் உடுமலை தனியார் மருத்துவமனையில் அனுமதி; உரிய' is cut off mid-sentence and has no clear meaning
-  fact-check: slides_spec slide 2 line 'கோவை தனியார் மருத்துவமனையில் 30 நவம்பர் 2023 அன்று' is cut off and missing the verb (the amputation/அகற்றம்)
-  fact-check: slides_spec slide 1 line '2023 நவம்பரில் இருசக்கர வாகன விபத்தில் இடது காலில் பலத்த' is cut off mid-sentence and incomplete
-  fact-check: slides_spec slide 3 line '85 சதவீத மாற்றுத்திறனாளியாக மாறினார்' lacks its subject (the 24-year-old) in the slide, making it unclear who became disabled
+  fact-check: The article does not mention a 'Tamil Nadu' or 'Tiruppur' location beyond Madathukulam; caption hashtag-like English line 'Tirupur news' is in the body, not footer (minor, but not in article)
+  fact-check: Caption says 'மக்கள் கவனத்திற்கு: நோய் அறிகுறி தெரிந்தவுடன் கால்நடை மருத்துவரை உடனே அணுகுங்கள்' — an advisory line not present in the article
+  fact-check: Caption contains English text 'Veterinary awareness camp Cholamadevi Madathukulam' not supported as an article claim and is an invented addition to the body
+  fact-check: Reel script omits the participation of the ten named final-year agriculture students (Anjimaa, Divyasri, etc.), who are an important part of the article's 'who did what' even if not all names are required
+  fact-check: Slide 2 title 'மாடுகளுக்கான' is an incomplete/ungrammatical heading fragment with no clear meaning
+  fact-check: Slide 3 title 'கோழி' is an incomplete heading with no clear meaning as a Tamil phrase
+  fact-check: Slide 2 line 'முன்னெச்சரிக்கை நடவடிக்கைகள் குறித்தும் விளக்கம்' and similar bullet lines are grammatically clipped, lacking a clear subject-verb structure
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('இதையடுத்து அவர்கள் 3 பேரும் சேர்ந்து பேசிக்கொண்டு இருந்தனர்.'); 2 ('வாய்க்காலில் தண்ணீர் அதிகமாக சென்றதால், அவர் தண்ணீரில் மூழ்க'); 108 ('பின்னர், 108 ஆம்புலன்ஸ் மூலம் பொள்ளாச்சி அரசு ஆஸ்பத்திரிக்கு'); 108 ('இதில் அவர் தண்ணீரில் மூழ்கி பரிதாபமாக இறந்துவிட்டார்..வாக்கு')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has 97 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('ஜானகி வேலை பார்த்த அதே பள்ளியில் சாதனா பிளஸ்-2 படித்து வந்தா'); 2 ('மகளுக்கு எந்தக் குறையும் தெரியாமல் பார்த்துக் கொண்டார்.சாதனா')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 5 problems
-  Reel script says the 11 poles 'have been planted' as a fact and the headline says 'without permission' for 11 poles, but the article says the water resources department complained about unauthorized poles; the number 11 is stated as confirmed fact, which is consistent, but the reel script's first sentence says 'நடப்பட்டுள்ளன' and frames the complaint as a finding — minor framing, not an error.
-  Date error: the article says the complaint was made on 'கடந்த 14-ஆம் தேதி' (the 14th of the past/last month), but the draft states 'நவம்பர் 14ஆம் தேதி' (November 14) in both reel_script and caption, adding a specific month the article does not state.
-  Caption says the contractor damaged the canal bank 'at 20.160 கி.மீ. பகுதியில்', but the article gives 20.160 km as the branch channel's section for the branch that branches off, while the damage is described at the 1.060 km section of the distributary channel; the two different locations are mixed into one sentence.
-  Reel script omits that the water resources department complaint was filed on the 14th-day date context and omits the 1.060 km distributary location, which is an important detail of where the damage occurred.
-  Caption's line 'அதிகாரிகளின் கள ஆய்வில் தெரியவந்துள்ளது' is attached to the contractor's damage and the pole installation together, which is acceptable, but the caption's sentence structure merges the damage and the 11 poles with the 20.160 km location into one ambiguous sentence.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: Reel script says the 11 poles 'have been planted' as a fact and the headline says 'without permission' for 11 poles, but the article says the water resources department complained about unauthorized poles; the number 11 is stated as confirmed fact, which is consistent, but the reel script's first sentence says 'நடப்பட்டுள்ளன' and frames the complaint as a finding — minor framing, not an error.
-  fact-check: Date error: the article says the complaint was made on 'கடந்த 14-ஆம் தேதி' (the 14th of the past/last month), but the draft states 'நவம்பர் 14ஆம் தேதி' (November 14) in both reel_script and caption, adding a specific month the article does not state.
-  fact-check: Caption says the contractor damaged the canal bank 'at 20.160 கி.மீ. பகுதியில்', but the article gives 20.160 km as the branch channel's section for the branch that branches off, while the damage is described at the 1.060 km section of the distributary channel; the two different locations are mixed into one sentence.
-  fact-check: Reel script omits that the water resources department complaint was filed on the 14th-day date context and omits the 1.060 km distributary location, which is an important detail of where the damage occurred.
-  fact-check: Caption's line 'அதிகாரிகளின் கள ஆய்வில் தெரியவந்துள்ளது' is attached to the contractor's damage and the pole installation together, which is acceptable, but the caption's sentence structure merges the damage and the 11 poles with the 20.160 km location into one ambiguous sentence.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  hl1 (the first headline on screen) must name the place 'உடுமலை', e.g. 'உடுமலை: ...' or 'உடுமலை-இல் ...' - viewers share news of their own area
+  Reel_script and slide 3 say poultry diseases were explained; article only mentions 'கோழிகளைப் பாதிக்கும் பொதுவான நோய்கள்' — acceptable, but the caption says the doctors explained the diseases of poultry in the same breath as cattle disease prevention (mixed, not a factual error).
+  Reel_script omits the name of the agricultural college students who took part (Anjima, Divyasri, etc.), an important participant detail of the article; the caption includes them but the reel does not.
+  Slide 4 line 'உரிய நேரத்தில் கால்நடை மருத்துவரை அணுக வேண்டும்' is stated as a directive, while the article only says the importance of approaching a veterinarian in time was explained; minor overstatement.
+  Slide 1 line 'வாணவராயர் வேளாண் கல்லூரியின் ஊரக வேளாண் பணி' omits 'அனுபவத் திட்டம்' (experience programme), leaving the program name incomplete and unclear.
+  Slide 2 line 'முன்னெச்சரிக்கை நடவடிக்கைகள் குறித்தும் கூறப்பட்டது' is attached to the cattle-disease slide, while the article places it with the cattle disease prevention point; acceptable but the caption's mixed phrasing ('மடிநோய், வெறி நாய்க்கடி நோய் தடுப்பு மற்றும் முன்னெச்சரிக்கை நடவடிக்கைகள்') is grammatically awkward for Tamil.
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: Reel_script and slide 3 say poultry diseases were explained; article only mentions 'கோழிகளைப் பாதிக்கும் பொதுவான நோய்கள்' — acceptable, but the caption says the doctors explained the diseases of poultry in the same breath as cattle disease prevention (mixed, not a factual error).
+  fact-check: Reel_script omits the name of the agricultural college students who took part (Anjima, Divyasri, etc.), an important participant detail of the article; the caption includes them but the reel does not.
+  fact-check: Slide 4 line 'உரிய நேரத்தில் கால்நடை மருத்துவரை அணுக வேண்டும்' is stated as a directive, while the article only says the importance of approaching a veterinarian in time was explained; minor overstatement.
+  fact-check: Slide 1 line 'வாணவராயர் வேளாண் கல்லூரியின் ஊரக வேளாண் பணி' omits 'அனுபவத் திட்டம்' (experience programme), leaving the program name incomplete and unclear.
+  fact-check: Slide 2 line 'முன்னெச்சரிக்கை நடவடிக்கைகள் குறித்தும் கூறப்பட்டது' is attached to the cattle-disease slide, while the article places it with the cattle disease prevention point; acceptable but the caption's mixed phrasing ('மடிநோய், வெறி நாய்க்கடி நோய் தடுப்பு மற்றும் முன்னெச்சரிக்கை நடவடிக்கைகள்') is grammatically awkward for Tamil.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('இதையடுத்து அவர்கள் 3 பேரும் சேர்ந்து பேசிக்கொண்டு இருந்தனர்.'); 2 ('வாய்க்காலில் தண்ணீர் அதிகமாக சென்றதால், அவர் தண்ணீரில் மூழ்க'); 6 ('அதில், கடந்த 6 ஆண்டுகளுக்கு முன்பு எனக்கும், கீதாவுக்கும் பழ')
 ok anthropic/claude-haiku-5-5
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('திட்ட வெள்ளக்கோவில் கிளை வாய்க்கால் சரகம் 20.160 கி.மீ.'); 160 ('திட்ட வெள்ளக்கோவில் கிளை வாய்க்கால் சரகம் 20.160 கி.மீ.')
+  reel_script has 186 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('இதையடுத்து அவர்கள் 3 பேரும் சேர்ந்து பேசிக்கொண்டு இருந்தனர்.'); 2 ('வாய்க்காலில் தண்ணீர் அதிகமாக சென்றதால், அவர் தண்ணீரில் மூழ்க')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
-images made: 2 for 'Tirupur: Vidya Vikashini school wins dis'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1419","first":"RN-125"}
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Tirupur Semmandampalayam: daughter dies '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1836","first":"RN-128"}
 posting job started at once
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
+writing [N]: தலையே சரியில்லையா? 9 பள்ளி மாணவிகளுக்கு பாலியல் தொல்லை! திரு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+real photo: vision check resting (free quota busy)
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('திருவெண்ணெய்நல்லூரில் தலைமை ஆசிரியர் கைது!') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  reel_script has numbers without their meaning (3, 4); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  hl1 (the first headline on screen) must name the place 'திருவெண்ணெய்நல்லூர்', e.g. 'திருவெண்ணெய்நல்லூர்: ...' or 'திருவெண்ணெய்நல்லூர்-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has numbers without their meaning (3, 4); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('திருவெண்ணெய்நல்லூரில் தலைமை ஆசிரியர் கைது!') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  reel_script has numbers without their meaning (3, 4); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  slides_spec.loc 'விழுப்புரம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
-images made: 2 for '11 high-tension poles set up without per'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1420","first":"RN-126"}
-real photo skipped (photo uploaded 2026-09-20 (older than the news)): https://media.dinamani.com/dinamani/2026-09-20/4r2g94s1/Court-judge-judicial-ANI-edi.jpg
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
-images made: 2 for 'Youth's leg amputated after wrong treatm'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1420","first":"RN-127"}
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+images made: 2 for 'Livestock health camp held in Sozhamadhe'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1837","first":"RN-129"}
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Udumalaipettai area woman murder: lover '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1837","first":"RN-130"}
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Headmaster arrested for sexually harassi'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1838","first":"RN-131"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vidhya-vikashini-school-wins-district-volleyball-tournament/4379860
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/unauthorized-installation-of-high-voltage-electricity-poles-along-the-pap-canal-bank
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/case-of-a-young-mans-leg-being-amputated-due-to-improper-treatment-consumer-court-orders-payment-of-rs-3568-lakh-as-compensation
-candidate filter: collected=3
-to write: 3 Tirupur district candidates (max 3 stories)
-round: top 3 of 3 candidates
-candidates waiting: 3 Tirupur; time left 79 min
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+manual link added: https://tamil.oneindia.com/news/villupuram/government-school-head-master-booked-under-pocso-act-for-misbehaving-9-girl-students-846657.html
+manual link added: https://www.dailythanthi.com/news/tamilnadu/the-thief-who-killed-the-woman-after-demanding-her-return-of-the-jewelry-and-money-sensational-news-in-the-murder-of-the-woman
+manual link added: https://tamil.oneindia.com/news/tiruppur/40-year-old-geetha-from-tiruppur-had-3-husbands-and-1-male-friend-her-life-ends-in-canal-tragedy-846625.html
+manual link added: https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-daughter-return-to-the-same-railway-track-where-her-father-took-her-6-months-ago-846631.html
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/veterinary-awareness-camp/4380474
+candidate filter: collected=5
+to write: 5 Tirupur district candidates (max 5 stories)
+round: top 5 of 5 candidates
+candidates waiting: 5 Tirupur; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
+try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-da
+try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/40-year-old-geetha-
+NOT filed (N) 40 வயது திருப்பூர் கீதாவுக்கு 3 கணவன்கள்.. 1 ஆண் ந: duplicate after write
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/the-thief-who-ki
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
+try (N) manual=True: https://tamil.oneindia.com/news/villupuram/government-school
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min
-filed: 3 Tirupur district stories (target 3), reels only
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 74 min
+filed: 4 Tirupur district stories (target 5), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":3,"updated":0} 
-stories: 3
+All News sheet: {"ok":true,"added":5,"updated":0} 
+stories: 4

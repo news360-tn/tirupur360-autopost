@@ -3,113 +3,98 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vidhya-vikashini-school-wins-district-volleyball-tournament/4379860",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/unauthorized-installation-of-high-voltage-electricity-poles-along-the-pap-canal-bank",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/case-of-a-young-mans-leg-being-amputated-due-to-improper-treatment-consumer-court-orders-payment-of-rs-3568-lakh-as-compensation",
-  "candidate filter: collected=3",
-  "to write: 3 Tirupur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "manual link added: https://tamil.oneindia.com/news/villupuram/government-school-head-master-booked-under-pocso-act-for-misbehaving-9-girl-students-846657.html",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/the-thief-who-killed-the-woman-after-demanding-her-return-of-the-jewelry-and-money-sensational-news-in-the-murder-of-the-woman",
+  "manual link added: https://tamil.oneindia.com/news/tiruppur/40-year-old-geetha-from-tiruppur-had-3-husbands-and-1-male-friend-her-life-ends-in-canal-tragedy-846625.html",
+  "manual link added: https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-daughter-return-to-the-same-railway-track-where-her-father-took-her-6-months-ago-846631.html",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/veterinary-awareness-camp/4380474",
+  "candidate filter: collected=5",
+  "to write: 5 Tirupur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-da",
+  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/40-year-old-geetha-",
+  "NOT filed (N) 40 வயது திருப்பூர் கீதாவுக்கு 3 கணவன்கள்.. 1 ஆண் ந: duplicate after write",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/the-thief-who-ki",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://tamil.oneindia.com/news/villupuram/government-school",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
-  "filed: 3 Tirupur district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 74 min",
+  "filed: 4 Tirupur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (32s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok gemini/gemini-3-flash-preview (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -117,185 +102,278 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர்: மாவட்ட வாலிபால் போட்டியில் வித்ய விகாஷினி பள்ளி வெற்றி",
-   "english_headline": "Tirupur: Vidya Vikashini school wins district-level volleyball, qualifies for state-level matches",
-   "category": "Education",
-   "location": "Tirupur district",
-   "importance": "Low",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பள்ளி விளையாட்டு",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர்: வாலிபால் போட்டியில் வெற்றி",
-    "hl2": "மாநில அளவுக்குத் தகுதி",
-    "slides": [
-     {
-      "title": "போட்டி எங்கே?",
-      "lines": [
-       "திருப்பூர் மாவட்ட அளவிலான வாலிபால் போட்டி",
-       "ஏ.வி.பி பள்ளியில் நடைபெற்றது"
-      ]
-     },
-     {
-      "title": "யார் வெற்றி?",
-      "lines": [
-       "வித்ய விகாஷினி பள்ளியின் மிக மூத்தோர் பிரிவு அணி",
-       "திருப்பூர் தெற்கு குறுமையம் சார்பாகப் பங்கேற்றது"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "மாவட்ட அளவில் வெற்றி பெற்று மாநில அளவுக்குத் தகுதி",
-       "பள்ளியின் தாளாளர், நிர்வாக அதிகாரி, முதல்வர் பாராட்டு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாவட்ட அளவிலான வாலிபால் போட்டியில் வித்ய விகாஷினி பள்ளி அணி வெற்றி பெற்றது. இந்தப் போட்டி ஏ வி பி பள்ளியில் நடைபெற்றது. திருப்பூர் தெற்கு குறுமையம் சார்பாக, வித்ய விகாஷினி பள்ளியின் மிக மூத்தோர் பிரிவு அணியினர் பங்கேற்றனர். மாவட்ட அளவில் வெற்றி பெற்ற இந்த அணி, மாநில அளவிலான போட்டிகளுக்குத் தகுதி பெற்றுள்ளது. வெற்றி பெற்ற மாணவர்களை பள்ளியின் தாளாளர், நிர்வாக அதிகாரி, செயலாளர், துணை நிர்வாக அதிகாரி, முதல்வர், ஆசிரியர்கள் மற்றும் மாணவர்கள் வெகுவாகப் பாராட்டினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏐 திருப்பூர்: வாலிபால் போட்டியில் வித்ய விகாஷினி பள்ளி மாநில அளவுக்குத் தகுதி\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்ட அளவிலான வாலிபால் போட்டிகள் ஏ.வி.பி பள்ளியில் நடைபெற்றன. திருப்பூர் தெற்கு குறுமையம் சார்பாக, வித்ய விகாஷினி பள்ளியின் மிக மூத்தோர் பிரிவு அணியினர் பங்கேற்று மாவட்ட அளவில் வெற்றி பெற்றனர். இதன் மூலம் மாநில அளவிலான போட்டிகளுக்குத் தகுதி பெற்றனர். வெற்றி பெற்ற மாணவர்களை பள்ளியின் தாளாளர், நிர்வாக அதிகாரி, செயலாளர், துணை நிர்வாக அதிகாரி, முதல்வர், ஆசிரியர்கள் மற்றும் மாணவர்கள் வெகுவாகப் பாராட்டினர்.\n\nTirupur district volleyball Vidya Vikashini school qualifies for state | Tirupur news\n📍 ஏ.வி.பி பள்ளி, திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tirupur வாலிபால்",
-   "prompts": "A team of school students in white sports shirts and shorts celebrates on a volleyball court inside a school campus in Tirupur, with a volleyball net stretched across the court and a ball lying on the floor. Several students are jumping and raising their arms in victory, seen from behind and at a distance so no faces are visible. Around the court, a few teachers in sarees and shirts stand on the sidelines clapping, and some school officials in formal attire watch from a small group near the edge. The setting is a school ground in Tirupur city, with a low school building with plain walls and a few trees in the background, and the outskirts of the city visible beyond. It is bright daytime with clear sunlight casting sharp shadows on the court. Taken at eye level, 35 mm, wide enough to show the court, the net and the celebrating group. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a volleyball lying on the painted white lines of a school volleyball court, with the net's edge and its pole visible in the background. The ball shows the wear of a tournament match and the court surface is dusty and sunlit. Beyond the net, a few blurred student legs in sports shoes and white shorts are visible, and the figures stand far from the camera. It is daytime in Tirupur with strong natural light. Taken from a low angle, 35 mm, focusing sharply on the ball and the court lines, with the background softly out of focus. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vidhya-vikashini-school-wins-district-volleyball-tournament/4379860",
-   "published": "2026-11-18T19:37:09+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078165/tirupur360/od6qk604th1lbhcsc8a8.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078180/tirupur360/sbgw7eizrniypox49v2r.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வெள்ளக்கோவில் அருகே பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி 11 உயர்மின் கம்பங்கள்",
-   "english_headline": "11 high-tension poles set up without permission on PAP canal bank near Vellakoil; Water Resources Department files complaint",
-   "category": "Civic Issues",
-   "location": "Vellakoil, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அனுமதியற்ற கட்டுமானம்",
-    "loc": "வெள்ளக்கோவில்",
-    "hl1": "வெள்ளக்கோவிலில் அனுமதியின்றி மின்",
-    "hl2": "பி.ஏ.பி. வாய்க்கால் கரையில்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "வெள்ளக்கோவில் அருகே பி.ஏ.பி. வாய்க்கால் கரையில்",
-       "நீர்வளத் துறை காவல் நிலையத்தில் புகார் அளித்துள்ளது",
-       "புகார் அளித்தும் இதுவரை நடவடிக்கை இல்லை"
-      ]
-     },
-     {
-      "title": "யார், எங்கே?",
-      "lines": [
-       "டாடா பவர் நிறுவனத்தின் ஒப்பந்ததாரர் ஜெயராம் என்பவர்",
-       "வெள்ளக்கோவில் கிளை வாய்க்கால் 20.160 கி.மீ. பகுதியில்",
-       "காற்றாலையிலிருந்து மின்சாரம் கடத்த வாய்க்கால் கரையில் 11"
-      ]
-     },
-     {
-      "title": "அதிகாரிகள்",
-      "lines": [
-       "ஒப்பந்ததாரர் மீது வழக்குப் பதிவு செய்ய வேண்டும்",
-       "ஆக்கிரமிப்பு மின் கம்பங்களை அகற்றும்போது காவல் துறை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வெள்ளக்கோவில் அருகே பி ஏ பி வாய்க்கால் கரையில் 11 உயர்மின் கம்பங்கள் அனுமதியின்றி அமைக்கப்பட்டுள்ளன. இது குறித்து நீர்வளத் துறை காவல் நிலையத்தில் புகார் அளித்துள்ளது. வெள்ளக்கோவில் பாசனப் பிரிவு எண். 2 உதவிப் பொறியாளர் க.குகன் இந்தப் புகாரை அளித்துள்ளார். டாடா பவர் நிறுவனத்தின் ஒப்பந்ததாரர் ஜெயராம் என்பவர், நீர்வளத் துறையின் முன் அனுமதி பெறாமல் வாய்க்கால் கரையைச் சேதப்படுத்தியதாக புகாரில் கூறப்பட்டுள்ளது. வெள்ளக்கோவில் கிளை வாய்க்காலின் 20.160 கிலோமீட்டர் பகுதியில் பிரியும் பகிர்மான வாய்க்காலின் 1.060 கிலோமீட்டர் பகுதியில் இச்சம்பவம் நடந்துள்ளது. காற்றாலையிலிருந்து மின்சாரம் கடத்துவதற்காக வாய்க்கால் கரையில் 11 உயர்மின் கம்பங்கள் நடப்பட்டிருப்பதை அதிகாரிகளின் கள ஆய்வில் கண்டறிந்துள்ளனர். கடந்த 14ஆம் தேதி புகார் அளித்தும் இதுவரை நடவடிக்கை எடுக்கப்படவில்லை. அரசு சொத்தான வாய்க்கால் கரையைச் சேதப்படுத்திய ஒப்பந்ததாரர் மீது வழக்குப் பதிவு செய்ய வேண்டும் என நீர்வளத் துறை கோரியுள்ளது. ஆக்கிரமிப்பு மின் கம்பங்களை அகற்றும்போது சட்டம்-ஒழுங்கு பிரச்னை வராமல் இருக்க காவல் துறை பாதுகாப்பு வழங்க வேண்டும் என்றும் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வெள்ளக்கோவில் அருகே பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி 11 உயர்மின் கம்பங்கள்\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் அருகே பரம்பிக்குளம் - ஆழியாறு திட்ட (பி.ஏ.பி.) வாய்க்கால் கரையில் அனுமதியின்றி உயர்மின் கம்பங்கள் அமைக்கப்பட்டுள்ளன.\nடாடா பவர் நிறுவனத்தின் ஒப்பந்ததாரர் ஜெயராம் என்பவர், நீர்வளத் துறையின் முன் அனுமதி பெறாமல் வாய்க்கால் கரையைச் சேதப்படுத்தியுள்ளார்.\nகாற்றாலையிலிருந்து மின்சாரம் கடத்துவதற்காக வாய்க்கால் கரையில் 11 உயர்மின் கம்பங்கள் நடப்பட்டுள்ளன என அதிகாரிகளின் கள ஆய்வில் கண்டறியப்பட்டுள்ளது.\nகடந்த 14ஆம் தேதி புகார் அளித்தும் இதுவரை நடவடிக்கை எடுக்கப்படவில்லை.\nஒப்பந்ததாரர் மீது வழக்குப் பதிவு செய்ய வேண்டும்; ஆக்கிரமிப்பு மின் கம்பங்களை அகற்றும்போது காவல் துறை பாதுகாப்பு வழங்க வேண்டும் என நீர்வளத் துறை கோரியுள்ளது.\n\n📍 இடம்: வெள்ளக்கோவில் கிளை வாய்க்கால் 20.160 கி.மீ. பகுதியில் பிரியும் பகிர்மான வாய்க்காலின் 1.060 கி.மீ. பகுதி\n📞 புகார்: நீர்வளத் துறை, வெள்ளக்கோவில் பாசனப் பிரிவு எண். 2 (உதவிப் பொறியாளர் க.குகன்)\n\nVellakoil 11 high-tension poles on PAP canal bank without permission | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
-   "prompts": "A row of tall steel high-tension electric poles stands along the raised earthen bank of the PAP irrigation canal near Vellakoil, Tirupur district, as a few workers in lungis and shirts stand at the base of one pole with a cable reel. The canal runs straight beside the bank, its water low and grey between concrete-lined walls. Dry scrubland, palm trees and a few windmill blades turning on the distant skyline mark the rural outskirts of the town. Two Water Resources Department officials in shirts and trousers stand at a distance, seen from behind, inspecting the bank where the earth looks cut and disturbed. Eleven poles stretch in a line along the bank toward the windmills. It is bright midday daylight with a clear sky and no rain. Camera at eye level, 35 mm, wide enough to show the full line of poles, the canal and the windmills. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the damaged edge of the PAP canal bank where the earth has been gouged and churned by vehicle tyres and digging, exposing raw soil and broken concrete slabs along the canal wall. The base of one tall steel high-tension pole is planted in the disturbed earth beside the water, with cut iron rods and a coil of electric cable lying on the ground. Dry grass and dusty soil fill the foreground, and the still canal water reflects the grey sky in the background. No people are in focus; a pair of worn rubber sandals and a clipboard lie on the bank as a quiet sign of the official inspection. Bright daylight with soft shadows. Camera slightly low, 35 mm, focusing on the damaged bank and the pole base. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/unauthorized-installation-of-high-voltage-electricity-poles-along-the-pap-canal-bank",
-   "published": "2026-11-18T21:59:22.287Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078207/tirupur360/uufx4xofgm8qrp3acfnj.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078211/tirupur360/othuyxlls9jfihq6tevz.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றம்: ரூ.35.68 லட்சம் இழப்பீடு உத்தரவு",
-   "english_headline": "Youth's leg amputated after wrong treatment; consumer court orders Rs 35.68 lakh compensation from Udumalai private hospital",
+   "tamil_headline": "திருப்பூர் செம்மாண்டம்பாளையம்: தந்தை ரெயில் விபத்தில் உயிரிழந்த அதே இடத்தில் மகளும் உயிரிழப்பு",
+   "english_headline": "Tirupur Semmandampalayam: daughter dies on railway track where her father died in a train accident six months earlier",
    "category": "Crime & Safety",
-   "location": "Udumalaipettai, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
+   "location": "Semmandampalayam, Tirupur, Tirupur district",
+   "importance": "High",
+   "scope": "",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "நுகர்வோர் நீதிமன்றம்",
-    "loc": "உடுமலை",
-    "hl1": "தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றம்",
-    "hl2": "ரூ.35.68 லட்சம் இழப்பீடு",
+    "cat": "ரெயில் விபத்து",
+    "loc": "செம்மாண்டம்பாளையம், திருப்பூர்",
+    "hl1": "செம்மாண்டம்பாளையத்தில் தந்தை உயிரிழந்த",
+    "hl2": "6 மாதம் கழித்து சோகம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "2023 நவம்பரில் இருசக்கர வாகன விபத்தில் 24 வயது",
-       "உடுமலை அரசு மருத்துவமனையில் முதலில் சிகிச்சை",
-       "பின்னர் உடுமலை தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார்"
+       "செம்மாண்டம்பாளையத்தைச் சேர்ந்த 16 வயது மாணவி சாதனா",
+       "நேற்று மாலை ரெயில் முன் பாய்ந்து உயிரிழந்தார்",
+       "தந்தை கார்த்திக் 6 மாதங்களுக்கு முன்பு அதே இடத்தில் ரெயில்"
       ]
      },
      {
-      "title": "கால் அகற்றம்",
+      "title": "பின்னணி",
       "lines": [
-       "உடுமலை தனியார் மருத்துவமனையில் சரியான சிகிச்சை",
-       "காலின் நிலை மோசமடைந்தது",
-       "கோவை தனியார் மருத்துவமனையில் <b>2023 நவம்பர் 30</b> அன்று"
+       "சாதனா பிளஸ்-2 படித்து வந்தார்",
+       "தந்தை மறைவுக்குப் பின் அமைதியாக மாறினார்",
+       "தந்தையை இழந்த வேதனையில் இருந்து மீள முடியவில்லை"
       ]
      },
      {
-      "title": "தீர்ப்பு",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "தினேஷ்குமார் 85 சதவீத மாற்றுத்திறனாளி ஆனார்",
-       "மருத்துவமனையின் கவனக்குறைவு என திருப்பூர் நுகர்வோர்",
-       "உடுமலை தனியார் மருத்துவமனை <b>₹35,68,313</b> இழப்பீடு 2"
+       "திருப்பூர் ரெயில்வே போலீசார் விரைந்து சென்றனர்",
+       "உடல் திருப்பூர் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது",
+       "வழக்குப்பதிவு செய்து விசாரணை நடைபெறுகிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலையைச் சேர்ந்த இளைஞரின் கால் தவறான சிகிச்சையால் அகற்றப்பட்டதால், ரூ.35.68 லட்சம் இழப்பீடு வழங்க நுகர்வோர் நீதிமன்றம் உத்தரவிட்டுள்ளது. கூலித் தொழிலாளியான மருள்பட்டியைச் சேர்ந்த தினேஷ்குமார், 24 வயது. 2023 நவம்பர் மாதம் இருசக்கர வாகன விபத்தில் இடது காலில் பலத்த காயமடைந்தார். முதலில் உடுமலை அரசு மருத்துவமனையில் சிகிச்சை பெற்றார். பின்னர் உடுமலையில் உள்ள தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார். அங்கு உரிய சிகிச்சை அளிக்கப்படவில்லை. இதனால் காலின் நிலை மோசமடைந்தது. இதையடுத்து, கோவையில் உள்ள தனியார் மருத்துவமனையில் 2023 நவம்பர் 30ஆம் தேதி இடது கால் முட்டிக்குக் கீழ் அகற்றப்பட்டது. இதனால் அவர் 85 சதவீத மாற்றுத்திறனாளி ஆனார். மருத்துவமனையின் கவனக்குறைவே காரணம் எனக் கூறி, திருப்பூர் மாவட்ட நுகர்வோர் குறைதீர் ஆணையத்தில் வழக்குத் தொடர்ந்தார். விசாரணையில், உடுமலை தனியார் மருத்துவமனை நிர்வாகம் 2 மாதங்களுக்குள் ரூ.35,68,313 இழப்பீடு வழங்க வேண்டும் என நீதிமன்றம் தீர்ப்பளித்தது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ உடுமலையில் தவறான சிகிச்சை: இளைஞரின் கால் அகற்றம், ரூ.35.68 லட்சம் இழப்பீடு உத்தரவு\n\n📰 முழு விவரம்:\nமருள்பட்டியைச் சேர்ந்த 24 வயது கூலித் தொழிலாளி தினேஷ்குமார், 2023 நவம்பர் மாதம் இருசக்கர வாகன விபத்தில் இடது காலில் பலத்த காயமடைந்தார்.\nமுதலில் உடுமலை அரசு மருத்துவமனையில் சிகிச்சை பெற்ற அவர், பின்னர் உடுமலை தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார். அங்கு உரிய சிகிச்சை அளிக்கப்படாததால் காலின் நிலை மோசமடைந்தது.\nகோவையில் உள்ள தனியார் மருத்துவமனையில் 2023 நவம்பர் 30ஆம் தேதி இடது கால் முட்டிக்குக் கீழ் அகற்றப்பட்டது. இதனால் அவர் 85 சதவீத மாற்றுத்திறனாளி ஆனார்.\nமருத்துவமனையின் கவனக்குறைவே காரணம் எனக் கூறி திருப்பூர் மாவட்ட நுகர்வோர் குறைதீர் ஆணையத்தில் வழக்குத் தொடர்ந்தார்.\nவிசாரித்த நுகர்வோர் நீதிமன்றம், உடுமலை தனியார் மருத்துவமனை நிர்வாகம் 2 மாதங்களுக்குள் ரூ.35,68,313 இழப்பீடு வழங்க வேண்டும் என உத்தரவிட்டுள்ளது.\n\nUdumalai wrong treatment leg amputation compensation | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "A private hospital building on a busy street in Udumalaipettai, Tirupur district, with a steady flow of two-wheelers and an autorickshaw passing by its entrance. Several people in shirts and sarees sit on plastic chairs in the outer waiting area, seen from behind and at a distance, some holding folded papers. A hospital staffer in a white coat stands near the glass doors. Typical Tamil Nadu town street with shops, electric poles and a bus shelter in the background. Daylight, overcast and calm. Camera at eye level, 35 mm, wide enough to show the hospital facade and the street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a consumer court hall in Tirupur, with a stack of official case files and a bound judgement document lying open, a wooden gavel-free desk, and a steel water tumbler beside it. In the soft background, two people in shirts and trousers, seen from behind and blurred, sit on a bench. Tamil Nadu government office ambience with a ceiling fan and tube lights. Natural light from a window falls across the papers. Camera slightly high, 35 mm, shallow depth of field focusing on the judgement pages. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/case-of-a-young-mans-leg-being-amputated-due-to-improper-treatment-consumer-court-orders-payment-of-rs-3568-lakh-as-compensation",
-   "published": "2026-11-18T22:00:01.162Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'உடுமலை', e.g. 'உடுமலை: ...' or 'உடுமலை-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "செம்மாண்டம்பாளையத்தில் தந்தை உயிரிழந்த அதே ரெயில் தண்டவாளப் பகுதியில் மகளும் உயிரிழந்த சோகச் சம்பவம் நடந்துள்ளது. செம்மாண்டம்பாளையத்தைச் சேர்ந்த கார்த்திக் 6 மாதங்களுக்கு முன்பு ரெயில் மோதி உயிரிழந்தார். அவரது மகள் சாதனா, 16 வயது மாணவி. சாதனா திருப்பூரில் ஒரு தனியார் பள்ளியில் பிளஸ்-2 படித்து வந்தார். கார்த்திக் தினமும் காலையில் மகளை தண்டவாளத்தைக் கடக்க உதவி பள்ளியில் விட்டுவிட்டுச் செல்வார். தந்தையின் மறைவுக்குப் பின் சாதனா அமைதியாக மாறினார். அப்பா இல்லாமல் இருக்க முடியவில்லை என்று அடிக்கடி கண் கலங்குவார். நேற்று மாலை பள்ளி முடிந்து வீடு திரும்பிய சாதனா, தந்தை உயிரிழந்த அதே தண்டவாளப் பகுதிக்குச் சென்றார். அப்போது டெல்லியிலிருந்து திருவனந்தபுரம் நோக்கிச் சென்ற சூப்பர் பாஸ்ட் எக்ஸ்பிரஸ் ரெயில் வந்தது. அந்த ரெயில் முன் பாய்ந்து சாதனா சம்பவ இடத்திலேயே உயிரிழந்தார். திருப்பூர் ரெயில்வே போலீசார் உடலை மீட்டு திருப்பூர் அரசு மருத்துவமனைக்கு அனுப்பினர். இந்தச் சம்பவம் தொடர்பாக வழக்குப்பதிவு செய்து விசாரணை நடைபெறுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 செம்மாண்டம்பாளையத்தில் தந்தை உயிரிழந்த அதே இடத்தில் மகள் உயிரிழப்பு\n\n📰 முழு விவரம்:\nசெம்மாண்டம்பாளையத்தைச் சேர்ந்த கார்த்திக் 6 மாதங்களுக்கு முன்பு ரெயில் மோதி உயிரிழந்தார். அவரது 16 வயது மகள் சாதனா பிளஸ்-2 படித்து வந்தார். தந்தையின் மறைவுக்குப் பின் அவர் அமைதியாக மாறினார்.\nநேற்று மாலை பள்ளி முடிந்து வீடு திரும்பிய சாதனா, தந்தை உயிரிழந்த அதே ரெயில் தண்டவாளப் பகுதிக்குச் சென்றார். அப்போது டெல்லியிலிருந்து திருவனந்தபுரம் நோக்கிச் சென்ற சூப்பர் பாஸ்ட் எக்ஸ்பிரஸ் ரெயில் மோதி அவர் சம்பவ இடத்திலேயே உயிரிழந்தார்.\n👮 நடவடிக்கை: திருப்பூர் ரெயில்வே போலீசார் உடலை மீட்டு திருப்பூர் அரசு மருத்துவமனைக்கு அனுப்பினர். வழக்குப்பதிவு செய்து விசாரணை நடைபெறுகிறது.\n\nTiruppur Semmandampalayam daughter dies on railway track where father died | Tirupur news\n📍 செம்மாண்டம்பாளையம், திருப்பூர் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Semmandampalayam #TirupurNews #திருப்பூர்",
+   "prompts": "A distant view of a railway track in a residential area of Semmandampalayam, Tirupur, at dusk, where a lone teenage girl in a Tamil Nadu school uniform stands on the rail line from behind, her school bag hanging from one shoulder, while a superfast express train approaches in the far distance. The place is a quiet colony edge: low concrete houses with tiled roofs, a few coconut palms and a dirt path along the embankment, with the bright headlight of the train just visible down the straight track. Two Tamil Nadu railway police personnel in khaki stand at a distance near the embankment, and a few shopkeepers or neighbours watch from far off, seen only as silhouettes. The sky is the soft orange of evening after school hours, with the warm daylight fading. The camera sits at eye level about 35 mm wide, showing the track stretching into the distance so the scene reads clearly as a railway crossing point near homes. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of the steel railway track and wooden sleepers with fine gravel between them, the rails gleaming in the last light of evening, with a single school sandal and a folded school bag lying on the sleepers beside the rail, suggesting a sudden tragedy. Behind the track, a low boundary wall and a dusty roadside edge are blurred, with a glimpse of Tirupur colony houses far in the background. No people are shown in focus; the mood is quiet and still, with the cold shine of the rails in the foreground. Camera is low and close, around 35 mm, with shallow depth of field keeping the background soft. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-daughter-return-to-the-same-railway-track-where-her-father-took-her-6-months-ago-846631.html",
+   "published": "2026-11-19T16:10:29+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078218/tirupur360/mjckfjxxshcenrdv9hoo.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078230/tirupur360/lx4gutbaienien8uwxrw.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093553/tirupur360/fz2m1qaczxggc4ooxjtn.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093586/tirupur360/rghpk0uk7c7jmvcuwtcb.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சோழமாதேவியில் கால்நடை மருத்துவ முகாம்",
+   "english_headline": "Livestock health camp held in Sozhamadhevi near Madathukulam",
+   "category": "Health",
+   "location": "Sozhamadhevi village, Madathukulam, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கால்நடை முகாம்",
+    "loc": "சோழமாதேவி, மடத்துக்குளம்",
+    "hl1": "சோழமாதேவியில் கால்நடை முகாம்",
+    "hl2": "10 மாணவிகள் பங்கேற்றனர்",
+    "slides": [
+     {
+      "title": "முகாம் நடந்த இடம்",
+      "lines": [
+       "சோழமாதேவியில் முகாம் நடைபெற்றது",
+       "மடத்துக்குளம் அருகே உள்ள கிராமம்",
+       "வாணவராயர் கல்லூரி அமைப்பு"
+      ]
+     },
+     {
+      "title": "பங்கேற்பாளர்கள்",
+      "lines": [
+       "10 இறுதியாண்டு மாணவிகள்",
+       "கால்நடைத்துறை டாக்டர்கள்",
+       "கிராமப்புற வளர்ப்போர்"
+      ]
+     },
+     {
+      "title": "கற்றவை",
+      "lines": [
+       "மடிநோய் தடுப்பு முறைகள்",
+       "கோழி நோய் அறிகுறிகள்",
+       "ஆரோக்கியம் பேணும் வழிகள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சோழமாதேவியில் கால்நடை மருத்துவ முகாம் நடைபெற்றது. மடத்துக்குளம் அருகே உள்ள இந்த கிராமத்தில் இந்நிகழ்வு நடந்தது. வாணவராயர் வேளாண் கல்லூரியின் ஊரக வேளாண் பணி அனுபவத்திட்டத்தின் கீழ் இது நடத்தப்பட்டது. கல்லூரியின் 10 இறுதியாண்டு மாணவிகள் இதில் பங்கேற்றனர். கால்நடைத்துறை டாக்டர்களும் முகாமில் இருந்தனர். கால்நடை வளர்ப்போருக்கு மடிநோய் பற்றி விளக்கம் அளிக்கப்பட்டது. வெறி நாய்க்கடி நோய் தடுப்பு முறைகளும் தெரிவிக்கப்பட்டன. கோழிகளைப் பாதிக்கும் பொதுவான நோய்கள் பற்றியும் விளக்கம் அளிக்கப்பட்டது. நோய்த்தடுப்பு மற்றும் பராமரிப்பு முறைகள் குறித்து பேசப்பட்டது. கால்நடைகளின் ஆரோக்கியத்தை பேணும் வழிமுறைகள் சொல்லப்பட்டன. நோய்களை ஆரம்ப நிலையிலேயே கண்டறிவது முக்கியம் என்று தெரிவிக்கப்பட்டது. உரிய காலத்தில் மருத்துவரை அணுக வேண்டும் என்று கேட்டுக்கொள்ளப்பட்டது. கிராமப்புற கால்நடை வளர்ப்போரிடம் மாணவிகள் கலந்துரையாடினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐄 சோழமாதேவியில் கால்நடை மருத்துவ முகாம் - 10 மாணவிகள் பங்கேற்றனர்\n\n📰 முழு விவரம்:\nமடத்துக்குளம் அருகே உள்ள சோழமாதேவியில் கால்நடை மருத்துவம் மற்றும் விழிப்புணர்வு முகாம் நடந்தது. வாணவராயர் வேளாண் கல்லூரியின் ஊரக வேளாண் பணி அனுபவத்திட்டத்தின் கீழ் இந்நிகழ்வு நடைபெற்றது. கல்லூரியின் 10 இறுதியாண்டு மாணவிகள் மற்றும் கால்நடைத்துறை டாக்டர்கள் இதில் பங்கேற்றனர். கால்நடை வளர்ப்போருக்கு மடிநோய் மற்றும் வெறி நாய்க்கடி நோய் தடுப்பு முறைகள் பற்றி விளக்கம் அளிக்கப்பட்டது. கோழிகளைப் பாதிக்கும் நோய்கள், அவற்றின் அறிகுறிகள் மற்றும் பராமரிப்பு முறைகள் குறித்தும் விளக்கம் அளிக்கப்பட்டது. கால்நடைகளின் ஆரோக்கியத்தை பேணும் வழிமுறைகள் மற்றும் நோய் கண்டறிதல் முக்கியத்துவம் பற்றியும் விவசாயிகளுக்கு தெரிவிக்கப்பட்டது.\n\n📍 இடம்: சோழமாதேவி, மடத்துக்குளம், திருப்பூர் மாவட்டம்\n🏫 அமைப்பு: வாணவராயர் வேளாண் கல்லூரி\n👩‍🎓 பங்கேற்பாளர்கள்: 10 இறுதியாண்டு மாணவிகள், கால்நடை டாக்டர்கள்\nℹ️ மக்கள் கவனத்திற்கு: கால்நடை வளர்ப்போர் நோய் தடுப்பு முறைகளை பின்பற்ற வேண்டும்\n\nLivestock health awareness camp in Sozhamadhevi near Madathukulam | Tirupur news\n📍 Sozhamadhevi, Tirupur | 19 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Madathukulam #TirupurNews #திருப்பூர்",
+   "prompts": "A group of young women students in saris and salwar with a white-coat veterinary doctor stand beside a cow and chickens at a village livestock camp in Sozhamadhevi near Madathukulam, Tirupur district. Behind them a few rural farmers, men in shirts and veshti and women in sarees, listen closely while the doctor explains animal health. The setting is an open village ground or a simple community hall with a tin roof, low brick walls, a few palm trees and dry earth under bright daylight. Cattle are tied near a wooden post, and a couple of country chickens are held in a plastic crate. Some farmers are seen from behind, others slightly far away and softly out of focus. The camera is at eye level, shot on 35 mm, wide enough to show the village setting, the camp crowd and the animals together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a veterinary doctor's hands in latex gloves examining the udder of a dairy cow at a village livestock health camp in Madathukulam, Tirupur district. Beside the cow, a farmer in a checked lungi and a student in a salwar kameez watch from behind. On a folding table nearby lie a metal tray, cotton swabs, a few vaccine vials and a stethoscope, with a plastic chicken crate and a cluster of hens in the background. The surroundings are a dusty village yard with a low wall and a palm tree, lit by soft morning sunlight. The camera is at a slightly high angle, shot on 35 mm, focusing on the doctor's hands and the cow's udder while keeping the table and farmers slightly blurred in the background. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/veterinary-awareness-camp/4380474",
+   "published": "2026-11-19T17:00:23+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: numbers not found in the article: 10",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093626/tirupur360/yjmh9igwfph5ip0xfmio.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093630/tirupur360/ko0jkdeswcwcd4q0k2gi.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "உடுமலை அருகே பெண் கொலை: நகை, பணம் திருப்பிக் கேட்டதால் கள்ளக்காதலன் தீர்த்துக்கட்டியதாக வாக்குமூலம்",
+   "english_headline": "Udumalaipettai area woman murder: lover confessed he killed her after she demanded back gold and money",
+   "category": "Crime & Safety",
+   "location": "Kudimangalam, Udumalaipettai taluk, Tirupur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கொலை வழக்கு",
+    "loc": "குடிமங்கலம், உடுமலை",
+    "hl1": "உடுமலை அருகே பெண் கொலை",
+    "hl2": "நகை, பணம் பிரச்சினை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குடிமங்கலம் அருகே அரசூரில் கீதா (33 வயது) கொலை",
+       "வாய்க்காலில் தள்ளப்பட்டு தண்ணீரில் மூழ்கி இறந்தார்",
+       "இவருக்கு வட்டித் தொழில்; கணவரைப் பிரிந்தவர்"
+      ]
+     },
+     {
+      "title": "யார் யார்?",
+      "lines": [
+       "கள்ளக்காதலன் கதிரவன், மெக்கானிக் (கோவை மேட்டுக்கடை)",
+       "நண்பர் சண்முகவேலு (பூராண்டம்பாளையம்)",
+       "சண்முகவேலு தலைமறைவு, போலீஸ் தேடி வருகிறது"
+      ]
+     },
+     {
+      "title": "ஏன் கொலை?",
+      "lines": [
+       "கதிரவன் வாங்கிய நகை, பணத்தை கீதா திருப்பிக் கேட்டார்",
+       "இதனால் தகராறு; கீதா போலீசில் புகாரும் கொடுத்திருந்தார்",
+       "நகை, பணத்துக்காக கொன்றதாக போலீஸ் விசாரணை"
+      ]
+     },
+     {
+      "title": "அடுத்து?",
+      "lines": [
+       "கதிரவன் கைது; கார், செல்போன் பறிமுதல்",
+       "கதிரவன் வாக்குமூலம்: கொலையை மறைக்க தண்ணீரில் தவறி",
+       "இந்த வழக்கில் மேலும் விசாரணை நடைபெறுகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "உடுமலை அருகே நகை, பணம் திருப்பிக் கேட்ட பெண் வாய்க்காலில் தள்ளி கொல்லப்பட்டார். கோவை ரத்தினபுரியைச் சேர்ந்த கீதா, 33 வயது. வட்டித் தொழில் செய்து வந்தவர். கணவரைப் பிரிந்து வாழ்ந்து வந்தார். அவருக்கு 15 வயதில் மகள் உள்ளார். கோவை மேட்டுக்கடையைச் சேர்ந்த மெக்கானிக் கதிரவனுடன் கீதாவுக்குப் பழக்கம் ஏற்பட்டு, அது கள்ளக்காதலாக மாறியது. கதிரவன் கீதாவிடம் வாங்கிய நகை, பணத்தை திருப்பிக் கேட்டதால் அடிக்கடி தகராறு ஏற்பட்டது. கீதா ரத்தினபுரி போலீசில் புகாரும் கொடுத்திருந்தார். நேற்று முன்தினம் காலை, கதிரவன் கீதாவையும் அவரது மகளையும் காரில் குடிமங்கலம் அருகே அரசூருக்கு அழைத்து வந்தார். அங்கு நண்பர் சண்முகவேலுவும் வந்தார். திடீரென கீதாவைத் தாக்கி, பி ஏ பி வாய்க்காலில் தள்ளினர். தண்ணீரில் மூழ்கிய கீதா இறந்தார். போலீசில் சிக்கிக்கொள்வோம் என்ற பயத்தில், இருவரும் கீதாவை மீட்டு 108 ஆம்புலன்ஸில் பொள்ளாச்சி அரசு மருத்துவமனைக்கு கொண்டு சென்றனர். அங்கு டாக்டர்கள் கீதா ஏற்கனவே இறந்துவிட்டதாக தெரிவித்தனர். உடுமலை துணை காவல் கண்காணிப்பாளர் தையல் நாயகி மற்றும் குடிமங்கலம் போலீசார் உடலைக் கைப்பற்றி பிரேத பரிசோதனைக்கு அனுப்பினர். போலீசார் வருவதைப் பார்த்து சண்முகவேலு தப்பி ஓடினார். கதிரவன் கைது செய்யப்பட்டார். நகை, பணத்துக்காக கொலை செய்ததாக அவர் வாக்குமூலம் அளித்தார். கதிரவனின் கார், செல்போன் பறிமுதல் செய்யப்பட்டது. தலைமறைவாக உள்ள சண்முகவேலுவை போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 உடுமலை அருகே பெண் கொலை: நகை, பணம் திருப்பிக் கேட்டதால் தீர்த்துக்கட்டியதாக கள்ளக்காதலன் வாக்குமூலம்\n\n📰 முழு விவரம்:\nகோவை ரத்தினபுரியைச் சேர்ந்த கீதா (33 வயது) வட்டித் தொழில் செய்து வந்தார். கணவரைப் பிரிந்து வாழ்ந்த அவருக்கு 15 வயதில் மகள் உள்ளார். கோவை மேட்டுக்கடையைச் சேர்ந்த மெக்கானிக் கதிரவனுடன் அவருக்குப் பழக்கம் ஏற்பட்டு கள்ளக்காதலாக மாறியது. கதிரவன் கீதாவிடம் வாங்கிய நகை, பணத்தை கீதா திருப்பிக் கேட்டதால் அடிக்கடி தகராறு ஏற்பட்டது. கீதா ரத்தினபுரி போலீசில் புகார் கொடுத்திருந்தார்.\nநேற்று முன்தினம் காலை கதிரவன் கீதாவையும் அவரது மகளையும் காரில் கோவை கவுண்டம்பாளையம் தியேட்டரில் படம் பார்த்த பிறகு, குடிமங்கலம் அருகே அரசூருக்கு அழைத்து வந்தார். நண்பர் சுல்தான்பேட்டை அருகே பூராண்டம்பாளையத்தைச் சேர்ந்த சண்முகவேலுவை அங்கு வரவழைத்தார். மூவரும் சேர்ந்து பேசிக்கொண்டிருந்தனர். திடீரென கதிரவனும் சண்முகவேலுவும் சேர்ந்து கீதாவைத் தாக்கி, பி.ஏ.பி. வாய்க்காலில் தள்ளினர். வாய்க்காலில் தண்ணீர் அதிகமாகச் சென்றதால் அவர் தண்ணீரில் மூழ்கினார்.\nபோலீசில் சிக்கிக்கொள்வோம் என்ற அச்சத்தில் இருவரும் சேர்ந்து கீதாவை மீட்டு, 108 ஆம்புலன்ஸ் மூலம் பொள்ளாச்சி அரசு மருத்துவமனைக்கு கொண்டு சென்றனர். அவருடன் மகளும் சென்றார். அங்கு கீதா ஏற்கனவே இறந்துவிட்டதாக டாக்டர்கள் தெரிவித்தனர். உடுமலை துணை காவல் கண்காணிப்பாளர் தையல் நாயகி மற்றும் குடிமங்கலம் போலீசார் உடலைக் கைப்பற்றி பிரேத பரிசோதனைக்கு அனுப்பினர். போலீசார் வருவதைப் பார்த்த சண்முகவேலு தப்பி ஓடினார். கதிரவன் பிடிபட்டு விசாரிக்கப்பட்டார்.\nகதிரவன் போலீசில் அளித்த வாக்குமூலத்தில், அவர் கீதாவிடம் வாங்கிய பணம், நகையைத் திருப்பித் தர முடியவில்லை என்றும், அதனால் கீதா தொல்லை கொடுத்ததால் ஆத்திரமடைந்து சண்முகவேலுவுடன் சேர்ந்து கொலை செய்ய முடிவு செய்ததாகவும் கூறினார். கீதாவை அரசூருக்கு காரில் அழைத்து வந்து அடித்து வாய்க்காலில் தள்ளியதாகவும், கீதா தண்ணீரில் மூழ்கி இறந்ததாகவும் கூறினார். பின்னர் கீதா தண்ணீரில் தவறி விழுந்ததாக 108 ஆம்புலன்ஸுக்கு தகவல் தெரிவித்ததாகவும் அவர் ஒப்புக்கொண்டார். கதிரவனைக் கைது செய்து, அவரது கார், செல்போனைப் பறிமுதல் செய்தனர். தலைமறைவாக உள்ள சண்முகவேலுவை போலீசார் தேடி வருகின்றனர்.\n\nUdumalaipettai woman murder, lover confesses over gold money | Tirupur news\n📍 குடிமங்கலம், உடுமலை, திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #கொலை #TirupurNews",
+   "prompts": "A police team in khaki stands on the concrete bank of the Parambikulam-Aliyar Project (PAP) irrigation canal near Kudimangalam in Udumalaipettai taluk, Tirupur district, while a rescue-stretcher and a white-and-red 108 ambulance are parked on the dirt road nearby. Fast-flowing brown canal water runs between the concrete walls, with coconut trees and open farmland stretching behind. Two or three policemen in khaki uniforms, seen from behind and at a distance, look toward the water as local villagers in plain shirts and veshti stand back at the roadside. A parked car is visible at the edge of the road, and the morning daylight is soft and overcast. The camera sits at eye level, 35 mm, wide enough to show the canal, the bank, the ambulance and the rural road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the concrete edge of an irrigation canal where the water rushes past, with a few strands of a woman's dupatta-style cloth and a wet sandal lying on the dry mud of the bank. In the background, slightly blurred, a khaki-uniformed police officer's shoes and trouser legs stand on the bank beside a small heap of gold bangles and a bundle of cash laid on a plastic sheet, evidence from the case. Morning light, overcast sky, the sound of flowing water implied. Camera is low and close, 35 mm, shallow focus on the wet mud and the canal water. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/the-thief-who-killed-the-woman-after-demanding-her-return-of-the-jewelry-and-money-sensational-news-in-the-murder-of-the-woman",
+   "published": "2026-11-19T09:20:56Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('இதையடுத்து அவர்கள் 3 பேரும் சேர்ந்து பேசிக்கொண்டு இருந்தனர்.'); 2 ('வாய்க்காலில் தண்ணீர் அதிகமாக சென்றதால், அவர் தண்ணீரில் மூழ்க'); 6 ('அதில், கடந்த 6 ஆண்டுகளுக்கு முன்பு எனக்கும், கீதாவுக்கும் பழ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093638/tirupur360/o31lpm3pzl2tlgflcoo4.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093641/tirupur360/ywrsychpb7zo2ubdvf12.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருவெண்ணெய்நல்லூர் அருகே 9 மாணவிகளுக்கு பாலியல் தொல்லை: தலைமை ஆசிரியர் கைது",
+   "english_headline": "Headmaster arrested for sexually harassing 9 school girls near Thiruvennainallur, Villupuram",
+   "category": "Crime & Safety",
+   "location": "Puthur Arungurikkai village near Thiruvennainallur, Villupuram district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றம் & பாதுகாப்பு",
+    "loc": "திருவெண்ணெய்நல்லூர்",
+    "hl1": "திருவெண்ணெய்நல்லூர்: 9 மாணவிகளுக்கு",
+    "hl2": "தலைமை ஆசிரியர் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "புதூர் அருங்குறிக்கை தொடக்கப் பள்ளியில் சம்பவம்",
+       "3, 4, 5ஆம் வகுப்பு <b>9 மாணவிகளிடம்</b> தலைமை ஆசிரியர்",
+       "போக்சோ சட்டத்தில் வழக்குப்பதிவு"
+      ]
+     },
+     {
+      "title": "நடவடிக்கை",
+      "lines": [
+       "தலைமை ஆசிரியர் திருவிக்ரமன் தற்காலிகப் பணிநீக்கம்",
+       "துறை ரீதியான விசாரணைக்கு உத்தரவு",
+       "தலைமை ஆசிரியர் <b>கைது செய்யப்பட்டார்</b>"
+      ]
+     },
+     {
+      "title": "பெற்றோர்",
+      "lines": [
+       "ஏற்கெனவே இதே ஆசிரியர் மீது 2 மாணவிகள் புகார் நிலுவையில்",
+       "பாதிக்கப்பட்ட மாணவிகளுக்கு மனநல ஆலோசனை வழங்க கோரிக்கை",
+       "பள்ளிகளில் கண்காணிப்பை தீவிரப்படுத்த கோரிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருவெண்ணெய்நல்லூர் அருகே 9 மாணவிகளுக்கு பாலியல் தொல்லை கொடுத்ததாக தலைமை ஆசிரியர் கைது செய்யப்பட்டார். விழுப்புரம் மாவட்டம், திருவெண்ணெய்நல்லூர் அருகே உள்ள புதூர் அருங்குறிக்கை கிராமத்தில் ஊராட்சி ஒன்றிய தொடக்கப் பள்ளி உள்ளது. இந்தப் பள்ளியில் தலைமை ஆசிரியராக திருவிக்ரமன் பணியாற்றி வந்தார். அவர் ஒரு வாரத்துக்கு முன்புதான் தலைமை ஆசிரியராகப் பொறுப்பேற்றதாகக் கூறப்படுகிறது. 3, 4, 5ஆம் வகுப்புகளைச் சேர்ந்த 9 மாணவிகளிடம் அவர் தவறாக நடந்ததாகப் புகார் எழுந்தது. மாணவிகள் தங்களுக்கு நேர்ந்ததைப் பெற்றோரிடமும் ஆசிரியர்களிடமும் கூறினர். இதையடுத்து தொடக்கக் கல்வித்துறை அதிகாரிகள் விசாரணை நடத்தினர். விழுப்புரம் மாவட்ட தொடக்கக் கல்வி அலுவலர் இளமதி, தலைமை ஆசிரியர் திருவிக்ரமனைத் தற்காலிகப் பணிநீக்கம் செய்து உத்தரவிட்டார். அவர் மீது துறை ரீதியான விசாரணை நடத்தி அறிக்கை சமர்ப்பிக்கவும் உத்தரவிடப்பட்டுள்ளது. கல்வித்துறை அளித்த புகாரின் பேரில், விழுப்புரம் அனைத்து மகளிர் காவல் நிலைய போலீசார் போக்சோ சட்டத்தின் கீழ் வழக்குப்பதிவு செய்தனர். விசாரணையில் தலைமை ஆசிரியர் திருவிக்ரமன் கைது செய்யப்பட்டார். ஏற்கெனவே இதே ஆசிரியர் மீது வேறு இரண்டு மாணவிகள் அளித்த புகார்களும் நிலுவையில் உள்ளன. பாதிக்கப்பட்ட மாணவிகளுக்கு மனநல ஆலோசனை வழங்கவும், பள்ளிகளில் கண்காணிப்பைத் தீவிரப்படுத்தவும் கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருவெண்ணெய்நல்லூர் அருகே 9 மாணவிகளுக்கு பாலியல் தொல்லை: தலைமை ஆசிரியர் கைது\n\n📰 முழு விவரம்:\nவிழுப்புரம் மாவட்டம், திருவெண்ணெய்நல்லூர் அருகே புதூர் அருங்குறிக்கை ஊராட்சி ஒன்றிய தொடக்கப் பள்ளியில், 3, 4, 5ஆம் வகுப்புகளைச் சேர்ந்த 9 மாணவிகளிடம் தலைமை ஆசிரியர் திருவிக்ரமன் பாலியல் ரீதியாகத் தவறாக நடந்ததாகப் புகார் எழுந்தது.\nமாணவிகள் பெற்றோரிடமும் ஆசிரியர்களிடமும் தெரிவித்ததையடுத்து, தொடக்கக் கல்வித்துறை அதிகாரிகள் விசாரணை நடத்தினர். விழுப்புரம் மாவட்ட தொடக்கக் கல்வி அலுவலர் இளமதி, தலைமை ஆசிரியரைத் தற்காலிகப் பணிநீக்கம் செய்து உத்தரவிட்டார்.\nகல்வித்துறை புகாரின் பேரில், விழுப்புரம் அனைத்து மகளிர் காவல் நிலைய போலீசார் போக்சோ சட்டத்தின் கீழ் வழக்குப்பதிவு செய்து, தலைமை ஆசிரியர் திருவிக்ரமனைக் கைது செய்தனர்.\nஏற்கெனவே வேறு இரண்டு மாணவிகள் அளித்த புகார்களும் நிலுவையில் உள்ளன.\n📍 இடம்: புதூர் அருங்குறிக்கை கிராமம், திருவெண்ணெய்நல்லூர் அருகே, விழுப்புரம் மாவட்டம்\n👮 நடவடிக்கை: போக்சோ வழக்குப்பதிவு, தலைமை ஆசிரியர் கைது, துறை ரீதியான விசாரணை\nℹ️ மக்கள் கவனத்திற்கு: பாதிக்கப்பட்ட மாணவிகளுக்கு மனநல ஆலோசனை வழங்கவும், பள்ளிகளில் கண்காணிப்பைத் தீவிரப்படுத்தவும் கோரிக்கை எழுந்துள்ளது.\n\nHeadmaster arrested for harassing 9 school girls near Thiruvennainallur | Tirupur news\n📍 விழுப்புரம் மாவட்டம் | 19 நவம்பர் 2026\n\nTamil Nadu news உள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #TirupurNews #திருப்பூர் #TamilNadu #Villupuram",
+   "prompts": "A group of schoolgirls in Tamil Nadu government school uniform stand in a row in the compound of a rural panchayat union primary school in Puthur Arungurikkai village near Thiruvennainallur, Villupuram district, while a woman police constable in khaki stands a few steps behind them, seen from behind. The school is a single-storey concrete building with a tiled roof and a plain blackboard visible through an open classroom door. Among the girls are some parents in simple sarees and salwar, standing at a distance with their backs turned, and a couple of teachers in cotton sarees watching quietly. Daylight, soft and even, suggests a school morning. The girls are shown only from behind or in profile, with no faces visible. Camera at eye level, 35 mm, wide enough to show the school building, the compound and the group. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a school classroom bench and desk in a rural Tamil Nadu primary school, with a wooden bench, a slate-coloured wall, a small stack of school notebooks and a pencil box placed neatly on the desk, and a pair of small school shoes left under the bench. Through the open doorway behind, a blurred figure of a teacher in a cotton saree walks away. Natural daylight from a window falls across the wooden desk. No readable text, no signboards. Camera slightly high, 35 mm, shallow depth of field focusing on the desk and shoes. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/villupuram/government-school-head-master-booked-under-pocso-act-for-misbehaving-9-girl-students-846657.html",
+   "published": "2026-11-19T17:23:56+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (3, 4); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093678/tirupur360/pknv0pi6fpghcyyvz1c4.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093681/tirupur360/fma6tpbq2xvdxxih6qcx.jpg"
    ]
   }
  ]
