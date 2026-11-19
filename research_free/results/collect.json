@@ -3,95 +3,105 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/municipality-announces-two-day-drinking-water-cut/4379553",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/public-appeal-for-bus-stop-in-spring-city/4379805",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/one-lakh-litres-of-drinking-water-go-to-waste-daily-near-muthur",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/national-cricket-match-tee-public-student-stuns/4380159",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/government-employee-meet-campaign/4379806",
-  "candidate filter: collected=5",
-  "to write: 5 Tirupur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vidhya-vikashini-school-wins-district-volleyball-tournament/4379860",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/unauthorized-installation-of-high-voltage-electricity-poles-along-the-pap-canal-bank",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/case-of-a-young-mans-leg-being-amputated-due-to-improper-treatment-consumer-court-orders-payment-of-rs-3568-lakh-as-compensation",
+  "candidate filter: collected=3",
+  "to write: 3 Tirupur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
-  "filed: 5 Tirupur district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
+  "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok gemini/gemini-3-flash-preview (32s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -100,33 +110,19 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -136,299 +132,170 @@
  ],
  "stories": [
   {
-   "tamil_headline": "தேசிய கிரிக்கெட்டில் அவிநாசி மாணவர் சஞ்சய் இரண்டு விருதுகள் வென்றார்",
-   "english_headline": "Avinashi student Sanjay wins two awards in national cricket tournament in Madhya Pradesh",
+   "tamil_headline": "திருப்பூர்: மாவட்ட வாலிபால் போட்டியில் வித்ய விகாஷினி பள்ளி வெற்றி",
+   "english_headline": "Tirupur: Vidya Vikashini school wins district-level volleyball, qualifies for state-level matches",
    "category": "Education",
-   "location": "Avinashi, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
+   "location": "Tirupur district",
+   "importance": "Low",
+   "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்வி",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசி மாணவர் தேசிய கிரிக்கெட்டில்",
-    "hl2": "இரு விருதுகள் வென்றார்",
+    "cat": "பள்ளி விளையாட்டு",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூர்: வாலிபால் போட்டியில் வெற்றி",
+    "hl2": "மாநில அளவுக்குத் தகுதி",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "போட்டி எங்கே?",
       "lines": [
-       "மத்தியப் பிரதேசத்தில் தேசிய அளவிலான கிரிக்கெட் போட்டி",
-       "அவிநாசி டீ பப்ளிக் மெட்ரிக் பள்ளி மாணவர் சஞ்சய் விளையாடினார்",
-       "தமிழக அணிக்காக 19 வயதுக்கு உட்பட்டோர் பிரிவில் பங்கேற்றார்"
+       "திருப்பூர் மாவட்ட அளவிலான வாலிபால் போட்டி",
+       "ஏ.வி.பி பள்ளியில் நடைபெற்றது"
       ]
      },
      {
-      "title": "பெற்ற விருதுகள்",
+      "title": "யார் வெற்றி?",
       "lines": [
-       "சிறந்த ஆட்டநாயகன் விருது பெற்றார்",
-       "தொடர் ஆட்டநாயகன் விருதும் பெற்றார்",
-       "மாநிலத்துக்கும் பள்ளிக்கும் பெருமை சேர்த்தார்"
+       "வித்ய விகாஷினி பள்ளியின் மிக மூத்தோர் பிரிவு அணி",
+       "திருப்பூர் தெற்கு குறுமையம் சார்பாகப் பங்கேற்றது"
       ]
      },
      {
-      "title": "பாராட்டு",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "பள்ளித் தாளாளர் சந்திரன் பாராட்டினார்",
-       "இயக்குனர் டோரத்தி ராஜேந்திரன் உட்பட பலர் பாராட்டினர்"
+       "மாவட்ட அளவில் வெற்றி பெற்று மாநில அளவுக்குத் தகுதி",
+       "பள்ளியின் தாளாளர், நிர்வாக அதிகாரி, முதல்வர் பாராட்டு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அவிநாசி மாணவர் சஞ்சய் தேசிய கிரிக்கெட்டில் இரண்டு விருதுகள் வென்றார். மத்தியப் பிரதேசத்தில் நடைபெற்ற தேசிய அளவிலான கிரிக்கெட் போட்டியில் அவர் பங்கேற்றார். அவிநாசி டீ பப்ளிக் மெட்ரிக் பள்ளியைச் சேர்ந்த சஞ்சய், தமிழக அணிக்காக 19 வயதுக்கு உட்பட்டோர் பிரிவில் விளையாடினார். அவர் சிறந்த ஆட்டநாயகன் விருதையும், தொடர் ஆட்டநாயகன் விருதையும் பெற்றார். மாநிலத்துக்கும் பள்ளிக்கும் பெருமை சேர்த்த அவரை, பள்ளித் தாளாளர் சந்திரன், இயக்குனர் டோரத்தி ராஜேந்திரன் உட்பட பலர் பாராட்டினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏏 அவிநாசி மாணவர் சஞ்சய் தேசிய கிரிக்கெட்டில் இரண்டு விருதுகள் வென்றார்\n\n📰 முழு விவரம்:\nமத்தியப் பிரதேசத்தில் நடந்த தேசிய அளவிலான கிரிக்கெட் போட்டியில் அவிநாசி டீ பப்ளிக் மெட்ரிக் பள்ளி மாணவர் சஞ்சய் சிறப்பாக விளையாடினார். தமிழக அணிக்காக 19 வயதுக்கு உட்பட்டோர் பிரிவில் பங்கேற்ற அவர், சிறந்த ஆட்டநாயகன் மற்றும் தொடர் ஆட்டநாயகன் விருதுகளைப் பெற்றார். பள்ளித் தாளாளர் சந்திரன், இயக்குனர் டோரத்தி ராஜேந்திரன் உட்பட பலர் அவரைப் பாராட்டினர்.\n🏆 விருதுகள்: சிறந்த ஆட்டநாயகன், தொடர் ஆட்டநாயகன்\n🎯 போட்டி: எஸ்.ஜி.எப்.ஐ. தேசிய அளவிலான கிரிக்கெட் போட்டி\n\nAvinashi student Sanjay wins two awards national cricket | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A young cricketer in white Tamil Nadu team kit stands on a dusty ground at a national school cricket tournament in Madhya Pradesh, holding a cricket bat as a small group of teammates and officials in the distance applaud him after he receives an award. Seen from behind and far away, he is a slim teenage boy with short hair, wearing white cricket trousers, a white shirt and sports shoes. The setting is an open cricket ground with a pitch of pale brown earth, stumps and a boundary rope, with a simple stand of plastic chairs and a few onlookers at the edge. Two other players in team kit stand nearby, and a man in a dark shirt and trousers and a woman in a salwar suit, both school staff, watch from the sidelines. The light is bright midday sunshine with a clear sky, and the camera is at eye level, 35 mm, wide enough to show the whole ground and the stands. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a pair of cricket trophies and a bat lying on a plain wooden table in a school hall, with a folded white team jersey and a small stack of medals beside them. The objects are in sharp focus with soft background blur, showing a cricket ball and a worn willow bat with its grip tape, as well as a shiny gold-coloured trophy cup and a medal on a ribbon. Behind them, a few empty plastic chairs stand in a row, and the wall behind is plain cream paint. The light is soft natural daylight from a window, creating gentle shadows. The camera is slightly high, angled down at the table, 35 mm macro-style detail, with no readable text or logos visible on any object. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/national-cricket-match-tee-public-student-stuns/4380159",
-   "published": "2026-11-18T23:28:28+05:30",
+   "reel_script": "திருப்பூர் மாவட்ட அளவிலான வாலிபால் போட்டியில் வித்ய விகாஷினி பள்ளி அணி வெற்றி பெற்றது. இந்தப் போட்டி ஏ வி பி பள்ளியில் நடைபெற்றது. திருப்பூர் தெற்கு குறுமையம் சார்பாக, வித்ய விகாஷினி பள்ளியின் மிக மூத்தோர் பிரிவு அணியினர் பங்கேற்றனர். மாவட்ட அளவில் வெற்றி பெற்ற இந்த அணி, மாநில அளவிலான போட்டிகளுக்குத் தகுதி பெற்றுள்ளது. வெற்றி பெற்ற மாணவர்களை பள்ளியின் தாளாளர், நிர்வாக அதிகாரி, செயலாளர், துணை நிர்வாக அதிகாரி, முதல்வர், ஆசிரியர்கள் மற்றும் மாணவர்கள் வெகுவாகப் பாராட்டினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏐 திருப்பூர்: வாலிபால் போட்டியில் வித்ய விகாஷினி பள்ளி மாநில அளவுக்குத் தகுதி\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்ட அளவிலான வாலிபால் போட்டிகள் ஏ.வி.பி பள்ளியில் நடைபெற்றன. திருப்பூர் தெற்கு குறுமையம் சார்பாக, வித்ய விகாஷினி பள்ளியின் மிக மூத்தோர் பிரிவு அணியினர் பங்கேற்று மாவட்ட அளவில் வெற்றி பெற்றனர். இதன் மூலம் மாநில அளவிலான போட்டிகளுக்குத் தகுதி பெற்றனர். வெற்றி பெற்ற மாணவர்களை பள்ளியின் தாளாளர், நிர்வாக அதிகாரி, செயலாளர், துணை நிர்வாக அதிகாரி, முதல்வர், ஆசிரியர்கள் மற்றும் மாணவர்கள் வெகுவாகப் பாராட்டினர்.\n\nTirupur district volleyball Vidya Vikashini school qualifies for state | Tirupur news\n📍 ஏ.வி.பி பள்ளி, திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tirupur வாலிபால்",
+   "prompts": "A team of school students in white sports shirts and shorts celebrates on a volleyball court inside a school campus in Tirupur, with a volleyball net stretched across the court and a ball lying on the floor. Several students are jumping and raising their arms in victory, seen from behind and at a distance so no faces are visible. Around the court, a few teachers in sarees and shirts stand on the sidelines clapping, and some school officials in formal attire watch from a small group near the edge. The setting is a school ground in Tirupur city, with a low school building with plain walls and a few trees in the background, and the outskirts of the city visible beyond. It is bright daytime with clear sunlight casting sharp shadows on the court. Taken at eye level, 35 mm, wide enough to show the court, the net and the celebrating group. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a volleyball lying on the painted white lines of a school volleyball court, with the net's edge and its pole visible in the background. The ball shows the wear of a tournament match and the court surface is dusty and sunlit. Beyond the net, a few blurred student legs in sports shoes and white shorts are visible, and the figures stand far from the camera. It is daytime in Tirupur with strong natural light. Taken from a low angle, 35 mm, focusing sharply on the ball and the court lines, with the background softly out of focus. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vidhya-vikashini-school-wins-district-volleyball-tournament/4379860",
+   "published": "2026-11-18T19:37:09+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062150/tirupur360/g0ccdhn3bmbrpvhgteae.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062154/tirupur360/a1m7vfjx9sp3plxpabn2.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078165/tirupur360/od6qk604th1lbhcsc8a8.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078180/tirupur360/sbgw7eizrniypox49v2r.jpg"
    ]
   },
   {
-   "tamil_headline": "முத்தூர் அருகே தினமும் ஒரு லட்சம் லிட்டர் குடிநீர் வீணாகிறது",
-   "english_headline": "About one lakh litres of drinking water wasted daily near Muthur after pipe burst for over a week",
+   "tamil_headline": "வெள்ளக்கோவில் அருகே பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி 11 உயர்மின் கம்பங்கள்",
+   "english_headline": "11 high-tension poles set up without permission on PAP canal bank near Vellakoil; Water Resources Department files complaint",
    "category": "Civic Issues",
-   "location": "Velampalayam, near Muthur, Tirupur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குடிநீர் வீணாகிறது",
-    "loc": "முத்தூர், திருப்பூர் மாவட்டம்",
-    "hl1": "முத்தூர் அருகே குடிநீர் வீணாகிறது",
-    "hl2": "தினமும் 1 லட்சம் லிட்டர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "முத்தூர் அருகே குழாய் உடைந்து குடிநீர் வீணாகிறது",
-       "கடந்த <b>ஒரு வாரத்துக்கும் மேலாக</b> உடைப்பு உள்ளது",
-       "தினமும் சுமார் <b>1 லட்சம் லிட்டர்</b> வீணாவதாக மக்கள் கூறுகின்றனர்"
-      ]
-     },
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "முத்தூரில் இருந்து வெள்ளக்கோவில் செல்லும் சாலையில்",
-       "வேலம்பாளையம் பிரிவு அருகே பிரதான குழாயில் உடைப்பு",
-       "வாய்க்கால்மேட்டுப்புதூர் அருகிலும் குழாய் உடைந்துள்ளது"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "ஏற்கெனவே குடிநீர் தட்டுப்பாட்டால் மக்கள் அவதி",
-       "பலமுறை தகவல் தெரிவித்தும் நடவடிக்கை இல்லை",
-       "உடனடியாகச் சீரமைக்க மாவட்ட நிர்வாகம் கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "முத்தூர் அருகே தினமும் சுமார் ஒரு லட்சம் லிட்டர் குடிநீர் வீணாகிறது. முத்தூரில் இருந்து வெள்ளக்கோவில் செல்லும் சாலையில் வேலம்பாளையம் பிரிவு அருகே காவிரி கூட்டுக் குடிநீர்த் திட்டத்தின் பிரதான குழாய் கடந்த ஒரு வாரத்துக்கும் மேலாக உடைந்துள்ளது. குழாயிலிருந்து வெளியேறும் குடிநீர் சாலையில் ஓடி வீணாகிறது. அதே சாலையில் வாய்க்கால்மேட்டுப்புதூர் அருகிலும் குடிநீர்க் குழாய் உடைந்து தண்ணீர் வீணாகி வருகிறது. ஏற்கெனவே போதுமான குடிநீர் கிடைக்காமல் மக்கள் தட்டுப்பாட்டால் அவதிப்படுகின்றனர். குழாய் உடைப்பு குறித்து குடிநீர் வடிகால் வாரிய அதிகாரிகளுக்குப் பலமுறை தகவல் தெரிவிக்கப்பட்டதாகக் கூறப்படுகிறது. இதுவரை எந்த நடவடிக்கையும் எடுக்கப்படவில்லை. மாவட்ட நிர்வாகமும் குடிநீர் வடிகால் வாரிய அதிகாரிகளும் உடனடியாகத் தலையிட்டு சீரமைக்க வேண்டும் என்று பொதுமக்களும் சமூக ஆர்வலர்களும் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 முத்தூர் அருகே தினமும் 1 லட்சம் லிட்டர் குடிநீர் வீணாகிறது\n\n📰 முழு விவரம்:\nமுத்தூரில் இருந்து வெள்ளக்கோவில் செல்லும் சாலையில் வேலம்பாளையம் பிரிவு அருகே, காவிரி கூட்டுக் குடிநீர்த் திட்டத்தின் பிரதான குழாய் கடந்த ஒரு வாரத்துக்கும் மேலாக உடைந்துள்ளது. குழாயிலிருந்து வெளியேறும் குடிநீர் சாலையில் ஓடி வீணாகிறது. தினமும் சுமார் 1 லட்சம் லிட்டர் குடிநீர் வீணாவதாக அப்பகுதி மக்கள் குற்றம்சாட்டுகின்றனர். வாய்க்கால்மேட்டுப்புதூர் அருகிலும் குழாய் உடைந்துள்ளது.\nஏற்கெனவே குடிநீர் தட்டுப்பாட்டால் அவதிப்படும் மக்கள், பலமுறை தகவல் தெரிவித்தும் இதுவரை எந்த நடவடிக்கையும் இல்லை என்று கூறுகின்றனர்.\n📍 இடம்: வேலம்பாளையம் பிரிவு, முத்தூர் - வெள்ளக்கோவில் சாலை\n👥 கோரிக்கை: மாவட்ட நிர்வாகமும் குடிநீர் வடிகால் வாரிய அதிகாரிகளும் போர்க்கால அடிப்படையில் சீரமைக்க வேண்டும்.\n\nMuthur water pipe burst, 1 lakh litres wasted daily | Tirupur news\n📍 முத்தூர், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Muthur #TirupurNews #திருப்பூர்",
-   "prompts": "A broken main drinking-water pipe on the roadside at Velampalayam near Muthur, Tirupur district, spills a steady torrent of clear water across the tarmac. The road runs past a rural stretch with coconut trees and a few low houses on the outskirts of the city, under bright daylight. Water fans out in a wide sheet over the black road surface, pooling in the ditch and carrying dust and leaves along, while a two-wheeler slows at a distance on the far side of the road and two local residents in shirt and veshti stand at the roadside, seen from behind, looking at the flow. The pipe burst is a dark cast-iron main with a gushing jet from a cracked joint, and the water runs far down the road. Camera at eye level, 35 mm, wide enough to show the road, the spreading water and the far-off figures. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cracked and leaking main pipeline joint on the roadside, from the Kodumudi Cauvery drinking-water scheme, with clear water streaming out in a steady stream and splashing onto the wet tarmac below. Behind the pipe, a patch of roadside earth is soaked and muddy, and a thin layer of water is spreading across the dark road surface, reflecting the daylight. A pair of rubber sandals and a steel water pot are placed nearby, hinting at residents waiting for water. Camera close and low, 50 mm, shallow depth of field so the pipe and water are sharp and the background is softly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/one-lakh-litres-of-drinking-water-go-to-waste-daily-near-muthur",
-   "published": "2026-11-18T21:55:34.571Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062163/tirupur360/vilawpgwapvgtfbiyzk4.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062182/tirupur360/neebjqesghvwcsjne7vn.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அவிநாசியில் அரசு ஊழியர் சங்கத்தின் ஊழியர் சந்திப்பு பிரசார இயக்கம்",
-   "english_headline": "Government employees' association holds staff meeting campaign in front of Avinashi taluk office",
-   "category": "Government & Services",
-   "location": "Avinashi taluk office, Tirupur district",
+   "location": "Vellakoil, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு ஊழியர்",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் அரசு ஊழியர் பிரசாரம்",
-    "hl2": "பல கோரிக்கைகள் வலியுறுத்தல்",
+    "cat": "அனுமதியற்ற கட்டுமானம்",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "வெள்ளக்கோவிலில் அனுமதியின்றி மின்",
+    "hl2": "பி.ஏ.பி. வாய்க்கால் கரையில்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "அவிநாசி தாலுகா அலுவலகம் முன்பு ஊழியர் சந்திப்பு பிரசார",
-       "தமிழ்நாடு அரசு ஊழியர் சங்கம் சார்பில் நடைபெற்றது",
-       "மாவட்டச் செயலாளர் பாலசுப்பிரமணியன் தலைமை வகித்தார்"
+       "வெள்ளக்கோவில் அருகே பி.ஏ.பி. வாய்க்கால் கரையில்",
+       "நீர்வளத் துறை காவல் நிலையத்தில் புகார் அளித்துள்ளது",
+       "புகார் அளித்தும் இதுவரை நடவடிக்கை இல்லை"
       ]
      },
      {
-      "title": "சாலைப் பணியாளர்கள்",
+      "title": "யார், எங்கே?",
       "lines": [
-       "2002ஆம் ஆண்டு பணி நீக்கம் செய்யப்பட்ட நெடுஞ்சாலைத் துறை",
-       "<b>41 மாத</b> பணி நீக்க காலத்தை பணிக் காலமாக முறைப்படுத்த கோரிக்கை",
-       "சென்னை உயர் நீதிமன்றத் தீர்ப்பின்படி இதை செய்ய வேண்டும்"
+       "டாடா பவர் நிறுவனத்தின் ஒப்பந்ததாரர் ஜெயராம் என்பவர்",
+       "வெள்ளக்கோவில் கிளை வாய்க்கால் 20.160 கி.மீ. பகுதியில்",
+       "காற்றாலையிலிருந்து மின்சாரம் கடத்த வாய்க்கால் கரையில் 11"
       ]
      },
      {
-      "title": "பிற கோரிக்கைகள்",
+      "title": "அதிகாரிகள்",
       "lines": [
-       "வருவாய், வேளாண்மை, தோட்டக்கலை துறைகளில் வெளி முகமை கணினி",
-       "காலிப் பணியிடங்களை உடனடியாக நிரப்ப வேண்டும்"
-      ]
-     },
-     {
-      "title": "கருணை நியமனம்",
-      "lines": [
-       "பணியில் இருந்தபோது இறந்த ஊழியர்களின் வாரிசுகளுக்கான கருணை",
-       "புதிய மருத்துவக் காப்பீட்டுத் திட்டத்தின் குளறுபடிகளை சரி"
+       "ஒப்பந்ததாரர் மீது வழக்குப் பதிவு செய்ய வேண்டும்",
+       "ஆக்கிரமிப்பு மின் கம்பங்களை அகற்றும்போது காவல் துறை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அவிநாசியில் அரசு ஊழியர்கள் தங்கள் கோரிக்கைகளை வலியுறுத்திப் பிரசாரம் நடத்தினர். அவிநாசி தாலுகா அலுவலகம் முன்பு தமிழ்நாடு அரசு ஊழியர் சங்கம் சார்பில் ஊழியர் சந்திப்பு பிரசார இயக்கம் நடைபெற்றது. மாவட்டச் செயலாளர் பாலசுப்பிரமணியன் தலைமை வகித்தார். மாநிலத் துணைத் தலைவர் அம்சராஜ் சிறப்புரை ஆற்றினார். 2002ஆம் ஆண்டு பணி நீக்கம் செய்யப்பட்ட நெடுஞ்சாலைத் துறை சாலைப் பணியாளர்கள், தங்களது 41 மாத பணி நீக்க காலத்தை சென்னை உயர் நீதிமன்றத் தீர்ப்பின்படி பணிக் காலமாக முறைப்படுத்த வேண்டும் என கோரிக்கை வைத்தனர். வருவாய், வேளாண்மை, தோட்டக்கலை துறைகளில் வெளி முகமை மூலம் பணிபுரியும் கணினி உதவியாளர்களை காலமுறை ஊதியத்தில் நியமிக்க வேண்டும் என்றும், காலிப் பணியிடங்களை உடனடியாக நிரப்ப வேண்டும் என்றும் வலியுறுத்தப்பட்டது. பணியில் இருந்தபோது இறந்த ஊழியர்களின் வாரிசுகளுக்கான கருணை அடிப்படையிலான பணி நியமனத்தை 5 சதவீதத்தில் இருந்து மீண்டும் 25 சதவீதமாக உயர்த்த வேண்டும் என்றும் கோரப்பட்டது. புதிய மருத்துவக் காப்பீட்டுத் திட்டத்தில் உள்ள குளறுபடிகளைச் சரி செய்து அரசே ஏற்க வேண்டும் என்பது உட்பட பல கோரிக்கைகள் வலியுறுத்தப்பட்டன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📢 அவிநாசியில் அரசு ஊழியர்களின் பிரசார இயக்கம்: பல கோரிக்கைகள் வலியுறுத்தல்\n\n📰 முழு விவரம்:\nஅவிநாசி தாலுகா அலுவலகம் முன்பு தமிழ்நாடு அரசு ஊழியர் சங்கம் சார்பில் ஊழியர் சந்திப்பு பிரசார இயக்கம் நடைபெற்றது. மாவட்டச் செயலாளர் பாலசுப்பிரமணியன் தலைமை வகித்தார்; மாநிலத் துணைத் தலைவர் அம்சராஜ் சிறப்புரை ஆற்றினார்.\n2002ஆம் ஆண்டு பணி நீக்கம் செய்யப்பட்ட நெடுஞ்சாலைத் துறை சாலைப் பணியாளர்களின் 41 மாத பணி நீக்க காலத்தை, சென்னை உயர் நீதிமன்றத் தீர்ப்பின்படி பணிக் காலமாக முறைப்படுத்த வேண்டும் என கோரப்பட்டது.\nவருவாய், வேளாண்மை, தோட்டக்கலை உள்ளிட்ட துறைகளில் வெளி முகமை மூலம் பணிபுரியும் கணினி உதவியாளர்களை காலமுறை ஊதியத்தில் நியமிக்க வேண்டும்; காலிப் பணியிடங்களை உடனடியாக நிரப்ப வேண்டும் என வலியுறுத்தப்பட்டது.\nபணியில் இருந்தபோது இறந்த ஊழியர்களின் வாரிசுகளுக்கான கருணை அடிப்படையிலான பணி நியமனத்தை 5 சதவீதத்தில் இருந்து மீண்டும் 25 சதவீதமாக உயர்த்த வேண்டும்.\nபுதிய மருத்துவக் காப்பீட்டுத் திட்டத்தில் உள்ள குளறுபடிகளைச் சரி செய்து அரசே ஏற்க வேண்டும் என்பது உட்பட பல கோரிக்கைகள் வலியுறுத்தப்பட்டன.\n\n📍 இடம்: அவிநாசி தாலுகா அலுவலகம் முன், திருப்பூர் மாவட்டம்\n\nAvinashi government employees staff meet campaign, demands raised | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A crowd of Tamil Nadu government employees, men in shirts and trousers and women in sarees and salwar, sits and stands in rows in front of a single-storey taluk office building in Avinashi town, Tirupur district, as a union leader addresses them through a microphone at a small raised stand. Several union flags on poles flutter in the daylight, and a few hand-held placards are raised by the crowd, seen from behind. The taluk office has plain white walls, a tiled roof and a wide entrance with concrete steps; a two-wheeler and an autorickshaw are parked at the roadside at a distance. The crowd is shown from behind and far away, and the speaker is seen in silhouette. Taken at eye level with a 35 mm lens, wide enough to show the office building, the gathering and the road in front, in bright daylight. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of plastic chairs and a small table with a bunch of union flags and a stack of folded paper handouts placed on it in front of the taluk office steps, with a microphone stand and a few blurred figures of employees sitting behind at a distance. The concrete steps and the office's plain wall form the background, with a wooden pole bearing a rolled-up union flag in the foreground. Bright daylight, shallow depth of field, eye level, 35 mm lens. No readable text is visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/government-employee-meet-campaign/4379806",
-   "published": "2026-11-18T19:16:45+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: slides_spec line 'அவிநாசி தாலுகா அலுவலகம் முன்பு ஊழியர் சந்திப்பு பிரசார' is cut off mid-phrase and ungrammatical (missing 'இயக்கம்' and the verb is split across lines), making the sentence unclear; fact-check: slides_spec line 'சென்னை உயர் நீதிமன்றத் தீர்ப்பின்படி இதை செய்ய வேண்டும்' and 'வருவாய், வேளாண்மை, தோட்டக்கலை துறைகளில் வெளி முகமை கணினி' are fragmentary and do not form a clear meaning in Tamil; fact-check: slides_spec slide 'கருணை நியமனம்' merges two different demands (compassionate appointment quota and medical insurance scheme) into one slide with an incomplete line 'புதிய மருத்துவக் காப்பீட்டுத் திட்டத்தின் குளறுபடிகளை சரி', which is ungrammatical; fact-check: slides_spec contains a raw HTML tag '<b>41 மாத</b>' which is not valid text content for the slide",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 4 validator problem(s)",
+   "reel_script": "வெள்ளக்கோவில் அருகே பி ஏ பி வாய்க்கால் கரையில் 11 உயர்மின் கம்பங்கள் அனுமதியின்றி அமைக்கப்பட்டுள்ளன. இது குறித்து நீர்வளத் துறை காவல் நிலையத்தில் புகார் அளித்துள்ளது. வெள்ளக்கோவில் பாசனப் பிரிவு எண். 2 உதவிப் பொறியாளர் க.குகன் இந்தப் புகாரை அளித்துள்ளார். டாடா பவர் நிறுவனத்தின் ஒப்பந்ததாரர் ஜெயராம் என்பவர், நீர்வளத் துறையின் முன் அனுமதி பெறாமல் வாய்க்கால் கரையைச் சேதப்படுத்தியதாக புகாரில் கூறப்பட்டுள்ளது. வெள்ளக்கோவில் கிளை வாய்க்காலின் 20.160 கிலோமீட்டர் பகுதியில் பிரியும் பகிர்மான வாய்க்காலின் 1.060 கிலோமீட்டர் பகுதியில் இச்சம்பவம் நடந்துள்ளது. காற்றாலையிலிருந்து மின்சாரம் கடத்துவதற்காக வாய்க்கால் கரையில் 11 உயர்மின் கம்பங்கள் நடப்பட்டிருப்பதை அதிகாரிகளின் கள ஆய்வில் கண்டறிந்துள்ளனர். கடந்த 14ஆம் தேதி புகார் அளித்தும் இதுவரை நடவடிக்கை எடுக்கப்படவில்லை. அரசு சொத்தான வாய்க்கால் கரையைச் சேதப்படுத்திய ஒப்பந்ததாரர் மீது வழக்குப் பதிவு செய்ய வேண்டும் என நீர்வளத் துறை கோரியுள்ளது. ஆக்கிரமிப்பு மின் கம்பங்களை அகற்றும்போது சட்டம்-ஒழுங்கு பிரச்னை வராமல் இருக்க காவல் துறை பாதுகாப்பு வழங்க வேண்டும் என்றும் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வெள்ளக்கோவில் அருகே பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி 11 உயர்மின் கம்பங்கள்\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் அருகே பரம்பிக்குளம் - ஆழியாறு திட்ட (பி.ஏ.பி.) வாய்க்கால் கரையில் அனுமதியின்றி உயர்மின் கம்பங்கள் அமைக்கப்பட்டுள்ளன.\nடாடா பவர் நிறுவனத்தின் ஒப்பந்ததாரர் ஜெயராம் என்பவர், நீர்வளத் துறையின் முன் அனுமதி பெறாமல் வாய்க்கால் கரையைச் சேதப்படுத்தியுள்ளார்.\nகாற்றாலையிலிருந்து மின்சாரம் கடத்துவதற்காக வாய்க்கால் கரையில் 11 உயர்மின் கம்பங்கள் நடப்பட்டுள்ளன என அதிகாரிகளின் கள ஆய்வில் கண்டறியப்பட்டுள்ளது.\nகடந்த 14ஆம் தேதி புகார் அளித்தும் இதுவரை நடவடிக்கை எடுக்கப்படவில்லை.\nஒப்பந்ததாரர் மீது வழக்குப் பதிவு செய்ய வேண்டும்; ஆக்கிரமிப்பு மின் கம்பங்களை அகற்றும்போது காவல் துறை பாதுகாப்பு வழங்க வேண்டும் என நீர்வளத் துறை கோரியுள்ளது.\n\n📍 இடம்: வெள்ளக்கோவில் கிளை வாய்க்கால் 20.160 கி.மீ. பகுதியில் பிரியும் பகிர்மான வாய்க்காலின் 1.060 கி.மீ. பகுதி\n📞 புகார்: நீர்வளத் துறை, வெள்ளக்கோவில் பாசனப் பிரிவு எண். 2 (உதவிப் பொறியாளர் க.குகன்)\n\nVellakoil 11 high-tension poles on PAP canal bank without permission | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
+   "prompts": "A row of tall steel high-tension electric poles stands along the raised earthen bank of the PAP irrigation canal near Vellakoil, Tirupur district, as a few workers in lungis and shirts stand at the base of one pole with a cable reel. The canal runs straight beside the bank, its water low and grey between concrete-lined walls. Dry scrubland, palm trees and a few windmill blades turning on the distant skyline mark the rural outskirts of the town. Two Water Resources Department officials in shirts and trousers stand at a distance, seen from behind, inspecting the bank where the earth looks cut and disturbed. Eleven poles stretch in a line along the bank toward the windmills. It is bright midday daylight with a clear sky and no rain. Camera at eye level, 35 mm, wide enough to show the full line of poles, the canal and the windmills. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the damaged edge of the PAP canal bank where the earth has been gouged and churned by vehicle tyres and digging, exposing raw soil and broken concrete slabs along the canal wall. The base of one tall steel high-tension pole is planted in the disturbed earth beside the water, with cut iron rods and a coil of electric cable lying on the ground. Dry grass and dusty soil fill the foreground, and the still canal water reflects the grey sky in the background. No people are in focus; a pair of worn rubber sandals and a clipboard lie on the bank as a quiet sign of the official inspection. Bright daylight with soft shadows. Camera slightly low, 35 mm, focusing on the damaged bank and the pole base. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/unauthorized-installation-of-high-voltage-electricity-poles-along-the-pap-canal-bank",
+   "published": "2026-11-18T21:59:22.287Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062190/tirupur360/rssayljfvh6klosafa0e.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062195/tirupur360/r3l23d9gytz5ztwgdgtv.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078207/tirupur360/uufx4xofgm8qrp3acfnj.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078211/tirupur360/othuyxlls9jfihq6tevz.jpg"
    ]
   },
   {
-   "tamil_headline": "வசந்தம் நகரில் பஸ் ஸ்டாப் அமைக்க பொதுமக்கள் வேண்டுகோள்",
-   "english_headline": "Residents of Vasantham Nagar in Manghalam urge a bus stop and street lights in their area",
-   "category": "Roads & Transport",
-   "location": "Vasantham Nagar, Manghalam, Tiruppur Union, Tirupur district",
+   "tamil_headline": "தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றம்: ரூ.35.68 லட்சம் இழப்பீடு உத்தரவு",
+   "english_headline": "Youth's leg amputated after wrong treatment; consumer court orders Rs 35.68 lakh compensation from Udumalai private hospital",
+   "category": "Crime & Safety",
+   "location": "Udumalaipettai, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பஸ் வசதி கோரிக்கை",
-    "loc": "மங்கலம், திருப்பூர் மாவட்டம்",
-    "hl1": "வசந்தம் நகரில் பஸ் ஸ்டாப் வேண்டும்",
-    "hl2": "1 கி.மீ. நடந்து செல்லும்",
-    "slides": [
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "மங்கலம், அக்ரஹாரப்புத்தூர் வசந்தம் நகரில் பஸ் ஸ்டாப் அமைக்க",
-       "அரசு, தனியார் பஸ்கள் நின்று செல்ல நடவடிக்கை கோரிக்கை",
-       "பல்லடம் சட்டமன்ற உறுப்பினரிடம் மனு அளிப்பு"
-      ]
-     },
-     {
-      "title": "ஏன் சிரமம்?",
-      "lines": [
-       "<b>100க்கும் மேற்பட்ட</b> குடும்பங்கள் வசிக்கும் பகுதி",
-       "அக்ரஹாரப்புத்தூர் அல்லது வேட்டுவபாளையம் ஸ்டாப்பில் இறங்க",
-       "அங்கிருந்து <b>1 கி.மீ.</b> நடந்து செல்ல வேண்டும்"
-      ]
-     },
-     {
-      "title": "பாதுகாப்பு குறைவு",
-      "lines": [
-       "ஆள் நடமாட்டம் குறைவு; தெருவிளக்கு வசதி இல்லை",
-       "பெண்கள், மாணவியர் அச்சத்துடன் செல்கின்றனர்",
-       "குறுக்குத் தெருக்களில் தெருவிளக்கு கேட்கப்படுகிறது"
-      ]
-     },
-     {
-      "title": "பிற கோரிக்கைகள்",
-      "lines": [
-       "பாம்பு நடமாட்டம் அதிகம் என்று புகார்",
-       "கழிவுநீர் தேங்காமல் சாக்கடை கால்வாய் வசதி கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வசந்தம் நகரில் பஸ் ஸ்டாப் இல்லாததால் மக்கள் ஒரு கிலோமீட்டர் நடக்க வேண்டிய நிலை உள்ளது. மங்கலம், அக்ரஹாரப்புத்தூர் வசந்தம் நகர் பகுதியில் பஸ் ஸ்டாப் அமைக்க வேண்டும் என பொதுமக்கள் வேண்டுகோள் விடுத்துள்ளனர். திருப்பூர் ஒன்றியம், மங்கலம் ஊராட்சிக்கு உட்பட்ட இப்பகுதியில் 100க்கும் மேற்பட்ட குடும்பங்கள் வசிக்கின்றன. இங்கு பள்ளி, கல்லூரி மாணவர்கள் மற்றும் தொழிலாளர்கள் அதிகம் உள்ளனர். பேருந்தில் வருபவர்கள் அக்ரஹாரப்புத்தூர் அல்லது வேட்டுவபாளையம் பேருந்து நிறுத்தத்தில் இறங்கி, அங்கிருந்து ஒரு கிலோமீட்டர் தூரம் நடந்து செல்ல வேண்டியுள்ளது. வழியில் ஆள் நடமாட்டம் குறைவாக உள்ளது; தெருவிளக்கு வசதியும் இல்லை. இதனால் பெண்களும் மாணவியரும் அச்சத்துடன் சென்று வருகின்றனர். வசந்தம் நகரில் பஸ் ஸ்டாப் அமைத்து, அரசு மற்றும் தனியார் பேருந்துகள் நின்று செல்ல நடவடிக்கை எடுக்க வேண்டும் என பல்லடம் சட்டமன்ற உறுப்பினரிடம் அளித்த மனுவில் பொதுமக்கள் தெரிவித்துள்ளனர். மேலும் பாம்பு நடமாட்டம் அதிகம் இருப்பதால் குறுக்குத் தெருக்களில் தெருவிளக்குகளும், கழிவுநீர் தேங்காமல் இருக்க சாக்கடை கால்வாய் வசதியும் ஏற்படுத்த வேண்டும் என்றும் வேண்டுகோள் விடுத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 வசந்தம் நகரில் பஸ் ஸ்டாப் அமைக்க பொதுமக்கள் வேண்டுகோள்\n\n📰 முழு விவரம்:\nமங்கலம், அக்ரஹாரப்புத்தூர் வசந்தம் நகரில் பஸ் ஸ்டாப் அமைக்க வேண்டும் என பொதுமக்கள் வேண்டுகோள் விடுத்துள்ளனர். திருப்பூர் ஒன்றியம், மங்கலம் ஊராட்சிக்கு உட்பட்ட இப்பகுதியில் 100க்கும் மேற்பட்ட குடும்பங்கள் வசிக்கின்றன. பள்ளி, கல்லூரி மாணவர்கள் மற்றும் தொழிலாளர்கள் அதிகம் உள்ளனர்.\nபேருந்தில் வருபவர்கள் அக்ரஹாரப்புத்தூர் அல்லது வேட்டுவபாளையம் பேருந்து நிறுத்தத்தில் இறங்கி, அங்கிருந்து ஒரு கிலோமீட்டர் தூரம் நடக்க வேண்டியுள்ளது.\nவழியில் ஆள் நடமாட்டம் குறைவாகவும், தெருவிளக்கு வசதி இல்லாமலும் இருப்பதால் பெண்கள், மாணவியர் அச்சத்துடன் செல்கின்றனர்.\nஅரசு மற்றும் தனியார் பேருந்துகள் நின்று செல்ல வசந்தம் நகரில் பஸ் ஸ்டாப் அமைக்க வேண்டும் என பல்லடம் சட்டமன்ற உறுப்பினரிடம் அளித்த மனுவில் பொதுமக்கள் கோரியுள்ளனர்.\nபாம்பு நடமாட்டம் அதிகம் இருப்பதால் குறுக்குத் தெருக்களில் தெருவிளக்குகளும், கழிவுநீர் தேங்காமல் இருக்க சாக்கடை கால்வாய் வசதியும் ஏற்படுத்த வேண்டும் என வேண்டுகோள் விடுத்துள்ளனர்.\n\nVasantham Nagar bus stop demand, Manghalam | Tirupur news\n📍 மங்கலம், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Manghalam #TirupurNews #திருப்பூர்",
-   "prompts": "A group of local residents in a Tiruppur district colony street in Manghalam hand over a petition to a local MLA's aide in front of a plain residential building. Behind them a row of modest concrete houses with tiled roofs lines a narrow unpaved street, with no street lights on the poles and a stretch of roadside open drain. Several men in shirts and veshti and women in cotton sarees stand together, seen partly from behind and at a distance, while a few students in Tamil Nadu school uniform wait nearby with school bags. A town bus passes on the far road without stopping, its rear visible. The scene is in daylight, with dull overcast sky typical of the Tiruppur plains, and the camera is set at eye level with a 35 mm wide lens to show the whole street and the houses. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stagnant, dark sewage pool in an open roadside drain on the edge of a narrow unlit lane in a Tiruppur colony, with dry leaves and a few plastic scraps floating on the surface. Beyond the drain stands the unlit, dimly visible concrete wall of a house and a bare electric pole with no street lamp fitted. A woman in a cotton saree walks away in the far background, slightly out of focus, carrying a bag, and a student's bicycle rests against the wall. The light is soft early evening, with the shadows lengthening along the lane, and the camera is set low and close, at around 35 mm, to make the stagnant water and the dark, unlit corner the focus. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/public-appeal-for-bus-stop-in-spring-city/4379805",
-   "published": "2026-11-18T19:16:42+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; hl1 (the first headline on screen) must name the place 'மங்கலம்', e.g. 'மங்கலம்: ...' or 'மங்கலம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062207/tirupur360/cn8hqgn70izx7ry0dsuq.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062211/tirupur360/mxmuoedsng83tqldnigv.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "உடுமலையில் 20, 21ம் தேதிகளில் குடிநீர் வினியோகம் இருக்காது",
-   "english_headline": "No drinking water supply in Udumalaipettai municipal areas on 20th and 21st due to main pipe repair",
-   "category": "Civic Issues",
-   "location": "Udumalaipettai municipal area, Tirupur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குடிநீர் அறிவிப்பு",
+    "cat": "நுகர்வோர் நீதிமன்றம்",
     "loc": "உடுமலை",
-    "hl1": "உடுமலையில் 2 நாட்கள் குடிநீர் நிறுத்தம்",
-    "hl2": "20, 21ம் தேதிகளில் குடிநீர்",
+    "hl1": "தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றம்",
+    "hl2": "ரூ.35.68 லட்சம் இழப்பீடு",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "<b>20ம் தேதி</b> மற்றும் <b>21ம் தேதி</b> குடிநீர் வினியோகம் இருக்காது",
-       "உடுமலை நகராட்சிப் பகுதிகளில் இந்த நிறுத்தம்"
+       "2023 நவம்பரில் இருசக்கர வாகன விபத்தில் 24 வயது",
+       "உடுமலை அரசு மருத்துவமனையில் முதலில் சிகிச்சை",
+       "பின்னர் உடுமலை தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார்"
       ]
      },
      {
-      "title": "ஏன்?",
+      "title": "கால் அகற்றம்",
       "lines": [
-       "திருமூர்த்தி அணை குடிநீர் திட்டத்தின் பிரதான குழாயில் பழுது",
-       "தலைமை குடிநீர் சுத்திகரிப்பு நிலையத்திலிருந்து நகருக்கு",
-       "பழுதை சரி செய்யும் பணி நடைபெற உள்ளது"
+       "உடுமலை தனியார் மருத்துவமனையில் சரியான சிகிச்சை",
+       "காலின் நிலை மோசமடைந்தது",
+       "கோவை தனியார் மருத்துவமனையில் <b>2023 நவம்பர் 30</b> அன்று"
       ]
      },
      {
-      "title": "பொதுமக்களுக்கு",
+      "title": "தீர்ப்பு",
       "lines": [
-       "தண்ணீரை சேமித்து வைத்துக்கொள்ளுங்கள்",
-       "காய்ச்சி பருகுங்கள்",
-       "நகராட்சி அதிகாரிகள் தெரிவித்துள்ளனர்"
+       "தினேஷ்குமார் 85 சதவீத மாற்றுத்திறனாளி ஆனார்",
+       "மருத்துவமனையின் கவனக்குறைவு என திருப்பூர் நுகர்வோர்",
+       "உடுமலை தனியார் மருத்துவமனை <b>₹35,68,313</b> இழப்பீடு 2"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலையில் இரண்டு நாட்களுக்கு குடிநீர் வினியோகம் இருக்காது. அறிவிக்கப்பட்ட நாட்கள் 20ம் தேதி மற்றும் 21ம் தேதி ஆகும். உடுமலை நகராட்சியின் 33 வார்டுகளுக்கும் திருமூர்த்தி அணையில் இருந்து குடிநீர் வழங்கப்பட்டு வருகிறது. தலைமை குடிநீர் சுத்திகரிப்பு நிலையத்திலிருந்து நகருக்கு வரும் பிரதான குழாயில் பழுது ஏற்பட்டுள்ளது. அதைச் சரி செய்யும் பணி மேற்கொள்ளப்பட உள்ளதால் இந்த நிறுத்தம் அறிவிக்கப்பட்டுள்ளது. பொதுமக்கள் தண்ணீரைச் சேமித்து வைத்து, காய்ச்சிப் பருகுமாறு நகராட்சி அதிகாரிகள் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 உடுமலையில் 20, 21ம் தேதிகளில் குடிநீர் வினியோகம் இருக்காது\n\n📰 முழு விவரம்:\nஉடுமலை நகராட்சிப் பகுதிகளில் 20ம் தேதி மற்றும் 21ம் தேதி குடிநீர் வினியோகம் இருக்காது என நகராட்சி அறிவித்துள்ளது.\nதிருமூர்த்தி அணையிலிருந்து குடிநீர் திட்டத்தின் கீழ் நகராட்சியின் 33 வார்டுகளுக்கும் குடிநீர் வழங்கப்பட்டு வருகிறது.\nதலைமை குடிநீர் சுத்திகரிப்பு நிலையத்திலிருந்து நகருக்கு வரும் பிரதான குழாயில் பழுது ஏற்பட்டுள்ளது.\nபழுதைச் சரி செய்யும் பணி மேற்கொள்ளப்பட உள்ளதால் இந்த நிறுத்தம் அறிவிக்கப்பட்டுள்ளது.\n\n👉 பொதுமக்கள் தண்ணீரை சேமித்து வைத்து, காய்ச்சி பருகுமாறு நகராட்சி அதிகாரிகள் தெரிவித்துள்ளனர்.\n\nUdumalaipettai water supply stop on 20th and 21st | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #குடிநீர் #TirupurNews",
-   "prompts": "A Udumalaipettai municipal corporation worker in a shirt and trousers stands beside an open trench on a town street, working on a large damaged water main pipe that has been exposed by digging. Behind him, a line of residential houses and a small shop front of this Tirupur district town can be seen along the roadside. Two or three municipal workers with tools are gathered near the pipe while a few local residents stand at a distance, seen from behind. The pipe's cut section and the piled soil from the trench are the focus of the scene. It is daylight with a plain sky. The camera is at eye level, shot at 35 mm, wide enough to show the trench, the street and the houses together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large grey water pipe with a damaged, cracked section lying exposed in a dug-up trench on a Udumalaipettai street. Beside it are stacked steel and plastic water pots and a few empty plastic drums, suggesting residents preparing to store water. Loose soil, cement blocks and a coil of tools lie near the edge of the trench, and the edge of a concrete road curb is visible. A woman in a saree is seen from behind at the edge of the frame, waiting with a pot. It is daylight, the light falls evenly on the pipe. The camera is slightly high, 35 mm, focused on the pipe and the water pots. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/municipality-announces-two-day-drinking-water-cut/4379553",
-   "published": "2026-11-18T17:24:24+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 59 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "உடுமலையைச் சேர்ந்த இளைஞரின் கால் தவறான சிகிச்சையால் அகற்றப்பட்டதால், ரூ.35.68 லட்சம் இழப்பீடு வழங்க நுகர்வோர் நீதிமன்றம் உத்தரவிட்டுள்ளது. கூலித் தொழிலாளியான மருள்பட்டியைச் சேர்ந்த தினேஷ்குமார், 24 வயது. 2023 நவம்பர் மாதம் இருசக்கர வாகன விபத்தில் இடது காலில் பலத்த காயமடைந்தார். முதலில் உடுமலை அரசு மருத்துவமனையில் சிகிச்சை பெற்றார். பின்னர் உடுமலையில் உள்ள தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார். அங்கு உரிய சிகிச்சை அளிக்கப்படவில்லை. இதனால் காலின் நிலை மோசமடைந்தது. இதையடுத்து, கோவையில் உள்ள தனியார் மருத்துவமனையில் 2023 நவம்பர் 30ஆம் தேதி இடது கால் முட்டிக்குக் கீழ் அகற்றப்பட்டது. இதனால் அவர் 85 சதவீத மாற்றுத்திறனாளி ஆனார். மருத்துவமனையின் கவனக்குறைவே காரணம் எனக் கூறி, திருப்பூர் மாவட்ட நுகர்வோர் குறைதீர் ஆணையத்தில் வழக்குத் தொடர்ந்தார். விசாரணையில், உடுமலை தனியார் மருத்துவமனை நிர்வாகம் 2 மாதங்களுக்குள் ரூ.35,68,313 இழப்பீடு வழங்க வேண்டும் என நீதிமன்றம் தீர்ப்பளித்தது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ உடுமலையில் தவறான சிகிச்சை: இளைஞரின் கால் அகற்றம், ரூ.35.68 லட்சம் இழப்பீடு உத்தரவு\n\n📰 முழு விவரம்:\nமருள்பட்டியைச் சேர்ந்த 24 வயது கூலித் தொழிலாளி தினேஷ்குமார், 2023 நவம்பர் மாதம் இருசக்கர வாகன விபத்தில் இடது காலில் பலத்த காயமடைந்தார்.\nமுதலில் உடுமலை அரசு மருத்துவமனையில் சிகிச்சை பெற்ற அவர், பின்னர் உடுமலை தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார். அங்கு உரிய சிகிச்சை அளிக்கப்படாததால் காலின் நிலை மோசமடைந்தது.\nகோவையில் உள்ள தனியார் மருத்துவமனையில் 2023 நவம்பர் 30ஆம் தேதி இடது கால் முட்டிக்குக் கீழ் அகற்றப்பட்டது. இதனால் அவர் 85 சதவீத மாற்றுத்திறனாளி ஆனார்.\nமருத்துவமனையின் கவனக்குறைவே காரணம் எனக் கூறி திருப்பூர் மாவட்ட நுகர்வோர் குறைதீர் ஆணையத்தில் வழக்குத் தொடர்ந்தார்.\nவிசாரித்த நுகர்வோர் நீதிமன்றம், உடுமலை தனியார் மருத்துவமனை நிர்வாகம் 2 மாதங்களுக்குள் ரூ.35,68,313 இழப்பீடு வழங்க வேண்டும் என உத்தரவிட்டுள்ளது.\n\nUdumalai wrong treatment leg amputation compensation | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "A private hospital building on a busy street in Udumalaipettai, Tirupur district, with a steady flow of two-wheelers and an autorickshaw passing by its entrance. Several people in shirts and sarees sit on plastic chairs in the outer waiting area, seen from behind and at a distance, some holding folded papers. A hospital staffer in a white coat stands near the glass doors. Typical Tamil Nadu town street with shops, electric poles and a bus shelter in the background. Daylight, overcast and calm. Camera at eye level, 35 mm, wide enough to show the hospital facade and the street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a consumer court hall in Tirupur, with a stack of official case files and a bound judgement document lying open, a wooden gavel-free desk, and a steel water tumbler beside it. In the soft background, two people in shirts and trousers, seen from behind and blurred, sit on a bench. Tamil Nadu government office ambience with a ceiling fan and tube lights. Natural light from a window falls across the papers. Camera slightly high, 35 mm, shallow depth of field focusing on the judgement pages. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/case-of-a-young-mans-leg-being-amputated-due-to-improper-treatment-consumer-court-orders-payment-of-rs-3568-lakh-as-compensation",
+   "published": "2026-11-18T22:00:01.162Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'உடுமலை', e.g. 'உடுமலை: ...' or 'உடுமலை-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062224/tirupur360/ydf3ywzgtdxgf9r7mgcz.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795062231/tirupur360/nva6frv7hbprx0tqoxxo.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078218/tirupur360/mjckfjxxshcenrdv9hoo.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795078230/tirupur360/lx4gutbaienien8uwxrw.jpg"
    ]
   }
  ]
