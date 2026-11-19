@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-19T07:28+05:30",
- "posts_measured": 88,
+ "updated": "2026-11-19T09:50+05:30",
+ "posts_measured": 92,
  "topic_weight": {
-  "politics": -0.28,
-  "accident": 1.21,
-  "crime": 1.33,
+  "politics": -0.34,
+  "accident": 0.62,
+  "crime": 1.43,
   "education": -0.5,
-  "power_cut": -0.39,
-  "temple": -0.45,
-  "civic": -0.31,
+  "power_cut": -0.45,
+  "temple": -0.5,
+  "civic": -0.34,
   "poultry_agri": -0.5
  },
  "topic_n": {
   "politics": 10,
-  "accident": 9,
-  "crime": 15,
+  "accident": 10,
+  "crime": 16,
   "education": 5,
   "jobs": 2,
   "power_cut": 4,
   "temple": 9,
-  "civic": 14,
-  "poultry_agri": 5,
+  "civic": 15,
+  "poultry_agri": 6,
   "weather": 2,
   "sports_culture": 1
  },
@@ -28,13 +28,13 @@
   12,
   22,
   17,
-  7
+  1
  ],
  "top_openings": [
   "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
   "🚨 மங்கலம் அருகே கிரேன் மோதிய அரசுப் பள்ளி மாணவன் பலி",
-  "🫀 பல்லடம் இளைஞரின் உடல் உறுப்புகள் தானம்: மூளைச்சாவுக்குப் பின் பல உயிர்களுக்கு ",
-  "🚨 உடுமலை அருகே கால்வாயில் தள்ளி பெண் கொலை: போலீஸ் விசாரணை"
+  "🚨 பெருமாநல்லூரில் கஞ்சா விற்பனை செய்தவர் கைது: 1 கிலோ 200 கிராம் பறிமுதல்",
+  "🫀 பல்லடம் இளைஞரின் உடல் உறுப்புகள் தானம்: மூளைச்சாவுக்குப் பின் பல உயிர்களுக்கு "
  ],
  "avg_watch_s": 7.3,
  "best_topics": [
@@ -44,6 +44,6 @@
  ],
  "weak_topics": [
   "education",
-  "poultry_agri"
+  "temple"
  ]
 }
