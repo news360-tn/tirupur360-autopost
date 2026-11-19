@@ -3,63 +3,152 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motorists-at-risk-of-stampede-on-noyyal-riverbank/4380122",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/there-s-a-tiny-snake-house-in-town/4379833",
-  "candidate filter: collected=2",
-  "to write: 2 Tirupur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/இன்றைய-மின்தடை-திருப்பூா்-2",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/பெருமாநல்லூரில்-கஞ்சா-விற்பனை-செய்தவா்-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/dengue-prevention-measures-in-tiruppur-15-tonnes-of-waste-removed-in-a-single-day",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/a-roundabout-is-expected-to-be-set-up-on-nal-road/4379766",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sewage-mixing-in-the-channel-rs-81-thousand-fine/4379986",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/order-to-regulate-telecommunication-cable/4379936",
+  "candidate filter: collected=6",
+  "to write: 6 Tirupur district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min",
-  "filed: 2 Tirupur district stories (target 2), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 6}, time left 75 min",
+  "filed: 6 Tirupur district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -68,139 +157,352 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர் சுகுமார் நகர் சாலையில் முட்புதர்கள்: விபத்து அபாயம்",
-   "english_headline": "Thorny bushes along Noyyal riverbank on Sukumar Nagar road in Tirupur pose accident risk to motorists",
+   "tamil_headline": "உடுமலை மடத்துக்குளம் நால் ரோட்டில் ரவுண்டானா அமைக்க மக்கள் எதிர்பார்ப்பு",
+   "english_headline": "Residents want a roundabout at the Madathukulam four-road junction in Udumalai to ease traffic and cut accidents",
    "category": "Roads & Transport",
-   "location": "Sukumar Nagar road, Tirupur city, Tirupur district",
+   "location": "Madathukulam Four Road, Udumalaipettai, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை பாதுகாப்பு",
-    "loc": "சுகுமார் நகர், திருப்பூர்",
-    "hl1": "சுகுமார் நகர் சாலையில் முட்புதர்கள்",
-    "hl2": "விபத்து அபாயம்",
+    "cat": "போக்குவரத்து",
+    "loc": "மடத்துக்குளம், உடுமலை",
+    "hl1": "மடத்துக்குளம் நால் ரோட்டில் ரவுண்டானா",
+    "hl2": "நெரிசல், விபத்து அதிகம்",
     "slides": [
      {
-      "title": "எங்கே?",
+      "title": "என்ன கோரிக்கை?",
       "lines": [
-       "திருப்பூர், சுகுமார் நகர் சாலை",
-       "நொய்யல் ஆற்றங்கரை தடுப்புவேலி ஓரத்தில் முட்புதர்கள்",
-       "மாணிக்காபுரம் பாலம் முதல் சுகுமார் நகர் வரை"
+       "மடத்துக்குளம் நால் ரோட்டில் ரவுண்டானா அமைக்க வேண்டும்",
+       "போக்குவரத்து நெரிசல், விபத்துகளைத் தடுக்க இது தேவை",
+       "நெடுஞ்சாலைத்துறை நடவடிக்கை எடுக்க மக்கள் எதிர்பார்ப்பு"
       ]
      },
      {
-      "title": "என்ன பிரச்சினை?",
+      "title": "ஏன் நெரிசல்?",
       "lines": [
-       "புதர்கள் சாலையை ஆக்கிரமித்துள்ளன",
-       "எதிரே வரும் வாகனங்கள் தெரிவதில்லை",
-       "சாலையின் அகலம் குறைந்துள்ளது"
+       "கோவை – திண்டுக்கல் தேசிய நெடுஞ்சாலையில் மடத்துக்குளம் உள்ளது",
+       "தினமும் ஆயிரக்கணக்கான வாகனங்கள் இவ்வழியே செல்கின்றன",
+       "நால் ரோட்டில் நான்கு சாலைகள் சந்திக்கின்றன"
       ]
      },
      {
-      "title": "இரவில் நிலை",
+      "title": "எந்தச் சாலைகள்?",
       "lines": [
-       "இரவு நேரங்களில் தடுப்புவேலி தெரிவதில்லை",
-       "விபத்து அபாயம் அதிகரித்துள்ளது"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "புதர்களை அகற்ற வாகன ஓட்டிகள் கோரிக்கை",
-       "மாநகராட்சி, நீர்வளத்துறை அதிகாரிகள் சீரமைக்க வேண்டும்"
+       "கணியூர் ரோடு, குமரலிங்கம் ரோடு",
+       "உடுமலை ரோடு, பழநி ரோடு",
+       "இந்தச் சந்திப்பில் நெரிசல் ஏற்படுகிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் சுகுமார் நகர் சாலையில் முட்புதர்கள் வளர்ந்து விபத்து அபாயம் ஏற்பட்டுள்ளது. நொய்யல் ஆற்றங்கரை தடுப்புவேலியை ஒட்டி முட்புதர்கள் அடர்ந்து வளர்ந்துள்ளன. மாணிக்காபுரம் பாலம் முதல் சுகுமார் நகர் வரையிலான பகுதியில் புதர்கள் சாலையை ஆக்கிரமித்துள்ளன. இதனால் எதிரே வரும் வாகனங்கள் தெரியாமல் விபத்து அபாயம் ஏற்படுகிறது. சாலையின் அகலமும் குறைந்துள்ளது. இரவு நேரங்களில் தடுப்புவேலி இருப்பதுகூடத் தெரியவில்லை. விபத்துகள் ஏற்படுவதற்கு முன் புதர்களை அகற்ற வேண்டும் என வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனர். மாநகராட்சி மற்றும் நீர்வளத்துறை அதிகாரிகள் புதர்களை அகற்றி சாலையைச் சீரமைக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 திருப்பூர் சுகுமார் நகர் சாலையில் முட்புதர்கள்: விபத்து அபாயம்\n\n📰 முழு விவரம்:\nதிருப்பூர், சுகுமார் நகர் சாலையில் நொய்யல் ஆற்றங்கரை தடுப்புவேலியை ஒட்டி முட்புதர்கள் அடர்ந்து வளர்ந்துள்ளன. மாணிக்காபுரம் பாலம் முதல் சுகுமார் நகர் வரையிலான பகுதியில் புதர்கள் சாலையை ஆக்கிரமித்துள்ளன. எதிரே வரும் வாகனங்கள் தெரியாததால் விபத்து அபாயம் ஏற்படுகிறது. சாலையின் அகலமும் குறைந்துள்ளது. இரவு நேரங்களில் தடுப்புவேலி தெரியாத நிலை உள்ளது.\n📍 இடம்: சுகுமார் நகர் சாலை, நொய்யல் ஆற்றங்கரை, திருப்பூர்\n👮 கோரிக்கை: புதர்களை அகற்றி சாலையைச் சீரமைக்க மாநகராட்சி மற்றும் நீர்வளத்துறை அதிகாரிகளுக்கு வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனர்.\n\nThorny bushes on Sukumar Nagar road Tirupur, accident risk | Tirupur news\n📍 திருப்பூர் நகரம், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #சாலை",
-   "prompts": "A two-wheeler rider slows down on a narrow Tirupur city road as dense thorny bushes spill over the edge of the lane, pushing into the carriageway beside a worn metal riverside barrier fence. The place is a Sukumar Nagar stretch of road near the Noyyal river, with the riverbank dropping away behind the greenery and a concrete bridge parapet visible further along toward Manikapuram. The rider and a car ahead are seen from behind and far away, moving cautiously because oncoming vehicles are hard to spot through the overgrowth. Bushes with thorny branches and wild shrubs have taken over much of the shoulder, visibly narrowing the road. It is a bright daytime scene in soft natural daylight with a few scattered clouds. The camera sits at eye level, about 35 mm, wide enough to show the road, the bushes, the barrier and the river edge together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of dense thorny shrubs and wild bushes growing thickly over a rusted riverside metal barrier fence, their spiky branches reaching out over the edge of a Tirupur road. The fence posts and wire are partly hidden by the foliage, and the tarmac edge is visibly overtaken by the growth. Behind the greenery a glimpse of the Noyyal river bank and a few coconut palms is seen softly out of focus. No people or readable signs are in frame. Soft daylight falls across the leaves, showing the sharp thorns and tangled stems. The camera is low and close, about 50 mm, focusing on the bushes and the fence so the road hazard is clear. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motorists-at-risk-of-stampede-on-noyyal-riverbank/4380122",
-   "published": "2026-11-18T22:44:46+05:30",
+   "reel_script": "மடத்துக்குளம் நால் ரோட்டில் ரவுண்டானா அமைக்க வேண்டும் என மக்கள் எதிர்பார்க்கின்றனர். கோவை – திண்டுக்கல் தேசிய நெடுஞ்சாலையில் அமைந்துள்ள மடத்துக்குளம் வழியாக தினமும் ஆயிரக்கணக்கான வாகனங்கள் செல்கின்றன. அங்குள்ள நால் ரோட்டில் கணியூர் ரோடு, குமரலிங்கம் ரோடு, உடுமலை ரோடு, பழநி ரோடு ஆகிய நான்கு சாலைகள் சந்திக்கின்றன. இதனால் அங்கு போக்குவரத்து நெரிசல் ஏற்படுகிறது. போக்குவரத்து நெரிசல் மற்றும் விபத்துகளைத் தடுக்க, ரவுண்டானா அமைக்க நெடுஞ்சாலைத்துறையினர் நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை வைத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚦 மடத்துக்குளம் நால் ரோட்டில் ரவுண்டானா அமைக்க மக்கள் எதிர்பார்ப்பு\n\n📰 முழு விவரம்:\nகோவை – திண்டுக்கல் தேசிய நெடுஞ்சாலையில் அமைந்துள்ள மடத்துக்குளம் வழியாக தினமும் ஆயிரக்கணக்கான வாகனங்கள் செல்கின்றன. மடத்துக்குளம் நால் ரோட்டில் கணியூர் ரோடு, குமரலிங்கம் ரோடு, உடுமலை ரோடு, பழநி ரோடு ஆகியவை சந்திக்கின்றன. இதனால் அங்கு போக்குவரத்து நெரிசல் ஏற்படுகிறது. போக்குவரத்து நெரிசல் மற்றும் விபத்துகளைத் தடுக்க, நால் ரோட்டில் ரவுண்டானா அமைக்க நெடுஞ்சாலைத்துறையினர் நடவடிக்கை எடுக்க வேண்டும் என மக்கள் எதிர்பார்க்கின்றனர்.\n\n📍 இடம்: மடத்துக்குளம் நால் ரோடு, உடுமலை, திருப்பூர் மாவட்டம்\n👮 கோரிக்கை: ரவுண்டானா அமைக்க நெடுஞ்சாலைத்துறை நடவடிக்கை\n\nMadathukulam four road roundabout demand | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "A dense stream of traffic - town buses, lorries, cars and two-wheelers - converges and jostles at a four-way road junction in Madathukulam, Udumalaipettai, on the Coimbatore-Dindigul national highway. Four roads meet at this open crossing (Kaniyur, Kumaralingam, Udumalai and Palani roads), and vehicles from all directions are slowing, nosing forward and merging with no circular island to guide them. The surroundings are typical Tirupur district roadside: low commercial shop-fronts, a few tall coconut palms and a glimpse of a concrete electric pole at the edge of the road. Two-wheeler riders in shirts and trousers and a few men in veshti stand on the pavement, watching the congestion from behind. Daylight, clear sky, busy midday traffic. Camera at eye level, slightly elevated from the pavement, 35 mm lens, wide enough to show all four converging roads and the jam at the centre. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the crowded centre of the four-way junction, showing the open tarmac where the roads cross with no divider or roundabout. Several two-wheelers and an autorickshaw are bunched together at the crossing line, their bonnets nearly touching, while a town bus and a lorry wait just behind them. Painted white road markings and a worn road surface show the chaotic, unguided crossing. Along the edge of the road, a partial view of a low roadside shop wall and a concrete kerb sets the scene in Udumalai town. Daylight, midday, dusty light. Camera at low-to-medium height, 35 mm lens, focused on the tangle of vehicles at the junction centre, with the converging road arms receding into the background. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/a-roundabout-is-expected-to-be-set-up-on-nal-road/4379766",
+   "published": "2026-11-18T19:04:36+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035750/tirupur360/x1exrxldijqcexfap182.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035794/tirupur360/boyjb9rwzi25xm0cfa33.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051361/tirupur360/x19pg3tredeupkmrgxt9.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051365/tirupur360/wrihn7epcljse5gi1ahn.jpg"
    ]
   },
   {
-   "tamil_headline": "கொடுவாய் நகர மையத்தில் காடுபோல் வளர்ந்த சீமைக்கருவேல மரங்கள், பாம்பு அச்சம்",
-   "english_headline": "Dense seemai karuvelam trees and bushes grown like a forest in Koduvai town centre; residents fear snakes and demand removal",
+   "tamil_headline": "பல்லடம்: வாய்க்காலில் கழிவுநீர் கலப்பு, குடியிருப்பு உரிமையாளருக்கு ரூ.81 ஆயிரம் அபராதம்",
+   "english_headline": "Palladam: Sewage mixed into PAP irrigation canal at Pariyur Amman Nagar; pipe removed and residence owner fined Rs.81,000",
    "category": "Civic Issues",
-   "location": "Koduvai town centre, Pongalur, Tirupur district",
-   "importance": "Medium",
+   "location": "Pariyur Amman Nagar, Karaippudur panchayat, Palladam, Tirupur district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொதுமக்கள் கோரிக்கை",
-    "loc": "கொடுவாய், பொங்கலூர்",
-    "hl1": "கொடுவாயில் காடுபோல் வளர்ந்த புதர்கள்",
-    "hl2": "பாம்பு அச்சத்தில் மக்கள்",
+    "cat": "கழிவுநீர் அபராதம்",
+    "loc": "பாரியூர், பல்லடம்",
+    "hl1": "பல்லடத்தில் வாய்க்காலில் கழிவுநீர்",
+    "hl2": "ரூ.81 ஆயிரம் அபராதம்",
     "slides": [
      {
-      "title": "என்ன பிரச்சினை?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "கொடுவாய் நகர மையத்தில் சீமைக்கருவேல மரங்கள் அடர்ந்து",
-       "மழைக்காலத்தில் பல இடங்களிலும் வளர்ச்சி அதிகரித்துள்ளது",
-       "சிறிய காடு போல் காட்சியளிக்கின்றன"
+       "பாரியூர் அம்மன் நகரில் பி.ஏ.பி. பாசனக் கிளை வாய்க்காலில்",
+       "குடியிருப்புகளின் கழிவுநீரை வாய்க்காலில் சேர்க்க குழாய்",
+       "விவசாய சங்க மாவட்டச் செயலாளர் ரமேஷ் புகார் அளித்தார்"
       ]
      },
      {
-      "title": "மக்கள் அச்சம்",
+      "title": "என்ன நடவடிக்கை?",
       "lines": [
-       "புதர்களில் பாம்புகள் உள்ளிட்ட விஷ ஜந்துக்கள் தங்கும் அபாயம்",
-       "பாம்புகள் குடியிருப்புகளுக்குள் புகுந்தால் உயிருக்கு ஆபத்து",
-       "பொதுமக்கள் அச்சமடைந்துள்ளனர்"
-      ]
-     },
-     {
-      "title": "மக்களின் கோரிக்கை",
-      "lines": [
-       "ஊர் மையப்பகுதியில் உள்ள மரங்களையும் புதர்களையும் உடனடியாக",
-       "சீமைக்கருவேல மரங்களை அகற்ற நீதிமன்றம் உத்தரவிட்டுள்ளது",
-       "நீர்நிலைகளில் புதர் வளர்வதை அனுமதிக்கலாம், ஊருக்குள்"
+       "ஊராட்சி நிர்வாகம் வாய்க்காலில் இருந்த கழிவு, குப்பைகளை",
+       "கழிவுநீர் கலக்க பதித்திருந்த குழாய் அகற்றப்பட்டது",
+       "குழாய் பதித்த குடியிருப்பு உரிமையாளருக்கு <b>ரூ.81"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கொடுவாய் நகர மையத்தில் சீமைக்கருவேல மரங்கள் காடுபோல் அடர்ந்து வளர்ந்துள்ளன. மழைக்காலம் என்பதால் பல இடங்களிலும் இவற்றின் வளர்ச்சி அதிகரித்துள்ளது. சீமைக்கருவேல மரங்களை அகற்ற வேண்டும் என நீதிமன்றம் உத்தரவிட்டுள்ள நிலையில், இவை ஊரின் மையப்பகுதியிலேயே சிறிய காடு போல் காட்சியளிக்கின்றன. இந்தப் புதர்களில் பாம்புகள் உள்ளிட்ட விஷ ஜந்துக்கள் தங்கும் அபாயம் உள்ளதால் பொதுமக்கள் அச்சமடைந்துள்ளனர். பாம்புகள் குடியிருப்புகளுக்குள் புகுந்தால் உயிருக்கு ஆபத்து ஏற்படலாம். எனவே, ஊர் மையப்பகுதியில் வளர்ந்துள்ள மரங்களையும் புதர்களையும் உடனடியாக அகற்ற வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். நீர்நிலைகள், சாலையோரங்களில் புதர் வளர்வதை அனுமதிக்கலாம்; ஊருக்குள் அடர்வனமாக வளர்வதை எப்படி அனுமதிக்கலாம் என்றும் பொதுமக்கள் கேள்வி எழுப்பியுள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌳 கொடுவாயில் ஊருக்குள் காடுபோல் வளர்ந்த புதர்கள், பாம்பு அச்சத்தில் மக்கள்\n\n📰 முழு விவரம்:\nகொடுவாய் நகரின் மையப்பகுதியில் சீமைக்கருவேல மரங்களும் புதர் செடிகளும் அடர்ந்து வளர்ந்துள்ளன. மழைக்காலம் என்பதால் பல இடங்களிலும் இவற்றின் வளர்ச்சி அதிகரித்துள்ளது.\nசீமைக்கருவேல மரங்களை அகற்ற நீதிமன்றம் உத்தரவிட்டுள்ள நிலையில், ஊரின் மையப்பகுதியிலேயே இவை சிறிய காடு போல் காட்சியளிக்கின்றன.\nஇந்தப் புதர்களில் பாம்புகள் உள்ளிட்ட விஷ ஜந்துக்கள் தங்கும் அபாயம் உள்ளதால் பொதுமக்கள் அச்சமடைந்துள்ளனர். பாம்புகள் குடியிருப்புகளுக்குள் புகுந்தால் உயிருக்கு ஆபத்து ஏற்படலாம்.\nஎனவே, ஊர் மையப்பகுதியில் வளர்ந்துள்ள மரங்களையும் புதர்களையும் உடனடியாக அகற்ற வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\n📍 இடம்: கொடுவாய் நகர மையப்பகுதி, பொங்கலூர்\n🙋 கோரிக்கை: ஊர் மையப்பகுதியில் உள்ள சீமைக்கருவேல மரங்கள், புதர்களை உடனடியாக அகற்ற வேண்டும்\nநீர்நிலைகள், சாலையோரங்களில் புதர் வளர்வதை அனுமதிக்கலாம்; ஊருக்குள் அடர்வனமாக வளர்வதை எப்படி அனுமதிக்கலாம் என பொதுமக்கள் கேள்வி எழுப்பியுள்ளனர்.\nஇதுபோன்ற பகுதிகளில் வசிப்போர் பாம்புகள் குறித்து கவனமாக இருங்கள். இந்தச் செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKoduvai overgrown bushes snake fear | Tirupur news\n📍 கொடுவாய், பொங்கலூர், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Pongalur #TirupurNews #திருப்பூர்",
-   "prompts": "A dense thicket of seemai karuvelam trees and shrubs has grown like a small forest in the middle of a town centre in Koduvai, Pongalur, Tirupur district. Thorny karuvelam branches and tall bushes crowd together between the houses and shop fronts of a narrow village street, their dense green canopy blocking the view beyond. The monsoon rains have pushed the growth up in many places, and creepers wind through the undergrowth. Two local residents stand at the edge of the thicket seen from behind, one holding a cloth bag, looking at the wild growth. A few two-wheelers are parked at the roadside of the street, and an old concrete house with a tiled roof stands at the edge of the frame. Overcast daylight with soft green tones. Camera at eye level, 35 mm, wide enough to show the dense forest-like growth beside the houses. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of dense seemai karuvelam branches and thorny shrubs growing thickly along the edge of a Koduvai town street in Tirupur district, Tamil Nadu. Small thorns, dark-green feathery leaves and dry-tinged twigs fill the frame, with monsoon-wet leaves glistening and tangled creepers winding through the undergrowth. The bushes look like a dark, hidden shelter where snakes could hide, and the ground beneath is dense with fallen leaves and damp earth. In the background, the blurred wall of a house and a patch of roadside are visible. Overcast daylight, soft natural colour. Camera slightly low, 35 mm macro-style, close enough to show the thorny density of the trees. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/there-s-a-tiny-snake-house-in-town/4379833",
-   "published": "2026-11-18T19:24:46+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "பல்லடம் அருகே பாசன வாய்க்காலில் கழிவுநீர் கலந்ததற்காக ரூ.81 ஆயிரம் அபராதம் விதிக்கப்பட்டுள்ளது. கரைப்புதூர் ஊராட்சி, பாரியூர் அம்மன் நகரில் பி ஏ பி பாசனக் கிளை வாய்க்கால் உள்ளது. இந்த வாய்க்காலில் கழிவுநீர் கலக்கப்பட்டு வந்தது. அருகிலுள்ள குடியிருப்புகளின் கழிவுநீரை வாய்க்காலில் சேர்ப்பதற்காக குழாய் அமைக்கும் பணியும் நடந்து வந்தது. தமிழக விவசாயிகள் பாதுகாப்பு சங்கத்தின் மாவட்டச் செயலாளர் ரமேஷ் மாவட்ட நிர்வாகத்திடம் புகார் அளித்தார். இதையடுத்து ஊராட்சி நிர்வாகத்தினர் அங்கு ஆய்வு செய்து, வாய்க்காலில் இருந்த கழிவு மற்றும் குப்பைகளை அகற்றினர். கழிவுநீர் கலக்க பதிக்கப்பட்டிருந்த குழாயும் அகற்றப்பட்டது. கழிவுநீரைக் கொண்டு செல்ல குழாய் பதித்த குடியிருப்பின் உரிமையாளருக்கு ரூ.81 ஆயிரம் அபராதம் விதிக்கப்பட்டதாக ஊராட்சி செயலர் பிரபு சங்கர் தெரிவித்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பல்லடம் பாரியூரில் வாய்க்காலில் கழிவுநீர் கலப்பு: ரூ.81 ஆயிரம் அபராதம்\n\n📰 முழு விவரம்:\nகரைப்புதூர் ஊராட்சி, பாரியூர் அம்மன் நகரில் பி.ஏ.பி. பாசனக் கிளை வாய்க்காலில் கழிவுநீர் கலக்கப்பட்டு வந்தது. அருகிலுள்ள குடியிருப்புகளின் கழிவுநீரை வாய்க்காலில் சேர்ப்பதற்காகக் குழாய் அமைக்கும் பணியும் நடந்து வந்தது. தமிழக விவசாயிகள் பாதுகாப்பு சங்கத்தின் மாவட்டச் செயலாளர் ரமேஷ் மாவட்ட நிர்வாகத்திடம் புகார் அளித்தார். இதையடுத்து ஊராட்சி நிர்வாகத்தினர் வாய்க்காலில் இருந்த கழிவு, குப்பைகளை அகற்றினர்; கழிவுநீர் கலக்கப் பதிக்கப்பட்ட குழாயும் அகற்றப்பட்டது. குழாய் பதித்த குடியிருப்பின் உரிமையாளருக்கு ரூ.81 ஆயிரம் அபராதம் விதிக்கப்பட்டது.\n📍 இடம்: பாரியூர் அம்மன் நகர், கரைப்புதூர் ஊராட்சி, பல்லடம்\n🗓️ நாள்: 18 நவம்பர் 2026\n👮 நடவடிக்கை: கழிவுகள், குழாய் அகற்றம்; உரிமையாளருக்கு ரூ.81 ஆயிரம் அபராதம்\n📞 தொடர்புக்கு: ஊராட்சி செயலர் பிரபு சங்கர்\nℹ️ மக்கள் கவனத்திற்கு: வாய்க்கால்களில் கழிவுநீர் கலக்காமல் பார்த்துக்கொள்ளுங்கள்\n\nPalladam sewage in PAP canal, Rs.81,000 fine | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "Panchayat workers in shirts and trousers stand beside an open irrigation canal in a village colony at Pariyur, Palladam, on the Palladam side of Tirupur district, while one worker lifts a cut length of black plastic sewage pipe from the canal bank, its end still dripping grey water. Around them are low-rise houses with tiled and concrete roofs, a narrow mud-and-concrete lane, and a few coconut palms and dry scrub at the edge of the fields, the typical outskirts look of Tirupur district. The canal runs straight through the frame, its water dark and murky with floating garbage and plastic bags caught on the banks. Two men in shirts and veshti stand at a distance, seen from behind, watching the work; one holds a long iron rod used for clearing waste. Daylight, bright mid-morning sun with soft shadows, weather clear. Camera at eye level, 35 mm, wide enough to show the canal, the houses and the workers together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the cut-off black sewage pipe lying on the concrete edge of the PAP irrigation canal, its open end dripping greyish sewage water into the murky channel, with heaps of wet garbage and plastic bags caught against the canal wall. A pair of rubber gloves and a bundle of cleared waste sit on the bank beside it, and a pale concrete house wall with a rough plastered finish forms the blurred background. Out of focus behind, a worker's legs in trousers and sandals are visible, no faces shown. Late morning daylight, dull overcast, shallow depth of field, camera low and close, 50 mm, focusing on the pipe and the polluted water. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sewage-mixing-in-the-channel-rs-81-thousand-fine/4379986",
+   "published": "2026-11-18T20:30:49+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides must have 3 or 4 items",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035807/tirupur360/v2zwkbhztiukxlxt6rxq.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795035840/tirupur360/jsjyeuizhcogh5ej3742.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051396/tirupur360/f4qepvgnthkvern2cjs0.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051400/tirupur360/pdask8anplieyv6dfkmt.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர் மாநகரில் கேபிள் ஒயர்களை 25ம் தேதிக்குள் ஒழுங்குபடுத்த உத்தரவு",
+   "english_headline": "Tirupur Corporation orders cable wires to be arranged by 25th or they will be cut and removed",
+   "category": "Civic Issues",
+   "location": "Tirupur city, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மாநகராட்சி உத்தரவு",
+    "loc": "திருப்பூர் மாநகரம்",
+    "hl1": "கேபிள் ஒயர்கள் 25ம் தேதிக்குள்",
+    "hl2": "தவறினால் ஒயர்கள் துண்டிப்பு",
+    "slides": [
+     {
+      "title": "என்ன உத்தரவு?",
+      "lines": [
+       "திருப்பூர் மாநகராட்சிப் பகுதியில் கேபிள் ஒயர்கள்",
+       "<b>25ம் தேதிக்குள்</b> ஒழுங்குபடுத்த வேண்டும் என ஆணையர்",
+       "மக்களுக்கும் போக்குவரத்துக்கும் இடையூறு இல்லாமல் இருக்க"
+      ]
+     },
+     {
+      "title": "ஏன் இந்த உத்தரவு?",
+      "lines": [
+       "சாலை மையத் தடுப்புகள், தெருவிளக்கு கம்பங்களில் ஒயர்கள் உள்ளன",
+       "இவை ஆபத்தாகவும் இடையூறாகவும் இருப்பதாக தொடர்ந்து புகார்கள்",
+       "அரசு, தனியார் கேபிள் மற்றும் தொலைத்தொடர்பு நிறுவனங்களுக்கு"
+      ]
+     },
+     {
+      "title": "தவறினால்?",
+      "lines": [
+       "<b>25ம் தேதி</b> முதல் ஒயர்களைத் துண்டித்து அகற்றப்படும்",
+       "மாநகராட்சி நிர்வாகம் இந்த நடவடிக்கையை மேற்கொள்ளும்",
+       "நிறுவனங்கள் உடனே தங்கள் ஒயர்களை ஆய்வு செய்ய வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் மாநகரில் கேபிள் ஒயர்களை 25ம் தேதிக்குள் ஒழுங்குபடுத்த வேண்டும். மாநகராட்சி ஆணையர் இந்த உத்தரவை வெளியிட்டுள்ளார். சாலையின் மையத் தடுப்புகள் மற்றும் தெருவிளக்கு கம்பங்களில் அரசு மற்றும் தனியார் கேபிள் நிறுவனங்கள், தொலைத்தொடர்பு நிறுவனங்கள் அமைத்த ஒயர்களால் சாலையில் செல்வோருக்கு ஆபத்தும் இடையூறும் ஏற்படுவதாக தொடர்ந்து புகார்கள் வந்துள்ளன. இதையடுத்து கேபிள் மற்றும் தொலைத்தொடர்பு நிறுவனங்களுடன் ஆலோசனைக் கூட்டம் நடத்தி பாதுகாப்பு முன்னெச்சரிக்கை நடவடிக்கைகள் மேற்கொள்ள அறிவுறுத்தப்பட்டுள்ளது. நிறுவனங்கள் தங்கள் ஒயர்களை ஆய்வு செய்து, மக்களுக்கும் போக்குவரத்துக்கும் இடையூறு இல்லாத வகையில் 25ம் தேதிக்குள் ஒழுங்குபடுத்த வேண்டும். தவறினால் 25ம் தேதி முதல் ஒயர்களைத் துண்டித்து அகற்றும் நடவடிக்கையை மாநகராட்சி நிர்வாகம் மேற்கொள்ளும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ திருப்பூரில் கேபிள் ஒயர்களை 25ம் தேதிக்குள் ஒழுங்குபடுத்த உத்தரவு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சிப் பகுதியில் சாலை மையத் தடுப்புகள் மற்றும் தெருவிளக்கு கம்பங்களில் அமைக்கப்பட்டுள்ள கேபிள், தொலைத்தொடர்பு ஒயர்கள் ஆபத்தையும் இடையூறையும் ஏற்படுத்துவதாக தொடர்ந்து புகார்கள் வந்துள்ளன. இதனால் மாநகராட்சி ஆணையர் உத்தரவிட்டுள்ளார். அரசு, தனியார் கேபிள் நிறுவனங்கள் தங்கள் ஒயர்களை ஆய்வு செய்து, பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு இல்லாமல் 25ம் தேதிக்குள் ஒழுங்குபடுத்த வேண்டும். தவறினால் 25ம் தேதி முதல் ஒயர்கள் துண்டிக்கப்பட்டு அகற்றப்படும்.\n\n📍 இடம்: திருப்பூர் மாநகராட்சிப் பகுதி\n🗓️ கெடு: 25ம் தேதிக்குள்\n👮 நடவடிக்கை: தவறினால் மாநகராட்சி நிர்வாகம் ஒயர்களைத் துண்டித்து அகற்றும்\nℹ️ மக்கள் கவனத்திற்கு: சாலைகளில் தொங்கும் ஒயர்கள் குறித்து தகவல் இருந்தால் மாநகராட்சிக்குத் தெரிவியுங்கள்.\n\nTirupur cable wires order deadline 25th | Tirupur news\n📍 திருப்பூர் மாநகரம், திருப்பூர் மாவட்டம் | 18 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A Tirupur Corporation official in a shirt and trousers stands beside a street-light pole on a busy Tirupur city road, looking up at a tangle of loose black cable wires sagging across the pole and over the road. Behind him is a concrete median divider with more cables strung between street-light poles. Two corporation workers in plain clothes stand a few steps away, one holding a notice paper, while a cable company lineman on a short ladder begins to gather the loose wires. Town buses, autorickshaws and two-wheelers pass slowly on the road, some riders ducking under the hanging lines. Daylight, slightly overcast, shot at eye level with a 35 mm lens wide enough to show the full stretch of road, the poles and the traffic, with the people seen from behind or far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a street-light pole on a Tirupur city road where several black cable wires and telecom lines are wrapped loosely and hang down low over the footpath, sagging in a messy loop near the median divider. In the soft-focus background a corporation worker in a shirt and trousers stands with his back to the camera, and a two-wheeler passes at a distance below the lines. Daylight, slightly high angle at eye level, 35 mm, focus on the tangled wires so the danger of the obstruction is clear. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/order-to-regulate-telecommunication-cable/4379936",
+   "published": "2026-11-18T20:14:21+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பூர் மாநகரம்', e.g. 'திருப்பூர் மாநகரம்: ...' or 'திருப்பூர் மாநகரம்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051406/tirupur360/uhankmoojn7xvxgks2da.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051410/tirupur360/pvueb8jmbrjnvwtgfazn.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூரில் டெங்கு தடுப்பு: ஒரே நாளில் 1.5 டன் கொசு உற்பத்திக் கழிவுகள் அகற்றம்",
+   "english_headline": "Tirupur dengue prevention drive: 1.5 tonnes of mosquito-breeding waste removed in a single day",
+   "category": "Health",
+   "location": "Tirupur Corporation, 40th and 41st wards, Tirupur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "டெங்கு தடுப்பு",
+    "loc": "திருப்பூர் மாநகராட்சி",
+    "hl1": "திருப்பூரில் டெங்கு தடுப்பு நடவடிக்கை",
+    "hl2": "ஒரே நாளில் <b>1.5 டன்</b>",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர் மாநகராட்சியில் டெங்கு பரவலைத் தடுக்க தீவிர",
+       "ஒரே நாளில் சுமார் <b>1.5 டன்</b> கொசு உற்பத்திக் கழிவுகள் அகற்றம்",
+       "இப்பணி மாநகராட்சி ஆணையர் அறிவுறுத்தலின்படி நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "எந்த இடங்கள்?",
+      "lines": [
+       "4-ஆவது மண்டலத்தின் <b>40, 41</b>-ஆவது வார்டுகள்",
+       "குடியிருப்புகள், பொது இடங்களில் மழைநீர் தேங்கும் பகுதிகள்",
+       "கொசு உற்பத்தியாகும் இடங்களைக் கண்டறிந்து அழிப்பு"
+      ]
+     },
+     {
+      "title": "யார் ஆய்வு?",
+      "lines": [
+       "4-ஆவது மண்டல உதவி ஆணையர் வாசுதேவன் ஆய்வு செய்தார்",
+       "மாநகர் நல அலுவலர் மோகன், மண்டல சுகாதார அலுவலர் ராஜேந்திரன்",
+       "சுகாதார ஆய்வாளர்கள், சுகாதாரப் பணி மேற்பார்வையாளர்களும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் டெங்கு தடுப்பு நடவடிக்கையாக ஒரே நாளில் சுமார் 1.5 டன் கொசு உற்பத்திக் கழிவுகள் அகற்றப்பட்டன. திருப்பூர் மாநகராட்சியில் டெங்கு காய்ச்சல் பரவலைக் கட்டுப்படுத்த தீவிர தடுப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன. மாநகராட்சி ஆணையர் காவல் கண்காணிப்பாளர்அமித் அறிவுறுத்தலின்படி, 4-ஆவது மண்டலத்தின் 40 மற்றும் 41-ஆவது வார்டுகளில் பணி நடைபெற்றது. குடியிருப்புகள் மற்றும் பொது இடங்களில் மழைநீர் தேங்கக்கூடிய பகுதிகளில் தேவையற்ற கொசு உற்பத்திப் பொருட்கள் அகற்றப்பட்டன. கொசுக்கள் உற்பத்தியாகும் இடங்களைக் கண்டறிந்து அழிக்கும் பணியில் மாநகராட்சி ஊழியர்கள் ஈடுபட்டனர். இப்பணிகளை 4-ஆவது மண்டல உதவி ஆணையர் வாசுதேவன் ஆய்வு செய்தார். மாநகர் நல அலுவலர் மோகன், மண்டல சுகாதார அலுவலர் ராஜேந்திரன், சுகாதார ஆய்வாளர்கள், சுகாதாரப் பணி மேற்பார்வையாளர்கள் உடனிருந்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🦟 திருப்பூரில் டெங்கு தடுப்பு: ஒரே நாளில் 1.5 டன் கொசு உற்பத்திக் கழிவுகள் அகற்றம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சியில் டெங்கு காய்ச்சல் பரவலைக் கட்டுப்படுத்த தீவிர தடுப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன. மாநகராட்சி ஆணையர் எஸ்.பி.அமித் அறிவுறுத்தலின்படி, 4-ஆவது மண்டலத்தின் 40 மற்றும் 41-ஆவது வார்டுகளில் குடியிருப்புகள் மற்றும் பொது இடங்களில் மழைநீர் தேங்கக்கூடிய பகுதிகளில் தேவையற்ற கொசு உற்பத்திப் பொருட்கள் அகற்றப்பட்டன. கொசுக்கள் உற்பத்தியாகும் இடங்களைக் கண்டறிந்து அழிக்கும் பணியில் மாநகராட்சி ஊழியர்கள் ஈடுபட்டனர். ஒரே நாளில் சுமார் 1.5 டன் கொசு உற்பத்திக் கழிவுகள் சேகரிக்கப்பட்டு அகற்றப்பட்டன.\n📍 இடம்: திருப்பூர் மாநகராட்சி, 4-ஆவது மண்டலத்தின் 40, 41-ஆவது வார்டுகள்\n👮 ஆய்வு: 4-ஆவது மண்டல உதவி ஆணையர் வாசுதேவன் பணிகளை ஆய்வு செய்தார். மாநகர் நல அலுவலர் மோகன், மண்டல சுகாதார அலுவலர் ராஜேந்திரன், சுகாதார ஆய்வாளர்கள், சுகாதாரப் பணி மேற்பார்வையாளர்கள் உடனிருந்தனர்.\n\nTirupur dengue prevention drive, 1.5 tonnes waste removed | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #டெங்கு",
+   "prompts": "Corporation sanitation workers in orange vests and gloves clear mosquito-breeding waste from a residential street in Tirupur city, Tamil Nadu, lifting old plastic containers, discarded tyres and broken pots from a rain-puddled roadside drain. Behind them stand modest concrete houses with tiled and tin roofs, a few two-wheelers parked along the lane, and women in cotton sarees watching from their doorways. Mounds of collected waste sit on a tarpaulin at the roadside, and a corporation tipper lorry is parked a little farther down. Stagnant water glints in the shallow puddles where the workers have not yet reached. Health officers in plain shirts stand a few metres away, their backs partly turned, supervising the clean-up. It is bright morning daylight after recent rain, the air humid. Shot at eye level with a 35 mm lens wide enough to show the full street, with the workers and piled waste in the foreground and the houses receding behind them. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a heap of collected mosquito-breeding waste on a roadside in a Tirupur residential ward: a pile of rain-soaked discarded plastic cups, broken clay pots, old rubber tyres and empty tins, with water still beaded on their surfaces and a little stagnant water pooled in a dented bucket at the edge of the frame. A gloved hand in an orange sanitation worker's glove rests on the edge of a wheelbarrow filled with more debris. Behind the heap, slightly blurred, a concrete drain runs along the street and a wall of a house with peeling paint is visible. The light is soft morning daylight after rain, with damp ground reflecting the sky. Camera held low at about 45 degrees, 35 mm lens, shallow depth of field so the waste pile stays sharp while the background softens, with no visible text or signboards. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/dengue-prevention-measures-in-tiruppur-15-tonnes-of-waste-removed-in-a-single-day",
+   "published": "2026-11-18T22:00:35.012Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says 'மாநகராட்சி ஆணையர் காவல் கண்காணிப்பாளர்அமித்' — the article says the commissioner is S.P. Amit (மாநகராட்சி ஆணையா் எஸ்.பி.அமித்); 'காவல் கண்காணிப்பாளர்' (police superintendent) is an invented, wrong role, and the phrase is also garbled with a missing space; fact-check: reel_script omits the commissioner's name 'அமித்' being attached correctly as S.P. Amit; the role/name mixing makes the sentence meaningless; fact-check: slides_spec 'யார் ஆய்வு?' slide has no problem on its own, but the reel_script line 'மாநகர் நல அலுவலர் மோகன்...' is accurate; no further issues",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051449/tirupur360/eqbxyhfhwk4wgxn4bb5o.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051452/tirupur360/xrdc8jnwerzvnitlylh8.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூரில் இன்று மின்தடை: காலை 9 முதல் மாலை 4 மணி வரை",
+   "english_headline": "Tirupur power cut today (19 Nov) 9 AM to 4 PM in many areas including Avinashi Road",
+   "category": "மின் தடை",
+   "location": "Tirupur city areas, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மின் தடை",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூரில் இன்று மின்தடை",
+    "hl2": "காலை 9 – மாலை 4 வரை",
+    "slides": [
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "இன்று <b>19 நவம்பர்</b> (வியாழக்கிழமை)",
+       "காலை <b>9 மணி</b> முதல் மாலை <b>4 மணி</b> வரை",
+       "திருப்பூர் துணை மின் நிலைய மாதாந்திரப் பராமரிப்பு"
+      ]
+     },
+     {
+      "title": "எந்தப் பகுதிகள்?",
+      "lines": [
+       "அவிநாசி சாலை, காலேஜ் ரோடு, பங்களா ஸ்டாப்",
+       "காவேரி வீதி, நேதாஜி வீதி, குமரன் வீதி",
+       "முருங்கப்பாளையம், சாமுண்டிபுரம், அங்கேரிபாளையம் சாலை"
+      ]
+     },
+     {
+      "title": "மேலும் பகுதிகள்",
+      "lines": [
+       "பாத்திமா நகர், வித்யா நகர், பாரதி நகர்",
+       "காந்தி நகர், சாமிநாதபுரம், அண்ணா காலனி",
+       "கஞ்சம்பாளையம், ராதா நகர் உட்பட பல பகுதிகள்"
+      ]
+     },
+     {
+      "title": "தயாராக இருங்கள்",
+      "lines": [
+       "மொபைல் சார்ஜ், குடிநீரை முன்கூட்டியே தயார் செய்யுங்கள்",
+       "தகவலுக்கு மின் பகிர்மான வட்ட அலுவலகத்தை தொடர்புகொள்ளலாம்",
+       "மின் பகிர்மான வட்ட செயற்பொறியாளர் பரஞ்சோதி தகவல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் இன்று காலை 9 மணி முதல் மாலை 4 மணி வரை மின்தடை. நவம்பர் 19ஆம் தேதி வியாழக்கிழமை திருப்பூர் துணை மின் நிலையத்தில் மாதாந்திரப் பராமரிப்புப் பணிகள் நடைபெறுகின்றன. இதனால் பல பகுதிகளில் மின் விநியோகம் இருக்காது. அவிநாசி சாலை, காலேஜ் ரோடு, பங்களா ஸ்டாப், காவேரி வீதி, நேதாஜி வீதி, குமரன் வீதி உள்ளிட்ட பகுதிகள் பாதிக்கப்படும். முருங்கப்பாளையம், சாமுண்டிபுரம், அங்கேரிபாளையம் சாலை, பாத்திமா நகர், வித்யா நகர், பாரதி நகர் ஆகிய பகுதிகளிலும் மின்தடை இருக்கும். காந்தி நகர், சாமிநாதபுரம், அண்ணா காலனி, கஞ்சம்பாளையம், ராதா நகர் உட்பட இன்னும் பல பகுதிகளிலும் மின்தடை ஏற்படும். இந்தத் தகவலை திருப்பூர் மின் பகிர்மான வட்ட செயற்பொறியாளர் பரஞ்சோதி தெரிவித்துள்ளார். மொபைல் சார்ஜ், குடிநீரை முன்கூட்டியே தயார் செய்துகொள்ளுங்கள். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚡ திருப்பூரில் இன்று மின் தடை: காலை 9 – மாலை 4 மணி வரை\n\n📰 முழு விவரம்:\nதிருப்பூர் துணை மின் நிலையத்தில் மாதாந்திரப் பராமரிப்புப் பணிகள் காரணமாக, இன்று (நவ. 19, வியாழக்கிழமை) காலை 9 மணி முதல் மாலை 4 மணி வரை மின் விநியோகம் இருக்காது.\nஅவிநாசி சாலை, புஷ்பா திரையரங்கம், காலேஜ் ரோடு, ஒடக்காடு, பங்களா ஸ்டாப், காவேரி வீதி, ஸ்டேன்ஸ் வீதி, ஹவுஸிங் யூனிட், முத்துசாமி வீதி விரிவு, கே.ஆர்.இ. லேஅவுட், எஸ்.ஆர்.நகர் வடக்கு, நேதாஜி வீதி, குமரன் வீதி, பாத்திமா நகர், டெலிபோன் காலனி, வித்யா நகர், எம்ஜிஆர் நகர், பாரதி நகர், வளையங்காடு, முருங்கப்பாளையம், மாஸ்கோ நகர், காமாட்சிபுரம், பூத்தார் திரையரங்கம் பகுதி, சாமுண்டிபுரம், லட்சுமி திரையரங்கம் பகுதி, கல்லம்பாளையம், எஸ்ஏபி திரையரங்கம் பகுதி, ஆசர் நகர், நாராயணசாமி நகர், காந்தி நகர், டிடிபி மில்லின் ஒரு பகுதி, சாமிநாதபுரம், பத்மாவதிபுரம், அண்ணா காலனி, ஜீவா காலனி, அங்கேரிபாளையம் சாலை, சிங்காரவேலன் நகர், காட்டன் மில், சக்தி திரையரங்கம் சாலை, பாப்பா நகர், பாரதி நகர், கஞ்சம்பாளையம், சின்ன பொம்மநாயக்கன்பாளையம், ராதா நகர் ஆகிய பகுதிகளில் மின்தடை இருக்கும்.\n🏢 தகவல்: திருப்பூர் மின் பகிர்மான வட்ட செயற்பொறியாளர் பரஞ்சோதி\n🔋 மொபைல் சார்ஜ், குடிநீரை முன்கூட்டியே தயார் செய்துகொள்ளுங்கள்.\n\nTirupur power cut today 9 AM to 4 PM | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurPowerCut #மின்தடை #TirupurNews",
+   "prompts": "A TNEB lineman in a khaki uniform and safety helmet climbs a concrete electricity pole on a busy Avinashi Road in Tirupur city during a planned maintenance power cut. Behind him, the street is lined with small shops and multi-storey buildings, their shutters half-open, while two-wheelers and an autorickshaw pass slowly. Several overhead wires hang across the road, and a transformer box sits high on a pole. A few shopkeepers and residents stand in the shop entrances looking up at the work, seen from behind or at a distance. It is bright daylight, mid-morning, with a clear sky. The camera is at eye level, 35 mm, wide enough to show the road, the poles, the lineman and the dim, unlit shop fronts. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a TNEB transformer and overhead power lines on a concrete pole in a Tirupur city street, with the power switched off for maintenance. The metal fuse box and cross-arm insulators are clearly visible, the cables slack and disconnected. Behind the pole, a row of shop shutters and a plain wall fill the background, slightly out of focus, with a hint of a two-wheeler passing. The light is bright midday daylight with soft shadows. Taken at slightly high angle, 35 mm, showing the equipment in sharp focus against the quiet, unlit street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/இன்றைய-மின்தடை-திருப்பூா்-2",
+   "published": "2026-11-18T22:09:49.716Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 2 line 1 is cut off mid-phrase (' ரோடு, பங்களா ஸ்டாப்') - write a complete short phrase; known issue card_cut_mid_phrase: card cut off mid-phrase ('லேஜ் ரோடு, பங்களா ஸ்டாப்') - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051458/tirupur360/kj8jycfj1fvwrisc6syi.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051463/tirupur360/upj1lsjauwq2p21p72qf.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெருமாநல்லூரில் கஞ்சா விற்பனை செய்தவர் கைது: ஒரு கிலோ 200 கிராம் பறிமுதல்",
+   "english_headline": "Perumanallur: youth selling ganja arrested on Wednesday, 1.2 kg ganja seized",
+   "category": "Crime & Safety",
+   "location": "Perumanallur, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "பெருமாநல்லூர்",
+    "hl1": "பெருமாநல்லூரில் கஞ்சா விற்பனை: ஒருவர்",
+    "hl2": "<b>1 கிலோ 200 கிராம்</b>",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பெருமாநல்லூர் அருகே கஞ்சா விற்பனை செய்தவர் கைது",
+       "புதன்கிழமை போலீஸார் இந்தக் கைது நடவடிக்கையை மேற்கொண்டனர்",
+       "பெருமாநல்லூர்-கணக்கம்பாளையம் சாலையில் நடந்தது"
+      ]
+     },
+     {
+      "title": "எப்படி பிடித்தனர்?",
+      "lines": [
+       "கஞ்சா விற்பனை நடப்பதாக போலீஸாருக்கு ரகசியத் தகவல் கிடைத்தது",
+       "கைப்பையுடன் சந்தேகத்துக்கிடமாக நின்ற இளைஞரைப் பிடித்தனர்",
+       "விசாரணையில் கஞ்சா வைத்திருந்தது தெரியவந்தது"
+      ]
+     },
+     {
+      "title": "பறிமுதல் விவரம்",
+      "lines": [
+       "கைதானவர் ஒடிசா மாநிலத்தைச் சேர்ந்த 20 வயது இளைஞர்",
+       "புதிய திருப்பூரில் பனியன் நிறுவனத்தில் பணியாற்றி வந்தவர்",
+       "<b>1 கிலோ 200 கிராம்</b> கஞ்சா பறிமுதல் செய்யப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெருமாநல்லூர் அருகே ஒருவர் கஞ்சா விற்பனை செய்ததற்காக போலீஸாரால் கைது செய்யப்பட்டார். புதன்கிழமை பெருமாநல்லூர்-கணக்கம்பாளையம் சாலையில் கஞ்சா விற்பனை நடப்பதாக போலீஸாருக்கு ரகசியத் தகவல் கிடைத்தது. உடனடியாகச் சென்ற போலீஸார், சந்தேகத்துக்கிடமாக கைப்பையுடன் நின்றிருந்த இளைஞரைப் பிடித்து விசாரித்தனர். விசாரணையில் அவர் ஒடிசா மாநிலத்தைச் சேர்ந்த 20 வயது சுசாந்த்முகி என்பது தெரியவந்தது. அவர் புதிய திருப்பூரில் பனியன் நிறுவனத்தில் பணியாற்றி வந்தார். விற்பனை செய்வதற்காக அவர் கஞ்சா வைத்திருந்ததும் கண்டுபிடிக்கப்பட்டது. இதையடுத்து பெருமாநல்லூர் போலீஸார் வழக்குப் பதிவு செய்து அவரைக் கைது செய்தனர். அவரிடமிருந்து 1 கிலோ 200 கிராம் கஞ்சா பறிமுதல் செய்யப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பெருமாநல்லூரில் கஞ்சா விற்பனை செய்தவர் கைது: 1 கிலோ 200 கிராம் பறிமுதல்\n\n📰 முழு விவரம்:\nபெருமாநல்லூர் அருகே கஞ்சா விற்பனை செய்த இளைஞரைப் போலீஸார் புதன்கிழமை கைது செய்தனர். பெருமாநல்லூர்-கணக்கம்பாளையம் சாலையில் கஞ்சா விற்பனை நடப்பதாக ரகசியத் தகவல் கிடைத்தது. விரைந்து சென்ற போலீஸார், சந்தேகத்துக்கிடமாக கைப்பையுடன் நின்ற இளைஞரைப் பிடித்து விசாரித்தனர். விசாரணையில் அவர் ஒடிசா மாநிலத்தைச் சேர்ந்த 20 வயது சுசாந்த்முகி என்பதும், புதிய திருப்பூரில் பனியன் நிறுவனத்தில் பணியாற்றி வருவதும், விற்பனைக்காக கஞ்சா வைத்திருந்ததும் தெரியவந்தது. பெருமாநல்லூர் போலீஸார் வழக்குப் பதிவு செய்து அவரைக் கைது செய்தனர். அவரிடமிருந்து 1 கிலோ 200 கிராம் கஞ்சா பறிமுதல் செய்யப்பட்டது.\n📍 இடம்: பெருமாநல்லூர்-கணக்கம்பாளையம் சாலை, பெருமாநல்லூர் அருகே\n🗓️ நாள்: புதன்கிழமை\n👮 நடவடிக்கை: பெருமாநல்லூர் போலீஸார் வழக்குப் பதிவு செய்து கைது செய்தனர்; 1 கிலோ 200 கிராம் கஞ்சா பறிமுதல்\n\nPerumanallur ganja seller arrested, 1.2 kg seized | Tirupur news\n📍 பெருமாநல்லூர், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Perumanallur #TirupurNews #திருப்பூர்",
+   "prompts": "A group of Tamil Nadu police in khaki uniform stand on the side of a Perumanallur road as a young man in a shirt and trousers is held by the arm, his back partly turned to the camera. Beside the road are a roadside shop front, a parked two-wheeler and a few passing vehicles, with a row of coconut trees and the flat outskirts of Tiruppur district behind. The suspect, who is about twenty years old, holds a shoulder bag that has been opened, and the officers are checking it while bystanders watch from a distance. The scene is a Wednesday daytime in clear light, with a slightly overcast sky. The photo is taken at eye level with a 35 mm lens, wide enough to show the road, the police, and the suspect from behind or in profile, with no readable signboards or faces. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a small heap of dried green ganja leaves and buds spread on a clean plastic sheet or police table, with a dark cloth shoulder bag lying open beside it. Behind the table, the blurred legs and khaki trousers of police officers are visible, and beyond them a glimpse of a roadside with a parked two-wheeler. The light is daytime natural light falling on the seized material. The camera is set slightly high, looking down at the ganja and bag, with a 35 mm lens and shallow depth of field so the background is softly out of focus. No faces, no text, no labels are visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/பெருமாநல்லூரில்-கஞ்சா-விற்பனை-செய்தவா்-கைது",
+   "published": "2026-11-18T22:10:13.052Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051471/tirupur360/eor4ibbigun9imjv66pk.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795051474/tirupur360/atstkk7uo7c6hyxgugap.jpg"
    ]
   }
  ]
