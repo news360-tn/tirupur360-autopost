@@ -1,82 +1,23 @@
-14:07:41 round 2026-11-19_14: news published 19 Nov 09:50 -> 19 Nov 14:07 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Tirupur)
-14:07:41 insights 2026-11-19T14:07+05:30 (97 reels): topic weights {'politics': -0.37, 'accident': 0.58, 'crime': 1.33, 'education': -0.5, 'power_cut': -0.41, 'temple': -0.5, 'civic': -0.36, 'poultry_agri': -0.43}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 மங்கலம் அருகே கிரேன் மோதிய அரசுப் பள்ளி மாணவன் பலி']
-14:16:08 from_google dinamalar.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google dinamani.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google dinamalar.com 'பல்லடம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google dinamani.com 'பல்லடம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google dinamalar.com 'உடுமலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google dinamani.com 'உடுமலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google tamil.oneindia.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google dinakaran.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google dailythanthi.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google maalaimalar.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google hindutamil.in 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 from_google polimernews.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-14:16:08 24 links on the two papers' Tirupur pages
-14:16:22 skipped: already posted=7, published before this window=3, feature / tips / recipe, not a Tirupur event=1, power cut - posted automatically=1, not Tirupur district=1
-14:16:22 list: 0 new + 11 earlier news not posted yet
-14:16:22    1. [குற்றம்] ரயில் முன் பாய்ந்து மாணவி தற்கொலை (தினமலர்) (earlier)
-14:16:22    2. [கல்வி] மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி (தினமலர்) (earlier)
-14:16:22    3. [பொது] பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள் (தினமணி) (earlier)
-14:16:22    4. [பொது] திருப்பூர் வழியாக காசி தமிழ் சங்கமம் சிறப்பு ரெயில் இயக்கம் (தினத்தந்தி) (earlier)
-14:16:22    5. [பொது] ‘ஜீரோ டிபெக்ட்; ஜீரோ எபெக்ட்’ சான்று பெற்றால் சிறந்த வாய்ப்பு! குறு, ச (தினமலர்) (earlier)
-14:16:22    6. [பொது] ‘ஸ்டாண்ட் அப் இந்தியா’ திட்டத்தில் தொழில் துவங்க ரூ. ஒரு கோடி வரை கடன் (தினமலர்) (earlier)
-14:16:22    7. [பொது] ஆன்லைன் ஆடை வர்த்தகம் விழிப்புணர்வு கருத்தரங்கு (தினமலர்) (earlier)
-14:16:22    8. [பொது] அரசு மருத்துவமனையில் கலெக்டர் திடீர் ஆய்வு (தினமலர்) (earlier)
-14:16:22    9. [நீதிமன்றம்] தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றப்பட்ட விவகாரம்: ரூ.35.68 லட்சம் (தினமணி) (earlier)
-14:16:22   10. [பொது] மூத்த குடிமக்கள் இல்லம் இன்று திறப்பு விழா (தினமலர்) (earlier)
-14:16:22   11. [பொது] ‘ஆன்லைனில்’ உடனடியாக கட்டட அனுமதி (தினமலர்) (earlier)
-14:16:22 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-19_14
-14:16:23    not picked automatically (suicide / obituary - only when the owner ticks it): ரயில் முன் பாய்ந்து மாணவி தற்கொலை
-14:16:23    not picked automatically (ceremony / shopping feature - only when the owner ticks it): ஆன்லைன் ஆடை வர்த்தகம் விழிப்புணர்வு கருத்தரங்கு
-14:16:23 round 2026-11-19_14 (at least 3, up to 3 more of well-watched topics): 9 news to choose from (9 from earlier rounds), ranked by this page's insights
-14:16:23   PICK   1.   3.0 [education -0.50 page] (earlier) மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:16:23   PICK   2.   3.0 [other +0.00 pattern] (earlier) பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:16:23   PICK   3.   2.0 [other +0.00 pattern] (earlier) தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றப்பட்ட விவகாரம்: ரூ.35
-14:16:23          4.   1.5 [other +0.00 pattern] (earlier) மூத்த குடிமக்கள் இல்லம் இன்று திறப்பு விழா
-14:16:23          5.   1.5 [other +0.00 pattern] (earlier) ‘ஆன்லைனில்’ உடனடியாக கட்டட அனுமதி
-14:16:23          6.   1.0 [other +0.00 pattern] (earlier) திருப்பூர் வழியாக காசி தமிழ் சங்கமம் சிறப்பு ரெயில் இயக்கம்
-14:16:23          7.   1.0 [other +0.00 pattern] (earlier) ‘ஜீரோ டிபெக்ட்; ஜீரோ எபெக்ட்’ சான்று பெற்றால் சிறந்த வாய்ப்ப
-14:16:23          8.   1.0 [other +0.00 pattern] (earlier) ‘ஸ்டாண்ட் அப் இந்தியா’ திட்டத்தில் தொழில் துவங்க ரூ. ஒரு கோட
-14:16:23          9.   1.0 [other +0.00 pattern] (earlier) அரசு மருத்துவமனையில் கலெக்டர் திடீர் ஆய்வு
-14:16:23 decided: automatic: top 3 of 9 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vidhya-vikashini-school-wins-district-volleyball-tournament/4379860 https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/unauthorized-installation-of-high-voltage-electricity-poles-along-the-pap-canal-bank https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/case-of-a-young-mans-leg-being-amputated-due-to-improper-treatment-consumer-court-orders-payment-of-rs-3568-lakh-as-compensation
-14:20:37 3 listed news now in the Sheet
-14:20:46 instagram duplicate check tirupur: 50 recent posts read
-14:20:46 verify 2026-11-19_14: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:20:46    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:20:46    NOT POSTED C394fa29: queued RN-127 (Queued) - தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றப்பட்ட விவகாரம்: ரூ.35
-14:20:46    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:25:51 instagram duplicate check tirupur: 50 recent posts read
-14:25:51 verify 2026-11-19_14: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:25:51    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:25:51    NOT POSTED C394fa29: queued RN-127 (Queued) - தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றப்பட்ட விவகாரம்: ரூ.35
-14:25:51    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:30:59 instagram duplicate check tirupur: 50 recent posts read
-14:30:59 verify 2026-11-19_14: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:30:59    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:30:59    NOT POSTED C394fa29: queued RN-127 (Queued) - தவறான சிகிச்சையால் இளைஞரின் கால் அகற்றப்பட்ட விவகாரம்: ரூ.35
-14:30:59    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:36:05 instagram duplicate check tirupur: 50 recent posts read
-14:36:05 verify 2026-11-19_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:36:05    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:36:05    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:41:12 instagram duplicate check tirupur: 50 recent posts read
-14:41:12 verify 2026-11-19_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:41:12    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:41:12    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:46:18 instagram duplicate check tirupur: 50 recent posts read
-14:46:18 verify 2026-11-19_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:46:18    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:46:18    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:51:25 instagram duplicate check tirupur: 50 recent posts read
-14:51:25 verify 2026-11-19_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:51:25    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:51:25    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-14:56:33 instagram duplicate check tirupur: 50 recent posts read
-14:56:33 verify 2026-11-19_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:56:33    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
-14:56:33    NOT POSTED C9c608ef: queued RN-126 (Queued) - பி.ஏ.பி. வாய்க்கால் கரையில் அனுமதியின்றி உயா்மின் கம்பங்கள்
-15:01:38 verify 2026-11-19_14: 2 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-15:01:38    SKIPPED Cfa459ec: skipped RN-125: held: location is only the district - the town from the article is missing - மாவட்ட வாலிபால் போட்டி வித்ய விகாஷினி பள்ளி வெற்றி
+18:29:14 round 2026-11-19_18: news published 19 Nov 14:07 -> 19 Nov 18:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Tirupur)
+18:29:14 insights 2026-11-19T18:29+05:30 (99 reels): topic weights {'politics': -0.36, 'accident': 0.6, 'crime': 1.34, 'education': -0.5, 'power_cut': -0.4, 'temple': -0.5, 'civic': -0.18, 'poultry_agri': -0.43}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 மங்கலம் அருகே கிரேன் மோதிய அரசுப் பள்ளி மாணவன் பலி']
+18:32:00 79 links on the two papers' Tirupur pages
+18:32:49 skipped: not Tirupur district=47, already posted=9, published before this window=3, feature / tips / recipe, not a Tirupur event=1, power cut - posted automatically=1
+18:32:50 list: 8 new + 8 earlier news not posted yet
+18:32:50    1. [குற்றம்] தலையே சரியில்லையா? 9 பள்ளி மாணவிகளுக்கு பாலியல் தொல்லை! திருவெண்ணெய்நல (ஒன்இந்தியா)
+18:32:50    2. [குற்றம்] ‘நகை-பணத்தை திருப்பிக்கேட்டதால் தீர்த்துக்கட்டிய கள்ளக்காதலன்’- பெண் க (தினத்தந்தி)
+18:32:50    3. [குற்றம்] திருப்பூர்: தந்தை இழப்பை தாங்காத முடியாமல் ரெயில் முன் பாய்ந்து பிளஸ்- (மாலைமலர்)
+18:32:50    4. [பொது] 40 வயது திருப்பூர் கீதாவுக்கு 3 கணவன்கள்.. 1 ஆண் நண்பர்.. கடைசியில் வா (ஒன்இந்தியா)
+18:32:50    5. [பொது] அப்பா கை பிடித்து சென்ற திருப்பூர் தண்டவாளம்.. 6 மாதம் கழித்து அதே இடத (ஒன்இந்தியா)
+18:32:50    6. [பொது] கால்நடை மருத்துவ விழிப்புணர்வு முகாம் (தினமலர்)
+18:32:50    7. [போக்குவரத்து] வார இறுதி நாட்களை முன்னிட்டு அரசு போக்குவரத்துக் கழகங்கள் மூலம் 3,195  (தினகரன் + தினத்தந்தி)
+18:32:50    8. [ரயில்] எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் நீட்டிப்பு (தினமலர்)
+18:32:50    9. [குற்றம்] ரயில் முன் பாய்ந்து மாணவி தற்கொலை (தினமலர்) (earlier)
+18:32:50   10. [பொது] திருப்பூர் வழியாக காசி தமிழ் சங்கமம் சிறப்பு ரெயில் இயக்கம் (தினத்தந்தி) (earlier)
+18:32:50   11. [பொது] ‘ஜீரோ டிபெக்ட்; ஜீரோ எபெக்ட்’ சான்று பெற்றால் சிறந்த வாய்ப்பு! குறு, ச (தினமலர்) (earlier)
+18:32:50   12. [பொது] ‘ஸ்டாண்ட் அப் இந்தியா’ திட்டத்தில் தொழில் துவங்க ரூ. ஒரு கோடி வரை கடன் (தினமலர்) (earlier)
+18:32:50   13. [பொது] ஆன்லைன் ஆடை வர்த்தகம் விழிப்புணர்வு கருத்தரங்கு (தினமலர்) (earlier)
+18:32:50   14. [பொது] அரசு மருத்துவமனையில் கலெக்டர் திடீர் ஆய்வு (தினமலர்) (earlier)
+18:32:50   15. [பொது] மூத்த குடிமக்கள் இல்லம் இன்று திறப்பு விழா (தினமலர்) (earlier)
+18:32:50   16. [பொது] ‘ஆன்லைனில்’ உடனடியாக கட்டட அனுமதி (தினமலர்) (earlier)
+18:32:50 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-19_18
