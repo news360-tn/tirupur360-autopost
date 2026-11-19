@@ -65,7 +65,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-19T22:10:39.150230+05:30",
-   "picked_at": "2026-11-20T04:28:49.249661+05:30"
+   "picked_at": "2026-11-20T04:28:49.249661+05:30",
+   "posted": true
   },
   "Caa17da8": {
    "id": "Caa17da8",
@@ -222,7 +223,8 @@
    "score": 11.56,
    "power_cut": true,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249647+05:30"
+   "picked_at": "2026-11-20T04:28:49.249647+05:30",
+   "posted": true
   },
   "C356368d": {
    "id": "C356368d",
@@ -235,7 +237,8 @@
    "score": 11.56,
    "power_cut": true,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249649+05:30"
+   "picked_at": "2026-11-20T04:28:49.249649+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C00344cc": {
    "id": "C00344cc",
@@ -248,7 +251,8 @@
    "score": 11.56,
    "power_cut": true,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249651+05:30"
+   "picked_at": "2026-11-20T04:28:49.249651+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Cebeba57": {
    "id": "Cebeba57",
@@ -261,7 +265,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249652+05:30"
+   "picked_at": "2026-11-20T04:28:49.249652+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C67d0dd5": {
    "id": "C67d0dd5",
@@ -274,7 +279,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249654+05:30"
+   "picked_at": "2026-11-20T04:28:49.249654+05:30",
+   "posted": true
   },
   "C51e6fcf": {
    "id": "C51e6fcf",
@@ -287,7 +293,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249655+05:30"
+   "picked_at": "2026-11-20T04:28:49.249655+05:30",
+   "posted": true
   },
   "C5c0afb2": {
    "id": "C5c0afb2",
@@ -300,7 +307,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249657+05:30"
+   "picked_at": "2026-11-20T04:28:49.249657+05:30",
+   "posted": true
   },
   "C5fbb2e6": {
    "id": "C5fbb2e6",
@@ -313,7 +321,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249658+05:30"
+   "picked_at": "2026-11-20T04:28:49.249658+05:30",
+   "posted": true
   },
   "Cb7b11cc": {
    "id": "Cb7b11cc",
@@ -326,7 +335,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-20T04:26:44.449237+05:30",
-   "picked_at": "2026-11-20T04:28:49.249660+05:30"
+   "picked_at": "2026-11-20T04:28:49.249660+05:30",
+   "posted": true
   },
   "C695bc75": {
    "id": "C695bc75",
@@ -1322,7 +1332,12 @@
     "C8037a81",
     "Cb7b11cc",
     "Cebeba57"
-   ]
+   ],
+   "refused": {
+    "Cebeba57": "not filed: duplicate after write",
+    "C00344cc": "not filed: duplicate after write",
+    "C356368d": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
