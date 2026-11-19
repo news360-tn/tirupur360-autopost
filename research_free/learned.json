@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-19T06:49+05:30",
+ "updated": "2026-11-19T07:28+05:30",
  "posts_measured": 88,
  "topic_weight": {
   "politics": -0.28,
-  "accident": 1.2,
+  "accident": 1.21,
   "crime": 1.33,
   "education": -0.5,
   "power_cut": -0.39,
-  "temple": -0.5,
+  "temple": -0.45,
   "civic": -0.31,
   "poultry_agri": -0.5
  },
@@ -44,6 +44,6 @@
  ],
  "weak_topics": [
   "education",
-  "temple"
+  "poultry_agri"
  ]
 }
