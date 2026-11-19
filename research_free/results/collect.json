@@ -3,102 +3,73 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/villupuram/government-school-head-master-booked-under-pocso-act-for-misbehaving-9-girl-students-846657.html",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/the-thief-who-killed-the-woman-after-demanding-her-return-of-the-jewelry-and-money-sensational-news-in-the-murder-of-the-woman",
-  "manual link added: https://tamil.oneindia.com/news/tiruppur/40-year-old-geetha-from-tiruppur-had-3-husbands-and-1-male-friend-her-life-ends-in-canal-tragedy-846625.html",
-  "manual link added: https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-daughter-return-to-the-same-railway-track-where-her-father-took-her-6-months-ago-846631.html",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/veterinary-awareness-camp/4380474",
-  "candidate filter: collected=5",
-  "to write: 5 Tirupur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/woman-who-smuggled-3-kg-cannabis-on-a-train-arrested/4380765",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/waste-of-tax-money-on-sewage-discharge/4380831",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/what-is-the-extent-of-the-garbage-sanitation-worker-s-misery/4380941",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/drainage-on-uthukkuzhi-road-causes-inconvenience-to-motorists/4380846",
+  "candidate filter: collected=4",
+  "to write: 4 Tirupur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-da",
-  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/40-year-old-geetha-",
-  "NOT filed (N) 40 வயது திருப்பூர் கீதாவுக்கு 3 கணவன்கள்.. 1 ஆண் ந: duplicate after write",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/the-thief-who-ki",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://tamil.oneindia.com/news/villupuram/government-school",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 74 min",
-  "filed: 4 Tirupur district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
+  "filed: 4 Tirupur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -106,274 +77,272 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர் செம்மாண்டம்பாளையம்: தந்தை ரெயில் விபத்தில் உயிரிழந்த அதே இடத்தில் மகளும் உயிரிழப்பு",
-   "english_headline": "Tirupur Semmandampalayam: daughter dies on railway track where her father died in a train accident six months earlier",
-   "category": "Crime & Safety",
-   "location": "Semmandampalayam, Tirupur, Tirupur district",
-   "importance": "High",
+   "tamil_headline": "பல்லடம் நகராட்சியில் கழிவுநீர் உறிஞ்சும் வாகனம்: வரிப்பணம் வீணாகிறது",
+   "english_headline": "Palladam municipality uses sewage-sucking vehicle daily as drains overflow; residents say tax money is wasted",
+   "category": "Civic Issues",
+   "location": "Palladam municipality, Tirupur district",
+   "importance": "Medium",
    "scope": "",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரெயில் விபத்து",
-    "loc": "செம்மாண்டம்பாளையம், திருப்பூர்",
-    "hl1": "செம்மாண்டம்பாளையத்தில் தந்தை உயிரிழந்த",
-    "hl2": "6 மாதம் கழித்து சோகம்",
+    "cat": "நகராட்சி புகார்",
+    "loc": "பல்லடம் நகராட்சி",
+    "hl1": "பல்லடத்தில் கழிவுநீர் வாகனம் தினமும்",
+    "hl2": "வரிப்பணம் வீணாவதாகப் புகார்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன பிரச்சினை?",
       "lines": [
-       "செம்மாண்டம்பாளையத்தைச் சேர்ந்த 16 வயது மாணவி சாதனா",
-       "நேற்று மாலை ரெயில் முன் பாய்ந்து உயிரிழந்தார்",
-       "தந்தை கார்த்திக் 6 மாதங்களுக்கு முன்பு அதே இடத்தில் ரெயில்"
+       "பல்லடம் நகராட்சியில் கழிவுநீரை உறிஞ்சி வெளியேற்ற வாகனம்",
+       "மக்கள் வரிப்பணம் வீணாவதாகப் புகார்",
+       "பல வார்டுகளில் போதிய மழைநீர் வடிகால் வசதி இல்லை"
       ]
      },
      {
-      "title": "பின்னணி",
+      "title": "ஏன் இந்த நிலை?",
       "lines": [
-       "சாதனா பிளஸ்-2 படித்து வந்தார்",
-       "தந்தை மறைவுக்குப் பின் அமைதியாக மாறினார்",
-       "தந்தையை இழந்த வேதனையில் இருந்து மீள முடியவில்லை"
+       "சில இடங்களில் வடிகாலே இல்லாததால் கழிவுநீர் சாலைகளில்",
+       "பல வடிகால்கள் கழிவுநீரால் நிரம்பி விடுகின்றன",
+       "வாகனம் மூலம் உறிஞ்சி வேறு வடிகால்களில் திறந்து விடப்படுகிறது"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "பொதுமக்கள்",
       "lines": [
-       "திருப்பூர் ரெயில்வே போலீசார் விரைந்து சென்றனர்",
-       "உடல் திருப்பூர் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது",
-       "வழக்குப்பதிவு செய்து விசாரணை நடைபெறுகிறது"
+       "நகராட்சிக்கு கூடுதல் செலவு ஏற்படுகிறது",
+       "மழைநீர் வடிகால்களை முறையாகச் சீரமைக்க வேண்டும்",
+       "உறிஞ்சுக் குழிகள் அமைத்து நிரந்தரத் தீர்வு வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "செம்மாண்டம்பாளையத்தில் தந்தை உயிரிழந்த அதே ரெயில் தண்டவாளப் பகுதியில் மகளும் உயிரிழந்த சோகச் சம்பவம் நடந்துள்ளது. செம்மாண்டம்பாளையத்தைச் சேர்ந்த கார்த்திக் 6 மாதங்களுக்கு முன்பு ரெயில் மோதி உயிரிழந்தார். அவரது மகள் சாதனா, 16 வயது மாணவி. சாதனா திருப்பூரில் ஒரு தனியார் பள்ளியில் பிளஸ்-2 படித்து வந்தார். கார்த்திக் தினமும் காலையில் மகளை தண்டவாளத்தைக் கடக்க உதவி பள்ளியில் விட்டுவிட்டுச் செல்வார். தந்தையின் மறைவுக்குப் பின் சாதனா அமைதியாக மாறினார். அப்பா இல்லாமல் இருக்க முடியவில்லை என்று அடிக்கடி கண் கலங்குவார். நேற்று மாலை பள்ளி முடிந்து வீடு திரும்பிய சாதனா, தந்தை உயிரிழந்த அதே தண்டவாளப் பகுதிக்குச் சென்றார். அப்போது டெல்லியிலிருந்து திருவனந்தபுரம் நோக்கிச் சென்ற சூப்பர் பாஸ்ட் எக்ஸ்பிரஸ் ரெயில் வந்தது. அந்த ரெயில் முன் பாய்ந்து சாதனா சம்பவ இடத்திலேயே உயிரிழந்தார். திருப்பூர் ரெயில்வே போலீசார் உடலை மீட்டு திருப்பூர் அரசு மருத்துவமனைக்கு அனுப்பினர். இந்தச் சம்பவம் தொடர்பாக வழக்குப்பதிவு செய்து விசாரணை நடைபெறுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 செம்மாண்டம்பாளையத்தில் தந்தை உயிரிழந்த அதே இடத்தில் மகள் உயிரிழப்பு\n\n📰 முழு விவரம்:\nசெம்மாண்டம்பாளையத்தைச் சேர்ந்த கார்த்திக் 6 மாதங்களுக்கு முன்பு ரெயில் மோதி உயிரிழந்தார். அவரது 16 வயது மகள் சாதனா பிளஸ்-2 படித்து வந்தார். தந்தையின் மறைவுக்குப் பின் அவர் அமைதியாக மாறினார்.\nநேற்று மாலை பள்ளி முடிந்து வீடு திரும்பிய சாதனா, தந்தை உயிரிழந்த அதே ரெயில் தண்டவாளப் பகுதிக்குச் சென்றார். அப்போது டெல்லியிலிருந்து திருவனந்தபுரம் நோக்கிச் சென்ற சூப்பர் பாஸ்ட் எக்ஸ்பிரஸ் ரெயில் மோதி அவர் சம்பவ இடத்திலேயே உயிரிழந்தார்.\n👮 நடவடிக்கை: திருப்பூர் ரெயில்வே போலீசார் உடலை மீட்டு திருப்பூர் அரசு மருத்துவமனைக்கு அனுப்பினர். வழக்குப்பதிவு செய்து விசாரணை நடைபெறுகிறது.\n\nTiruppur Semmandampalayam daughter dies on railway track where father died | Tirupur news\n📍 செம்மாண்டம்பாளையம், திருப்பூர் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Semmandampalayam #TirupurNews #திருப்பூர்",
-   "prompts": "A distant view of a railway track in a residential area of Semmandampalayam, Tirupur, at dusk, where a lone teenage girl in a Tamil Nadu school uniform stands on the rail line from behind, her school bag hanging from one shoulder, while a superfast express train approaches in the far distance. The place is a quiet colony edge: low concrete houses with tiled roofs, a few coconut palms and a dirt path along the embankment, with the bright headlight of the train just visible down the straight track. Two Tamil Nadu railway police personnel in khaki stand at a distance near the embankment, and a few shopkeepers or neighbours watch from far off, seen only as silhouettes. The sky is the soft orange of evening after school hours, with the warm daylight fading. The camera sits at eye level about 35 mm wide, showing the track stretching into the distance so the scene reads clearly as a railway crossing point near homes. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of the steel railway track and wooden sleepers with fine gravel between them, the rails gleaming in the last light of evening, with a single school sandal and a folded school bag lying on the sleepers beside the rail, suggesting a sudden tragedy. Behind the track, a low boundary wall and a dusty roadside edge are blurred, with a glimpse of Tirupur colony houses far in the background. No people are shown in focus; the mood is quiet and still, with the cold shine of the rails in the foreground. Camera is low and close, around 35 mm, with shallow depth of field keeping the background soft. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/tiruppur/why-did-tiruppur-daughter-return-to-the-same-railway-track-where-her-father-took-her-6-months-ago-846631.html",
-   "published": "2026-11-19T16:10:29+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "பல்லடம் நகராட்சியில் கழிவுநீர் உறிஞ்சும் வாகனம் தினமும் பயன்படுத்தப்படுகிறது. இதனால் மக்கள் வரிப்பணம் வீணாவதாகப் புகார் எழுந்துள்ளது. பல்லடம் நகராட்சியில் 18 வார்டுகள் உள்ளன. குடியிருப்புகள், வணிக வளாகங்கள், கடைகளில் இருந்து வெளியேறும் கழிவுநீர் முறையாக வெளியேற்றப்பட வேண்டும். ஆனால் பல வார்டுகளில் போதிய மழைநீர் வடிகால் வசதி இல்லை. சில இடங்களில் வடிகாலே இல்லாததால் கழிவுநீர் சாலைகளில் ஓடுகிறது. பல இடங்களில் மழைநீர் வடிகால்கள் கழிவுநீரால் நிரம்பி விடுகின்றன. இதையடுத்து நகராட்சி வாகனம் மூலம் கழிவுநீரை உறிஞ்சி, வேறு இடங்களில் உள்ள வடிகால்களில் திறந்து விடும் நடைமுறை பின்பற்றப்படுகிறது. இதனால் நகராட்சிக்கு கூடுதல் செலவு ஏற்படுவதாகக் குற்றச்சாட்டு உள்ளது. மழைநீர் வடிகால்களைச் சீரமைத்து, உறிஞ்சுக் குழிகள் அமைத்து நிரந்தரத் தீர்வு காண வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 பல்லடத்தில் தினமும் கழிவுநீர் உறிஞ்சும் வாகனம்: வரிப்பணம் வீணாவதாகப் புகார்\n\n📰 முழு விவரம்:\nபல்லடம் நகராட்சியில் கழிவுநீரை உறிஞ்சி வெளியேற்ற வாகனம் தினமும் பயன்படுத்தப்படுவதால், மக்கள் வரிப்பணம் வீணாவதாகப் புகார் எழுந்துள்ளது.\nநகராட்சியில் 18 வார்டுகள் உள்ளன. பல வார்டுகளில் போதிய மழைநீர் வடிகால் வசதி இல்லை; சில இடங்களில் வடிகாலே இல்லாததால் கழிவுநீர் சாலைகளில் ஓடுகிறது.\nபல இடங்களில் மழைநீர் வடிகால்கள் கழிவுநீரால் நிரம்பி விடுகின்றன. அங்கிருந்து கழிவுநீரை உறிஞ்சி, வேறு இடங்களில் உள்ள வடிகால்களில் திறந்து விடும் நடைமுறை பின்பற்றப்படுகிறது.\nஇதனால் நகராட்சிக்கு கூடுதல் செலவு ஏற்படுவதுடன், மக்கள் வரிப்பணமும் வீணாவதாகக் குற்றச்சாட்டு எழுந்துள்ளது.\n📍 இடம்: பல்லடம் நகராட்சி, 18 வார்டுகள்\nℹ️ மக்கள் கோரிக்கை: மழைநீர் வடிகால்களை முறையாகச் சீரமைத்து, தேவையான இடங்களில் உறிஞ்சுக் குழிகள் அமைத்து நிரந்தரத் தீர்வு காண வேண்டும்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nPalladam sewage suction vehicle daily, tax money wasted | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "A Palladam municipality sewage-suction tanker parks beside a narrow town street while a municipal sanitary worker in a shirt and trousers lowers a long suction hose into an overflowing storm-water drain, dark wastewater spilling over its concrete edge onto the road. The place is a residential and shop lane in Palladam town, with low houses, small shops with shutters half-lifted, and a few two-wheelers parked along the kerb. Behind the worker, two residents in a sarees and a lungi stand at a distance watching, one holding a plastic bucket. The tanker is a white municipal vehicle with a rear suction drum and hose. It is midday in daylight, dry weather with a grey sky. Shot at eye level, 35 mm, wide enough to show the street, the tanker and the drain together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a storm-water drain on a Palladam town road, its concrete cover slabs lifted and dark sewage standing level with the top of the channel, with a thick black suction hose lying across the edge and slightly drawn into the drain. Thin scum floats on the stagnant water, and wet patches spread onto the cracked tar road. A pair of worn rubber sandals and a folded cloth lie on the kerb beside the drain, and a corner of a shop's concrete step is visible behind. The light is flat daylight, and the surface looks damp. Shot from slightly above, 35 mm, focused on the drain and hose, with the road and the kerb edge blurred behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/waste-of-tax-money-on-sewage-discharge/4380831",
+   "published": "2026-11-19T19:58:25+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('கழிவுநீர் உறிஞ்சி வெளியேற்றம்: வரிப்பணம் வீணாகும் அவலம்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093553/tirupur360/fz2m1qaczxggc4ooxjtn.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093586/tirupur360/rghpk0uk7c7jmvcuwtcb.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106772/tirupur360/d9t24avn3i6bwistifuu.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106777/tirupur360/fnszmjmeiswfttpvgnpe.jpg"
    ]
   },
   {
-   "tamil_headline": "சோழமாதேவியில் கால்நடை மருத்துவ முகாம்",
-   "english_headline": "Livestock health camp held in Sozhamadhevi near Madathukulam",
-   "category": "Health",
-   "location": "Sozhamadhevi village, Madathukulam, Tirupur district",
+   "tamil_headline": "திருப்பூர் அவிநாசி சாலையில் குப்பை வண்டி பழுது: தூய்மைப் பணியாளர் தள்ளிச் செல்லும் நிலை",
+   "english_headline": "On Avinashi Road in Tirupur, a sanitation worker had to push a broken garbage battery vehicle",
+   "category": "Civic Issues",
+   "location": "Gandhi Nagar, Avinashi Road, Tirupur city, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கால்நடை முகாம்",
-    "loc": "சோழமாதேவி, மடத்துக்குளம்",
-    "hl1": "சோழமாதேவியில் கால்நடை முகாம்",
-    "hl2": "10 மாணவிகள் பங்கேற்றனர்",
-    "slides": [
-     {
-      "title": "முகாம் நடந்த இடம்",
-      "lines": [
-       "சோழமாதேவியில் முகாம் நடைபெற்றது",
-       "மடத்துக்குளம் அருகே உள்ள கிராமம்",
-       "வாணவராயர் கல்லூரி அமைப்பு"
-      ]
-     },
-     {
-      "title": "பங்கேற்பாளர்கள்",
-      "lines": [
-       "10 இறுதியாண்டு மாணவிகள்",
-       "கால்நடைத்துறை டாக்டர்கள்",
-       "கிராமப்புற வளர்ப்போர்"
-      ]
-     },
-     {
-      "title": "கற்றவை",
-      "lines": [
-       "மடிநோய் தடுப்பு முறைகள்",
-       "கோழி நோய் அறிகுறிகள்",
-       "ஆரோக்கியம் பேணும் வழிகள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சோழமாதேவியில் கால்நடை மருத்துவ முகாம் நடைபெற்றது. மடத்துக்குளம் அருகே உள்ள இந்த கிராமத்தில் இந்நிகழ்வு நடந்தது. வாணவராயர் வேளாண் கல்லூரியின் ஊரக வேளாண் பணி அனுபவத்திட்டத்தின் கீழ் இது நடத்தப்பட்டது. கல்லூரியின் 10 இறுதியாண்டு மாணவிகள் இதில் பங்கேற்றனர். கால்நடைத்துறை டாக்டர்களும் முகாமில் இருந்தனர். கால்நடை வளர்ப்போருக்கு மடிநோய் பற்றி விளக்கம் அளிக்கப்பட்டது. வெறி நாய்க்கடி நோய் தடுப்பு முறைகளும் தெரிவிக்கப்பட்டன. கோழிகளைப் பாதிக்கும் பொதுவான நோய்கள் பற்றியும் விளக்கம் அளிக்கப்பட்டது. நோய்த்தடுப்பு மற்றும் பராமரிப்பு முறைகள் குறித்து பேசப்பட்டது. கால்நடைகளின் ஆரோக்கியத்தை பேணும் வழிமுறைகள் சொல்லப்பட்டன. நோய்களை ஆரம்ப நிலையிலேயே கண்டறிவது முக்கியம் என்று தெரிவிக்கப்பட்டது. உரிய காலத்தில் மருத்துவரை அணுக வேண்டும் என்று கேட்டுக்கொள்ளப்பட்டது. கிராமப்புற கால்நடை வளர்ப்போரிடம் மாணவிகள் கலந்துரையாடினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐄 சோழமாதேவியில் கால்நடை மருத்துவ முகாம் - 10 மாணவிகள் பங்கேற்றனர்\n\n📰 முழு விவரம்:\nமடத்துக்குளம் அருகே உள்ள சோழமாதேவியில் கால்நடை மருத்துவம் மற்றும் விழிப்புணர்வு முகாம் நடந்தது. வாணவராயர் வேளாண் கல்லூரியின் ஊரக வேளாண் பணி அனுபவத்திட்டத்தின் கீழ் இந்நிகழ்வு நடைபெற்றது. கல்லூரியின் 10 இறுதியாண்டு மாணவிகள் மற்றும் கால்நடைத்துறை டாக்டர்கள் இதில் பங்கேற்றனர். கால்நடை வளர்ப்போருக்கு மடிநோய் மற்றும் வெறி நாய்க்கடி நோய் தடுப்பு முறைகள் பற்றி விளக்கம் அளிக்கப்பட்டது. கோழிகளைப் பாதிக்கும் நோய்கள், அவற்றின் அறிகுறிகள் மற்றும் பராமரிப்பு முறைகள் குறித்தும் விளக்கம் அளிக்கப்பட்டது. கால்நடைகளின் ஆரோக்கியத்தை பேணும் வழிமுறைகள் மற்றும் நோய் கண்டறிதல் முக்கியத்துவம் பற்றியும் விவசாயிகளுக்கு தெரிவிக்கப்பட்டது.\n\n📍 இடம்: சோழமாதேவி, மடத்துக்குளம், திருப்பூர் மாவட்டம்\n🏫 அமைப்பு: வாணவராயர் வேளாண் கல்லூரி\n👩‍🎓 பங்கேற்பாளர்கள்: 10 இறுதியாண்டு மாணவிகள், கால்நடை டாக்டர்கள்\nℹ️ மக்கள் கவனத்திற்கு: கால்நடை வளர்ப்போர் நோய் தடுப்பு முறைகளை பின்பற்ற வேண்டும்\n\nLivestock health awareness camp in Sozhamadhevi near Madathukulam | Tirupur news\n📍 Sozhamadhevi, Tirupur | 19 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Madathukulam #TirupurNews #திருப்பூர்",
-   "prompts": "A group of young women students in saris and salwar with a white-coat veterinary doctor stand beside a cow and chickens at a village livestock camp in Sozhamadhevi near Madathukulam, Tirupur district. Behind them a few rural farmers, men in shirts and veshti and women in sarees, listen closely while the doctor explains animal health. The setting is an open village ground or a simple community hall with a tin roof, low brick walls, a few palm trees and dry earth under bright daylight. Cattle are tied near a wooden post, and a couple of country chickens are held in a plastic crate. Some farmers are seen from behind, others slightly far away and softly out of focus. The camera is at eye level, shot on 35 mm, wide enough to show the village setting, the camp crowd and the animals together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a veterinary doctor's hands in latex gloves examining the udder of a dairy cow at a village livestock health camp in Madathukulam, Tirupur district. Beside the cow, a farmer in a checked lungi and a student in a salwar kameez watch from behind. On a folding table nearby lie a metal tray, cotton swabs, a few vaccine vials and a stethoscope, with a plastic chicken crate and a cluster of hens in the background. The surroundings are a dusty village yard with a low wall and a palm tree, lit by soft morning sunlight. The camera is at a slightly high angle, shot on 35 mm, focusing on the doctor's hands and the cow's udder while keeping the table and farmers slightly blurred in the background. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/veterinary-awareness-camp/4380474",
-   "published": "2026-11-19T17:00:23+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: numbers not found in the article: 10",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093626/tirupur360/yjmh9igwfph5ip0xfmio.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093630/tirupur360/ko0jkdeswcwcd4q0k2gi.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "உடுமலை அருகே பெண் கொலை: நகை, பணம் திருப்பிக் கேட்டதால் கள்ளக்காதலன் தீர்த்துக்கட்டியதாக வாக்குமூலம்",
-   "english_headline": "Udumalaipettai area woman murder: lover confessed he killed her after she demanded back gold and money",
-   "category": "Crime & Safety",
-   "location": "Kudimangalam, Udumalaipettai taluk, Tirupur district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கொலை வழக்கு",
-    "loc": "குடிமங்கலம், உடுமலை",
-    "hl1": "உடுமலை அருகே பெண் கொலை",
-    "hl2": "நகை, பணம் பிரச்சினை",
+    "cat": "தூய்மைப் பணி",
+    "loc": "காந்தி நகர், திருப்பூர்",
+    "hl1": "அவிநாசி சாலையில் குப்பை வண்டி பழுது",
+    "hl2": "தூய்மைப் பணியாளர்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "குடிமங்கலம் அருகே அரசூரில் கீதா (33 வயது) கொலை",
-       "வாய்க்காலில் தள்ளப்பட்டு தண்ணீரில் மூழ்கி இறந்தார்",
-       "இவருக்கு வட்டித் தொழில்; கணவரைப் பிரிந்தவர்"
+       "குப்பை ஏற்றிய பேட்டரி வாகனம் பழுதடைந்தது",
+       "தூய்மைப் பணியாளர் ஒருவர் வண்டியைத் தள்ளிச் செல்ல நேர்ந்தது",
+       "இன்று (நவ. 19) அவிநாசி சாலையில் நடந்தது"
       ]
      },
      {
-      "title": "யார் யார்?",
+      "title": "எங்கே?",
       "lines": [
-       "கள்ளக்காதலன் கதிரவன், மெக்கானிக் (கோவை மேட்டுக்கடை)",
-       "நண்பர் சண்முகவேலு (பூராண்டம்பாளையம்)",
-       "சண்முகவேலு தலைமறைவு, போலீஸ் தேடி வருகிறது"
+       "திருப்பூர், அவிநாசி சாலை",
+       "காந்தி நகர் பகுதி"
       ]
      },
      {
-      "title": "ஏன் கொலை?",
+      "title": "என்ன கோரிக்கை?",
       "lines": [
-       "கதிரவன் வாங்கிய நகை, பணத்தை கீதா திருப்பிக் கேட்டார்",
-       "இதனால் தகராறு; கீதா போலீசில் புகாரும் கொடுத்திருந்தார்",
-       "நகை, பணத்துக்காக கொன்றதாக போலீஸ் விசாரணை"
-      ]
-     },
-     {
-      "title": "அடுத்து?",
-      "lines": [
-       "கதிரவன் கைது; கார், செல்போன் பறிமுதல்",
-       "கதிரவன் வாக்குமூலம்: கொலையை மறைக்க தண்ணீரில் தவறி",
-       "இந்த வழக்கில் மேலும் விசாரணை நடைபெறுகிறது"
+       "பேட்டரி வாகனங்களை முறையாகப் பராமரிக்க வேண்டும்",
+       "பணிச்சுமையைக் குறைக்க மாநகராட்சி நடவடிக்கை வேண்டும்",
+       "இதுபோன்ற சம்பவங்கள் மீண்டும் நடக்கக் கூடாது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலை அருகே நகை, பணம் திருப்பிக் கேட்ட பெண் வாய்க்காலில் தள்ளி கொல்லப்பட்டார். கோவை ரத்தினபுரியைச் சேர்ந்த கீதா, 33 வயது. வட்டித் தொழில் செய்து வந்தவர். கணவரைப் பிரிந்து வாழ்ந்து வந்தார். அவருக்கு 15 வயதில் மகள் உள்ளார். கோவை மேட்டுக்கடையைச் சேர்ந்த மெக்கானிக் கதிரவனுடன் கீதாவுக்குப் பழக்கம் ஏற்பட்டு, அது கள்ளக்காதலாக மாறியது. கதிரவன் கீதாவிடம் வாங்கிய நகை, பணத்தை திருப்பிக் கேட்டதால் அடிக்கடி தகராறு ஏற்பட்டது. கீதா ரத்தினபுரி போலீசில் புகாரும் கொடுத்திருந்தார். நேற்று முன்தினம் காலை, கதிரவன் கீதாவையும் அவரது மகளையும் காரில் குடிமங்கலம் அருகே அரசூருக்கு அழைத்து வந்தார். அங்கு நண்பர் சண்முகவேலுவும் வந்தார். திடீரென கீதாவைத் தாக்கி, பி ஏ பி வாய்க்காலில் தள்ளினர். தண்ணீரில் மூழ்கிய கீதா இறந்தார். போலீசில் சிக்கிக்கொள்வோம் என்ற பயத்தில், இருவரும் கீதாவை மீட்டு 108 ஆம்புலன்ஸில் பொள்ளாச்சி அரசு மருத்துவமனைக்கு கொண்டு சென்றனர். அங்கு டாக்டர்கள் கீதா ஏற்கனவே இறந்துவிட்டதாக தெரிவித்தனர். உடுமலை துணை காவல் கண்காணிப்பாளர் தையல் நாயகி மற்றும் குடிமங்கலம் போலீசார் உடலைக் கைப்பற்றி பிரேத பரிசோதனைக்கு அனுப்பினர். போலீசார் வருவதைப் பார்த்து சண்முகவேலு தப்பி ஓடினார். கதிரவன் கைது செய்யப்பட்டார். நகை, பணத்துக்காக கொலை செய்ததாக அவர் வாக்குமூலம் அளித்தார். கதிரவனின் கார், செல்போன் பறிமுதல் செய்யப்பட்டது. தலைமறைவாக உள்ள சண்முகவேலுவை போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 உடுமலை அருகே பெண் கொலை: நகை, பணம் திருப்பிக் கேட்டதால் தீர்த்துக்கட்டியதாக கள்ளக்காதலன் வாக்குமூலம்\n\n📰 முழு விவரம்:\nகோவை ரத்தினபுரியைச் சேர்ந்த கீதா (33 வயது) வட்டித் தொழில் செய்து வந்தார். கணவரைப் பிரிந்து வாழ்ந்த அவருக்கு 15 வயதில் மகள் உள்ளார். கோவை மேட்டுக்கடையைச் சேர்ந்த மெக்கானிக் கதிரவனுடன் அவருக்குப் பழக்கம் ஏற்பட்டு கள்ளக்காதலாக மாறியது. கதிரவன் கீதாவிடம் வாங்கிய நகை, பணத்தை கீதா திருப்பிக் கேட்டதால் அடிக்கடி தகராறு ஏற்பட்டது. கீதா ரத்தினபுரி போலீசில் புகார் கொடுத்திருந்தார்.\nநேற்று முன்தினம் காலை கதிரவன் கீதாவையும் அவரது மகளையும் காரில் கோவை கவுண்டம்பாளையம் தியேட்டரில் படம் பார்த்த பிறகு, குடிமங்கலம் அருகே அரசூருக்கு அழைத்து வந்தார். நண்பர் சுல்தான்பேட்டை அருகே பூராண்டம்பாளையத்தைச் சேர்ந்த சண்முகவேலுவை அங்கு வரவழைத்தார். மூவரும் சேர்ந்து பேசிக்கொண்டிருந்தனர். திடீரென கதிரவனும் சண்முகவேலுவும் சேர்ந்து கீதாவைத் தாக்கி, பி.ஏ.பி. வாய்க்காலில் தள்ளினர். வாய்க்காலில் தண்ணீர் அதிகமாகச் சென்றதால் அவர் தண்ணீரில் மூழ்கினார்.\nபோலீசில் சிக்கிக்கொள்வோம் என்ற அச்சத்தில் இருவரும் சேர்ந்து கீதாவை மீட்டு, 108 ஆம்புலன்ஸ் மூலம் பொள்ளாச்சி அரசு மருத்துவமனைக்கு கொண்டு சென்றனர். அவருடன் மகளும் சென்றார். அங்கு கீதா ஏற்கனவே இறந்துவிட்டதாக டாக்டர்கள் தெரிவித்தனர். உடுமலை துணை காவல் கண்காணிப்பாளர் தையல் நாயகி மற்றும் குடிமங்கலம் போலீசார் உடலைக் கைப்பற்றி பிரேத பரிசோதனைக்கு அனுப்பினர். போலீசார் வருவதைப் பார்த்த சண்முகவேலு தப்பி ஓடினார். கதிரவன் பிடிபட்டு விசாரிக்கப்பட்டார்.\nகதிரவன் போலீசில் அளித்த வாக்குமூலத்தில், அவர் கீதாவிடம் வாங்கிய பணம், நகையைத் திருப்பித் தர முடியவில்லை என்றும், அதனால் கீதா தொல்லை கொடுத்ததால் ஆத்திரமடைந்து சண்முகவேலுவுடன் சேர்ந்து கொலை செய்ய முடிவு செய்ததாகவும் கூறினார். கீதாவை அரசூருக்கு காரில் அழைத்து வந்து அடித்து வாய்க்காலில் தள்ளியதாகவும், கீதா தண்ணீரில் மூழ்கி இறந்ததாகவும் கூறினார். பின்னர் கீதா தண்ணீரில் தவறி விழுந்ததாக 108 ஆம்புலன்ஸுக்கு தகவல் தெரிவித்ததாகவும் அவர் ஒப்புக்கொண்டார். கதிரவனைக் கைது செய்து, அவரது கார், செல்போனைப் பறிமுதல் செய்தனர். தலைமறைவாக உள்ள சண்முகவேலுவை போலீசார் தேடி வருகின்றனர்.\n\nUdumalaipettai woman murder, lover confesses over gold money | Tirupur news\n📍 குடிமங்கலம், உடுமலை, திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #கொலை #TirupurNews",
-   "prompts": "A police team in khaki stands on the concrete bank of the Parambikulam-Aliyar Project (PAP) irrigation canal near Kudimangalam in Udumalaipettai taluk, Tirupur district, while a rescue-stretcher and a white-and-red 108 ambulance are parked on the dirt road nearby. Fast-flowing brown canal water runs between the concrete walls, with coconut trees and open farmland stretching behind. Two or three policemen in khaki uniforms, seen from behind and at a distance, look toward the water as local villagers in plain shirts and veshti stand back at the roadside. A parked car is visible at the edge of the road, and the morning daylight is soft and overcast. The camera sits at eye level, 35 mm, wide enough to show the canal, the bank, the ambulance and the rural road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the concrete edge of an irrigation canal where the water rushes past, with a few strands of a woman's dupatta-style cloth and a wet sandal lying on the dry mud of the bank. In the background, slightly blurred, a khaki-uniformed police officer's shoes and trouser legs stand on the bank beside a small heap of gold bangles and a bundle of cash laid on a plastic sheet, evidence from the case. Morning light, overcast sky, the sound of flowing water implied. Camera is low and close, 35 mm, shallow focus on the wet mud and the canal water. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/the-thief-who-killed-the-woman-after-demanding-her-return-of-the-jewelry-and-money-sensational-news-in-the-murder-of-the-woman",
-   "published": "2026-11-19T09:20:56Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('இதையடுத்து அவர்கள் 3 பேரும் சேர்ந்து பேசிக்கொண்டு இருந்தனர்.'); 2 ('வாய்க்காலில் தண்ணீர் அதிகமாக சென்றதால், அவர் தண்ணீரில் மூழ்க'); 6 ('அதில், கடந்த 6 ஆண்டுகளுக்கு முன்பு எனக்கும், கீதாவுக்கும் பழ')",
+   "reel_script": "திருப்பூர் அவிநாசி சாலையில் குப்பை ஏற்றிய பேட்டரி வாகனம் பழுதடைந்து நின்றது. இன்று நவம்பர் 19ஆம் தேதி காந்தி நகர் பகுதியில் இந்தச் சம்பவம் நடந்தது. பழுதான வாகனத்தைத் தூய்மைப் பணியாளர் ஒருவர் தள்ளிச் செல்ல நேர்ந்தது. மக்களின் சுகாதாரத்துக்காக உழைக்கும் தூய்மைப் பணியாளர்களின் சிரமத்தைக் குறைப்பது மாநகராட்சியின் கடமை என்று கருத்து தெரிவிக்கப்பட்டுள்ளது. பேட்டரி வாகனங்களை முறையாகப் பராமரிக்க வேண்டும் என மாநகராட்சி அதிகாரிகளிடம் கோரிக்கை வைக்கப்பட்டுள்ளது. தூய்மைப் பணியாளர்களின் பணிச்சுமையைக் குறைக்கவும், இதுபோன்ற அவலங்கள் மீண்டும் நிகழாமல் தடுக்கவும் உரிய நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗑️ அவிநாசி சாலையில் குப்பை வண்டி பழுது: தூய்மைப் பணியாளர் தள்ளிச் செல்லும் நிலை\n\n📰 முழு விவரம்:\nஇன்று (நவ. 19) திருப்பூர், அவிநாசி சாலை, காந்தி நகர் பகுதியில் குப்பை ஏற்றிய பேட்டரி வாகனம் பழுதடைந்தது.\nஇதனால் தூய்மைப் பணியாளர் ஒருவர் வண்டியைத் தள்ளிச் செல்ல நேர்ந்தது.\nமக்களின் சுகாதாரத்துக்காக உழைக்கும் தூய்மைப் பணியாளர்களின் சிரமத்தைக் குறைக்க வேண்டியது மாநகராட்சியின் கடமை என்று வலியுறுத்தப்பட்டுள்ளது.\n\n📍 இடம்: காந்தி நகர், அவிநாசி சாலை, திருப்பூர்\n🗓️ நாள்: நவ. 19\n👮 கோரிக்கை: பேட்டரி வாகனங்களை முறையாகப் பராமரித்து, பணிச்சுமையைக் குறைக்க மாநகராட்சி அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்\n\nTirupur sanitation worker pushes broken garbage battery vehicle on Avinashi Road | Tirupur news\n📍 காந்தி நகர், திருப்பூர் | நவ. 19\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A sanitation worker in a uniform pushes a broken battery-operated garbage vehicle, loaded with heaps of waste, along Avinashi Road in Gandhi Nagar, Tirupur city. Seen from behind at a slight distance, the worker leans forward with both hands on the back of the small three-wheeled cargo vehicle, its load of garbage bags and loose waste piled high and visibly sagging. The setting is a busy urban arterial road in Tirupur: a wide tarmac lane with a divider, two-wheelers and an autorickshaw passing in the background, a town bus further off, and rows of shops and low concrete buildings lining the roadside. It is daytime under flat, bright natural light with a mild haze over the city. The camera is at eye level, shot with a 35 mm lens wide enough to show the full vehicle, the worker, the road and the traffic together, with no legible signboards or text visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a broken battery-operated garbage vehicle standing on the side of Avinashi Road in Tirupur city, its open cargo bed heaped with black garbage bags and loose waste. The vehicle's small wheels and battery compartment are visible at the base, and one front wheel looks stuck or misaligned, showing that it has stopped working. Beside it, the rough tarmac edge of the road and a few scattered pieces of trash give the scene a grimy urban feel. A sanitation worker's hand rests on the frame of the vehicle, seen only partially and from behind, with a faded green uniform sleeve visible. Background includes blurred passing two-wheelers and the grey wall of a roadside building. Daylight, slightly hazy, eye-level camera, 35 mm lens with shallow depth of field so the vehicle and load stay sharp while the traffic behind is softly out of focus. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/what-is-the-extent-of-the-garbage-sanitation-worker-s-misery/4380941",
+   "published": "2026-11-19T21:27:03+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'காந்தி நகர்', e.g. 'காந்தி நகர்: ...' or 'காந்தி நகர்-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093638/tirupur360/o31lpm3pzl2tlgflcoo4.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093641/tirupur360/ywrsychpb7zo2ubdvf12.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106788/tirupur360/wewvl61etd0dyigmwika.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106794/tirupur360/nwabveuuernuvmpepnoc.jpg"
    ]
   },
   {
-   "tamil_headline": "திருவெண்ணெய்நல்லூர் அருகே 9 மாணவிகளுக்கு பாலியல் தொல்லை: தலைமை ஆசிரியர் கைது",
-   "english_headline": "Headmaster arrested for sexually harassing 9 school girls near Thiruvennainallur, Villupuram",
-   "category": "Crime & Safety",
-   "location": "Puthur Arungurikkai village near Thiruvennainallur, Villupuram district",
+   "tamil_headline": "ஊத்துக்குளி சாலையில் பள்ளம்: குடிநீர் குழாய் உடைப்பால் வாகன ஓட்டிகள் அவதி",
+   "english_headline": "Pothole on Uthukuli Road, Tirupur, along with a water pipe burst; motorists struggle as officials dispute who must repair it",
+   "category": "Roads & Transport",
+   "location": "Post office area, Uthukuli Road, Tirupur city, Tirupur district",
    "importance": "High",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றம் & பாதுகாப்பு",
-    "loc": "திருவெண்ணெய்நல்லூர்",
-    "hl1": "திருவெண்ணெய்நல்லூர்: 9 மாணவிகளுக்கு",
-    "hl2": "தலைமை ஆசிரியர் கைது",
+    "cat": "சாலை பள்ளம்",
+    "loc": "திருப்பூர் ஊத்துக்குளி சாலை",
+    "hl1": "திருப்பூர் ஊத்துக்குளி சாலையில் பள்ளம்",
+    "hl2": "குடிநீர் குழாய் உடைப்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "புதூர் அருங்குறிக்கை தொடக்கப் பள்ளியில் சம்பவம்",
-       "3, 4, 5ஆம் வகுப்பு <b>9 மாணவிகளிடம்</b> தலைமை ஆசிரியர்",
-       "போக்சோ சட்டத்தில் வழக்குப்பதிவு"
+       "தபால் நிலையம் அருகே திடீரென பள்ளம் ஏற்பட்டுள்ளது",
+       "அதன் அடியில் செல்லும் குடிநீர் குழாயிலும் உடைப்பு",
+       "தண்ணீர் வெளியேறி வருகிறது"
       ]
      },
      {
-      "title": "நடவடிக்கை",
+      "title": "வாகன ஓட்டிகள் அவதி",
       "lines": [
-       "தலைமை ஆசிரியர் திருவிக்ரமன் தற்காலிகப் பணிநீக்கம்",
-       "துறை ரீதியான விசாரணைக்கு உத்தரவு",
-       "தலைமை ஆசிரியர் <b>கைது செய்யப்பட்டார்</b>"
+       "குறுகலான சாலையில் வாகனங்கள் பள்ளத்தில் இறங்கி ஏற வேண்டும்",
+       "கார்கள் சேதமடைகின்றன",
+       "இருசக்கர வாகன ஓட்டிகள் விழும் அபாயம்"
       ]
      },
      {
-      "title": "பெற்றோர்",
+      "title": "பொறுப்பு யாருக்கு?",
       "lines": [
-       "ஏற்கெனவே இதே ஆசிரியர் மீது 2 மாணவிகள் புகார் நிலுவையில்",
-       "பாதிக்கப்பட்ட மாணவிகளுக்கு மனநல ஆலோசனை வழங்க கோரிக்கை",
-       "பள்ளிகளில் கண்காணிப்பை தீவிரப்படுத்த கோரிக்கை"
+       "குழாய் உடைப்பை மாநகராட்சி போன்ற துறையினர் சீரமைக்க வேண்டும்",
+       "சாலையை முறையாகப் பராமரிப்பதில்லை என நெடுஞ்சாலைத்துறை மீதும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருவெண்ணெய்நல்லூர் அருகே 9 மாணவிகளுக்கு பாலியல் தொல்லை கொடுத்ததாக தலைமை ஆசிரியர் கைது செய்யப்பட்டார். விழுப்புரம் மாவட்டம், திருவெண்ணெய்நல்லூர் அருகே உள்ள புதூர் அருங்குறிக்கை கிராமத்தில் ஊராட்சி ஒன்றிய தொடக்கப் பள்ளி உள்ளது. இந்தப் பள்ளியில் தலைமை ஆசிரியராக திருவிக்ரமன் பணியாற்றி வந்தார். அவர் ஒரு வாரத்துக்கு முன்புதான் தலைமை ஆசிரியராகப் பொறுப்பேற்றதாகக் கூறப்படுகிறது. 3, 4, 5ஆம் வகுப்புகளைச் சேர்ந்த 9 மாணவிகளிடம் அவர் தவறாக நடந்ததாகப் புகார் எழுந்தது. மாணவிகள் தங்களுக்கு நேர்ந்ததைப் பெற்றோரிடமும் ஆசிரியர்களிடமும் கூறினர். இதையடுத்து தொடக்கக் கல்வித்துறை அதிகாரிகள் விசாரணை நடத்தினர். விழுப்புரம் மாவட்ட தொடக்கக் கல்வி அலுவலர் இளமதி, தலைமை ஆசிரியர் திருவிக்ரமனைத் தற்காலிகப் பணிநீக்கம் செய்து உத்தரவிட்டார். அவர் மீது துறை ரீதியான விசாரணை நடத்தி அறிக்கை சமர்ப்பிக்கவும் உத்தரவிடப்பட்டுள்ளது. கல்வித்துறை அளித்த புகாரின் பேரில், விழுப்புரம் அனைத்து மகளிர் காவல் நிலைய போலீசார் போக்சோ சட்டத்தின் கீழ் வழக்குப்பதிவு செய்தனர். விசாரணையில் தலைமை ஆசிரியர் திருவிக்ரமன் கைது செய்யப்பட்டார். ஏற்கெனவே இதே ஆசிரியர் மீது வேறு இரண்டு மாணவிகள் அளித்த புகார்களும் நிலுவையில் உள்ளன. பாதிக்கப்பட்ட மாணவிகளுக்கு மனநல ஆலோசனை வழங்கவும், பள்ளிகளில் கண்காணிப்பைத் தீவிரப்படுத்தவும் கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருவெண்ணெய்நல்லூர் அருகே 9 மாணவிகளுக்கு பாலியல் தொல்லை: தலைமை ஆசிரியர் கைது\n\n📰 முழு விவரம்:\nவிழுப்புரம் மாவட்டம், திருவெண்ணெய்நல்லூர் அருகே புதூர் அருங்குறிக்கை ஊராட்சி ஒன்றிய தொடக்கப் பள்ளியில், 3, 4, 5ஆம் வகுப்புகளைச் சேர்ந்த 9 மாணவிகளிடம் தலைமை ஆசிரியர் திருவிக்ரமன் பாலியல் ரீதியாகத் தவறாக நடந்ததாகப் புகார் எழுந்தது.\nமாணவிகள் பெற்றோரிடமும் ஆசிரியர்களிடமும் தெரிவித்ததையடுத்து, தொடக்கக் கல்வித்துறை அதிகாரிகள் விசாரணை நடத்தினர். விழுப்புரம் மாவட்ட தொடக்கக் கல்வி அலுவலர் இளமதி, தலைமை ஆசிரியரைத் தற்காலிகப் பணிநீக்கம் செய்து உத்தரவிட்டார்.\nகல்வித்துறை புகாரின் பேரில், விழுப்புரம் அனைத்து மகளிர் காவல் நிலைய போலீசார் போக்சோ சட்டத்தின் கீழ் வழக்குப்பதிவு செய்து, தலைமை ஆசிரியர் திருவிக்ரமனைக் கைது செய்தனர்.\nஏற்கெனவே வேறு இரண்டு மாணவிகள் அளித்த புகார்களும் நிலுவையில் உள்ளன.\n📍 இடம்: புதூர் அருங்குறிக்கை கிராமம், திருவெண்ணெய்நல்லூர் அருகே, விழுப்புரம் மாவட்டம்\n👮 நடவடிக்கை: போக்சோ வழக்குப்பதிவு, தலைமை ஆசிரியர் கைது, துறை ரீதியான விசாரணை\nℹ️ மக்கள் கவனத்திற்கு: பாதிக்கப்பட்ட மாணவிகளுக்கு மனநல ஆலோசனை வழங்கவும், பள்ளிகளில் கண்காணிப்பைத் தீவிரப்படுத்தவும் கோரிக்கை எழுந்துள்ளது.\n\nHeadmaster arrested for harassing 9 school girls near Thiruvennainallur | Tirupur news\n📍 விழுப்புரம் மாவட்டம் | 19 நவம்பர் 2026\n\nTamil Nadu news உள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #TirupurNews #திருப்பூர் #TamilNadu #Villupuram",
-   "prompts": "A group of schoolgirls in Tamil Nadu government school uniform stand in a row in the compound of a rural panchayat union primary school in Puthur Arungurikkai village near Thiruvennainallur, Villupuram district, while a woman police constable in khaki stands a few steps behind them, seen from behind. The school is a single-storey concrete building with a tiled roof and a plain blackboard visible through an open classroom door. Among the girls are some parents in simple sarees and salwar, standing at a distance with their backs turned, and a couple of teachers in cotton sarees watching quietly. Daylight, soft and even, suggests a school morning. The girls are shown only from behind or in profile, with no faces visible. Camera at eye level, 35 mm, wide enough to show the school building, the compound and the group. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a school classroom bench and desk in a rural Tamil Nadu primary school, with a wooden bench, a slate-coloured wall, a small stack of school notebooks and a pencil box placed neatly on the desk, and a pair of small school shoes left under the bench. Through the open doorway behind, a blurred figure of a teacher in a cotton saree walks away. Natural daylight from a window falls across the wooden desk. No readable text, no signboards. Camera slightly high, 35 mm, shallow depth of field focusing on the desk and shoes. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/villupuram/government-school-head-master-booked-under-pocso-act-for-misbehaving-9-girl-students-846657.html",
-   "published": "2026-11-19T17:23:56+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (3, 4); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூர் ஊத்துக்குளி சாலையில் பள்ளம் ஏற்பட்டு வாகன ஓட்டிகள் அவதிப்படுகின்றனர். சாலை சில மாதங்களுக்கு முன்புதான் தார் போட்டுப் புதுப்பிக்கப்பட்டது. தபால் நிலையம் அருகே திடீரென பள்ளம் ஏற்பட்டுள்ளது. அதன் அடியில் செல்லும் குடிநீர் குழாயிலும் உடைப்பு ஏற்பட்டு, தண்ணீர் வெளியேறி வருகிறது. ஏற்கனவே குறுகலான இந்தச் சாலையில், வாகனங்கள் பள்ளத்தில் இறங்கி ஏறிச் செல்ல வேண்டியுள்ளது. இதனால் கார் உள்ளிட்ட வாகனங்கள் சேதமடைகின்றன. இருசக்கர வாகன ஓட்டிகள் தடுமாறி விழும் அபாயமும் உள்ளது. சாலையின் சில இடங்களில் குழாய்கள் உடைந்து தண்ணீர் தேங்கி நிற்கிறது. பேருந்து போன்ற கனரக வாகனங்கள் செல்லும்போது, தேங்கிய தண்ணீர் வாகன ஓட்டிகள் மற்றும் பாதசாரிகள் மீது தெறித்து சிரமம் ஏற்படுகிறது. குழாய் உடைப்பை மாநகராட்சி போன்ற துறையினர்தான் சீரமைக்க வேண்டும் என நெடுஞ்சாலைத்துறையினர் கூறுகின்றனர். சாலையை முறையாகப் பராமரிப்பதில்லை என நெடுஞ்சாலைத்துறை மீதும் குற்றச்சாட்டு எழுந்துள்ளது. குழாய் உடைப்பைச் சீரமைத்து, சாலையையும் முறையாகப் பராமரிக்க சம்பந்தப்பட்ட துறைகள் ஒருங்கிணைந்து நடவடிக்கை எடுக்க வேண்டும் என்பதே பொதுமக்களின் எதிர்பார்ப்பு. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 திருப்பூர் ஊத்துக்குளி சாலையில் பள்ளம்: வாகன ஓட்டிகள் அவதி\n\n📰 முழு விவரம்:\nதிருப்பூர் ஊத்துக்குளி சாலையில் தபால் நிலையம் அருகே திடீரென பள்ளம் ஏற்பட்டுள்ளது. அதன் அடியில் செல்லும் குடிநீர் குழாயும் உடைந்து தண்ணீர் வெளியேறி வருகிறது. குறுகலான சாலையில் வாகனங்கள் பள்ளத்தில் இறங்கி ஏற வேண்டியுள்ளதால் கார்கள் சேதமடைகின்றன; இருசக்கர வாகன ஓட்டிகள் தடுமாறி விழும் அபாயமும் உள்ளது. சில இடங்களில் சாலையோரக் குழாய் உடைந்து தேங்கிய தண்ணீர், கனரக வாகனங்கள் செல்லும்போது பாதசாரிகள் மீது தெறிக்கிறது.\n🏗️ குழாய் உடைப்பை மாநகராட்சி போன்ற துறையினர் சீரமைக்க வேண்டும் என நெடுஞ்சாலைத்துறை தெரிவிக்கிறது. சாலையை முறையாகப் பராமரிக்கவில்லை என நெடுஞ்சாலைத்துறை மீதும் குற்றச்சாட்டு எழுந்துள்ளது.\n📍 இடம்: தபால் நிலையம் அருகே, ஊத்துக்குளி சாலை, திருப்பூர்\nℹ️ மக்கள் கோரிக்கை: குழாய் உடைப்பைச் சீரமைத்து, சாலையை முறையாகப் பராமரிக்க சம்பந்தப்பட்ட துறைகள் ஒருங்கிணைந்து நடவடிக்கை எடுக்க வேண்டும்.\n\nUthukuli Road pothole Tirupur, pipe burst | Tirupur news\n📍 திருப்பூர் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tirupur360",
+   "prompts": "A two-wheeler rider and a car slow down as they navigate a large fresh pothole on a narrow tarred road near a post office in Tirupur city. Water gushes up from a burst water pipe beneath the broken asphalt, pooling in the crater and spilling across the lane. The road is lined with low shops and a Tamil Nadu town bus waiting at a distance, with two-wheelers, autorickshaws and a few pedestrians on the edges. The riders are seen from behind, leaning sideways to avoid the hole; one man in a shirt and trousers steadies his motorcycle while a woman in a saree walks along the footpath with a bag. The road surface is newly laid black tar, now cracked around the hole. It is bright daylight with a clear sky. Shot at eye level, 35 mm, wide enough to show the post office area and the full width of the road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a broken, fresh pothole in newly tarred road surface in Tirupur city, with a burst water pipe spewing water up from the cavity and a shallow pool of muddy water spreading over the asphalt. The jagged edges of the broken tar and the exposed gravel and soil are clearly visible, with a two-wheeler's front tyre just entering the frame at the edge as it slowly passes. Roadside curb and a corner of a low concrete footpath are visible in the background. Bright daylight, sharp focus on the water and the crater, shallow depth of field, shot at eye level with a 35 mm lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/drainage-on-uthukkuzhi-road-causes-inconvenience-to-motorists/4380846",
+   "published": "2026-11-19T20:16:30+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093678/tirupur360/pknv0pi6fpghcyyvz1c4.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795093681/tirupur360/fma6tpbq2xvdxxih6qcx.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106811/tirupur360/fffpqoo9wqexwzm0mwyd.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106816/tirupur360/att4iyauivrqargk5jxu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ரயிலில் 3 கிலோ கஞ்சா கடத்திய ஒடிசா பெண் திருப்பூரில் கைது",
+   "english_headline": "Odisha woman arrested in Tiruppur for smuggling 3 kg ganja by train",
+   "category": "Crime & Safety",
+   "location": "Tiruppur railway station area, Tiruppur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போதைப் பொருள் கைது",
+    "loc": "திருப்பூர் ரயில் நிலையம்",
+    "hl1": "திருப்பூரில் 3 கிலோ கஞ்சா பறிமுதல்",
+    "hl2": "ஒடிசா பெண் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ரயிலில் கடத்தி வரப்பட்ட <b>3 கிலோ</b> கஞ்சா பறிமுதல்",
+       "ஒடிசாவைச் சேர்ந்த பெண் கைது"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்படி?",
+      "lines": [
+       "திருப்பூர் வடக்கு போலீசார் ரயில் நிலையம் அருகே",
+       "சந்தேகத்துக்கிடமான பயணிகளைச் சோதனை செய்தபோது சிக்கினார்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "பெண்ணின் உடைமைகளைச் சோதனையிட்டதில் கஞ்சா மறைத்து",
+       "<b>46 வயது</b> பெண்ணைக் கைது செய்து கஞ்சாவைப் பறிமுதல் செய்தனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ரயிலில் கடத்தி வந்த 3 கிலோ கஞ்சாவை திருப்பூர் போலீசார் பறிமுதல் செய்து, ஒடிசாவைச் சேர்ந்த 46 வயது பெண்ணைக் கைது செய்துள்ளனர். திருப்பூரில் கஞ்சா, குட்கா போன்ற போதைப் பொருட்களின் கடத்தல் மற்றும் விற்பனையைத் தடுக்க போலீசார் கண்காணிப்புப் பணியில் ஈடுபட்டு வருகின்றனர். இதன் ஒரு பகுதியாக திருப்பூர் வடக்கு போலீசார் ரயில் நிலையம் அருகே ரோந்துப் பணியில் இருந்தனர். அப்போது ரயிலில் இருந்து இறங்கி வந்த சில பயணிகளைச் சோதனை செய்தனர். அவர்களில் ஒடிசாவைச் சேர்ந்த ஜீலா குமார் என்ற 46 வயது பெண்ணிடம் விசாரணை நடத்தி, அவரது உடைமைகளைச் சோதனையிட்டனர். அதில் 3 கிலோ கஞ்சாவை மறைத்து கடத்தி வந்தது தெரியவந்தது. அவரைக் கைது செய்த போலீசார், கஞ்சாவைப் பறிமுதல் செய்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் ரயில் நிலையம் அருகே 3 கிலோ கஞ்சா பறிமுதல், ஒடிசா பெண் கைது\n\n📰 முழு விவரம்:\nரயிலில் கடத்தி வரப்பட்ட 3 கிலோ கஞ்சாவை திருப்பூர் போலீசார் பறிமுதல் செய்து, ஒடிசாவைச் சேர்ந்த பெண்ணைக் கைது செய்தனர். திருப்பூர் வடக்கு போலீசார் ரயில் நிலையம் அருகே ரோந்துப் பணியில் இருந்தபோது, ரயிலில் இருந்து இறங்கிய சந்தேகத்துக்கிடமான பயணிகளைச் சோதனை செய்தனர். ஒடிசாவைச் சேர்ந்த ஜீலா குமார் (46 வயது) என்பவரிடம் விசாரணை நடத்தி உடைமைகளைச் சோதனையிட்டபோது, 3 கிலோ கஞ்சா மறைத்து கடத்தி வந்தது தெரியவந்தது. அவரைக் கைது செய்த போலீசார் கஞ்சாவைப் பறிமுதல் செய்தனர்.\n📍 இடம்: திருப்பூர் ரயில் நிலையம் அருகே\n👮 நடவடிக்கை: 3 கிலோ கஞ்சா பறிமுதல், பெண் கைது\nℹ️ மக்கள் கவனத்திற்கு: போதைப் பொருள் கடத்தல், விற்பனை குறித்து தகவல் தெரிந்தால் போலீசுக்குத் தெரிவியுங்கள். தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nTiruppur 3 kg ganja seized, Odisha woman arrested | Tirupur news\n📍 திருப்பூர் ரயில் நிலையம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tiruppur",
+   "prompts": "Tamil Nadu police in khaki stand at the exit of a railway platform in Tiruppur, checking a travelling bag held open by a woman in a saree, seen from behind and at a distance. Behind them an Indian Railways passenger train waits beside the platform, with a few passengers walking with luggage. The station is a busy urban rail stop typical of Tiruppur city, with concrete platform edges, an overhead shelter and a few two-wheelers and autorickshaws in the forecourt beyond. It is daylight, with a hazy Tamil Nadu sky. The woman and the police are shown from behind or in soft focus, faces not visible. Shot at eye level on a 35 mm lens, wide enough to show the platform, the train and the exit road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a police table in a station room, showing several bundles of dried green ganja wrapped in plastic packets and a plain cloth bag laid open beside them, with khaki-uniformed hands of officers just at the edge of the frame. The packets are stacked neatly in a pile, roughly three kilograms worth, on a metal or wooden table. Soft daylight comes through a window behind, and the background of a railway police room is slightly out of focus. No faces, no readable labels or text. Shot at a close angle on a 35 mm lens to emphasise the seized contraband. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/woman-who-smuggled-3-kg-cannabis-on-a-train-arrested/4380765",
+   "published": "2026-11-19T19:34:46+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106826/tirupur360/bfnoc52xoho24ldpwdm5.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795106831/tirupur360/em393qsl3tb77ilnnrdb.jpg"
    ]
   }
  ]
