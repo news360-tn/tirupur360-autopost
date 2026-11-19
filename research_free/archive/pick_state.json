@@ -108,7 +108,8 @@
    "score": 13.34,
    "power_cut": false,
    "listed_at": "2026-11-19T18:29:14.494181+05:30",
-   "picked_at": "2026-11-19T18:32:52.215699+05:30"
+   "picked_at": "2026-11-19T18:32:52.215699+05:30",
+   "posted": true
   },
   "C33230d2": {
    "id": "C33230d2",
@@ -121,7 +122,8 @@
    "score": 12.34,
    "power_cut": false,
    "listed_at": "2026-11-19T18:29:14.494181+05:30",
-   "picked_at": "2026-11-19T18:32:52.215702+05:30"
+   "picked_at": "2026-11-19T18:32:52.215702+05:30",
+   "posted": true
   },
   "C09e4ebb": {
    "id": "C09e4ebb",
@@ -146,7 +148,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-19T18:29:14.494181+05:30",
-   "picked_at": "2026-11-19T18:32:52.215704+05:30"
+   "picked_at": "2026-11-19T18:32:52.215704+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Ccb4f888": {
    "id": "Ccb4f888",
@@ -159,7 +162,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-19T18:29:14.494181+05:30",
-   "picked_at": "2026-11-19T18:32:52.215706+05:30"
+   "picked_at": "2026-11-19T18:32:52.215706+05:30",
+   "posted": true
   },
   "Cde314e8": {
    "id": "Cde314e8",
@@ -172,7 +176,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-19T18:29:14.494181+05:30",
-   "picked_at": "2026-11-19T18:32:52.215708+05:30"
+   "picked_at": "2026-11-19T18:32:52.215708+05:30",
+   "posted": true
   },
   "Ccbbd488": {
    "id": "Ccbbd488",
@@ -1049,7 +1054,10 @@
     "Ccb4f888",
     "Ccc2e457",
     "Cde314e8"
-   ]
+   ],
+   "refused": {
+    "Ccc2e457": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
