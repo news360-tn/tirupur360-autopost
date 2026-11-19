@@ -801,3 +801,196 @@ filed: 1 Tirupur district stories (target 2), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":1,"updated":1} 
 stories: 1
+writing [N]: இன்றைய மின்தடை: தாராபுரம், நாரணாபுரம்
+writing [N]: இன்றைய மின்தடை: திருப்பூா்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1308 (char 1307)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 48 column 3 (char 1377)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1345 (char 1344)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+ok gemini/gemini-3-flash-preview (13s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (15s)
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  not grounded: location 'நகரம்' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+ok gemini/gemini-3-flash-preview (11s)
+attempt 2 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (5s)
+attempt 2 groq/qwen/qwen3.8-27b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 8 problems
+  stray Tamil sign '்' after 'ா' in «் புகா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «புத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ுத்தூா், ச»
+  stray Tamil sign '்' after 'ா' in «ளி நகா், வ»
+  stray Tamil sign '்' after 'ா' in «் புகா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «புத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ுத்தூா், ச»
+  stray Tamil sign '்' after 'ா' in «ளி நகா், வ»
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 7
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 2 problems
+  The reel_script says the power cut is in 'தாராபுரம் மற்றும் பல்லடம் பகுதிகள்' and the headline/slides say 'பல்லடம்', but the article names the Palladam substation (பல்லடம் துணை மின் நிலையம்) only as the source of the listed areas; the article attributes the maintenance to 'தாராபுரம் மற்றும் நாரணாபுரம்' substations, so the substation naming in the draft is inconsistent with the article.
+  The reel_script says the outage is 'இன்று 5 மணி நேரம்', but 9 AM to 2 PM is 5 hours, which matches; however the article's source is the Tamil Nadu electricity board (தமிழ்நாடு மின்வாரியம்), and the draft's 'மின்வாரியம்' is consistent — no issue there, but the reel_script's 'தாராபுரம் நகரம் மற்றும் புகார் பகுதிகள்' drops nothing; no further factual problems found beyond the substation naming inconsistency.
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  fact-check: The reel_script says the power cut is in 'தாராபுரம் மற்றும் பல்லடம் பகுதிகள்' and the headline/slides say 'பல்லடம்', but the article names the Palladam substation (பல்லடம் துணை மின் நிலையம்) only as the source of the listed areas; the article attributes the maintenance to 'தாராபுரம் மற்றும் நாரணாபுரம்' substations, so the substation naming in the draft is inconsistent with the article.
+  fact-check: The reel_script says the outage is 'இன்று 5 மணி நேரம்', but 9 AM to 2 PM is 5 hours, which matches; however the article's source is the Tamil Nadu electricity board (தமிழ்நாடு மின்வாரியம்), and the draft's 'மின்வாரியம்' is consistent — no issue there, but the reel_script's 'தாராபுரம் நகரம் மற்றும் புகார் பகுதிகள்' drops nothing; no further factual problems found beyond the substation naming inconsistency.
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  reel_script talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script
+  slide 2 line 1 is cut off mid-phrase (' ரோடு, பங்களா ஸ்டாப்') - write a complete short phrase
+  numbers not found in the article: 7
+  known issue meta_article: script talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again
+  known issue card_cut_mid_phrase: card cut off mid-phrase ('லேஜ் ரோடு, பங்களா ஸ்டாப்') - rewrite so it does not happen again
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_generati
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 400: {"error":{"message":"Failed to generate JSON. Ple
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m7a2v9kzesta80vz1eq9kyc0` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 731, Requested 516. Please try again in 14.82s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  reel_script says the power cut is 'five hours' (ஐந்து மணி நேரம்), but the article gives 9 AM to 2 PM, which is five hours, so this is consistent; no problem there. However, the reel_script and slides_spec state Tarapuram and Naranapuram substations' maintenance causes the cut, while the article names Tarapuram and Naranapuram substations as the maintenance sites, which matches; no issue.
+  tamil_headline and slides_spec 'hl1' say 'தாராபுரம், பல்லடத்தில்' (Tarapuram, Palladam) and reel_script says 'தாராபுரம் மற்றும் பல்லடம் பகுதிகளில்', which matches the article's two substations; no issue.
+  reel_script says 'தாராபுரம் நகரம் மற்றும் புகர் பகுதிகள்' - the article has 'புகா்' (puhar), a minor spelling variant, not a factual change.
+  The reel_script's mention of 'Tamil Nadu electricity board' (தமிழ்நாடு மின்வாரியம்) matches the article's 'தமிழ்நாடு மின்வாரிய'.
+  The reel_script omits the 'நாரணாபுரம்' and 'பல்லடம்' area list details beyond naming the Palladam substation area, but it does list all areas, so nothing important is missing.
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: reel_script says the power cut is 'five hours' (ஐந்து மணி நேரம்), but the article gives 9 AM to 2 PM, which is five hours, so this is consistent; no problem there. However, the reel_script and slides_spec state Tarapuram and Naranapuram substations' maintenance causes the cut, while the article names Tarapuram and Naranapuram substations as the maintenance sites, which matches; no issue.
+  fact-check: tamil_headline and slides_spec 'hl1' say 'தாராபுரம், பல்லடத்தில்' (Tarapuram, Palladam) and reel_script says 'தாராபுரம் மற்றும் பல்லடம் பகுதிகளில்', which matches the article's two substations; no issue.
+  fact-check: reel_script says 'தாராபுரம் நகரம் மற்றும் புகர் பகுதிகள்' - the article has 'புகா்' (puhar), a minor spelling variant, not a factual change.
+  fact-check: The reel_script's mention of 'Tamil Nadu electricity board' (தமிழ்நாடு மின்வாரியம்) matches the article's 'தமிழ்நாடு மின்வாரிய'.
+  fact-check: The reel_script omits the 'நாரணாபுரம்' and 'பல்லடம்' area list details beyond naming the Palladam substation area, but it does list all areas, so nothing important is missing.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+writing [N]: நாளைய மின்தடை: ஏரிப்பாளையம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 7
+real photo skipped (photo uploaded 2026-01-31 (older than the news)): https://media.dinamani.com/dinamani/2026-01-31/t14nmocl/%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%
+real photo skipped (photo uploaded 2026-01-31 (older than the news)): https://media.dinamani.com/dinamani/2026-01-31/t14nmocl/மின்தடை?w=1200&h=675&auto=format%2
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The reel_script and slides_spec say the power cut affects the Eripalayam area, but the article lists it as the substation name; the affected areas are the listed localities, which is acceptable, but the slide 'என்ன செய்ய' adds advice (switch off electrical appliances) that is not in the article
+  The slides_spec and reel_script say 'சுமார் ஏழு மணி நேரம்' (about seven hours) — this is a derived figure (9 AM to 4 PM) not stated in the article
+  The caption's 'Avinashi Eripalayam power cut tomorrow' English line and the location tag 'அவிநாசி' are not stated in the article, though Avinashi electricity board is mentioned
+  The reel_script omits the 'வெங்கிகல்பாளையம்' localities list completeness? Reel lists all ten areas, so no omission; however the article's 'மாதாந்திர' is rendered as 'மாதாந்திரப்' which is acceptable
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The reel_script and slides_spec say the power cut affects the Eripalayam area, but the article lists it as the substation name; the affected areas are the listed localities, which is acceptable, but the slide 'என்ன செய்ய' adds advice (switch off electrical appliances) that is not in the article
+  fact-check: The slides_spec and reel_script say 'சுமார் ஏழு மணி நேரம்' (about seven hours) — this is a derived figure (9 AM to 4 PM) not stated in the article
+  fact-check: The caption's 'Avinashi Eripalayam power cut tomorrow' English line and the location tag 'அவிநாசி' are not stated in the article, though Avinashi electricity board is mentioned
+  fact-check: The reel_script omits the 'வெங்கிகல்பாளையம்' localities list completeness? Reel lists all ten areas, so no omission; however the article's 'மாதாந்திர' is rendered as 'மாதாந்திரப்' which is acceptable
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 10
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Power shutdown in Dharapuram and Naranap'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1315","first":"RN-123"}
+posting job started at once
+real photo skipped (photo uploaded 2026-01-31 (older than the news)): https://media.dinamani.com/dinamani/2026-01-31/t14nmocl/%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%
+real photo skipped (photo uploaded 2026-01-31 (older than the news)): https://media.dinamani.com/dinamani/2026-01-31/t14nmocl/மின்தடை?w=1200&h=675&auto=format%2
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Eripalayam substation maintenance: power'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1316","first":"RN-124"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/நாளைய-மின்தடை-ஏரிப்பாளையம்-3
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/todays-power-outage-dharapuram-naranapuram
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/%E0%AE%87%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%BE%E0%AF%8D-2
+candidate filter: collected=3
+to write: 3 Tirupur district candidates (max 3 stories)
+round: top 3 of 3 candidates
+candidates waiting: 3 Tirupur; time left 39 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+NOT filed (N) இன்றைய மின்தடை: திருப்பூா்: duplicate after write
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 35 min
+filed: 2 Tirupur district stories (target 3), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":3,"updated":0} 
+stories: 2
