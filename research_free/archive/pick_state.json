@@ -11,7 +11,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-18T22:06:54.317562+05:30"
+   "listed_at": "2026-11-18T22:06:54.317562+05:30",
+   "picked_at": "2026-11-19T06:50:29.671435+05:30"
   },
   "C9185a8c": {
    "id": "C9185a8c",
@@ -23,7 +24,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-18T22:06:54.317562+05:30"
+   "listed_at": "2026-11-18T22:06:54.317562+05:30",
+   "picked_at": "2026-11-19T06:50:29.671437+05:30"
   },
   "Ce915ce0": {
    "id": "Ce915ce0",
@@ -47,7 +49,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-18T22:06:54.317562+05:30"
+   "listed_at": "2026-11-18T22:06:54.317562+05:30",
+   "picked_at": "2026-11-19T06:50:29.671439+05:30"
   },
   "Cfa459ec": {
    "id": "Cfa459ec",
@@ -207,7 +210,8 @@
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/நாளைய-மின்தடை-ஏரிப்பாளையம்-3",
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/todays-power-outage-dharapuram-naranapuram"
    ],
-   "listed_at": "2026-11-19T06:49:35.477727+05:30"
+   "listed_at": "2026-11-19T06:49:35.477727+05:30",
+   "picked_at": "2026-11-19T06:50:29.671427+05:30"
   },
   "C5c82c3b": {
    "id": "C5c82c3b",
@@ -222,7 +226,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/18/%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%A8%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%82%E0%AE%B0%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%88-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%B5%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
    ],
-   "listed_at": "2026-11-19T06:49:35.477727+05:30"
+   "listed_at": "2026-11-19T06:49:35.477727+05:30",
+   "picked_at": "2026-11-19T06:50:29.671430+05:30"
   },
   "C50e4a67": {
    "id": "C50e4a67",
@@ -234,7 +239,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:49:35.477727+05:30"
+   "listed_at": "2026-11-19T06:49:35.477727+05:30",
+   "picked_at": "2026-11-19T06:50:29.671432+05:30"
   },
   "Cc2aba45": {
    "id": "Cc2aba45",
@@ -1086,8 +1092,26 @@
    ],
    "sent": false,
    "deadline": "2026-11-19T07:49:35.477727+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 20 by insights + 1 power cut",
+    "ids": [
+     "Cb9842a5",
+     "C5c82c3b",
+     "C50e4a67",
+     "C6a09cab",
+     "C9185a8c",
+     "C09e4260"
+    ],
+    "at": "2026-11-19T06:50:29.671415+05:30"
+   },
+   "written": [
+    "C09e4260",
+    "C50e4a67",
+    "C5c82c3b",
+    "C6a09cab",
+    "C9185a8c",
+    "Cb9842a5"
+   ]
   }
  },
  "retry": {}
