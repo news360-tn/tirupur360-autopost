@@ -3,26 +3,26 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/மாற்றுத்திறனாளிகளுக்கான-சிறப்பு-குறைதீா்-கூட்டம்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/setting-stock-limits-to-ensure-essential-commodities-are-available-at-reasonable-prices",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/snake-enters-electricity-board-office-staff-flee-in-a-panic",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-patna-special-train-neet-tipu/4380549",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/பொங்கலூா்-சுங்கச்சாவடி-கட்டணத்தில்-விலக்கு-அளிக்க-வியாபாரிகள்-கோரிக்கை",
+  "manual link added: https://www.dinakaran.com/news/weekend-state-transport-corporation-special-bus-services",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/radish-prices-fall-on-rise-in-arrivals/4380615",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/jasmine-price-virr-a-kg-rs-on-sale-for-1600/4380749",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/parents-help-district-education-department-innovates-to-make-students-excel-in-public-examinations/4380746",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/central-health-team-inspects-medical-college-laboratory/4380747",
   "candidate filter: collected=5",
   "to write: 5 Tirupur district candidates (max 5 stories)",
   "round: top 5 of 5 candidates",
   "candidates waiting: 5 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-pat",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/snake-enters-ele",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'pollinations': 4})",
+  "auto images: 1 of 1 stories ({'pollinations': 6})",
+  "try (N) manual=True: https://www.dinakaran.com/news/weekend-state-transport-corpo",
+  "auto images: 1 of 1 stories ({'pollinations': 8})",
+  "auto images: 1 of 1 stories ({'pollinations': 10})",
   "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
   "filed: 5 Tirupur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
@@ -30,85 +30,66 @@
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (4s)",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok groq/openai/gpt-oss-120b (2s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -116,318 +97,331 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பொங்கலூர் மின்வாரிய அலுவலகத்துக்குள் புகுந்த 4 அடி பாம்பு: ஊழியர்கள் அலறியடித்து ஓட்டம்",
-   "english_headline": "4-foot snake enters Pongalur TNEB office; fire service rescues and releases it in forest area",
+   "tamil_headline": "பொதுத்தேர்வு: பெற்றோரை தனித்தனியாக சந்திக்க வகுப்பாசிரியர்களுக்கு உத்தரவு",
+   "english_headline": "District education office orders class teachers to meet parents one by one before public exams",
+   "category": "Education",
+   "location": "Tirupur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "திருப்பூர் மாவட்டம்",
+    "hl1": "பொதுத்தேர்வு: பெற்றோருடன்",
+    "hl2": "சனிக்கிழமையும் சந்திக்கலாம்",
+    "slides": [
+     {
+      "title": "என்ன உத்தரவு?",
+      "lines": [
+       "வகுப்பாசிரியர்கள் ஒவ்வொரு மாணவரின் பெற்றோரையும் தனித்தனியாக",
+       "கல்வித்திறன், கற்றல் குறைபாடுகள், நடத்தை குறித்து விளக்க",
+       "மாவட்ட கல்வித்துறை இந்த உத்தரவை பிறப்பித்துள்ளது"
+      ]
+     },
+     {
+      "title": "எப்போது சந்திப்பு?",
+      "lines": [
+       "பெற்றோர் வேலைக்குச் செல்வதால் வசதியான நாளில் சந்திப்பு",
+       "ஒரு வாரம், 10, 20 நாட்கள் ஆனாலும் பரவாயில்லை",
+       "சனிக்கிழமைகளிலும் பெற்றோரை சந்திக்கலாம்"
+      ]
+     },
+     {
+      "title": "யார் செய்ய",
+      "lines": [
+       "அரசு, அரசு உதவி பெறும் பள்ளி தலைமை ஆசிரியர்கள் நடவடிக்கை",
+       "ஆசிரியர்கள் அலைபேசி மூலம் பெற்றோரை தொடர்பு கொள்ள வேண்டும்",
+       "முதன்மைக் கல்வி அலுவலர் புனிதா அந்தோணியம்மாள் உத்தரவு"
+      ]
+     },
+     {
+      "title": "ஏன் இந்த முயற்சி?",
+      "lines": [
+       "திருப்பூர் கல்வி மாவட்டம் கடந்த முறை <b>11-வது</b> இடம்",
+       "அடுத்த மாதம் அரையாண்டுத் தேர்வு, மார்ச்சில் பொதுத்தேர்வு",
+       "வீட்டில் படிக்கும் சூழலை பெற்றோர் உருவாக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பொதுத்தேருக்கு மாணவர்களை தயார்படுத்த, ஒவ்வொரு பெற்றோரையும் தனித்தனியாக சந்திக்க ஆசிரியர்களுக்கு மாவட்ட கல்வித்துறை உத்தரவிட்டுள்ளது. வகுப்பாசிரியர்கள் ஒவ்வொரு மாணவரின் பெற்றோரையும் அழைத்து, கல்வித்திறன், கற்றலில் உள்ள குறைபாடுகள், பள்ளியில் நடத்தை மற்றும் பொதுத்தேருக்கு தயாராகும் முறை குறித்து விளக்க வேண்டும். திருப்பூர் தொழில் நகரமாக இருப்பதால், பெற்றோர் வேலைக்குச் செல்வதைக் கருத்தில் கொண்டு வசதியான நாளில் சந்திப்பை நடத்த வேண்டும். ஒரு வாரம் அல்லது 10, 20 நாட்கள் ஆனாலும் பரவாயில்லை. சனிக்கிழமைகளிலும் பெற்றோரை சந்திக்கலாம். அரசு மற்றும் அரசு உதவி பெறும் உயர்நிலை, மேல்நிலைப் பள்ளி தலைமை ஆசிரியர்கள் இதற்கான நடவடிக்கைகளை மேற்கொள்ள வேண்டும். ஆசிரியர்களின் அலைபேசி எண்கள் மூலம் பெற்றோரை தொடர்புகொண்டு சந்திப்புக்கு ஏற்பாடு செய்ய வேண்டும் என முதன்மைக் கல்வி அலுவலர் புனிதா அந்தோணியம்மாள் உத்தரவிட்டுள்ளார். திருப்பூர் கல்வி மாவட்டம் பொதுத்தேர்ச்சி சதவீதத்தில் கடந்த முறை 11-வது இடம் பெற்றது. அடுத்த மாதம் அரையாண்டுத் தேரும், மார்ச் மாதம் பொதுத்தேரும் நடைபெற உள்ளன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📚 பொதுத்தேர்வு: பெற்றோரை தனித்தனியாக சந்திக்க ஆசிரியர்களுக்கு உத்தரவு\n\n📰 முழு விவரம்:\nபொதுத்தேர்வுக்கு மாணவர்களை தயார்படுத்த, ஒவ்வொரு மாணவரின் பெற்றோரையும் தனித்தனியாக அழைத்து விளக்க வேண்டும் என்று மாவட்ட கல்வித்துறை வகுப்பாசிரியர்களுக்கு உத்தரவிட்டுள்ளது. கல்வித்திறன், கற்றலில் உள்ள குறைபாடுகள், பள்ளியில் நடத்தை, பொதுத்தேர்வுக்கு தயாராகும் முறை ஆகியவை குறித்து ஆசிரியர்கள் பெற்றோரிடம் விளக்க வேண்டும். வீட்டில் படிப்பதற்கு உரிய சூழலை பெற்றோர் ஏற்படுத்த வேண்டும்.\nதிருப்பூர் தொழில் நகரமாக இருப்பதால், பெற்றோர் வேலைக்குச் செல்வதைக் கருத்தில் கொண்டு வசதியான நாளில் சந்திப்பு நடத்தப்பட வேண்டும். ஒரு வாரம் அல்லது 10, 20 நாட்கள் ஆனாலும் பரவாயில்லை; சனிக்கிழமைகளிலும் பெற்றோரை சந்திக்கலாம்.\nஅரசு மற்றும் அரசு உதவி பெறும் உயர்நிலை, மேல்நிலைப் பள்ளி தலைமை ஆசிரியர்கள், வகுப்பாசிரியர்கள் இதற்கான நடவடிக்கைகளை மேற்கொள்ள வேண்டும். ஆசிரியர்களின் அலைபேசி எண்கள் மூலம் பெற்றோரை தொடர்புகொண்டு சந்திப்புக்கு ஏற்பாடு செய்ய வேண்டும் என முதன்மைக் கல்வி அலுவலர் புனிதா அந்தோணியம்மாள் உத்தரவிட்டுள்ளார்.\nபிளஸ் 2 மற்றும் பத்தாம் வகுப்பு பொதுத்தேர்ச்சி சதவீதத்தில், திருப்பூர் கல்வி மாவட்டம் கடந்த முறை 11-வது இடம் பெற்றது. அடுத்த மாதம் அரையாண்டுத் தேர்வும், வரும் மார்ச் மாதம் பொதுத்தேர்வும் நடைபெற உள்ளன. தேர்ச்சி சதவீதத்தை அதிகரிக்க சிறப்பு வகுப்புகளும் நடத்தப்படுகின்றன. தேவைப்பட்டால் மாணவர்களை சிறப்பு வகுப்புகளுக்கும் அனுப்பலாம்.\n📚 வகுப்பாசிரியர்கள் பெற்றோருடன் தனிச் சந்திப்பு நடத்துவது: பொதுத்தேர்வுக்கு முன் மாணவர்களின் படிப்பு, வீட்டுப் படிப்பு சூழல் ஆகியவற்றை பெற்றோர் அறிய உதவும்.\n\nTirupur exam parents meeting orders | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A class teacher in a plain cotton saree sits at a wooden desk in a government high school classroom in Tirupur city, speaking one-on-one with a parent who sits on a bench beside her, seen from behind. The classroom has rows of wooden benches and desks, a chalkboard with the day's lesson wiped half-clean, and a blue-painted wall with tube lights on. A second teacher in a shirt waits by the doorway with a register in hand while a mother in a cotton salwar holds a school diary. Through the open window a few students in Tamil Nadu school uniform walk along a corridor, seen far away. The light is soft daytime light from the windows, the time appears to be a weekday morning or Saturday. Camera at eye level, 35 mm, wide enough to show the whole classroom and the seated pair. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/parents-help-district-education-department-innovates-to-make-students-excel-in-public-examinations/4380746",
+   "published": "2026-11-19T19:24:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (10); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'; slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146799/tirupur360/k4q5npqisis2lmikhkts.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூரில் மலேரியா: மத்திய சுகாதார குழு ஆய்வு",
+   "english_headline": "Central health team inspects malaria control at Tiruppur government medical college hospital and primary health centres",
    "category": "Government & Services",
-   "location": "Pongalur, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பாம்பு பரபரப்பு",
-    "loc": "பொங்கலூர், திருப்பூர்",
-    "hl1": "பொங்கலூர் மின் வாரியத்தில் பாம்பு",
-    "hl2": "ஊழியர்கள் அலறியடித்து ஓட்டம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "பொங்கலூர் மின்வாரிய அலுவலகத்துக்குள் பாம்பு புகுந்தது",
-       "<b>4 அடி</b> நீள கொம்பேறி மூக்கன் பாம்பு",
-       "ஊழியர்கள் அதிர்ச்சியடைந்து வெளியே ஓடினர்"
-      ]
-     },
-     {
-      "title": "தீயணைப்பு மீட்பு",
-      "lines": [
-       "பல்லடம் தீயணைப்பு நிலையத்துக்குத் தகவல் அளிப்பு",
-       "விரைந்து வந்த தீயணைப்பு வீரர்கள்",
-       "பதுங்கியிருந்த பாம்பை லாவகமாகப் பிடித்தனர்"
-      ]
-     },
-     {
-      "title": "காட்டில்",
-      "lines": [
-       "பிடிபட்ட பாம்பு பாதுகாப்பாகக் காட்டில் விடப்பட்டது",
-       "மின்வாரிய ஊழியர்கள் நிம்மதி",
-       "மீண்டும் அலுவலகப் பணிகள் தொடங்கின"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பொங்கலூர் மின்வாரிய அலுவலகத்திற்குள் 4 அடி நீள பாம்பு புகுந்தது. திருப்பூர் மாவட்டம் பொங்கலூரில் கோவை திருச்சி தேசிய நெடுஞ்சாலையில் அமைந்துள்ள மின்வாரிய அலுவலகத்தில் நேற்று இந்த சம்பவம் நடந்தது. அலுவலகத்திற்குள் பாம்பு புகுந்ததைப் பார்த்த ஊழியர்கள் அதிர்ச்சியடைந்து அலறியடித்து வெளியே ஓடினர். ஊழியர்கள் உடனடியாக பல்லடம் தீயணைப்பு நிலையத்திற்குத் தகவல் தெரிவித்தனர். அங்கு வந்த தீயணைப்பு வீரர்கள் பதுங்கியிருந்த 4 அடி நீள கொம்பேறி மூக்கன் பாம்பைப் பிடித்தனர். பிடிபட்ட பாம்பைப் பாதுகாப்பாக எடுத்துச் சென்று காட்டுப்பகுதியில் விட்டனர். பாம்பு பிடிபட்டதால் ஊழியர்கள் நிம்மதியடைந்து மீண்டும் தங்களது பணிகளைத் தொடங்கினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐍 பொங்கலூர் மின்வாரிய அலுவலகத்துக்குள் புகுந்த 4 அடி பாம்பு: ஊழியர்கள் அலறியடித்து ஓட்டம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டம் பொங்கலூரில் கோவை-திருச்சி தேசிய நெடுஞ்சாலையில் மின்வாரிய அலுவலகம் செயல்பட்டு வருகிறது. நேற்று இந்த அலுவலகத்துக்குள் திடீரென 4 அடி நீள கொம்பேறி மூக்கன் பாம்பு ஒன்று புகுந்தது. இதைப் பார்த்த ஊழியர்கள் அதிர்ச்சியடைந்து அலறியடித்துக்கொண்டு வெளியே ஓடினர். இதுகுறித்து பல்லடம் தீயணைப்பு நிலையத்துக்குத் தகவல் தெரிவிக்கப்பட்டது. அங்கு விரைந்து வந்த தீயணைப்பு வீரர்கள் பதுங்கியிருந்த பாம்பை லாவகமாகப் பிடித்தனர். பின்னர் அந்தப் பாம்பு காட்டுப் பகுதியில் பாதுகாப்பாக விடுவிக்கப்பட்டது.\n\n📍 இடம்: பொங்கலூர் மின்வாரிய அலுவலகம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: நேற்று\n👮 நடவடிக்கை: பல்லடம் தீயணைப்பு வீரர்கள் பாம்பைப் பிடித்துக் காட்டில் விட்டனர்\n\nபாதுகாப்பு செய்திகளுக்கு Share செய்யுங்கள்\n\nPongalur TNEB office snake rescue | Palladam news | Tirupur news\n📍 பொங்கலூர், திருப்பூர் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A pair of fire‑service crew members in khaki uniforms gently lift a 4‑foot cobra from the tiled floor of a Tiruppur district TNEB office. The office is a modest brick building with rows of desks, a fan on the ceiling and a sign‑board outside that reads “TNEB” in Tamil, situated on the Coimbatore‑Trichy national highway in Pongalur. Behind the crew, several office employees are seen from behind, some standing with hands on hips, others stepping back in alarm, all wearing typical white shirts and trousers. The only visible objects are the snake, a wooden desk, and a fire‑helmet placed on a chair. Daylight streams through the windows, giving a bright interior; the camera is at eye level with a 35 mm lens, framing the whole office space. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA fire‑service crew member in a khaki shirt carefully lowers the captured cobra onto a leaf‑covered ground in a small forest clearing just outside Pongalur. The forest area shows low shrubs, scattered dry leaves and a faint trail leading deeper into the woods, indicating the release site mentioned in the report. The snake, still coiled, measures about four feet in length and is the focal object; the firefighter’s gloved hand is visible holding the snake’s head. No other people are in the frame, only the forest backdrop and a distant line of trees. The scene is lit by natural daylight, with soft shadows under the canopy; the camera is slightly elevated, using a 35 mm lens to capture a close‑up of the release while still showing enough of the surrounding forest. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/snake-enters-electricity-board-office-staff-flee-in-a-panic",
-   "published": "2026-11-20T01:13:05Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145578/tirupur360/l4wsmijbrlitejrsehgp.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145581/tirupur360/j2ykrcytegbna19rfizu.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பொங்கலூர் சுங்கச்சாவடியில் உள்ளூர் வாகனங்களுக்கு கட்டண விலக்கு: வியாபாரிகள் மனு",
-   "english_headline": "Traders and drivers submit petition demanding extension of toll exemption at Pongalur toll plaza near Palladam",
-   "category": "Roads & Transport",
-   "location": "Pongalur, Palladam taluk, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சுங்கச்சாவடி",
-    "loc": "பொங்கலூர், பல்லடம்",
-    "hl1": "பொங்கலூர் சுங்கச்சாவடியில் கட்டண விலக்கு",
-    "hl2": "வியாபாரிகள் சங்கம் மனு",
-    "slides": [
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "<b>பொங்கலூர் சுங்கச்சாவடியில்</b> கட்டண விலக்கு கோரிக்கை",
-       "பல்லடம் அருகே பொங்கலூரில் சுங்கச்சாவடி உள்ளது",
-       "உள்ளூர் வாகனங்களுக்கு விலக்கு அளிக்க மனு"
-      ]
-     },
-     {
-      "title": "யார் மனு",
-      "lines": [
-       "வியாபாரிகள் சங்கம், ஆட்டோ, வேன் ஓட்டுநர்கள் மனு அளித்தனர்",
-       "சங்கத் தலைவர் <b>விஸ்வநாதன்</b>, <b>சிவகுமார்</b> தலைமை",
-       "சுங்கச்சாவடி நிர்வாகத்திடம் கோரிக்கை மனு"
-      ]
-     },
-     {
-      "title": "பின்னணி என்ன?",
-      "lines": [
-       "தேசிய நெடுஞ்சாலை ஆணையத்துடன் பேச்சுவார்த்தை நடைபெற்றது",
-       "உள்ளூர் வாகனங்களுக்கு <b>1 ஆண்டு</b> கட்டணமில்லா அனுமதி",
-       "இந்த அவகாசம் <b>இம்மாத இறுதியுடன்</b> நிறைவடைகிறது"
-      ]
-     },
-     {
-      "title": "அடுத்த நடவடிக்கை",
-      "lines": [
-       "ஏற்கனவே அனுமதி பெற்ற வாகனங்களுக்கு புதுப்பிக்க கோரிக்கை",
-       "விடுபட்ட உள்ளூர் வாகனங்களுக்கும் அனுமதி கேட்கப்பட்டது",
-       "கட்டணமில்லா அனுமதி வழங்க வலியுறுத்தல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பொங்கலூர் சுங்கச்சாவடியில் உள்ளூர் வாகனங்களுக்கு கட்டண விலக்கு கோரி மனு அளிக்கப்பட்டது. கோவை திருச்சி தேசிய நெடுஞ்சாலையில் பல்லடம் அருகே பொங்கலூரில் சுங்கச்சாவடி அமைந்துள்ளது. இங்கு உள்ளூர் வாகனங்களுக்கு கட்டண விலக்கு அளிக்கக்கோரி வியாபாரிகள் சங்கம் மற்றும் வாகன ஓட்டுநர்கள் மனு அளித்தனர். வியாபாரிகள் சங்கத் தலைவர் விஸ்வநாதன், ஒருங்கிணைப்பாளர் சிவகுமார் தலைமையில் போராட்டக் குழுவினர் மனு வழங்கினர். தேசிய நெடுஞ்சாலை ஆணையத்துடன் நடத்திய பேச்சுவார்த்தையில் உள்ளூர் வாகனங்களுக்கு 1 ஆண்டு கட்டணமில்லா அனுமதி வழங்கப்பட்டது. இந்த அவகாசம் இம்மாத இறுதியுடன் நிறைவடைகிறது. இதனால் ஏற்கனவே கட்டணமில்லா அனுமதி பெற்ற வாகனங்களுக்கு புதுப்பிக்க கோரிக்கை வைக்கப்பட்டுள்ளது. மேலும் விடுபட்டுள்ள உள்ளூர் வாகனங்களுக்கும் கட்டணமில்லா அனுமதி வழங்க சுங்கச்சாவடி நிர்வாகத்திடம் வலியுறுத்தப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚗 பொங்கலூர் சுங்கச்சாவடியில் உள்ளூர் வாகனங்களுக்கு கட்டண விலக்கு கோரி மனு\n\n📰 முழு விவரம்:\nகோவை - திருச்சி தேசிய நெடுஞ்சாலையில் பல்லடம் அருகே பொங்கலூரில் சுங்கச்சாவடி செயல்பட்டு வருகிறது. இங்கு உள்ளூர் வாகனங்களுக்கு சுங்கக் கட்டண விலக்கு கோரி பொங்கலூர் வியாபாரிகள் சங்கத் தலைவர் விஸ்வநாதன், ஒருங்கிணைப்பாளர் சிவகுமார் தலைமையில் வியாபாரிகள் மற்றும் ஆட்டோ, வேன் ஓட்டுநர்கள் மனு அளித்தனர்.\nஇவர்கள் அமைத்த போராட்டக் குழுவுக்கும் இந்திய தேசிய நெடுஞ்சாலை ஆணையத்துக்கும் இடையே நடைபெற்ற பேச்சுவார்த்தையில், உள்ளூர் வாகனங்களுக்கு 1 ஆண்டு காலம் கட்டணமில்லா அனுமதி வழங்கப்பட்டது. இந்த அவகாசம் இம்மாத இறுதியுடன் நிறைவடைகிறது.\nஎனவே ஏற்கெனவே கட்டணமில்லா அனுமதி பெற்றுள்ள வாகனங்களுக்கு அதை மீண்டும் புதுப்பிக்கவும், விடுபட்டுள்ள உள்ளூர் வாகனங்களுக்கும் கட்டணமில்லா அனுமதி வழங்கவும் சுங்கச்சாவடி நிர்வாகத்திடம் வலியுறுத்தப்பட்டுள்ளது.\n\n📍 இடம்: பொங்கலூர், பல்லடம் தாலுகா\n🗓️ காலம்: இம்மாத இறுதியுடன் 1 ஆண்டு அவகாசம் முடிகிறது\n👮 நடவடிக்கை: சுங்கச்சாவடி நிர்வாகத்திடம் மனு அளிப்பு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nPongalur toll gate local vehicle toll exemption petition | Tirupur news\n📍 பொங்கலூர், திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #Tollgate #TirupurNews",
-   "prompts": "A group of traders and auto/van drivers hand over a stack of petition papers to a toll‑plaza officer, signalling their demand for an extended toll exemption. The setting is the Pongalur toll plaza on the National Highway near Palladam, a low‑rise concrete booth with a metal barrier arm and signage, typical of Tirupur’s highway checkpoints. From behind, the traders in plain shirts and the drivers in casual wear stand in a loose line, some holding briefcases, while the officer in khaki stands near the booth, receiving the documents. A few autos and vans are parked nearby, their colours indistinct. Daylight illuminates the scene under clear sky, with no notable shadows. Shot at eye level with a 35 mm lens, wide enough to capture the booth and the line of petitioners. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows a wooden table beside the toll booth, bearing a neat stack of white petition sheets tied with a simple string; the top sheet is slightly fanned, hinting at the urgent request. A blurred hand in a khaki sleeve rests on the stack, while the background shows the blurred edge of the toll‑booth wall and a hint of a parked auto. The focus is on the papers, conveying the core of the protest without readable text. The lighting is natural daylight, casting soft shadows on the table. Captured from a slightly elevated angle with a 35 mm lens, the frame isolates the petition documents as the decisive detail. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/பொங்கலூா்-சுங்கச்சாவடி-கட்டணத்தில்-விலக்கு-அளிக்க-வியாபாரிகள்-கோரிக்கை",
-   "published": "2026-11-19T21:10:38.695Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145604/tirupur360/ubokammkjaycsyxvhujb.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145615/tirupur360/j52iykyu5kuvcj6qgir9.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் டிச. 11 வரை நீட்டிப்பு; திருப்பூர் வழியாக செல்லும்",
-   "english_headline": "Ernakulam–Patna special train extended till Dec 11; runs via Tiruppur",
-   "category": "Roads & Transport",
-   "location": "Tiruppur (Tirupur) station route, Tirupur district",
+   "location": "Tiruppur government medical college hospital, Mangalam and Sevur, Tirupur district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரயில் நீட்டிப்பு",
-    "loc": "திருப்பூர் வழி",
-    "hl1": "திருப்பூர் வழியாக செல்லும் ரயில்",
-    "hl2": "டிச. 11 வரை",
+    "cat": "மருத்துவம்",
+    "loc": "திருப்பூர் மாவட்டம்",
+    "hl1": "திருப்பூரில் மலேரியா ஆய்வு: மத்திய குழு",
+    "hl2": "மலேரியா பாதிப்பு இல்லை",
     "slides": [
      {
-      "title": "எந்த ரயில்?",
+      "title": "எந்த இடங்களில்?",
       "lines": [
-       "எர்ணாகுளம் – பாட்னா சிறப்பு வார ரயில்",
-       "வெள்ளிதோறும் இரவு <b>9:30</b> மணிக்கு எர்ணாகுளத்தில் புறப்படும்",
-       "திருப்பூர் வழியாகச் செல்லும்"
+       "திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை",
+       "மங்கலம், சேவூர் மேம்படுத்தப்பட்ட ஆரம்ப சுகாதார நிலையங்கள்",
+       "நவ. 19 அன்று மத்திய சுகாதாரத்துறை குழு ஆய்வு"
       ]
      },
      {
-      "title": "நீட்டிப்பு விவரம்",
+      "title": "என்ன",
       "lines": [
-       "இந்த ரயில் <b>டிச. 11</b> வரை நீட்டிக்கப்பட்டுள்ளது",
-       "மறுமார்க்க ரயில் <b>டிச. 15</b> வரை நீட்டிப்பு",
-       "சேலம் ரயில்வே கோட்ட நிர்வாகம் அறிவிப்பு"
+       "ரத்தப் பரிசோதனை, ஆய்வகம், சிகிச்சைப் பிரிவுகள்",
+       "மலேரியா பாதித்த நோயாளிகளின் மருத்துவ ஆவணங்கள்",
+       "கொசு கட்டுப்பாடு, மருந்துகள் குறித்தும் கேட்டறிந்தனர்"
       ]
      },
      {
-      "title": "நேரம்",
+      "title": "முக்கிய தகவல்",
       "lines": [
-       "பாட்னா திங்கள் அதிகாலை <b>3:30</b> மணிக்கு சேரும்",
-       "பாட்னா செவ்வாய் நள்ளிரவு <b>12:10</b> மணிக்கு புறப்படும்",
-       "எர்ணாகுளம் வியாழன் காலை <b>10:45</b> மணிக்கு சேரும்"
+       "திருப்பூர் மாவட்டத்தில் வசிப்போருக்கு மலேரியா பாதிப்பு இல்லை",
+       "வெளிமாநிலத் தொழிலாளர்கள் சிலருக்கு மலேரியா கண்டறியப்பட்டது",
+       "அவர்கள் உரிய சிகிச்சையால் குணமடைந்துள்ளனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் வழியாகச் செல்லும் எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் டிசம்பர் 11ஆம் தேதி வரை நீட்டிக்கப்பட்டுள்ளது. இந்த வார ரயில் வெள்ளிக்கிழமைதோறும் இரவு 9:30 மணிக்கு எர்ணாகுளத்தில் புறப்படுகிறது. ஆலுவா, திருச்சூர், பாலக்காடு, போத்தனூர், திருப்பூர், ஈரோடு, சேலம் வழியாகச் செல்கிறது. திங்கள் அதிகாலை 3:30 மணிக்கு பாட்னாவைச் சென்றடைகிறது. மறுமார்க்க ரயில் செவ்வாய்க்கிழமைதோறும் நள்ளிரவு 12:10 மணிக்கு பாட்னாவில் புறப்படுகிறது. வியாழக்கிழமை காலை 10:45 மணிக்கு எர்ணாகுளத்தைச் சென்றடைகிறது. அந்த ரயில் டிசம்பர் 15ஆம் தேதி வரை நீட்டிக்கப்பட்டுள்ளது. இந்த அறிவிப்பை சேலம் ரயில்வே கோட்ட நிர்வாகம் வெளியிட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 திருப்பூர் வழியாகச் செல்லும் எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் டிச. 11 வரை நீட்டிப்பு\n\n📰 முழு விவரம்:\nஎர்ணாகுளம் – பாட்னா சிறப்பு வார ரயில் வெள்ளிதோறும் இரவு 9:30 மணிக்கு எர்ணாகுளத்தில் புறப்படுகிறது. இந்த ரயில் ஆலுவா, திருச்சூர், பாலக்காடு, போத்தனூர், திருப்பூர், ஈரோடு, சேலம் உள்ளிட்ட வழிகளில் சென்று திங்கள் அதிகாலை 3:30 மணிக்கு பாட்னாவைச் சென்றடைகிறது. இந்த ரயில் டிசம்பர் 11ஆம் தேதி வரை நீட்டிக்கப்பட்டுள்ளது.\nமறுமார்க்க ரயில் செவ்வாய்க்கிழமைதோறும் நள்ளிரவு 12:10 மணிக்கு பாட்னாவில் புறப்பட்டு வியாழக்கிழமை காலை 10:45 மணிக்கு எர்ணாகுளத்தைச் சென்றடைகிறது. அந்த ரயில் டிசம்பர் 15ஆம் தேதி வரை நீட்டிக்கப்பட்டுள்ளது. இந்த அறிவிப்பை சேலம் ரயில்வே கோட்ட நிர்வாகம் வெளியிட்டுள்ளது.\n\n🚉 வழித்தடம்: ஆலுவா, திருச்சூர், பாலக்காடு, போத்தனூர், திருப்பூர், ஈரோடு, சேலம், ஜோலார்பேட்டை, காட்பாடி, பெரம்பூர், விஜயவாடா, ராஜமுந்திரி, புவனேஸ்வர், கரக்பூர்\n\nErnakulam Patna special train extended till Dec 11 via Tiruppur | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Railway",
-   "prompts": "A long Indian Railways passenger special train with several blue-and-silver coaches pulls into a railway platform at Tiruppur railway station in the evening, its headlamp on and the engine's exhaust steam rising. The station is a typical Tamil Nadu railway platform with a concrete canopy, tubelight poles and a row of benches, set in the city with knitwear factory chimneys and the outline of distant coconut palms visible beyond the tracks. A few passengers with trolley bags and bundles stand back from the platform edge, seen from behind, while a railway porter in a khaki shirt walks along the platform. The train is seen at night under yellow platform lights, with a dark sky and some station lights glowing. Taken at eye level from the platform side, 35 mm lens, wide enough to show the platform, the train and the tracks. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-patna-special-train-neet-tipu/4380549",
-   "published": "2026-11-19T17:52:29+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூர் மாவட்டத்தில் வசிப்போருக்கு மலேரியா பாதிப்பு இல்லை. நவம்பர் 19ஆம் தேதி மத்திய சுகாதாரத்துறை குழுவினர் திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் ஆய்வு செய்தனர். மங்கலம், சேவூர் மேம்படுத்தப்பட்ட ஆரம்ப சுகாதார நிலையங்களிலும் ஆய்வு நடைபெற்றது. டாக்டர் ஹர்சிதா தலைமையிலான குழுவினர், மலேரியா தடுப்பு, கண்டறிதல் மற்றும் சிகிச்சை முறைகளைக் கேட்டறிந்தனர். கொசுக்களால் பரவும் நோய்கள் கட்டுப்படுத்தப்படும் விதம் குறித்தும் விவரங்களைப் பெற்றனர். ஆய்வகம், ரத்தப் பரிசோதனை மையம், உயர் சிகிச்சை வார்டு, அவசர மற்றும் தீவிர சிகிச்சைப் பிரிவுகளை பார்வையிட்டனர். மலேரியா பாதித்த நோயாளிகளின் மருத்துவ ஆவணங்களையும் ஆய்வு செய்தனர். வெளிமாநிலங்களில் இருந்து வேலைக்கு வந்த சிலருக்கு மலேரியா கண்டறியப்பட்டது. அவர்களுக்கு உரிய சிகிச்சை அளிக்கப்பட்டு, அவர்கள் குணமடைந்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🦟 திருப்பூரில் மலேரியா ஆய்வு: மத்திய சுகாதார குழு மருத்துவமனைகளில் ஆய்வு\n\n📰 முழு விவரம்:\nமத்திய சுகாதாரத்துறை மலேரியா கண்காணிப்புக் குழுவினர் நவ. 19 அன்று திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை, மங்கலம் மற்றும் சேவூர் மேம்படுத்தப்பட்ட ஆரம்ப சுகாதார நிலையங்களில் ஆய்வு செய்தனர். டாக்டர் ஹர்சிதா தலைமையில் வந்த குழுவினர், மலேரியா தடுப்பு, கண்டறிதல் மற்றும் சிகிச்சை முறைகள் குறித்து மாவட்ட மருத்துவத்துறை அதிகாரிகளிடம் கேட்டறிந்தனர்.\nஆய்வகம், ரத்தப் பரிசோதனை மையம், உயர் சிகிச்சை வார்டு, அவசர மற்றும் தீவிர சிகிச்சைப் பிரிவுகளை பார்வையிட்டனர். மலேரியா பாதித்த நோயாளிகளின் மருத்துவ ஆவணங்களையும் ஆய்வு செய்தனர். மருத்துவக் கல்லூரி டீன் மனோன்மணி, மருத்துவம் மற்றும் சுகாதாரப் பணிகள் இணை இயக்குனர் ராதிகா, துணை இயக்குனர் ஜெயந்தி ஆகியோர் உடனிருந்தனர்.\nதிருப்பூர் மாவட்டத்தில் வசிப்போருக்கு மலேரியா பாதிப்பு இல்லை என மருத்துவத்துறை அதிகாரிகள் தெரிவித்தனர். வேலைக்காக ஜார்க்கண்ட் உட்பட வெளிமாநிலங்களில் இருந்து வந்த சிலருக்கு மலேரியா கண்டறியப்பட்டு சிகிச்சை அளிக்கப்பட்டது. அவர்கள் குணமடைந்துள்ளனர்.\n\nCentral team inspects malaria control in Tirupur hospitals | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #மலேரியா #திருப்பூர்",
+   "prompts": "A group of health officials in white coats and sarees, led by a senior doctor, walks through the corridor of a government medical college hospital in Tiruppur, going towards a laboratory. The hospital is a large, clean, multi-storey concrete block with long corridors, ceiling fans and benches where patients wait with relatives. Seen from behind at a distance, the team includes a few women officers and men in shirts and trousers, some carrying files and folders under their arms, while a hospital attendant in a uniform leads the way. Some patients in plain clothes sit on the corridor benches in the background. Mid-morning daylight comes through tall windows, and the scene looks calm and orderly. Camera at eye level, 35 mm lens, wide enough to show the corridor depth and the team walking together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a clinical laboratory bench in a government hospital, with a row of clean glass microscope slides laid out, a microscope in the foreground and a tray of blood-test sample tubes beside it. A white-coated lab technician's hand, seen from the side and slightly blurred, rests near the microscope while a file of patient medical records lies open on the counter next to it. Behind, a rack of medical equipment and a wall of plain white cabinets fill the frame. Daylight from a nearby window falls across the bench, and the mood is quiet and methodical. Camera close and slightly high, 35 mm lens, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/central-health-team-inspects-medical-college-laboratory/4380747",
+   "published": "2026-11-19T19:28:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 86 words; need 91-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145626/tirupur360/oxt0doxndzc3rb9l5fak.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146814/tirupur360/ho4xdtopnu670ebwxdql.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146823/tirupur360/bilrfn4tplvmusbfh4dv.jpg"
    ]
   },
   {
-   "tamil_headline": "திருப்பூரில் அரிசி, பருப்பு, சர்க்கரைக்கு இருப்பு வரம்பு நிர்ணயம்",
-   "english_headline": "Stock limits fixed for rice, paddy, dal and sugar in Tirupur district to keep essentials at fair prices",
-   "category": "Government & Services",
-   "location": "Tirupur district",
+   "tamil_headline": "மல்லிகைப்பூ விலை ஒரு கிலோ ரூ.1,600க்கு விற்பனை",
+   "english_headline": "Jasmine price reaches Rs.1,600 per kg in Tirupur as flower arrivals fall due to winter dew",
+   "category": "Business & Prices",
+   "location": "Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பூ விலை",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூரில் மல்லிகைப்பூ விலை ரூ.1,600",
+    "hl2": "பனிப்பொழிவால் பூ வரத்து",
+    "slides": [
+     {
+      "title": "மல்லிகை விலை",
+      "lines": [
+       "மல்லிகைப்பூ <b>கிலோ ரூ.1,600</b>க்கு விற்பனை",
+       "நேற்று ரூ.1,400 – ரூ.1,600 வரை விற்றது",
+       "சுபமுகூர்த்த தினம் என்பதால் விலை அதிகம்"
+      ]
+     },
+     {
+      "title": "ஏன் விலை உயர்வு?",
+      "lines": [
+       "கார்த்திகை பிறப்பு முதல் பனிப்பொழிவு அதிகரிப்பு",
+       "காலையில் வெயில் தாமதமாக படுவதால் பூ பூப்பது குறைவு",
+       "இதனால் பூ வரத்து குறைந்துள்ளது"
+      ]
+     },
+     {
+      "title": "பிற பூக்களின் விலை",
+      "lines": [
+       "முல்லை கிலோ ரூ.600 – ரூ.800",
+       "ஜாதிப்பூ கிலோ ரூ.600, சம்பங்கி கிலோ ரூ.360",
+       "செவ்வந்தி கிலோ ரூ.160, அரளி கிலோ ரூ.450"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் மல்லிகைப்பூ கிலோ ஒன்று ரூ.1,600க்கு விற்பனை செய்யப்படுகிறது. கார்த்திகை மாதம் பிறந்த நள்ளிரவு மற்றும் அதிகாலையில் பனிப்பொழிவு அதிகரித்துள்ளது. இதனால் பூக்களின் வரத்து குறைந்துள்ளது. காலையில் வெயில் படுவது தாமதமாவதால் செடிகளில் பூக்கள் பூப்பது குறைந்துள்ளது. கடந்த வாரம் இரண்டு முகூர்த்த நாட்களால் மல்லிகைப்பூ கிலோ ரூ.1,000 முதல் ரூ.1,200 வரை இருந்தது. அடுத்த இரண்டு நாட்கள் விலை குறைந்து கிலோ ரூ.800க்கு விற்றது. இன்று சுபமுகூர்த்த தினம் என்பதால் நேற்று மல்லிகைப்பூ கிலோ ரூ.1,400 முதல் ரூ.1,600 வரை விற்பனையானது. முல்லை கிலோ ரூ.600 முதல் ரூ.800 வரை விற்றது. ஜாதிப்பூ கிலோ ரூ.600, செவ்வந்தி கிலோ ரூ.160, சம்பங்கி கிலோ ரூ.360, அரளி கிலோ ரூ.450 என விற்பனையானது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌸 திருப்பூரில் மல்லிகைப்பூ கிலோ ரூ.1,600க்கு விற்பனை\n\n📰 முழு விவரம்:\nகார்த்திகை மாதம் பிறந்தது முதல் நள்ளிரவு, அதிகாலையில் பனிப்பொழிவு அதிகரித்துள்ளதால் பூக்களின் வரத்து குறைந்துள்ளது. காலையில் வெயில் படுவது தாமதமாவதால் செடிகளில் பூக்கள் பூப்பதும் குறைந்துள்ளது.\nகடந்த வாரம் இரண்டு முகூர்த்த நாட்களால் மல்லிகைப்பூ கிலோ ரூ.1,000 முதல் ரூ.1,200 வரை இருந்தது. அடுத்த இரண்டு நாட்கள் விலை குறைந்து கிலோ ரூ.800க்கு விற்றது.\nஇன்று சுபமுகூர்த்த தினம் என்பதால் நேற்று மல்லிகைப்பூ கிலோ ரூ.1,400 முதல் ரூ.1,600 வரை விற்பனையானது.\n💰 விலை விவரம்:\n🌸 மல்லிகை: கிலோ ரூ.1,400 – ரூ.1,600\n🌼 முல்லை: கிலோ ரூ.600 – ரூ.800\n🌼 ஜாதிப்பூ: கிலோ ரூ.600\n🌼 சம்பங்கி: கிலோ ரூ.360\n🌼 அரளி: கிலோ ரூ.450\n🌼 செவ்வந்தி: கிலோ ரூ.160\n\nTirupur jasmine price Rs.1,600 per kg | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A flower vendor in a Tirupur city flower market stands behind a heap of fresh white jasmine (malli) flowers and strings of garlands, weighing a bundle on a hanging scale for a customer during an early winter morning. The market is an open-sided wholesale stall area with tarpaulin sheets and plastic baskets stacked along the pavement, with a few other flower sellers at neighbouring stalls. Two or three buyers, seen from behind, wrap shawls against the cold and hold small cloth bags. The sky is pale grey with morning mist and faint sunlight, and dew glistens on the petals and on the sacks. The flowers look scarce, with only small piles on the table, showing the drop in arrivals. Shot at eye level, 35 mm, wide enough to include the stalls and the street behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a flat wicker basket holding freshly picked jasmine (malli) buds beside a heap of mullai and chrysanthemum (chendu) flowers, all still wet with winter dew droplets. Next to the basket sits a brass hanging weighing scale with the pan holding a small bundle of jasmine, and a few loose white flowers scattered on a wet cloth sheet. Blurred in the background are the legs of a vendor and a buyer in trousers and a shawl at an open-air flower stall in Tirupur city, with soft cold morning light and mist. The flowers look sparse and the arrangement emphasises how little stock is on the table. Shot from slightly above, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/jasmine-price-virr-a-kg-rs-on-sale-for-1600/4380749",
+   "published": "2026-11-19T19:24:35+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the 'Rs.1,400-1,600' price for yesterday was 'மல்லிகைப்பூ கிலோ ரூ.1,400 முதல் ரூ.1,600 வரை விற்பனையானது' — consistent with article, but slides_spec line 'சுபமுகூர்த்த தினம் என்பதால் விலை அதிகம்' is a causal claim (price high because of auspicious day) stated in slides that the article only mentions as context; the article does not link the high price to the muhurtham day explicitly as cause (it says the price is high because flower supply decreased due to the dew, with muhurtham day given as the reason for yesterday's price) — acceptable but slightly stretched; fact-check: reel_script and caption say the price was 'நேற்று' (yesterday) while the article says 'நேற்று ஒரு கிலோ மல்லிகை பூ, 1,400 – 1,600' — this matches, but the reel_script states the sunrise sun delay 'வெயில் படுவது தாமதமாவதால்' which is a paraphrase of 'வெயில் பட்டு செடிகளில் பூக்கள் பூப்பது சற்று மட்டுப் பட்டுள்ளது' and is acceptable; no clear error here; fact-check: slides_spec line 'சுபமுகூர்த்த தினம் என்பதால் விலை அதிகம்' and headline 'பனிப்பொழிவால் பூ வரத்து' are fine; however reel_script omits the article's note that the price rose to Rs.1,600 as a result of reduced supply, which is partly covered, so no major missing fact",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146835/tirupur360/p0apxufqsxc7z1wwsc6m.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146844/tirupur360/bfvomun0yurgszhjy69x.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வரத்து அதிகரிப்பால் உடுமலையில் முள்ளங்கி விலை சரிவு: 23 கிலோ பை ரூ.900லிருந்து ரூ.600ஆக குறைந்தது",
+   "english_headline": "Radish prices fall in Udumalaipettai as arrivals rise: 23 kg bag drops from Rs.900 to Rs.600",
+   "category": "Business & Prices",
+   "location": "Udumalaipettai, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விலை நிலவரம்",
+    "loc": "உடுமலை",
+    "hl1": "உடுமலையில் முள்ளங்கி விலை சரிவு",
+    "hl2": "பை ரூ.900 → ரூ.600",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "வரத்து அதிகரிப்பால் முள்ளங்கி விலை சரிவு",
+       "தினசரி சந்தையில் விலை குறைந்து வருகிறது",
+       "பாப்பனூத்து, சின்னவீரம்பட்டி பகுதி விளைச்சல்"
+      ]
+     },
+     {
+      "title": "விலை எவ்வளவு?",
+      "lines": [
+       "கடந்த வாரம்: <b>23 கிலோ</b> பை ரூ.<b>900</b>",
+       "இப்போது: பை ரூ.<b>600</b> ஆக கொள்முதல்",
+       "கேரளா உள்ளிட்ட பல மாவட்டங்களுக்கு விற்பனை"
+      ]
+     },
+     {
+      "title": "விவசாயிகள்",
+      "lines": [
+       "வரும் வாரங்களில் விலை உயரும் என எதிர்பார்ப்பு",
+       "கிணற்றுப்பாசனத்தில் முள்ளங்கி சாகுபடி"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "உடுமலை சந்தையில் முள்ளங்கி விலை சரிந்துள்ளது. கடந்த வாரம் 23 கிலோ கொண்ட ஒரு பை 900 ரூபாய்க்கு விற்பனையானது. இப்போது அதே பை 600 ரூபாய்க்கு கொள்முதல் செய்யப்படுகிறது. கடந்த சில நாட்களாக உடுமலை சந்தைக்கு முள்ளங்கி வரத்து அதிகரித்துள்ளதே விலை சரிவுக்குக் காரணம். உடுமலை பாப்பனூத்து, சின்னவீரம்பட்டி சுற்றுப்பகுதிகளில் கிணற்றுப்பாசனத்தில் முள்ளங்கி சாகுபடி செய்யப்படுகிறது. இங்கிருந்து கொள்முதல் செய்யப்படும் முள்ளங்கி பல்வேறு மாவட்டங்களுக்கும், கேரளாவுக்கும் விற்பனைக்கு அனுப்பப்படுகிறது. வரும் வாரங்களில் விலை உயரும் என விவசாயிகள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🥕 உடுமலையில் முள்ளங்கி விலை சரிவு: பை ரூ.900 → ரூ.600\n\n📰 முழு விவரம்:\nவரத்து அதிகரிப்பால் உடுமலை தினசரி சந்தையில் முள்ளங்கி விலை சரிந்து வருகிறது.\nகடந்த வாரம் 23 கிலோ கொண்ட பை ரூ.900க்கு விற்பனையானது.\nவரத்து அதிகரிப்பால் தற்போது அதே பை ரூ.600க்கு கொள்முதல் செய்யப்படுகிறது.\nஉடுமலை பாப்பனூத்து, சின்னவீரம்பட்டி சுற்றுப்பகுதிகளில் கிணற்றுப்பாசனத்தில் முள்ளங்கி சாகுபடி செய்யப்படுகிறது.\nஇங்கு கொள்முதல் செய்யப்படும் முள்ளங்கி பல்வேறு மாவட்டங்களுக்கும், கேரளாவுக்கும் விற்பனைக்கு அனுப்பப்படுகிறது.\nவரும் வாரங்களில் விலை உயரும் என்ற எதிர்பார்ப்பில் விவசாயிகள் உள்ளனர்.\n\n📍 இடம்: உடுமலை தினசரி சந்தை\n🥕 பொருள்: முள்ளங்கி (23 கிலோ பை)\n💰 விலை: ரூ.900 (கடந்த வாரம்) → ரூ.600 (தற்போது)\n\nUdumalaipettai radish price falls as arrivals rise | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "Rows of white radish sacks are stacked high on the floor of the daily vegetable market in Udumalaipettai, Tirupur district, as farmers and traders stand between the piles. Large heaps of freshly harvested mullangi, the white radish, fill the open-sided market shed, and many sacks of 23 kg each are tied and waiting for buyers to take them to other districts and Kerala. Traders in shirts and veshti, and farmers in simple cotton clothes, stand talking near the piles, seen from behind and at a distance. Bags of produce, some loaded onto lorries and small goods vehicles parked at the market edge, show the rising arrivals that have pushed prices down. Daylight through the market shed, morning market atmosphere. Camera at eye level, 35 mm, wide enough to show the full market shed and the stacked radish sacks. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a 23 kg sack of white radish on the market floor in Udumalaipettai, the bag's weight marked by the way it sags as it sits among other heaped sacks. Fresh radish roots, pale white with green leafy tops, spill slightly from the open mouth of the sack, and more bags are stacked behind it in the daily market. A farmer's hand, seen only partly and from behind, rests on the sack while a trader's bare feet and sandals stand beside it. The subject is the falling price: the sack that once sold for Rs.900 now changes hands for Rs.600 in the bustle of the morning market. Daylight, slightly soft shadows under the market shed. Camera at close range, 35 mm, shallow depth of field keeping the radish sharp and the background people slightly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/radish-prices-fall-on-rise-in-arrivals/4380615",
+   "published": "2026-11-19T18:30:23+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146859/tirupur360/heyt23a63sk4p1rayqne.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146869/tirupur360/tluhg3hrxoiutuqmikln.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வார இறுதியில் 3,195 சிறப்பு பேருந்துகள் இயக்கம்: திருப்பூர் உட்பட பல ஊர்களுக்கு",
+   "english_headline": "3,195 special buses for the weekend: Tamil Nadu govt transport corporations run services to Tiruppur and other cities on 20, 21 and 22 November",
+   "category": "Roads & Transport",
+   "location": "Chennai Klampakkam and Koyambedu, Chennai, to Tiruppur and other cities, Tamil Nadu",
    "importance": "High",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு அறிவிப்பு",
+    "cat": "பேருந்து சேவை",
     "loc": "திருப்பூர் மாவட்டம்",
-    "hl1": "திருப்பூரில் அரிசி, பருப்பு",
-    "hl2": "விலை கட்டுப்பாட்டுக்கு",
+    "hl1": "வார இறுதியில் 3,195 சிறப்பு பேருந்துகள்",
+    "hl2": "திருப்பூருக்கும் பேருந்துகள்",
     "slides": [
      {
-      "title": "எதற்கு வரம்பு?",
+      "title": "எந்த நாட்கள்?",
       "lines": [
-       "அத்தியாவசியப் பொருள்கள் நியாயமான விலையில் கிடைக்க",
-       "துவரம் பருப்பு, உளுத்தம் பருப்பு, அரிசி, நெல், சர்க்கரைக்கு",
-       "பதுக்கல், கள்ளச் சந்தையைத் தடுக்க நடவடிக்கை"
+       "<b>20, 21</b> ஆகிய தேதிகளில் சிறப்பு பேருந்துகள்",
+       "ஞாயிறு <b>22</b> ஆம் தேதி கூடுதலாக <b>875</b> பேருந்துகள்",
+       "வார இறுதியில் சொந்த ஊர் பயணிகளுக்காக"
       ]
      },
      {
-      "title": "எவ்வளவு காலம்?",
+      "title": "கிளாம்பாக்கத்திலிர",
       "lines": [
-       "பருப்பு வகைகளுக்கு <b>நவம்பர் 13</b> முதல் <b>3 மாதங்கள்</b>",
-       "அரிசி, நெல்லுக்கு <b>2027 ஜனவரி 31</b> வரை",
-       "வரம்புக்கு மேல் இருப்பு வைக்கக் கூடாது"
+       "<b>1,540</b> பேருந்துகள் இயக்கம்",
+       "திருப்பூர், கோயம்புத்தூர், ஈரோடு, சேலம் உட்பட ஊர்களுக்கு",
+       "திருவண்ணாமலை, மதுரை, நாகர்கோவில் உட்பட ஊர்களுக்கும்"
       ]
      },
      {
-      "title": "வணிகர்கள் செய்ய",
+      "title": "பிற",
       "lines": [
-       "அரிசி, நெல் இருப்பை உணவு இருப்பு இணையதளத்தில் அறிவிக்க",
-       "ஒவ்வொரு வெள்ளிக்கிழமையும் புதுப்பிக்க வேண்டும்",
-       "சர்க்கரையை 15 நாள்களுக்கு மேல் வைத்திருக்கக் கூடாது"
-      ]
-     },
-     {
-      "title": "புகார் செய்ய",
-      "lines": [
-       "கட்டணமில்லா எண் <b>1967</b> அல்லது <b>1800 425 5901</b>",
-       "மாவட்ட வழங்கல் அலுவலரிடம் தெரிவிக்கலாம்",
-       "விவசாயிகள் தங்கள் விளைபொருளை வைத்திருக்கலாம்"
+       "கோயம்பேட்டிலிருந்து <b>390</b> பேருந்துகள்",
+       "மாதவரத்திலிருந்து <b>290</b> பேருந்துகள்",
+       "பெங்களூரு, திருப்பூர், ஈரோடு, கோயம்புத்தூரிலிருந்து"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் மாவட்டத்தில் அரிசி, பருப்பு, சர்க்கரைக்கு இருப்பு வரம்பு நிர்ணயிக்கப்பட்டுள்ளது. மாவட்ட ஆட்சியர் சி முத்துக்குமரன் இந்த அறிவிப்பை வெளியிட்டுள்ளார். துவரம் பருப்பு, உளுத்தம் பருப்பு, அரிசி, நெல், சர்க்கரை ஆகியவற்றுக்குத் தமிழக அரசு கட்டுப்பாட்டு ஆணைகளைப் பிறப்பித்துள்ளது. பருப்பு வகைகளுக்கு நவம்பர் 13ஆம் தேதி முதல் 3 மாதங்களுக்கு வரம்பு நடைமுறையில் இருக்கும். அரிசி, நெல்லுக்கு 2027 ஜனவரி 31ஆம் தேதி வரை வரம்பு நடைமுறையில் இருக்கும். வரம்புக்கு மேல் யாரும் இருப்பு வைக்கக் கூடாது. வணிகர்கள் அரிசி, நெல் இருப்பை இணையதளத்தில் அறிவித்து, ஒவ்வொரு வெள்ளிக்கிழமையும் புதுப்பிக்க வேண்டும். சர்க்கரையை 15 நாள்களுக்கு மேல் வைத்திருக்கக் கூடாது. பதுக்கல், கள்ளச் சந்தையைக் கண்காணிக்க ஒரு குழு அமைக்கப்பட்டுள்ளது. புகார்களுக்கு 1967 அல்லது 1800 425 5901 என்ற கட்டணமில்லா எண்ணில் தொடர்பு கொள்ளலாம். விவசாயிகள் தங்கள் சொந்த விளைபொருள்களை வைத்திருக்கவும் விற்கவும் எந்தத் தடையும் இல்லை. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 திருப்பூரில் அரிசி, பருப்பு, சர்க்கரைக்கு இருப்பு வரம்பு நிர்ணயம்\n\n📰 முழு விவரம்:\nஅத்தியாவசியப் பொருள்கள் நியாயமான விலையில் கிடைக்கத் திருப்பூர் மாவட்டத்தில் இருப்பு வரம்பு நிர்ணயிக்கப்பட்டுள்ளது. மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் இதைத் தெரிவித்துள்ளார்.\nதமிழக அரசின் அத்தியாவசியப் பொருள்கள் சட்டத்தின் கீழ் துவரம் பருப்பு, உளுத்தம் பருப்பு, அரிசி, நெல், சர்க்கரைக்கு வரம்பு விதிக்கப்பட்டுள்ளது. இதன் நோக்கம் விலைகளைக் கட்டுப்பாட்டில் வைப்பதும், நியாய விலைக் கடைகளில் விநியோகம் தடையின்றி நடப்பதும் ஆகும்.\n📅 பருப்பு வகைகளுக்கு நவம்பர் 13ஆம் தேதி முதல் 3 மாதங்கள் வரை; அரிசி, நெல்லுக்கு 2027 ஜனவரி 31ஆம் தேதி வரை வரம்பு நடைமுறையில் இருக்கும்.\n🏪 வணிகர்கள், ஆலை உரிமையாளர்கள் அரிசி, நெல் இருப்பை உணவு இருப்பு இணையதளத்தில் அறிவித்து ஒவ்வொரு வெள்ளிக்கிழமையும் புதுப்பிக்க வேண்டும். பருப்பு, சர்க்கரை இருப்பும் குறிப்பிட்ட இணையதளங்களில் அறிவிக்கப்பட வேண்டும்.\n⚠️ வரம்புக்கு மேல் உள்ள இருப்பை வரம்புக்குள் கொண்டு வர வேண்டும். சர்க்கரையை இருப்பு பெற்ற நாளிலிருந்து 15 நாள்களுக்கு மேல் வைத்திருக்கக் கூடாது.\n🌾 விவசாயிகள் தங்கள் சொந்த விளைபொருள்களை இருப்பு வைக்கவோ விற்கவோ இந்த ஆணைகள் தடையில்லை.\n👮 பதுக்கல், கள்ளச் சந்தையைக் கட்டுப்படுத்த மாவட்ட வழங்கல் அலுவலர் தலைமையில் வட்ட வழங்கல் அலுவலர்கள், குடிமைப் பொருள் குற்றப் புலனாய்வுத் துறை அலுவலர்கள் அடங்கிய குழு அமைக்கப்பட்டுள்ளது.\n📞 புகார்: கட்டணமில்லா எண் 1967 அல்லது 1800 425 5901; மாவட்ட வழங்கல் மற்றும் நுகர்வோர் பாதுகாப்பு அலுவலர், தொடர்புடைய வட்ட வழங்கல் அலுவலரிடமும் தெரிவிக்கலாம்.\n\nTirupur essential goods stock limit rice dal sugar | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tirupur அரிசி",
-   "prompts": "A row of sacks of rice, paddy and dal is stacked inside a provision godown in Tirupur city, with a worker in a shirt and veshti counting bags while a Tamil Nadu supply office official in a shirt stands nearby with a clipboard, seen from behind at a distance. The godown has concrete walls, a tin-roofed shed, and wooden pallets on a cement floor; a few sugar bags sit on a separate platform. Bright daylight comes through open shutters, with a dusty store interior and a row of two-wheelers parked outside. Officials and workers are seen from behind and far away, clothes plain and unbranded. Camera at eye level, 35 mm, wide enough to show the full stock stacks and the storage room. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a weighing scale placed on a wooden counter of a fair price ration shop in Tirupur, with a stack of rice bags and a jute sack of toor dal beside it, a plain blue metal ration shop shutter behind. A ration shop worker's hand in a shirt sleeve rests on the counter, with a register book open and a pen laid across it. Sugar packets are stacked on a shelf in the background, slightly out of focus. Daylight from the open shop front falls across the grain. Camera close, slightly above, 35 mm, showing the scale, grains and sacks clearly with no readable text. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/setting-stock-limits-to-ensure-essential-commodities-are-available-at-reasonable-prices",
-   "published": "2026-11-19T23:36:18.621Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('அத்தியாவசியப் பொருள்கள் நியாயமான விலையில் கிடைக்க இருப்பு வரம்பு நிா்ணயிப்பு') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "reel_script": "வார இறுதியில் தமிழ்நாடு அரசு போக்குவரத்துக் கழகங்கள் மூலம் 3,195 சிறப்பு பேருந்துகள் இயக்கப்படவுள்ளன. அக்டோபர் 20, 21 தேதிகளில் சென்னை கிளாம்பாக்கத்திலிருந்து 1,540 பேருந்துகள் இயக்கப்படவுள்ளன. திருப்பூர், கோயம்புத்தூர், ஈரோடு, சேலம், திருச்சி, மதுரை, நாகர்கோவில் உள்ளிட்ட ஊர்களுக்கு இந்தப் பேருந்துகள் செல்லும். சென்னை கோயம்பேட்டிலிருந்து நாகை, வேளாங்கண்ணி, ஓசூர், பெங்களூரு ஆகிய இடங்களுக்கு 390 பேருந்துகள் இயக்கப்படவுள்ளன. சென்னை மாதவரத்திலிருந்து 290 பேருந்துகள் திருவண்ணாமலை, திருச்சி, வேலூர், புதுச்சேரி உள்ளிட்ட இடங்களுக்குச் செல்லும். பெங்களூரு, திருப்பூர், ஈரோடு, கோயம்புத்தூரிலிருந்து பல்வேறு இடங்களுக்கு 100 சிறப்பு பேருந்துகள் இயக்கப்படவுள்ளன. ஞாயிற்றுக்கிழமை சொந்த ஊர்களிலிருந்து சென்னை, பெங்களூரு திரும்ப 875 சிறப்பு பேருந்துகள் இயக்கப்படவுள்ளன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 வார இறுதியில் திருப்பூருக்கும் சிறப்பு பேருந்துகள்\n\n📰 முழு விவரம்:\nவார இறுதி நாட்களை முன்னிட்டு தமிழ்நாடு அரசு போக்குவரத்துக் கழகங்கள் மூலம் மொத்தம் 3,195 சிறப்பு பேருந்துகள் இயக்கப்படவுள்ளன.\nசென்னை கிளாம்பாக்கத்திலிருந்து திருப்பூர் உட்பட பல ஊர்களுக்கு அக்டோபர் 20, 21 தேதிகளில் 1,540 பேருந்துகள் இயக்கப்படவுள்ளன.\nசென்னை கோயம்பேட்டிலிருந்து நாகை, வேளாங்கண்ணி, ஓசூர், பெங்களூரு ஆகிய இடங்களுக்கு 390 பேருந்துகள் இயக்கப்படவுள்ளன.\nசென்னை மாதவரத்திலிருந்து திருவண்ணாமலை, திருச்சி, வேலூர், ஓசூர், புதுச்சேரி ஆகிய இடங்களுக்கு 290 பேருந்துகள் இயக்கப்படவுள்ளன.\nபெங்களூரு, திருப்பூர், ஈரோடு, கோயம்புத்தூரிலிருந்து பல்வேறு இடங்களுக்கு 100 சிறப்புப் பேருந்துகள் இயக்கப்படவுள்ளன.\nஞாயிற்றுக்கிழமை (அக். 22) சொந்த ஊர்களிலிருந்து சென்னை, பெங்களூரு திரும்ப வசதியாக 875 சிறப்புப் பேருந்துகள் இயக்கப்படவுள்ளன.\n\nTiruppur weekend special buses from Chennai | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tamilnadu",
+   "prompts": "A line of Tamil Nadu state transport corporation buses stands at the Klampakkam bus terminus in Chennai as passengers board for the weekend special services to Tiruppur and other cities. The terminus is a large open concrete platform with many bays, covered shelters and a row of parked buses with their doors open. Passengers in ordinary clothes, men in shirts and trousers and women in sarees and salwar, carry bags and suitcases toward the buses; several are seen from behind or far away. A bus conductor in a plain uniform stands by a door helping passengers board. It is bright daylight on a weekend morning with clear sky over the terminus. Camera at eye level, 35 mm lens, wide enough to show the full row of buses and the crowd of travellers. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the luggage of passengers boarding a state transport bus at the Koyambedu terminus in Chennai: a row of travel bags, rolled bedding and a cloth bundle are being loaded into the open luggage compartment under the bus. Behind it the bus's large side panel and boarding step are visible, with a passenger's hand on the rail and a few people waiting in line out of focus, seen from behind. The scene is bright daylight at a weekend morning, with concrete platform floor and bus wheels in the frame. No readable signs or text are visible. Camera at slightly high angle, 35 mm lens, shallow depth of field to keep the bags sharp. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/weekend-state-transport-corporation-special-bus-services",
+   "published": "2026-11-19T16:11:50+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area); caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('பெங்களூர், திருப்பூர், ஈரோடு மற்றும் கோயம்புத்தூர் ஆகிய இடங்')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145635/tirupur360/zg2dla3c2biawoqhxr2z.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145643/tirupur360/p1km3hxkzjatnfeutzh7.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர்: மாற்றுத்திறனாளிகளுக்கான சிறப்பு குறைதீர் கூட்டத்தில் 311 கோரிக்கை மனுக்கள் பெறப்பட்டன",
-   "english_headline": "Tirupur: 311 petitions received at special grievance meeting for differently abled persons chaired by District Collector",
-   "category": "Government & Services",
-   "location": "Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு சேவை",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர்: மாற்றுத்திறனாளிகள் குறைதீர்",
-    "hl2": "<b>311</b> கோரிக்கை மனுக்கள்",
-    "slides": [
-     {
-      "title": "எப்போது, எங்கே?",
-      "lines": [
-       "வியாழக்கிழமை திருப்பூரில் நடைபெற்றது",
-       "மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் தலைமையில் நடைபெற்ற",
-       "மாற்றுத்திறனாளிகளின் குறைகளைக் களையும் நோக்கில் நடைபெற்றது"
-      ]
-     },
-     {
-      "title": "என்ன கோரிக்கைகள்?",
-      "lines": [
-       "வீட்டுமனை பட்டா, அடுக்குமாடி குடியிருப்பு, வெற்றி வீடு",
-       "மாதாந்திர உதவித்தொகை, ஸ்கூட்டர், வங்கிக் கடன், தொழில் கடன்",
-       "கைப்பேசி, பேட்டரி வீல் சேர், காதொலிக் கருவி, செயற்கை கால்"
-      ]
-     },
-     {
-      "title": "மனுக்கள் எத்தனை?",
-      "lines": [
-       "<b>311</b> கோரிக்கை மனுக்கள் பெறப்பட்டன",
-       "யூடிஜடி கார்டு, கல்வி உதவித்தொகை, கண் கண்ணாடி பற்றியும்",
-       "சிறப்பு நாற்காலி, வீடு பராமரிப்பு தொடர்பான மனுக்களும்"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்றனர்?",
-      "lines": [
-       "மாவட்ட வருவாய் அலுவலர் ரா.ஆனந்தி பங்கேற்றார்",
-       "தனித்துணை ஆட்சியர் பத்மப்பிரியா பங்கேற்றார்",
-       "மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலர் ஜெகஜோதி மற்றும் துறை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூரில் மாற்றுத்திறனாளிகளின் 311 கோரிக்கை மனுக்கள் பெறப்பட்டன. மாவட்ட ஆட்சியர் சி முத்துக்குமரன் தலைமையில் வியாழக்கிழமை சிறப்பு குறைதீர் கூட்டம் நடைபெற்றது. மாற்றுத்திறனாளிகளின் குறைகளைக் களையும் நோக்கில் இந்தக் கூட்டம் நடத்தப்பட்டது. வீட்டுமனை பட்டா, அடுக்குமாடி குடியிருப்பு, வெற்றி வீடு திட்டம் தொடர்பான கோரிக்கைகள் வந்தன. மாதாந்திர உதவித்தொகை, ஸ்கூட்டர், வங்கிக் கடன், தொழில் கடன் பற்றியும் மனுக்கள் அளிக்கப்பட்டன. கைப்பேசி, பேட்டரி வீல் சேர், காதொலிக் கருவி, செயற்கை கால் ஆகியவை தொடர்பான கோரிக்கைகளும் பெறப்பட்டன. யூடிஜடி கார்டு, கல்வி உதவித்தொகை, கண் கண்ணாடி, சிறப்பு நாற்காலி, வீடு பராமரிப்பு ஆகியவை பற்றியும் மனுக்கள் வந்தன. மாவட்ட வருவாய் அலுவலர் ரா ஆனந்தி, தனித்துணை ஆட்சியர் பத்மப்பிரியா, மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலர் ஜெகஜோதி ஆகியோர் கூட்டத்தில் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🤝 திருப்பூரில் மாற்றுத்திறனாளிகளின் 311 கோரிக்கை மனுக்கள் பெறப்பட்டன\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்ட ஆட்சியர் சி.முத்துக்குமரன் தலைமையில் வியாழக்கிழமை மாற்றுத்திறனாளிகளுக்கான சிறப்பு குறைதீர் கூட்டம் நடைபெற்றது. மாற்றுத்திறனாளிகளின் குறைகளைக் களையும் நோக்கில் இந்தக் கூட்டம் நடத்தப்பட்டது.\nவீட்டுமனை பட்டா, அடுக்குமாடி குடியிருப்பு, வெற்றி வீடு திட்டம், மாதாந்திர உதவித்தொகை, ஸ்கூட்டர், வங்கிக் கடன், கைப்பேசி, பேட்டரி வீல் சேர், தொழில் கடன், காதொலிக் கருவி, செயற்கை கால், யூடிஜடி கார்டு, கல்வி உதவித்தொகை, கண் கண்ணாடி, சிறப்பு நாற்காலி, வீடு பராமரிப்பு ஆகியவை தொடர்பாக 311 கோரிக்கை மனுக்கள் பெறப்பட்டன.\nமாவட்ட வருவாய் அலுவலர் ரா.ஆனந்தி, தனித்துணை ஆட்சியர் பத்மப்பிரியா, மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலர் ஜெகஜோதி மற்றும் துறை சார்ந்த அலுவலர்கள் கலந்துகொண்டனர்.\n\nTirupur differently abled grievance meeting, 311 petitions | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tirupur",
-   "prompts": "Inside a government hall in Tirupur district, a District Collector sits at a long table draped with a cloth, flanked by revenue and welfare officials in formal wear, while differently abled persons in wheelchairs and with crutches queue in rows to hand over petition papers. Several people in simple shirts and sarees are seen from behind or far away, some holding files and envelopes of petitions. Wheelchairs, crutches and a pile of submitted application forms are visible on the floor and tables. The room is lit by daylight through tall windows and ceiling tube lights, and government chairs and a wall display of notices complete the setting. Shot at eye level with a 35 mm lens, wide enough to show the table, the queue and the full hall, with faces kept turned away or blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a neat stack of petition application papers and files piled on a government office table, with a few hands in a row resting on top of them. Beside the papers sit a pair of a wheelchair's armrest and a folded white walking crutch, showing the people who came for help. The background is a blurred government office with fluorescent light, a wooden desk and a steel almirah. Daylight from a nearby window falls across the stack, and the camera is slightly high, with a 35 mm lens focusing on the petitions as the central object of the story. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/மாற்றுத்திறனாளிகளுக்கான-சிறப்பு-குறைதீா்-கூட்டம்",
-   "published": "2026-11-19T21:12:20.065Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145658/tirupur360/kdifalrfykjm9vfpuhpr.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795145680/tirupur360/wh3bllxejdix11zffnyg.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146891/tirupur360/zbt2osradmitwzt1tviq.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795146900/tirupur360/wkixnnkog88osqh7alhj.jpg"
    ]
   }
  ]
