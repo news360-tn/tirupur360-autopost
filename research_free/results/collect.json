@@ -3,24 +3,24 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/tasmac-scam-searches-in-tiruppur/4381943",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/laghu-udyog-bharti-a-12-week-free-training-programme-for-micro-small-and-medium-enterprises-msmes-is-a-new-initiative/4381615",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/a-threat-to-the-safety-of-students/4381911",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/no-use-of-mobile-phones-in-schools-collector/4381970",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/english-dictionaries-for-government-school-students",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/demand-for-the-immediate-fulfillment-of-requests-concerning-the-welfare-of-workers",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/11-sub-divisional-magistrate-transferred/4381869",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/farmers-protection-union-complains-of-malpractices-in-cooperative-societies/4381825",
   "candidate filter: collected=4",
   "to write: 4 Tirupur district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'pollinations': 3})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-coim",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 73 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'pollinations': 6})",
+  "auto images: 1 of 1 stories ({'pollinations': 8})",
+  "auto images: 1 of 1 stories ({'pollinations': 10})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 75 min",
   "filed: 4 Tirupur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
@@ -29,98 +29,81 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (13s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (30s)",
+  "ok gemini/gemini-3.6-flash (23s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (26s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (27s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "ok gemini/gemini-3.6-flash (38s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3.6-flash (37s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok gemini/gemini-3-flash-preview (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -130,246 +113,239 @@
  ],
  "stories": [
   {
-   "tamil_headline": "பெருமாநல்லூர் பள்ளியில் சுற்றுச்சுவர் இல்லாமை: மாணவர்களுக்கு ஆபத்து",
-   "english_headline": "Safety threat at Perumanallur school due to missing boundary wall",
-   "category": "Education",
-   "location": "Perumanallur, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பள்ளி பாதுகாப்பு",
-    "loc": "பெருமாநல்லூர்",
-    "hl1": "பெருமாநல்லூர் பள்ளியில் சுவர் இல்லை",
-    "hl2": "400 மாணவர்களுக்கு ஆபத்து",
-    "slides": [
-     {
-      "title": "பள்ளி நிலைமை",
-      "lines": [
-       "ஈஸ்வரன் கோவில் வீதியில் பள்ளி உள்ளது",
-       "400 மாணவர்கள் படிக்கின்றனர்",
-       "ஒரு பகுதியில் சுற்றுச்சுவர் இல்லை"
-      ]
-     },
-     {
-      "title": "பாதுகாப்பு",
-      "lines": [
-       "திறந்தவெளியில் முட்புதர்கள் உள்ளன",
-       "விஷப்பூச்சிகள் இருக்க வாய்ப்பு உள்ளது",
-       "வெளியாட்கள் வந்து சேர்வது எளிது"
-      ]
-     },
-     {
-      "title": "பெற்றோர் கோரிக்கை",
-      "lines": [
-       "பள்ளி வளாகத்தில் சுவர் அமைக்க வேண்டும்",
-       "மாணவர்களை பாதுகாக்க வேண்டும்",
-       "அரசு நடவடிக்கை எடுக்க வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பெருமாநல்லூர் பள்ளியில் 400 மாணவர்களுக்கு பாதுகாப்பு அச்சுறுத்தல் உள்ளது. ஈஸ்வரன் கோவில் வீதியில் ஊராட்சி ஒன்றிய நடுநிலைப்பள்ளி செயல்படுகிறது. பள்ளியின் ஒரு பகுதியில் சுற்றுச்சுவர் இல்லாமல் திறந்தவெளியாக உள்ளது. இதனால் முட்புதர்கள் மண்டியுள்ளன. விஷப்பூச்சிகள் இருக்க வாய்ப்பு உள்ளது. வெளியாட்கள் வந்து சமூக விரோத செயல்களில் ஈடுபட வாய்ப்பு உள்ளது. இதனால் மாணவர்களுக்கு பாதிப்பு ஏற்படும் நிலை உள்ளது. பள்ளி வளாகத்தில் முழுமையான சுற்றுச்சுவர் அமைக்க வேண்டும் என பெற்றோர்கள் வேண்டுகோள் விடுத்துள்ளனர். மாணவர்களின் பாதுகாப்பை உறுதி செய்ய அரசு நடவடிக்கை எடுக்க வேண்டும் என பெற்றோர்கள் கோரிக்கை வைத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚠️ பெருமாநல்லூர் பள்ளியில் சுற்றுச்சுவர் இல்லாமை: 400 மாணவர்களுக்கு ஆபத்து\n\n📰 முழு விவரம்:\nபெருமாநல்லூர் ஈஸ்வரன் கோவில் வீதியில் ஊராட்சி ஒன்றிய நடுநிலைப்பள்ளி செயல்படுகிறது. இந்த பள்ளியில் 400 மாணவர்கள் படிக்கின்றனர். பள்ளி வளாகத்தின் ஒரு பகுதியில் சுற்றுச்சுவர் இல்லாமல் திறந்தவெளியாக உள்ளது. இதனால் முட்புதர்கள் மண்டியுள்ளன. விஷப்பூச்சிகள் இருக்க வாய்ப்பு உள்ளது. வெளியாட்கள் வந்து சமூக விரோத செயல்களில் ஈடுபட வாய்ப்பு உள்ளது. பள்ளி வளாகத்தில் முழுமையான சுற்றுச்சுவர் அமைத்து மாணவர்களை பாதுகாக்க அரசு நடவடிக்கை எடுக்க வேண்டும் என பெற்றோர்கள் வேண்டுகோள் விடுத்துள்ளனர்.\n\n📍 இடம்: பெருமாநல்லூர், ஈஸ்வரன் கோவில் வீதி\n👥 மாணவர்கள்: 400\n🏫 பள்ளி: ஊராட்சி ஒன்றிய நடுநிலைப்பள்ளி\n📢 கோரிக்கை: சுற்றுச்சுவர் அமைக்க வேண்டும்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nPerumanallur school safety issue | Tirupur news\n📍 Perumanallur, Tirupur | 21 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Perumanallur #TirupurNews #திருப்பூர்",
-   "prompts": "A row of students in Tamil Nadu government school uniform walk along the edge of an open school ground in Perumanallur, Tirupur district, seen from behind and far away, as the campus boundary is missing on one side. The school sits on a village street where the open side has no boundary wall, leaving a stretch of bare earth open to the road. Several parents in shirts, trousers and sarees stand at a distance near the open edge, looking at the site. Thick overgrown thorny bushes spread across the unwalled ground, and a few two-wheelers are parked on the lane outside. It is bright daylight with a clear sky and soft, even light. The camera is at eye level, about 35 mm, wide enough to show the school building, the open ground, and the bushes together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the unwalled edge of a school compound in Perumanallur, where the boundary wall is missing and a dense tangle of thorny bushes and dry scrub has grown up across the ground. The bare, uneven earth meets the open street, with a broken stub of old masonry and loose soil at the gap. In the background, a student in Tamil Nadu school uniform stands far away and seen from behind, slightly blurred. The light is bright daylight, and the scene looks dry and neglected. The camera is low and close, about 35 mm, focused on the thorny bushes and the open gap to show the danger of the unprotected boundary. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/a-threat-to-the-safety-of-students/4381911",
-   "published": "2026-11-20T22:04:36+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201190/tirupur360/vxrr7j8pyp5avnnk4krm.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201192/tirupur360/ubl0tlpze8adb5mkarrl.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர்: பள்ளிகளில் மொபைல் போன் பயன்பாட்டுக்கு கலெக்டர் கண்டிப்பு",
-   "english_headline": "Tirupur: Collector warns against mobile phone use in schools, asks teachers and officials to monitor",
-   "category": "Education",
-   "location": "Tirupur city, Tirupur district",
+   "tamil_headline": "கூட்டுறவு சங்கங்களில் முறைகேடு: பணியிட மாற்றம் கோரி விவசாயிகள் பாதுகாப்பு சங்கம் புகார்",
+   "english_headline": "Tamil Nadu Farmers' Protection Association alleges continued irregularities in cooperative credit societies, seeks transfer of long-serving staff out of district",
+   "category": "Government & Services",
+   "location": "Palladam, Tirupur district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பள்ளிக் கல்வி",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர்: பள்ளியில் மொபைல் போன் கூடாது",
-    "hl2": "கலெக்டர் கண்டிப்பு",
+    "cat": "கூட்டுறவு சங்கம்",
+    "loc": "பல்லடம்",
+    "hl1": "கூட்டுறவு சங்கங்களில் முறைகேடு புகார்",
+    "hl2": "3 ஆண்டுக்கு மேல் ஒரே இடம்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன புகார்?",
       "lines": [
-       "திருப்பூர் கலெக்டர் அலுவலக கூட்டரங்கில் ஆய்வுக்கூட்டம்",
-       "<b>நவ. 20</b> அன்று நடைபெற்றது",
-       "கலெக்டர் முத்துக்குமரன் தலைமை வகித்தார்"
+       "தொடக்க வேளாண்மை கூட்டுறவு கடன் சங்கங்களில் முறைகேடுகள்",
+       "தமிழக விவசாயிகள் பாதுகாப்பு சங்கம் குற்றம் சாட்டியுள்ளது",
+       "தமிழக அரசின் அலட்சியமே காரணம் என சங்கம் கூறியுள்ளது"
       ]
      },
      {
-      "title": "ஆய்வு செய்தவை",
+      "title": "ஏன்",
       "lines": [
-       "இடிக்கப்பட வேண்டிய பள்ளி கட்டடங்கள்",
-       "கூடுதல் வகுப்பறை கட்டடங்கள், அடிப்படை வசதிகள்",
-       "பள்ளி இடைநின்ற மாணவர்களை மீண்டும் சேர்க்கும் நடவடிக்கை"
+       "செயலர்களுக்கு 3 ஆண்டுக்கு ஒருமுறை பணியிட மாறுதல் வழக்கம்",
+       "இந்த நடைமுறை முறையாகப் பின்பற்றப்படுவதில்லை",
+       "ஒரே சங்கத்தில் பல ஆண்டுகள் பணிபுரியும் சிலர் முறைகேடு"
       ]
      },
      {
-      "title": "கலெக்டரின்",
+      "title": "என்ன கோரிக்கை?",
       "lines": [
-       "பள்ளி வளாகத்துக்குள் மாணவர்கள் மொபைல் போன்",
-       "ஆசிரியர்கள், கல்வித்துறை அதிகாரிகள் கண்காணிக்க வேண்டும்",
-       "உரிய நடவடிக்கை எடுக்க அறிவுறுத்தல்"
+       "3 ஆண்டுக்கு மேல் ஒரே இடத்தில் பணிபுரிவோரை மாற்ற வேண்டும்",
+       "மாவட்டம் விட்டு வேறு மாவட்டத்துக்கு உடனடியாக மாற்ற கோரிக்கை",
+       "இதற்கு முதல்வர் உத்தரவிட வேண்டும் என சங்கம் வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூரில் பள்ளி வளாகத்துக்குள் மாணவர்கள் மொபைல் போன் பயன்படுத்தக்கூடாது என கலெக்டர் முத்துக்குமரன் கண்டிப்புடன் அறிவுறுத்தியுள்ளார். நவம்பர் 20ஆம் தேதி திருப்பூர் கலெக்டர் அலுவலக கூட்டரங்கில் பள்ளிக்கல்வித்துறை அலுவலர்களுக்கான ஆய்வுக்கூட்டம் நடைபெற்றது. இந்தக் கூட்டத்துக்கு கலெக்டர் முத்துக்குமரன் தலைமை வகித்து, துறை சார்ந்த பணிகளை ஆய்வு செய்தார். மாவட்ட முதன்மை கல்வி அலுவலர் புனித அந்தோணியம்மாள், ஒருங்கிணைந்த பள்ளிக்கல்வி உதவி திட்ட அலுவலர் அண்ணாதுரை உள்ளிட்ட கல்வித்துறை அலுவலர்கள் பங்கேற்றனர். மாவட்டத்தில் இடிக்கப்பட வேண்டிய பள்ளி கட்டடங்கள் குறித்தும் ஆய்வு செய்யப்பட்டது. கூடுதல் வகுப்பறை கட்டடங்கள், அடிப்படை வசதிகள் குறித்தும் விவாதிக்கப்பட்டது. பள்ளி இடைநின்ற மாணவர்களை மீண்டும் கல்வியில் சேர்ப்பதற்கான நடவடிக்கைகளும் ஆய்வு செய்யப்பட்டன. பள்ளி மேலாண்மைக் குழு வாயிலாக பிற துறை அலுவலர்கள் மேற்கொள்ள வேண்டிய பணிகளும் பேசப்பட்டன. ஆசிரியர்கள், கல்வித்துறை அதிகாரிகள், மாணவர்களிடையே மொபைல் போன் பயன்பாட்டைக் கண்காணித்து உரிய நடவடிக்கை எடுக்க வேண்டும் என கலெக்டர் அறிவுறுத்தினார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📱 திருப்பூர்: பள்ளி வளாகத்தில் மாணவர்கள் மொபைல் போன் பயன்படுத்தக்கூடாது - கலெக்டர் கண்டிப்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் கலெக்டர் அலுவலக கூட்டரங்கில் நவ. 20 அன்று பள்ளிக்கல்வித்துறை அலுவலர்களுக்கான ஆய்வுக்கூட்டம் நடைபெற்றது. கலெக்டர் முத்துக்குமரன் தலைமை வகித்தார். மாவட்ட முதன்மை கல்வி அலுவலர் புனித அந்தோணியம்மாள், ஒருங்கிணைந்த பள்ளிக்கல்வி உதவி திட்ட அலுவலர் அண்ணாதுரை உள்ளிட்ட அலுவலர்கள் பங்கேற்றனர். இடிக்கப்பட வேண்டிய பள்ளி கட்டடங்கள், கூடுதல் வகுப்பறை கட்டடங்கள், அடிப்படை வசதிகள், இடைநின்ற மாணவர்களை மீண்டும் சேர்க்கும் நடவடிக்கைகள் ஆகியவை ஆய்வு செய்யப்பட்டன. பள்ளி வளாகத்துக்குள் மாணவர்கள் மொபைல் போன் பயன்படுத்தக்கூடாது என கலெக்டர் கண்டிப்புடன் அறிவுறுத்தினார்.\n📍 இடம்: திருப்பூர் கலெக்டர் அலுவலக கூட்டரங்கு\n🗓️ நாள்: நவம்பர் 20, 2026\n👮 நடவடிக்கை: ஆசிரியர்கள், கல்வித்துறை அதிகாரிகள் மாணவர்களின் மொபைல் போன் பயன்பாட்டைக் கண்காணித்து உரிய நடவடிக்கை எடுக்க வேண்டும்.\n\nTirupur collector warns against school mobile phone use | Tirupur news\n📍 திருப்பூர், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A district collector in formal shirt sits at the head of a long wooden conference table in a government conference hall in Tirupur city, addressing a row of school education department officials in shirts, sarees and trousers who sit with files, notepads and water bottles spread before them. The hall is the collectorate conference room of the Tirupur district office, with plain cream walls, tube lights overhead, a large wall screen or board, and rows of chairs along the table. Daylight from tall windows mixes with the indoor fluorescent light on a November day. The officials, seen from behind and from the side at a distance, are listening attentively, some taking notes with pens. Shot at eye level with a 35 mm lens, wide enough to show the full table and the hall, the scene capturing a formal review meeting with no readable text or signboards visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a long conference table in a government hall, showing a stack of official files, a black mobile phone placed face-down on the polished wood beside a notepad and a pen, and a steel water tumbler with a glass. The edge of a chair and the sleeve of an official's shirt are softly blurred at the frame's edge. Tube light falls across the table surface and papers, with the warm tone of a Tamil Nadu government office. The mobile phone sits as a clear symbol of the Collector's warning about phone use in schools, with no readable screen or text, shot from slightly above at about a 45 degree angle with a 50 mm lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/no-use-of-mobile-phones-in-schools-collector/4381970",
-   "published": "2026-11-20T22:54:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "reel_script": "கூட்டுறவு சங்கங்களில் முறைகேடுகள் தொடர்வதாக தமிழக விவசாயிகள் பாதுகாப்பு சங்கம் குற்றம் சாட்டியுள்ளது. பல்லடத்தில் சங்கத்தின் திருப்பூர் மாநகர மாவட்டச் செயலாளர் ரமேஷ் இந்தத் தகவலைத் தெரிவித்தார். தமிழகம் முழுவதும் உள்ள தொடக்க வேளாண்மை கூட்டுறவு கடன் சங்கங்களில் பல்வேறு முறைகேடுகள் நடப்பதாக விவசாயிகளிடம் இருந்து தொடர்ந்து புகார்கள் வருகின்றன என்று அவர் கூறினார். இதற்கு தமிழக அரசின் அலட்சியமே காரணம் என்றும் சங்கம் குற்றம் சாட்டியுள்ளது. கூட்டுறவு சங்கங்களில் பணிபுரியும் செயலர்களுக்கு மூன்று ஆண்டுகளுக்கு ஒருமுறை பணியிட மாறுதல் வழங்குவது வழக்கம். ஆனால் இந்த நடைமுறை முறையாகப் பின்பற்றப்படுவதில்லை. ஒரே சங்கத்தில் பல ஆண்டுகளாகப் பணிபுரியும் சிலர் விவசாயிகள் மற்றும் பொதுமக்களை ஏமாற்றி முறைகேடுகளில் ஈடுபடுவதாகப் புகார்கள் எழுகின்றன. எனவே மூன்று ஆண்டுகளுக்கு மேல் ஒரே இடத்தில் பணிபுரியும் செயலர்களையும் ஊழியர்களையும் மாவட்டம் விட்டு வேறு மாவட்டத்துக்கு உடனடியாக மாற்ற வேண்டும் என சங்கம் முதல்வருக்கு உத்தரவு கோரியுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏦 கூட்டுறவு சங்கங்களில் முறைகேடு: பணியிட மாற்றம் கோரிக்கை\n\n📰 முழு விவரம்:\nதொடக்க வேளாண்மை கூட்டுறவு கடன் சங்கங்களில் முறைகேடுகள் தொடர்வதாக தமிழக விவசாயிகள் பாதுகாப்பு சங்கம் குற்றம் சாட்டியுள்ளது. சங்கத்தின் திருப்பூர் மாநகர மாவட்டச் செயலாளர் ரமேஷ் பல்லடத்தில் இந்தத் தகவலைத் தெரிவித்தார். இதற்குத் தமிழக அரசின் அலட்சியமே காரணம் என சங்கம் கூறியுள்ளது.\nகூட்டுறவு சங்கச் செயலர்கள், அலுவலர்களுக்கு 3 ஆண்டுக்கு ஒருமுறை பணியிட மாறுதல் வழங்குவது வழக்கம்; ஆனால் அது முறையாகப் பின்பற்றப்படுவதில்லை. ஒரே சங்கத்தில் பல ஆண்டுகள் பணிபுரியும் சிலர் விவசாயிகளையும் பொதுமக்களையும் ஏமாற்றி முறைகேடுகளில் ஈடுபடுவதாகப் புகார்கள் எழுகின்றன.\n📌 கோரிக்கை: 3 ஆண்டுக்கு மேல் ஒரே இடத்தில் பணிபுரியும் செயலர், ஊழியர்களை மாவட்டம் விட்டு வேறு மாவட்டத்துக்கு உடனடியாக மாற்ற முதல்வர் உத்தரவிட வேண்டும்.\n\nCooperative societies irregularities, transfer demand | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "A group of farmers in shirts, veshti and sarees stands outside a cooperative credit society office in Palladam, Tiruppur district, listening as an association leader speaks to them. The office is a modest single-storey building with a plain front and a wooden door, in a small town street lined with a few two-wheelers and an autorickshaw parked at the kerb. Most of the people are seen from behind or at a distance, the leader gesturing with one hand while holding a folded paper. The surroundings show the typical Tiruppur town look: a few shops, a paved road, and coconut palms beyond the rooftops. Daylight, soft and even. Camera at eye level, 35 mm, wide enough to show the office front and the gathered group. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stack of thick cooperative society loan registers and paper files lying open on a wooden office counter, with a ballpoint pen resting across the pages. Behind the counter, the blurred figure of a clerk in a plain shirt sits at a desk, seen from behind and out of focus. Shelves of old files and bundled ledgers line the back wall of a small government-style office in a Tiruppur town. Natural daylight from a window falls across the papers, showing their worn edges. Camera slightly high, 35 mm, shallow depth of field keeping the papers sharp and the background soft. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/farmers-protection-union-complains-of-malpractices-in-cooperative-societies/4381825",
+   "published": "2026-11-20T21:06:56+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'பல்லடம்', e.g. 'பல்லடம்: ...' or 'பல்லடம்-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201229/tirupur360/jqae9ibxsiz8yibtwgpd.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201354/tirupur360/bdl3c7mqk2bnfixutj4f.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208031/tirupur360/qnzscywugxeihiqvpufu.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208075/tirupur360/hzauecgomtejs4wvn4oc.jpg"
    ]
   },
   {
-   "tamil_headline": "குறு, சிறு தொழில்களுக்கு 12 வார இலவச பயிற்சி திட்டம்",
-   "english_headline": "Free 12-week training programme 'Laghu Udyog Bharati' launched for micro, small and medium businesses in Tirupur",
-   "category": "Business & Prices",
-   "location": "Thirumurugan Poondi, Tirupur district",
+   "tamil_headline": "திருப்பூர் மாவட்டத்தில் 11 துணை தாசில்தார்கள் பணியிட மாற்றம்",
+   "english_headline": "11 deputy tahsildars transferred in Tirupur district revenue department by Collector Muthukumaran",
+   "category": "Government & Services",
+   "location": "பல்லடம், Tirupur district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தொழில் வளர்ச்சி",
-    "loc": "திருமுருகன்பூண்டி",
-    "hl1": "தொழில்களுக்கு 12 வார இலவச பயிற்சி",
-    "hl2": "ரூ.2 கோடி வரை வர்த்தகம்",
-    "slides": [
-     {
-      "title": "புதிய திட்டம்",
-      "lines": [
-       "லகு உத்யோக் பாரதி, வத்வானி பவுண்டேஷன் சார்பில் கருத்தரங்கு",
-       "திருமுருகன்பூண்டி டைடல் பார்க் வளாகத்தில் நடைபெற்றது",
-       "குறு, சிறு, நடுத்தர தொழில்களுக்கு வழிகாட்டுதல்"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்கலாம்?",
-      "lines": [
-       "ஆண்டுக்கு <b>ரூ.2 கோடி</b> வரை வர்த்தகம் செய்யும் நிறுவனங்கள்",
-       "முதல் மாதம் நிறுவன நிலை ஆய்வு செய்யப்படும்",
-       "தொடர்ந்து <b>5 மாதங்கள்</b> ஆலோசனைகள் வழங்கப்படும்"
-      ]
-     },
-     {
-      "title": "என்ன கிடைக்கும்?",
-      "lines": [
-       "புதிய வாடிக்கையாளர், நிதி வாய்ப்பு குறித்த வழிகாட்டுதல்",
-       "டிஜிட்டல் மயமாக்கல், செயற்கை நுண்ணறிவு பயிற்சி",
-       "ஓராண்டு காலம் நிறுவனங்களுடன் இணைந்து செயல்படும்"
-      ]
-     },
-     {
-      "title": "மாவட்டத் தலைவர்",
-      "lines": [
-       "12 வார வளர்ச்சித் திட்டம் இலவசமாக வழங்கப்படுகிறது",
-       "திருப்பூர் தொழில்முனைவோர் இந்த வாய்ப்பைப் பயன்படுத்த",
-       "மாவட்டத் தலைவர் ஸ்ரீதர் வேண்டுகோள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் குறு, சிறு தொழில்களுக்கு 12 வார இலவச பயிற்சி திட்டம் அறிமுகமாகியுள்ளது. இதனை லகு உத்யோக் பாரதி மற்றும் வத்வானி பவுண்டேஷன் சார்பில் நடத்தப்படும் கருத்தரங்கில் அறிவித்தனர். திருமுருகன்பூண்டி டைடல் பார்க் வளாகத்தில் நடைபெற்ற கருத்தரங்கில் லகு உத்யோக் பாரதி தேசிய இணைப் பொதுச் செயலாளர் மோகனசுந்தரம் சிறப்பு விருந்தினராகப் பங்கேற்றார். மாவட்டத் தலைவர் ஸ்ரீதர் தலைமை வகித்தார். ஆண்டுக்கு ரூ.2 கோடி வரை வர்த்தகம் செய்யும் தகுதியான நிறுவனங்கள் இத்திட்டத்தில் பங்கேற்கலாம். முதல் மாதத்தில் நிறுவனங்களின் தற்போதைய நிலை ஆய்வு செய்யப்படும். தொடர்ந்து 5 மாதங்களுக்கு வர்த்தக விரிவாக்கம், புதிய வாடிக்கையாளர்கள், நிதி வாய்ப்புகள் குறித்து ஆலோசனைகள் வழங்கப்படும். டிஜிட்டல் மயமாக்கல், செயற்கை நுண்ணறிவு தொழில்நுட்பப் பயன்பாட்டுக்கும் வழிகாட்டுதல் வழங்கப்படும். மேலும், ஓராண்டு காலம் நிறுவனங்களுடன் இணைந்து செயல்பட்டு வளர்ச்சிக்கான வழிகாட்டுதல் அளிக்கப்படும். திருப்பூர் தொழில்முனைவோர் இந்த வாய்ப்பைப் பயன்படுத்தி தங்கள் நிறுவனங்களை அடுத்த கட்டத்துக்கு எடுத்துச் செல்ல வேண்டும் என மாவட்டத் தலைவர் ஸ்ரீதர் கேட்டுக்கொண்டார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏭 திருப்பூர் தொழில்முனைவோருக்கு 12 வார இலவச பயிற்சி திட்டம் அறிமுகம்\n\n📰 முழு விவரம்:\nகுறு, சிறு மற்றும் நடுத்தர தொழில் நிறுவனங்களின் வர்த்தக வளர்ச்சிக்காக லகு உத்யோக் பாரதி மற்றும் வத்வானி பவுண்டேஷன் சார்பில் சிறப்புக் கருத்தரங்கு நடைபெற்றது. திருமுருகன்பூண்டி டைடல் பார்க் வளாகத்தில் நடைபெற்ற இக்கருத்தரங்கில் லகு உத்யோக் பாரதி தேசிய இணைப் பொதுச் செயலாளர் மோகனசுந்தரம் சிறப்பு விருந்தினராகப் பங்கேற்றார். மாவட்டத் தலைவர் ஸ்ரீதர் தலைமை வகித்தார்.\nஆண்டுக்கு ரூ.2 கோடி வரை வர்த்தகம் செய்யும் தகுதியான நிறுவனங்கள் இத்திட்டத்தில் பங்கேற்கலாம். முதல் மாதத்தில் நிறுவனத்தின் தற்போதைய நிலை ஆய்வு செய்யப்படும். தொடர்ந்து 5 மாதங்களுக்கு வர்த்தக விரிவாக்கம், புதிய வாடிக்கையாளர்கள், நிதி வாய்ப்புகள் குறித்து ஆலோசனைகள் வழங்கப்படும். ஓராண்டு காலம் நிறுவனங்களுடன் இணைந்து வளர்ச்சிக்கான வழிகாட்டுதலும் அளிக்கப்படும்.\n📍 இடம்: திருமுருகன்பூண்டி டைடல் பார்க் வளாகம், திருப்பூர் மாவட்டம்\n🎯 பயிற்சி: 12 வார வளர்ச்சித் திட்டம், இலவசம்\n🤖 பயிற்சி உள்ளடக்கம்: புதிய வாடிக்கையாளர், நிதி வாய்ப்பு, உற்பத்தித் திறன், டிஜிட்டல் மயமாக்கல், செயற்கை நுண்ணறிவு\nதகுதியான தொழில்முனைவோர் இந்த வாய்ப்பைப் பயன்படுத்திக்கொள்ளுங்கள்.\n\nFree 12-week business training for Tirupur MSMEs | Tirupur news\n📍 திருமுருகன்பூண்டி, திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A seminar in progress inside a modern business-park auditorium at the Tidel Park campus in Thirumurugan Poondi, Tirupur, as a guest speaker in a shirt and trousers addresses an audience. Seated at a long table at the front are the chief guest and the district president, and a coordinator stands at a podium beside a banner-free stage area. Rows of entrepreneurs, men in shirts and trousers and women in sarees and salwar, sit on chairs with notebooks on their laps, all photographed from behind or from a distance so no faces are visible. Some participants hold pens and folders, reflecting business owners listening to advice on growth, new customers and finance. The hall has clean white walls, ceiling lights and large windows showing daytime light and a clear sky over the campus. Captured at eye level from the back of the hall with a 35 mm lens, wide enough to show the full room, the stage and the seated audience. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neatly arranged table at the seminar in Tidel Park, Thirumurugan Poondi, with a stack of printed programme booklets, a few sheets of paper, a pen and a water bottle placed on a dark wooden surface. In the soft-focus background, the sleeve of a participant in a plain shirt rests on the chair, with a hand taking notes in a notebook, suggesting entrepreneurs noting plans for the 12-week training. Natural daylight from a window falls across the table, with no readable text on any document. Captured at eye level, 35 mm, close enough to show the printed booklets and notes clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/laghu-udyog-bharti-a-12-week-free-training-programme-for-micro-small-and-medium-enterprises-msmes-is-a-new-initiative/4381615",
-   "published": "2026-11-20T19:05:17+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருமுருகன்பூண்டி', e.g. 'திருமுருகன்பூண்டி: ...' or 'திருமுருகன்பூண்டி-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201391/tirupur360/qiyrk97ic5y1yxuo4nja.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201431/tirupur360/abykggix0bg6g2cmb2xt.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "டாஸ்மாக் முறைகேடு: திருப்பூரில் ஒப்பந்ததாரர் வீடு, அலுவலகங்களில் லஞ்ச ஒழிப்புத் துறை சோதனை",
-   "english_headline": "Tasmac irregularities: anti-corruption police raid a contractor's house and office in Tirupur, and a transport office in Avinashi",
-   "category": "Crime & Safety",
-   "location": "Tirupur city, Velampalayam, Sornapuri Layout, Poluvapatti; Avinashi, Tirupur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "லஞ்ச ஒழிப்பு சோதனை",
+    "cat": "அரசு உத்தரவு",
     "loc": "திருப்பூர் மாவட்டம்",
-    "hl1": "திருப்பூரில் டாஸ்மாக் முறைகேடு சோதனை",
-    "hl2": "ஆவணங்கள் கைப்பற்றப்பட்டன",
+    "hl1": "11 துணை தாசில்தார்கள் மாற்றம்",
+    "hl2": "கலெக்டர் உத்தரவு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "யார் உத்தரவு?",
       "lines": [
-       "முந்தைய தி.மு.க. ஆட்சியில் டாஸ்மாக் நிர்வாகத்தில் முறைகேடு",
-       "மது கொள்முதல், விற்பனை, சரக்கு போக்குவரத்தில் குற்றச்சாட்டு",
-       "லஞ்ச ஒழிப்புத் துறை போலீசார் விசாரணை நடத்துகின்றனர்"
+       "கலெக்டர் <b>முத்துக்குமரன்</b> உத்தரவு",
+       "வருவாய்த்துறையில் <b>11 பேர்</b> பணியிட மாற்றம்",
+       "நிர்வாக நலன் கருதி இந்த மாற்றம்"
       ]
      },
      {
-      "title": "எங்கே சோதனை?",
+      "title": "புதிய பணியிடங்கள்",
       "lines": [
-       "திருப்பூர், வேலம்பாளையம், சொர்ணபுரி லே அவுட்டில்",
-       "அவருக்குச் சொந்தமான பூலுவபட்டி அலுவலகம்",
-       "அவிநாசியில் ஒரு டிரான்ஸ்போர்ட் அலுவலகம்"
+       "அழகேசன்: கலெக்டர் அலுவலக தேர்தல் துணை தாசில்தார்",
+       "வனிதா, வினோத்குமார்: அமராவதி சர்க்கரை ஆலை, திருப்பூர்",
+       "செந்தில்பிரபு: பல்லடம் துணை தாசில்தார்"
       ]
      },
      {
-      "title": "எப்போது?",
+      "title": "மேலும் மாற்றங்கள்",
       "lines": [
-       "நேற்று காலை தொடங்கிய சோதனை மாலை வரை நடந்தது",
-       "தமிழகம் முழுவதும் பல மாவட்டங்களில் ஒரே நேரத்தில் சோதனை",
-       "திருப்பூர் லஞ்ச ஒழிப்புத் துறை, சென்னைக் குழு ஈடுபட்டது"
+       "ராதா: தாராபுரம் மண்டல துணை தாசில்தார்",
+       "சாந்தி: பல்லடம் வட்ட வழங்கல் அலுவலர்",
+       "கிருஷ்ணவேணி: தாராபுரம் ஆர்.டி.ஓ. அலுவலகம்"
       ]
      },
      {
-      "title": "கைப்பற்றியது",
+      "title": "எச்சரிக்கை",
       "lines": [
-       "சோதனையில் பல்வேறு ஆவணங்களைப் போலீசார் கைப்பற்றினர்",
-       "விசாரணை பல கோணங்களில் தொடர்கிறது"
+       "உடனடியாக புதிய இடங்களில் பணியில் இணைய வேண்டும்",
+       "மாற்றம் குறித்து கோரிக்கைகளும் மேல்முறையீடுகளும் ஏற்கப்படாது",
+       "கலெக்டர் கடுமையாக எச்சரித்துள்ளார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "டாஸ்மாக் முறைகேடு தொடர்பாக திருப்பூரில் லஞ்ச ஒழிப்புத் துறை போலீசார் சோதனை நடத்தினர். முந்தைய தி மு க ஆட்சியின் போது டாஸ்மாக் நிர்வாகத்தில் மது கொள்முதல், மது விற்பனை, சரக்கு போக்குவரத்து உள்ளிட்ட பல நடவடிக்கைகளில் முறைகேடு நடந்ததாகக் குற்றச்சாட்டு உள்ளது. இது குறித்து தமிழக லஞ்ச ஒழிப்புத் துறை போலீசார் விசாரணை நடத்தி வருகின்றனர். விசாரணையின் ஒரு கட்டமாக நேற்று தமிழகம் முழுவதும் பல மாவட்டங்களில் போலீசார் ஒரே நேரத்தில் திடீர் சோதனை மேற்கொண்டனர். திருப்பூர், வேலம்பாளையம், சொர்ணபுரி லே அவுட்டில் ஒரு ஒப்பந்ததாரர் வீட்டிலும், அவருக்குச் சொந்தமான பூலுவபட்டியில் உள்ள அலுவலகத்திலும் சோதனை நடந்தது. அவிநாசியில் ஒரு டிரான்ஸ்போர்ட் அலுவலகத்திலும் சோதனை நடந்தது. திருப்பூர் மாவட்ட லஞ்ச ஒழிப்புத் துறை போலீசாரும், சென்னையிலிருந்து வந்த குழுவினரும் இந்த சோதனையில் ஈடுபட்டனர். நேற்று காலை தொடங்கிய சோதனை மாலை வரை நடந்தது. சோதனையின் போது பல்வேறு ஆவணங்களை போலீசார் கைப்பற்றினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருப்பூரில் டாஸ்மாக் முறைகேடு: ஒப்பந்ததாரர் வீடு, அலுவலகங்களில் லஞ்ச ஒழிப்புச் சோதனை\n\n📰 முழு விவரம்:\nமுந்தைய தி.மு.க. ஆட்சியின் போது டாஸ்மாக் நிர்வாகத்தில் மது கொள்முதல், மது விற்பனை, சரக்கு போக்குவரத்து உள்ளிட்ட பல நடவடிக்கைகளில் முறைகேடு நடந்ததாகக் குற்றச்சாட்டு உள்ளது. இது குறித்து தமிழக லஞ்ச ஒழிப்புத் துறை போலீசார் பல கோணங்களில் விசாரணை நடத்தி வருகின்றனர்.\nவிசாரணையின் ஒரு கட்டமாக நேற்று தமிழகம் முழுவதும் பல மாவட்டங்களில் போலீசார் ஒரே நேரத்தில் திடீர் சோதனை மேற்கொண்டனர்.\n📍 இடங்கள்: திருப்பூர், வேலம்பாளையம், சொர்ணபுரி லே அவுட்டில் ஒப்பந்ததாரர் வீடு; அவருக்குச் சொந்தமான பூலுவபட்டி அலுவலகம்; அவிநாசியில் ஒரு டிரான்ஸ்போர்ட் அலுவலகம்\n🕘 நேரம்: நேற்று காலை தொடங்கிய சோதனை மாலை வரை நடந்தது\n👮 நடவடிக்கை: திருப்பூர் மாவட்ட லஞ்ச ஒழிப்புத் துறை போலீசாரும், சென்னையிலிருந்து வந்த குழுவினரும் சோதனையில் ஈடுபட்டனர்; பல்வேறு ஆவணங்கள் கைப்பற்றப்பட்டன.\n\nTasmac irregularities raid in Tirupur | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "Police officers in khaki uniform carry bundles of seized files and documents out of a two-storey residential house in Velampalayam, Tirupur, during an anti-corruption raid connected to Tasmac irregularities. Tamil Nadu Lanjam Olippu police, some in khaki and some in plain clothes, stand at the gate of a modest concrete house on a quiet residential street with compound walls, a few two-wheelers parked along the lane and a row of small shops nearby. Officers are seen from behind and at a distance, their faces not visible. A police vehicle is parked at the roadside. The time is daylight, late morning, with clear sunshine casting short shadows. Shot at eye level with a 35 mm lens wide enough to show the house and the street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stack of official papers and bound documents, the seized records of the Tasmac probe, laid out on a plain table in a contractor's office in Poluvapatti, Tirupur. Several cardboard files and loose sheets are piled next to a khaki police bag and a notebook, with a plastic chair and a metal almirah visible in the background. A gloved hand in khaki sleeve rests on the pile, no faces shown. Daylight from a window falls across the paper, showing an office environment with a fan and a wall calendar blurred out of focus. Shot close with shallow depth of field at a slightly high angle, 35 mm. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/tasmac-scam-searches-in-tiruppur/4381943",
-   "published": "2026-11-20T22:42:42+05:30",
+   "reel_script": "திருப்பூர் மாவட்ட வருவாய்த்துறையில் 11 துணை தாசில்தார்கள் பணியிட மாற்றம் செய்யப்பட்டுள்ளனர். கலெக்டர் முத்துக்குமரன் இந்த உத்தரவை பிறப்பித்துள்ளார். நீதித்துறை பயிற்சி முடித்து பணியில் சேர்ந்த அழகேசன், கலெக்டர் அலுவலக தேர்தல் துணை தாசில்தார் பொறுப்புக்கு மாற்றப்பட்டுள்ளார். அருள்குமார், காங்கயம் கிடங்கின் உதவி மேலாளராக நியமிக்கப்பட்டுள்ளார். வனிதா, அமராவதி சர்க்கரை ஆலைக்கு மாற்றப்பட்டுள்ளார். வினோத்குமார், திருப்பூர் வருவாய் கோட்டாட்சியர் மகளிர் உரிமைத்தொகை பிரிவுக்கு மாறுதல் செய்யப்பட்டுள்ளார். நீதித்துறை பயிற்சி முடித்து திரும்பிய செந்தில்பிரபு, பல்லடம் தலைமையிடத்து துணை தாசில்தாராக நியமிக்கப்பட்டுள்ளார். ராதா, தாராபுரம் மண்டல துணை தாசில்தார் பொறுப்பை ஏற்றுள்ளார். தேன்மொழி, கலெக்டர் அலுவலக சமூக பாதுகாப்புத் திட்ட தலைமை உதவியாளராக மாற்றப்பட்டுள்ளார். செந்தில்நாதன், அமராவதி சர்க்கரை ஆலைக்கு மாறுதல் பெற்றுள்ளார். சாந்தி, பல்லடம் வட்ட வழங்கல் அலுவலராக நியமிக்கப்பட்டுள்ளார். பிரேமலதா, கலெக்டர் அலுவலக வரவேற்புப் பிரிவுக்கு மாற்றப்பட்டுள்ளார். கிருஷ்ணவேணி, தாராபுரம் வருவாய் கோட்டாட்சியர் அலுவலகத்துக்கு மாறுதல் பெற்றுள்ளார். துணை தாசில்தார்கள் அனைவரும் புதிய இடங்களில் உடனடியாக பணியில் சேர வேண்டும். இந்த நிர்வாக மாற்றம் குறித்து எந்தக் கோரிக்கைகளும் மேல்முறையீடுகளும் ஏற்றுக்கொள்ளப்பட மாட்டாது என கலெக்டர் எச்சரித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ திருப்பூர் மாவட்டத்தில் 11 துணை தாசில்தார்கள் பணியிட மாற்றம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்ட வருவாய்த்துறையில் 11 துணை தாசில்தார்களை பணியிட மாற்றம் செய்து கலெக்டர் முத்துக்குமரன் உத்தரவிட்டுள்ளார். நீதித்துறை பயிற்சி முடித்து பணியில் சேர்ந்துள்ள அழகேசன், கலெக்டர் அலுவலக தேர்தல் துணை தாசில்தார் – 1 ஆக மாற்றப்பட்டுள்ளார். அருள்குமார், காங்கயம் கிடங்கின் உதவி மேலாளராக நியமிக்கப்பட்டுள்ளார். வனிதா, அமராவதி சர்க்கரை ஆலைக்கும், அங்கு பணிபுரிந்த வினோத்குமார், திருப்பூர் ஆர்.டி.ஓ. மகளிர் உரிமைத்தொகை பிரிவுக்கும் மாறுதல் செய்யப்பட்டுள்ளனர். நீதித்துறை பயிற்சி முடித்து திரும்பிய செந்தில்பிரபு, பல்லடம் தலைமையிடத்து துணை தாசில்தாராக நியமிக்கப்பட்டுள்ளார். ராதா, தாராபுரம் மண்டல துணை தாசில்தார் – 2 ஆக நியமிக்கப்பட்டுள்ளார். தேன்மொழி, கலெக்டர் அலுவலக சமூக பாதுகாப்புத் திட்ட தலைமை உதவியாளராகவும், செந்தில்நாதன் அமராவதி சர்க்கரை ஆலைக்கும் மாறுதல் பெற்றுள்ளனர். சாந்தி, பல்லடம் வட்ட வழங்கல் அலுவலராகவும், பிரேமலதா கலெக்டர் அலுவலக வரவேற்புப் பிரிவுக்கும், கிருஷ்ணவேணி தாராபுரம் ஆர்.டி.ஓ. அலுவலகத்துக்கும் பணியிட மாறுதல் செய்யப்பட்டுள்ளனர். துணை தாசில்தார்கள் உடனடியாக புதிய இடங்களில் பணியில் இணைய வேண்டும். நிர்வாக நலன் கருதி மேற்கொள்ளப்பட்ட இந்த மாற்றம் குறித்து எவ்வித கோரிக்கைகளும் மேல்முறையீடுகளும் ஏற்கப்படாது என கலெக்டர் எச்சரித்துள்ளார்.\n\nTirupur 11 deputy tahsildars transferred by Collector | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A row of government officials in plain shirts and sarees sits in a revenue department hall in Tirupur city, with a clerk handing over a stack of transfer orders on a wooden table. Behind them stand tall steel almirahs filled with official files, and a long government wall calendar hangs above. The officials are seen from behind or far away, with no faces visible, and eleven of them are gathered near the desk as the orders are distributed. Fluorescent tube lights make the hall bright, as it is a weekday daytime office scene. The camera is at eye level, shot on a 35 mm lens, wide enough to show the whole office room and the group of officials. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official transfer orders lying on a government office desk in a Tirupur revenue department room. The top sheets are blank and unreadable, with no legible text, numbers or signatures, and a black government rubber stamp pad sits beside a steel pen holder. Beside the papers rests a pile of thick official case files tied with red tape. Soft daylight from a window falls across the desk, showing the paper texture and the worn wooden surface. The camera is slightly high, at a 35 mm lens distance, focusing on the papers and the desk objects in the foreground. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/11-sub-divisional-magistrate-transferred/4381869",
+   "published": "2026-11-20T21:26:56+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201439/tirupur360/xmo1vojxm4zejhtderqn.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795201455/tirupur360/mwjth6x8dwpf9hczgsev.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208088/tirupur360/q9xh8er4zt4afjwwtelb.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208126/tirupur360/ivw51ukv7omjsm9uog4b.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தொழிலாளர் கோரிக்கைகளை உடனடியாக நிறைவேற்ற பனியன் சங்கங்கள் வலியுறுத்தல்",
+   "english_headline": "Tirupur banian unions urge immediate fulfilment of workers' demands; protest planned after 10 December",
+   "category": "Government & Services",
+   "location": "Tirupur city, Tirupur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "தொழிலாளர் நலன்",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூர் கோரிக்கைகள் உடனடியாக",
+    "hl2": "டிசம்பர் 10க்கு பின்",
+    "slides": [
+     {
+      "title": "என்ன கோரிக்கை?",
+      "lines": [
+       "ஒப்பந்த சம்பளம், ஓவர்டைம், டீ பேட்டா வழங்க வேண்டும்",
+       "7 மாதங்களாகியும் பல நிறுவனங்கள் வழங்கவில்லை",
+       "அனைத்து உற்பத்தியாளர்களும் ஒப்பந்தத்தை அமல்படுத்த வேண்டும்"
+      ]
+     },
+     {
+      "title": "விலைவாசி, சட்டம்",
+      "lines": [
+       "அத்தியாவசியப் பொருள் விலை பல மடங்கு உயர்ந்துள்ளது",
+       "தொழிற்சாலை, தொழிலாளர் சட்டங்கள் முழுமையாக",
+       "தொழிலாளர் துறை நடவடிக்கை எடுக்க வேண்டும்"
+      ]
+     },
+     {
+      "title": "வீட்டு வசதி",
+      "lines": [
+       "ரூ.25,000 ஊதிய உச்சவரம்பில் வருங்கால வைப்பு நிதி பிடித்தம்",
+       "தொழிலாளர்களுக்கு அடுக்குமாடி குடியிருப்பு கட்ட சிறப்பு நிதி",
+       "டிசம்பர் 10ஆம் தேதிக்கு பின் போராட்டம் நடத்த முடிவு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் தொழிலாளர் கோரிக்கைகளை உடனடியாக நிறைவேற்ற வேண்டும் என்று அனைத்து பனியன் தொழிற்சங்கங்கள் வலியுறுத்தியுள்ளன. திருப்பூர் மாவட்ட அனைத்து பனியன் தொழிற்சங்கங்களின் கூட்டம் வியாழக்கிழமை ஏஐடியூசி பனியன் சங்க அலுவலகத்தில் நடைபெற்றது. பனியன் பேக்டரி லேபர் யூனியன் பொதுச் செயலாளர் என் சேகர் தலைமையில் இந்தக் கூட்டம் நடந்தது. ஒப்பந்தம் ஏற்பட்டு 7 மாதங்கள் ஆகியும், பல நிறுவனங்கள் ஒப்பந்த சம்பளம், ஓவர்டைம், டீ பேட்டா வழங்கவில்லை. அனைத்து உற்பத்தியாளர்களும் ஒப்பந்தங்களை முழுமையாக அமல்படுத்த வேண்டும் என்று தொழிற்சங்கங்கள் கேட்டுக்கொண்டன. தேர்தல் காலத்தில் கொடுக்கப்பட்ட தொழிலாளர் கோரிக்கைகளை காலம் தாழ்த்தாமல் நிறைவேற்ற வேண்டும் என்றும் வலியுறுத்தப்பட்டது. அத்தியாவசியப் பொருட்களின் விலை பல மடங்கு உயர்ந்துள்ளதால் மக்கள் வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளது. விலைவாசியைக் கட்டுப்படுத்த மத்திய, மாநில அரசுகள் நடவடிக்கை எடுக்க வேண்டும். பனியன் தொழிற்சாலைகளில் தொழிற்சாலை சட்டம், தொழிலாளர் நலச் சட்டங்கள் முழுமையாக அமல்படுத்தப்படவில்லை. தொழிலாளர் துறை அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்று பலமுறை கடிதம் கொடுத்தும் போதிய நடவடிக்கை இல்லை. ரூ.25,000 ஊதிய உச்சவரம்பில் வருங்கால வைப்பு நிதி பிடித்தம் அனைத்துத் தொழிலாளர்களுக்கும் உறுதிசெய்யப்பட வேண்டும். தொழிலாளர்களுக்கு அடுக்குமாடி குடியிருப்பு கட்ட மத்திய, மாநில அரசுகள் சிறப்பு நிதி ஒதுக்க வேண்டும். இந்தக் கோரிக்கைகளை வலியுறுத்தி டிசம்பர் 10ஆம் தேதிக்குப் பின் போராட்டம் நடத்த முடிவு செய்யப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "✊ திருப்பூர்: தொழிலாளர் கோரிக்கைகளை உடனடியாக நிறைவேற்ற வலியுறுத்தல்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்ட அனைத்து பனியன் தொழிற்சங்கங்களின் கூட்டம் வியாழக்கிழமை ஏஐடியூசி பனியன் சங்க அலுவலகத்தில் நடைபெற்றது. பனியன் பேக்டரி லேபர் யூனியன் பொதுச் செயலாளர் என். சேகர் தலைமையில் இந்தக் கூட்டம் நடந்தது.\nஒப்பந்தம் ஏற்பட்டு 7 மாதங்கள் ஆகியும், பல நிறுவனங்கள் ஒப்பந்த சம்பளம், ஓவர்டைம், டீ பேட்டா வழங்கவில்லை. அனைத்து உற்பத்தியாளர்களும் ஒப்பந்தங்களை முழுமையாக அமல்படுத்த வேண்டும்.\nஅத்தியாவசியப் பொருட்களின் விலை பல மடங்கு உயர்ந்துள்ளதால் மக்கள் வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளது. விலைவாசியைக் கட்டுப்படுத்த மத்திய, மாநில அரசுகள் நடவடிக்கை எடுக்க வேண்டும்.\nதொழிற்சாலை, தொழிலாளர் நலச் சட்டங்களை முழுமையாக அமல்படுத்த தொழிலாளர் துறை அதிகாரிகளுக்கு கோரிக்கை.\nரூ.25,000 ஊதிய உச்சவரம்பில் அனைத்துத் தொழிலாளர்களுக்கும் வருங்கால வைப்பு நிதி பிடித்தம் உறுதிசெய்யப்பட வேண்டும்.\nதொழிலாளர்களுக்கு அடுக்குமாடி குடியிருப்பு கட்ட சிறப்பு நிதி ஒதுக்கக் கோரிக்கை.\n📢 இந்தக் கோரிக்கைகளை வலியுறுத்தி டிசம்பர் 10ஆம் தேதிக்குப் பின் போராட்டம் நடத்த முடிவு.\n\nTirupur banian unions demand workers' rights | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Workers",
+   "prompts": "A group of trade union leaders sits on a row of plastic chairs and a long table in a plain union office hall in Tirupur city, with a few union flags leaning on the wall behind them. Around ten men in shirts and veshti or trousers hold typed resolution papers and talk among themselves, one man at the head of the table stands to speak, while a few garment workers in simple shirts sit at the back. Their faces are turned away or softly blurred, and the room has a ceiling fan, a whiteboard and stacked files on a shelf. Daytime on a Thursday, soft natural light coming through the windows, with a glimpse of a busy Tirupur street outside. The camera is at eye level, shot at 35 mm, wide enough to show the whole room and the people around the table. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of typed resolution papers and a file folder lying on a wooden table in a Tirupur union office, with a pen laid across the top sheet and a few worn union flags blurred in the background. Beside the papers sits a plain water bottle and a microphone resting on the table. The light is soft daytime window light and the focus is on the printed pages, with the hands of an unseen union leader just entering the frame at the edge. No readable text is visible. The camera is slightly high at 35 mm, close enough to make the papers the clear subject of the picture. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/demand-for-the-immediate-fulfillment-of-requests-concerning-the-welfare-of-workers",
+   "published": "2026-11-20T18:34:00.000Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208158/tirupur360/n2pdvvt9you0xfdyjb51.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208164/tirupur360/ijofvqwvubanhfpvnp6w.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர் செல்லம்மாள் காலனி பள்ளியில் 45 மாணவர்களுக்கு ஆங்கில அகராதிகள் வழங்கல்",
+   "english_headline": "45 students of Chellammal Colony corporation primary school in Tirupur receive English dictionaries worth Rs 30,000",
+   "category": "Education",
+   "location": "Chellammal Colony, Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி உதவி",
+    "loc": "செல்லம்மாள் காலனி, திருப்பூர்",
+    "hl1": "செல்லம்மாள் காலனியில் அகராதி வழங்கல்",
+    "hl2": "45 மாணவர்களுக்கு ரூ.30,000",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "45 மாணவர்களுக்கு ஆங்கில அகராதிகள் வழங்கப்பட்டன",
+       "மொத்த மதிப்பு <b>ரூ.30,000</b>",
+       "திருப்பூர் செல்லம்மாள் காலனி மாநகராட்சி தொடக்கப் பள்ளியில்"
+      ]
+     },
+     {
+      "title": "யார்",
+      "lines": [
+       "லட்சுமி கார்மெண்ட்ஸ் உரிமையாளர்கள் சுப்பிரமணி, சிவக்குமார்",
+       "ஒவ்வொரு அகராதியும் <b>ரூ.740</b> மதிப்பு",
+       "இலவசமாக வழங்கப்பட்டன"
+      ]
+     },
+     {
+      "title": "சிறப்பு",
+      "lines": [
+       "திருப்பூர் மாநகர காவல் உதவி ஆணையர் கணேஷ் பங்கேற்பு",
+       "தினமும் 5 ஆங்கிலச் சொற்கள் கற்றால் ஆண்டுக்கு <b>1,500 சொற்கள்</b>",
+       "அகராதியைப் பார்த்துப் பொருள் அறிவது பயனுள்ளது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் 45 மாணவர்களுக்கு ரூ.30,000 மதிப்பில் ஆங்கில அகராதிகள் இலவசமாக வழங்கப்பட்டன. திருப்பூர் செல்லம்மாள் காலனி மாநகராட்சித் தொடக்கப் பள்ளியில் இந்நிகழ்வு நடைபெற்றது. பள்ளித் தலைமை ஆசிரியர் வே நாகராஜ் கணேஷ்குமார் தலைமை வகித்தார். லட்சுமி கார்மெண்ட்ஸ் உரிமையாளர்கள் சுப்பிரமணி, சிவக்குமார் ஆகியோர் ஒவ்வொரு அகராதியையும் ரூ.740 மதிப்பில் வழங்கினர். சிறப்பு விருந்தினராகத் திருப்பூர் மாநகர காவல் உதவி ஆணையர் கணேஷ் கலந்துகொண்டார். தினமும் 5 ஆங்கிலச் சொற்களைக் கற்றால் ஆண்டுக்கு 1,500 சொற்களை அறியலாம் என்று அவர் கூறினார். சிறு வயதிலிருந்தே அகராதியைப் பார்த்துப் பொருள் தெரிந்துகொள்வது பயனுள்ளது என்றார். விழாவில் 24ஆவது வார்டு மாமன்ற உறுப்பினர் நாகராஜ், பெற்றோர் ஆசிரியர் கழகத் தலைவர் பொன்.பழனிச்சாமி, பொருளாளர் நாகராஜ், பள்ளி மேலாண்மைக் குழுத் தலைவர் பாண்டிமீனா ஆகியோரும் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📚 திருப்பூர் செல்லம்மாள் காலனியில் 45 மாணவர்களுக்கு ஆங்கில அகராதிகள் வழங்கல்\n\n📰 முழு விவரம்:\nதிருப்பூர் செல்லம்மாள் காலனி மாநகராட்சித் தொடக்கப் பள்ளியில் பயிலும் 45 மாணவர்களுக்கு ரூ.30,000 மதிப்பில் ஆங்கில அகராதிகள் வழங்கப்பட்டன. லட்சுமி கார்மெண்ட்ஸ் உரிமையாளர்கள் சுப்பிரமணி, சிவக்குமார் ஆகியோர் ஒவ்வொரு அகராதியையும் ரூ.740 மதிப்பில் இலவசமாக வழங்கினர். பள்ளித் தலைமை ஆசிரியர் வே.நாகராஜ் கணேஷ்குமார் தலைமை வகித்தார். சிறப்பு விருந்தினராகக் கலந்துகொண்ட திருப்பூர் மாநகர காவல் உதவி ஆணையர் கணேஷ், தினமும் 5 ஆங்கிலச் சொற்களைக் கற்பதன் மூலம் ஆண்டுக்கு 1,500 சொற்களைக் கற்கலாம் என்றார்.\n📍 இடம்: செல்லம்மாள் காலனி மாநகராட்சித் தொடக்கப் பள்ளி, திருப்பூர்\n👥 பங்கேற்றோர்: 24ஆவது வார்டு மாமன்ற உறுப்பினர் நாகராஜ், பெற்றோர் ஆசிரியர் கழகத் தலைவர் பொன்.பழனிச்சாமி, பொருளாளர் நாகராஜ், பள்ளி மேலாண்மைக் குழுத் தலைவர் பாண்டிமீனா\n\nTirupur 45 students get English dictionaries | Tirupur news\n📍 செல்லம்மாள் காலனி, திருப்பூர் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "Schoolchildren in Tamil Nadu school uniform sit in neat rows on the floor of a corporation primary school hall in Chellammal Colony, Tirupur, while a uniformed police assistant commissioner in khaki and two garment-factory owners in shirts stand near a table stacked with English dictionaries, handing a book to a student. Seen from behind the rows of children, the hall is plain, with whitewashed walls, a few ceiling fans, and a small wooden stage at the front. A teacher and a headmaster in formal shirts stand at the side, and several parents and councillors watch from the back. The stack of new dictionaries on the table is the clear focus of the event. The light is bright daytime light from windows along the side wall, with the scene looking calm and orderly. Camera at eye level or slightly high, 35 mm, wide enough to show the full hall, the children, the table and the stage, with no readable text or signboards visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of new English dictionaries, their hardback covers in plain colours, placed on a white-clothed table in a school hall in Chellammal Colony, Tirupur. Beside the stack, a child's hand in a school-uniform sleeve reaches out to take one book, while a sleeve in a garment-factory shirt rests on the table edge, seen only partially. Behind the table, a few students in Tamil Nadu school uniform sit blurred in the background, and the edge of a khaki uniform is visible at the far side. The school hall has plain walls and a ceiling fan above. Bright daylight from the windows lights the table. Camera at a slightly high angle, 35 mm, shallow depth of field, focused on the dictionaries and the hand, with no readable text, names, logos or faces. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/english-dictionaries-for-government-school-students",
+   "published": "2026-11-20T20:43:00.000Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 30 ('30 ஆயிரம் மதிப்பில் ஆங்கில அகராதிகள் வழங்கப்பட்டன..இந்நிகழ்வ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208175/tirupur360/ejyfp095dbensryzpcf3.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795208181/tirupur360/cowq0ks9zhjdvsu2zy2a.jpg"
    ]
   }
  ]
