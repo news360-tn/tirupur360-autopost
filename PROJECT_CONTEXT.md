@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-20 | `a6a2992` | Fix: reels again made with reel4 (config reel_design back to v4) |
+| 2026-11-20 | `6ee5b7b` | pick: picked news saved |
+| 2026-11-20 | `6a43320` | pick: picked news saved |
+| 2026-11-20 | `624db69` | pick: list sent |
 | 2026-11-20 | `ea8dc02` | News reels: one design on every page - the earlier, proven design with the source and date shown clearly |
 | 2026-11-20 | `ea901e0` | Writer: the opening headline (hl1) is always a complete phrase |
 | 2026-11-20 | `eafe1c5` | News reels: the design team's design (Tamil) with the 360 clock branding on every page |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `fd4059c` | pick: picked news saved |
 | 2026-11-20 | `0426153` | pick: picked news saved |
 | 2026-11-20 | `81911c1` | pick: list sent |
-| 2026-11-20 | `827c881` | Reel length back to the full news (at most 90 s, 70-160 words); captions always fit Instagram's 2,200 |
-| 2026-11-20 | `6708124` | rasipalan posted |
-| 2026-11-19 | `665f6d5` | pick: written and posted |
-| 2026-11-19 | `1d20e25` | pick: picked news saved |
 <!-- recent-changes:end -->
