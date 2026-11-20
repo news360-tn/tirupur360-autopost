@@ -1429,3 +1429,189 @@ filed: 1 Tirupur district stories (target 3), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":1,"updated":2} 
 stories: 1
+writing [N]: நாளைய மின்தடை: கானூா்புதூா்
+writing [N]: நாளைய மின்தடை: முத்தூா்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (7s)
+attempt 1 groq/openai/gpt-oss-120b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+ok groq/qwen/qwen3.8-27b (3s)
+attempt 1 groq/qwen/qwen3.8-27b: 43 problems
+  reel_script must end with exactly: மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption must contain the exact follow line
+  numbers not found in the article: 14
+  not grounded: location 'திருப்பூா்' is not in the article
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா் ப»
+  stray Tamil sign '்' after 'ா' in «ுத்தூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா் ப»
+  stray Tamil sign '்' after 'ா' in «ுத்தூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா் த»
+  stray Tamil sign '்' after 'ா' in «ுத்தூா் து»
+  stray Tamil sign '்' after 'ா' in «றியாளா் டி»
+  stray Tamil sign 'ா' after 'ா' in «துள்ளாா். »
+  stray Tamil sign '்' after 'ா' in «ுள்ளாா். ம»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ுத்தூா், வ»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ுத்தூா், ம»
+  stray Tamil sign 'ா' after 'ீ' in « தண்ணீா்பந»
+  stray Tamil sign '்' after 'ா' in «தண்ணீா்பந்»
+  stray Tamil sign 'ா' after 'ூ' in «ருப்பூா் த»
+  stray Tamil sign '்' after 'ா' in «ுப்பூா் த்»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா் ப»
+  stray Tamil sign '்' after 'ா' in «ுத்தூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா் த»
+  stray Tamil sign '்' after 'ா' in «ுத்தூா் து»
+  stray Tamil sign '்' after 'ா' in «றியாளா் டி»
+  stray Tamil sign 'ா' after 'ா' in «டுள்ளாா். »
+  stray Tamil sign '்' after 'ா' in «ுள்ளாா். ம»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ுத்தூா், வ»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ுத்தூா், ம»
+  stray Tamil sign 'ா' after 'ீ' in « தண்ணீா்பந»
+  stray Tamil sign '்' after 'ா' in «தண்ணீா்பந்»
+  stray Tamil sign 'ா' after 'ூ' in «முத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ுத்தூா், த»
+  stray Tamil sign 'ா' after 'ூ' in «ருப்பூா் ம»
+  stray Tamil sign '்' after 'ா' in «ுப்பூா் மா»
+  stray Tamil sign 'ா' after 'ூ' in «
+உள்ளூா் ச»
+  stray Tamil sign '்' after 'ா' in «உள்ளூா் செ»
+  stray Tamil sign 'ா' after 'ூ' in «ருப்பூா்»
+  stray Tamil sign '்' after 'ா' in «ுப்பூா்»
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-1
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has numbers without their meaning (14); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  numbers not found in the article: 14
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'முத்தூர்' and the news itself, e.g. 'முத்தூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 7
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 2 problems
+  Caption includes the year '2026' in the date line, which is not mentioned in the article.
+  Reel script and slides include advice to prepare mobile charges and water in advance, which is not present in the article.
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  fact-check: Caption includes the year '2026' in the date line, which is not mentioned in the article.
+  fact-check: Reel script and slides include advice to prepare mobile charges and water in advance, which is not present in the article.
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 0 problems
+claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 7
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (5 problems)
+  slide 2 line 1 longer than 60 characters
+  slide 2 line 3 longer than 60 characters
+  sentence 1 (one-line story) has 22 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption must contain the exact follow line
+  numbers not found in the article: 7
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (1s)
+ok anthropic/claude-haiku-5-5
+real photo skipped (photo uploaded 2026-01-31 (older than the news)): https://media.dinamani.com/dinamani/2026-01-31/t14nmocl/%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%
+real photo skipped (photo uploaded 2026-01-31 (older than the news)): https://media.dinamani.com/dinamani/2026-01-31/t14nmocl/மின்தடை?w=1200&h=675&auto=format%2
+imagegen: cloudflare black-forest-labs/flux-1-schnell 429: {"errors":[{"message":"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like 
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Power cut tomorrow in Muthur area from 9'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261120-2200","first":"RN-170"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/நாளைய-மின்தடை-கானூா்புதூா்
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%BE%E0%AF%8D-2
+candidate filter: collected=2
+to write: 2 Tirupur district candidates (max 2 stories)
+round: top 2 of 2 candidates
+candidates waiting: 2 Tirupur; time left 39 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir
+NOT filed (N) நாளைய மின்தடை: கானூா்புதூா்: duplicate after write
+auto images: 1 of 1 stories ({'pollinations': 1})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 1}, time left 38 min
+filed: 1 Tirupur district stories (target 2), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":0,"updated":2} 
+stories: 1
