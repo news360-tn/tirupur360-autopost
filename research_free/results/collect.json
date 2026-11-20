@@ -3,10 +3,10 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/basic-people-suffer-in-thavipu-vetrivelnagar-due-to-lack-of-facilities/4381378",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/copra-auction-at-mall/4381494",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sri-talakondamman-temple-kumbabisaram/4381460",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/department-of-posts-grievance-meeting-on-dec-4/4380793",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/mangalam-road-crash-one-killed-several-injured/4381808",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/will-the-bamboo-forest-where-the-lease-of-the-municipal-bamboo-park-was-cancelled-get-a-spring-break-again/4381612",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/missing-woman-s-body-found-in-pond/4381738",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nurse-post-notification-by-collector/4381616",
   "candidate filter: collected=4",
   "to write: 4 Tirupur district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
@@ -14,85 +14,81 @@
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "NOT filed (N) டிச. 4ல் தபால் துறை குறைகேட்பு கூட்டம்: not Tirupur district news (the story's first lines name another place and no Tirupur place)",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 77 min",
-  "filed: 3 Tirupur district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'pollinations': 3})",
+  "auto images: 1 of 1 stories ({'pollinations': 5})",
+  "auto images: 1 of 1 stories ({'pollinations': 7})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 74 min",
+  "filed: 4 Tirupur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok gemini/gemini-3.6-flash (44s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -101,196 +97,254 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "உடுமலை விற்பனை கூடத்தில் கொப்பரை ஏலம்: அதிகபட்சமாக கிலோ ரூ.157.60-க்கு விற்பனை",
-   "english_headline": "Copra auction at Udumalaipettai Regulated Market: highest price reaches Rs 157.60 per kg under e-NAM scheme",
-   "category": "Business & Prices",
-   "location": "Udumalaipettai, Tirupur district",
+   "tamil_headline": "மூங்கில் பூங்கா குத்தகை ரத்து: பராமரிப்பு இன்றி வாடிய மூங்கில் வனம்",
+   "english_headline": "Tirupur corporation cancels Bamboo Park lease after neglect; park to be taken over by the corporation",
+   "category": "Civic Issues",
+   "location": "Iduvai, Tirupur city, Tirupur district",
    "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மாநகராட்சி நடவடிக்கை",
+    "loc": "இடுவாய், திருப்பூர்",
+    "hl1": "இடுவாய் மூங்கில் பூங்கா குத்தகை ரத்து",
+    "hl2": "மாநகராட்சி கட்டுப்பாட்டில்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர் மூங்கில் பூங்கா குத்தகை ரத்து",
+       "பராமரிப்பின்றி மூங்கில் மரங்கள் வாடின",
+       "மாநகராட்சி கமிஷனர் உத்தரவிட்டார்"
+      ]
+     },
+     {
+      "title": "ஏன் ரத்து?",
+      "lines": [
+       "மது அருந்த அனுமதித்தது அவப்பெயர்",
+       "அனுமதியின்றி பாதுகாப்பற்ற விளையாட்டு உபகரணங்கள்",
+       "நீர்ப்பாசன வசதி இல்லை; ஏல நிபந்தனை மீறல்"
+      ]
+     },
+     {
+      "title": "இனி என்ன?",
+      "lines": [
+       "மாநகராட்சியே பூங்காவை நேரடியாகப் பராமரிக்கும்",
+       "பணியாளர்கள் நியமித்து நுழைவுக் கட்டணம் வசூலிக்கப்படும்",
+       "பசுமை ஆர்வலர்கள் பூங்கா பழைய பொலிவு பெற வலியுறுத்தல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "இடுவாயில் உள்ள திருப்பூர் மூங்கில் பூங்காவின் குத்தகை உரிமம் ரத்து செய்யப்பட்டுள்ளது. பூங்கா உரிய பராமரிப்பின்றி இருந்ததால் அரிய வகை மூங்கில் மரங்களும் செடிகளும் வாடிக் கருகின. தினமலர் நாளிதழில் படத்துடன் செய்தி வெளியானதையடுத்து, மாநகராட்சி கமிஷனர் அமித் நேரில் ஆய்வு செய்தார். குத்தகைதாரருக்கு நோட்டீஸ் அனுப்பப்பட்டது. அவரது விளக்கத்துக்குப் பின்னர் குத்தகை ரத்து செய்யப்பட்டது. பூங்கா வளாகத்தில் ஒட்டப்பட்ட அறிவிப்பில், பொதுமக்கள் வந்து செல்லும் பூங்காவில் சிலர் மது அருந்த அனுமதிக்கப்பட்டது மாநகராட்சிக்கு அவப்பெயரை ஏற்படுத்தியதாகக் கூறப்பட்டுள்ளது. மாநகராட்சியின் அனுமதியின்றி பாதுகாப்பற்ற விளையாட்டு உபகரணங்கள் அமைக்கப்பட்டு கட்டணம் வசூலிக்கப்பட்டதும் குறிப்பிடப்பட்டுள்ளது. இனி பூங்காவை மாநகராட்சியே நேரடியாகப் பராமரிக்கும். பணியாளர்களை நியமித்து நுழைவுக் கட்டணம் வசூலிக்க உதவி கமிஷனருக்கு அறிவுறுத்தப்பட்டுள்ளது. பசுமை ஆர்வலர்கள் பூங்காவை பழைய பசுமைக்குத் திரும்பச் செய்ய உடனடி நடவடிக்கை வேண்டும் என்று வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌿 இடுவாய் மூங்கில் பூங்காவின் குத்தகை ரத்து | மாநகராட்சி நடவடிக்கை\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சிக்குச் சொந்தமான மூங்கில் பூங்கா உரிய பராமரிப்பின்றி இருந்தது குறித்து தினமலர் நாளிதழில் செய்தி வெளியானது. இதையடுத்து, மாநகராட்சி கமிஷனர் அமித் நேரில் ஆய்வு செய்து, குத்தகைதாரருக்கு நோட்டீஸ் அனுப்பினார். அவரது விளக்கத்தைத் தொடர்ந்து குத்தகை உரிமம் ரத்து செய்யப்பட்டது.\nபூங்கா வளாகத்தில் ஒட்டப்பட்ட அறிவிப்பில், பொதுமக்கள் வந்து செல்லும் பூங்காவில் சிலர் மது அருந்த அனுமதிக்கப்பட்டது மாநகராட்சிக்கு அவப்பெயரை ஏற்படுத்தியதாகக் குறிப்பிடப்பட்டுள்ளது. மாநகராட்சியின் அனுமதியின்றி பாதுகாப்பற்ற விளையாட்டு உபகரணங்கள் அமைக்கப்பட்டு, அவற்றுக்குக் கட்டணம் வசூலிக்கப்பட்டதாகவும் தெரிவிக்கப்பட்டுள்ளது. உரிய நீர்ப்பாசன வசதி செய்யப்படாததால் அரிய வகை மூங்கில் மரங்களும் செடிகளும் வாடின. ஏல நிபந்தனைகள் மீறப்பட்டதால் குத்தகை ரத்து செய்யப்பட்டது.\n📍 இடம்: இடுவாய், திருப்பூர் மாநகராட்சி\n👮 நடவடிக்கை: பூங்காவை மாநகராட்சியே நேரடியாகப் பராமரிக்கும்; பணியாளர்களை நியமித்து நுழைவுக் கட்டணம் வசூலிக்க உதவி கமிஷனருக்கு அறிவுறுத்தல்\nℹ️ பசுமை ஆர்வலர்கள் பூங்கா மீண்டும் பசுமை பெற உடனடி நடவடிக்கை வேண்டும் என வலியுறுத்துகின்றனர்.\n\nTirupur bamboo park lease cancelled | Tirupur news\n📍 இடுவாய், திருப்பூர் | 20 நவம்பர் 2026\n\nஇந்தச் செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Iduvai #TirupurNews #திருப்பூர்",
+   "prompts": "A Tirupur city corporation officer in a shirt and trousers stands beside a notice board at the entrance of the Bamboo Park in Iduvai, reading the lease cancellation notice pasted on it, while a few green activists in casual clothes stand near him, seen from behind. The park is a municipal public park in Iduvai on the outskirts of Tirupur city, with a tall iron gate and rows of rare bamboo clumps behind it, some of them yellowed, dry and drooping, and a dusty path with dry patches of grass. A few two-wheelers are parked near the gate and a coconut grove and a distant windmill appear on the horizon. The scene is in clear daylight with a mild haze over the city. The camera is at eye level, 35 mm, wide enough to show the gate, the notice board, the withered bamboo and the people. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a tall bamboo clump inside the Iduvai park, its leaves brown and curling, stalks dry and cracked, with a patch of parched soil at its base and a dry hosepipe coiled on the ground beside it. Behind it, a notice board with a stapled paper notice is blurred so that no text is legible. A few dry twigs and fallen leaves lie on the dusty ground. Daylight, soft natural light showing the dryness. Camera slightly low, 50 mm, shallow depth of field to isolate the withered bamboo and the lack of water. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/will-the-bamboo-forest-where-the-lease-of-the-municipal-bamboo-park-was-cancelled-get-a-spring-break-again/4381612",
+   "published": "2026-11-20T19:05:10+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 97 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); source/outlet name or link appears: தினமலர்",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795191874/tirupur360/of3eh3foj8w8czc0cs7y.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795191915/tirupur360/ezirnwfapwaondqapgxd.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர்: செவிலியர் பணியிடங்கள் தற்காலிகமாக நிரப்பப்படுகின்றன, டிச. 4 கடைசி நாள்",
+   "english_headline": "Tiruppur: temporary nurse posts to be filled at emergency maternity and newborn care centres; apply by Dec 4",
+   "category": "Government & Services",
+   "location": "Tirupur district (apply at the District Health Society office, Tirupur)",
+   "importance": "High",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கொப்பரை ஏலம்",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலையில் கொப்பரை கிலோ ரூ.157.60",
-    "hl2": "426 மூட்டைகள் ஏலம் போனது",
+    "cat": "வேலைவாய்ப்பு",
+    "loc": "திருப்பூர் மாவட்டம்",
+    "hl1": "திருப்பூரில் செவிலியர் பணியிடங்கள்",
+    "hl2": "டிச. 4 மாலை 5 மணி கடைசி நாள்",
     "slides": [
      {
-      "title": "ஏல நிலவரம்",
+      "title": "என்ன பணி?",
       "lines": [
-       "உடுமலை ஒழுங்குமுறை விற்பனைக்கூடம்",
-       "<b>36</b> விவசாயிகள், <b>11</b> வியாபாரிகள் பங்கேற்பு",
-       "மொத்தம் <b>426</b> மூட்டைகள் ஏலம் விடப்பட்டன"
+       "தேசிய நலவாழ்வு குழுமத்தின் கீழ் செயல்படும் அவசரகால மகப்பேறு",
+       "பச்சிளம் குழந்தை பராமரிப்பு மையங்களிலும் செவிலியர்",
+       "தற்காலிக அடிப்படையில் நிரப்பப்படும்"
       ]
      },
      {
-      "title": "கொப்பரை விலை",
+      "title": "எப்படி",
       "lines": [
-       "முதல் தரம்: அதிகபட்சமாக கிலோ <b>ரூ.157.60</b>",
-       "இரண்டாம் தரம்: கிலோ <b>ரூ.129</b>",
-       "மின்னணு தேசிய வேளாண் சந்தை திட்டம் மூலம் ஏலம்"
+       "ஒப்பந்த அடிப்படையில், முற்றிலும் தற்காலிகப் பணி",
+       "விண்ணப்பப் படிவத்தை tiruppur.nic.in இணையதளத்தில்",
+       "இணையதளம்: notice_category/recruitment பகுதி"
       ]
      },
      {
-      "title": "கூடுதல் விவரம்",
+      "title": "கடைசி நாள்",
       "lines": [
-       "பங்கேற்க விரும்பும் விவசாயிகள், வியாபாரிகள்",
-       "விற்பனைக்கூட கண்காணிப்பாளரைத் தொடர்புகொள்ளலாம்",
-       "தொடர்பு எண்: <b>94880 00163</b>"
+       "பூர்த்தி செய்த விண்ணப்பங்களை நல்வாழ்வு சங்க அலுவலகத்தில்",
+       "<b>டிச. 4ம் தேதி</b> மாலை <b>5 மணிக்குள்</b>",
+       "இப்பணி எந்தக் காலத்திலும் நிரந்தரமாக்கப்பட மாட்டாது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலை ஒழுங்குமுறை விற்பனை கூடத்தில் கொப்பரை கிலோ அதிகபட்சமாக 157.60 ரூபாய்க்கு ஏலம் போனது. மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் உடுமலை விற்பனை கூடத்தில் வாரந்தோறும் கொப்பரை ஏலம் நடைபெறுகிறது. இந்த வாரம் நடைபெற்ற ஏலத்துக்கு 36 விவசாயிகள் கொப்பரையைக் கொண்டு வந்தனர். இதில் 11 வியாபாரிகள் பங்கேற்று 426 மூட்டைகள் ஏலம் விடப்பட்டன. ஏலத்தில் முதல் தரக் கொப்பரைக்கு அதிகபட்சமாக கிலோவுக்கு 157.60 ரூபாய் விலை கிடைத்தது. இரண்டாம் தரக் கொப்பரைக்குக் குறைந்தபட்சமாகவும் அதிகபட்சமாகவும் கிலோவுக்கு 129 ரூபாய் விலை கிடைத்தது. ஏலத்தில் பங்கேற்க விரும்பும் விவசாயிகள் மற்றும் வியாபாரிகள் கூடுதல் விவரங்களுக்கு விற்பனைக்கூட கண்காணிப்பாளரைத் தொடர்பு கொள்ளலாம். தொடர்புகொள்ள வேண்டிய மொபைல் எண் 94880 00163 ஆகும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🥥 உடுமலையில் கொப்பரை ஏலம்: அதிகபட்சமாக கிலோ ரூ.157.60-க்கு விற்பனை!\n\n📰 முழு விவரம்:\nஉடுமலை ஒழுங்குமுறை விற்பனை கூடத்தில் மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் வாராந்திர கொப்பரை ஏலம் நடைபெற்றது. இந்த வார ஏலத்துக்கு 36 விவசாயிகள் கொப்பரையைக் கொண்டு வந்தனர். இதில் 11 வியாபாரிகள் பங்கேற்று 426 மூட்டைகள் கொப்பரை ஏலம் விடப்பட்டன. முதல் தரக் கொப்பரை கிலோவுக்கு அதிகபட்சமாக ரூ.157.60 வரை விலை கிடைத்தது. இரண்டாம் தரக் கொப்பரை கிலோவுக்கு குறைந்தபட்சமாகவும் அதிகபட்சமாகவும் ரூ.129 வரை ஏலம் போனது.\n\n📊 ஏல விவரங்கள்:\n🌾 விவசாயிகள்: 36 பேர்\n💼 வியாபாரிகள்: 11 பேர்\n📦 ஏல மூட்டைகள்: 426 மூட்டைகள்\n💰 முதல் தரம்: அதிகபட்சம் கிலோ ரூ.157.60\n💰 இரண்டாம் தரம்: கிலோ ரூ.129\n📞 தொடர்புக்கு: விற்பனைக்கூட கண்காணிப்பாளர் (94880–00163)\n\nℹ️ மக்கள் கவனத்திற்கு: ஏலத்தில் பங்கேற்க விரும்பும் விவசாயிகள், வியாபாரிகள் மேற்கண்ட எண்ணில் தொடர்பு கொள்ளலாம்.\n\nUdumalaipettai regulated market copra auction price eNAM | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "Farmers and traders gather at the Udumalaipettai Regulated Market auction yard as copra sacks are stacked in rows on the concrete floor. A group of around eleven traders in shirts and veshti stand in a loose circle, seen from behind, while an auction supervisor in trousers and shirt calls out bids. Behind them, roughly thirty-six farmers, men in shirts and lungis and a few women in cotton sarees, wait beside heaps of white and brown copra sacks, many piled high in neat rows under a tin-roofed open shed. Tiruppur district agricultural market atmosphere: dusty concrete floor, weighing scales, sacks tied with rope, a few bicycles and tractors parked at the edge. Daylight, soft overcast light from the shed opening. Camera at eye level, 35 mm, wide enough to show the full sack stacks and the gathered crowd, all people seen from behind or at a distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of dried coconut copra spilling from a jute sack on the auction floor, the pale white kernel pieces heaped in a pile beside a weighing scale. Next to the sack, a stack of more sacks is partly visible, and a farmer's hand in a cotton sleeve rests on the rim of a sack, seen from behind. Behind, the blurred figures of traders stand near the auction table. Daylight from the open shed, neutral warm tones. Camera slightly high, 35 mm, shallow depth of field focusing on the copra heap and sack texture. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/copra-auction-at-mall/4381494",
-   "published": "2026-11-20T18:12:30+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "திருப்பூர் மாவட்டத்தில் செவிலியர் பணியிடங்கள் தற்காலிக அடிப்படையில் நிரப்பப்பட உள்ளன. தேசிய நலவாழ்வு குழுமத்தின் கீழ் செயல்படும் விரிவான அவசரகால மகப்பேறு மற்றும் பச்சிளம் குழந்தை பராமரிப்பு மையங்களில் இந்தப் பணியிடங்கள் உள்ளன. இந்தப் பணிகள் ஒப்பந்த அடிப்படையில், முற்றிலும் தற்காலிகமாக வழங்கப்படும். இந்தப் பணி எந்தக் காலத்திலும் நிரந்தரமாக்கப்பட மாட்டாது என்று கலெக்டர் முத்துக்குமரன் அறிக்கையில் தெரிவித்துள்ளார். விண்ணப்பப் படிவத்தை டாட் என்ஐசி டாட் ஐஎன் இணையதளத்தில் உள்ள நோட்டீஸ் கேட்டகரி பகுதியில் உள்ள ரெக்ரூட்மென்ட் பகுதியில் இருந்து பதிவிறக்கம் செய்யலாம். பூர்த்தி செய்த விண்ணப்பங்களைத் திருப்பூர் மாவட்ட நல்வாழ்வு சங்க அலுவலகத்தில் டிசம்பர் 4ஆம் தேதி மாலை 5 மணிக்குள் சமர்ப்பிக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "👩‍⚕️ திருப்பூர் மாவட்டத்தில் செவிலியர் பணியிடங்கள் – டிச. 4 கடைசி நாள்\n\n📰 முழு விவரம்:\nதேசிய நலவாழ்வு குழுமத்தின் கீழ் செயல்படும் விரிவான அவசரகால மகப்பேறு மற்றும் பச்சிளம் குழந்தை பராமரிப்பு மையங்களில் காலியாக உள்ள செவிலியர் பணியிடங்கள் தற்காலிக அடிப்படையில் நிரப்பப்பட உள்ளன.\nஇந்தப் பணிகள் ஒப்பந்த அடிப்படையில், முற்றிலும் தற்காலிகமாக வழங்கப்படும்; எந்தக் காலத்திலும் நிரந்தரமாக்கப்பட மாட்டாது என கலெக்டர் முத்துக்குமரன் தெரிவித்துள்ளார்.\n\n📍 இடம்: திருப்பூர் மாவட்டம் (விண்ணப்பம் அனுப்ப வேண்டியது: திருப்பூர் மாவட்ட நல்வாழ்வு சங்க அலுவலகம்)\n🗓️ கடைசி நாள்: டிசம்பர் 4ம் தேதி\n🕘 நேரம்: மாலை 5 மணிக்குள்\n📄 விண்ணப்பம்: tiruppur.nic.in இணையதளத்தில் notice_category/recruitment பகுதியில் பதிவிறக்கம் செய்யலாம்\nℹ️ மக்கள் கவனத்திற்கு: பூர்த்தி செய்த விண்ணப்பங்களை கடைசி நாளுக்குள் நேரில் சமர்ப்பிக்கவும்.\n\nTiruppur nurse posts temporary, apply by Dec 4 | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A group of women job applicants in sarees and salwar, seen from behind, stand in a short queue at the entrance of a government health office in Tirupur, Tamil Nadu. The building is a plain concrete office block with a flat roof and a veranda, typical of a District Health Society office in the city. Some applicants hold rolled-up sheets of paper and a few carry plastic folders with completed application forms for the nursing posts at emergency maternity and newborn care centres. Nearby, a government staff member in a plain cotton saree sits behind a wooden desk in the doorway, receiving papers. The time is mid-morning in bright daylight, with a clear sky and soft shadows on the veranda floor. Camera at eye level, 35 mm, wide enough to show the office entrance, the queue and the veranda. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nurse-post-notification-by-collector/4381616",
+   "published": "2026-11-20T19:05:19+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181735/tirupur360/jlxqgy6i3s3gjheo0dsz.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181769/tirupur360/ewhk0hc46zzvdlapf1jz.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795191932/tirupur360/tzhnlnodjai5xbdkck2i.jpg"
    ]
   },
   {
-   "tamil_headline": "உடுமலை குருவப்பநாயக்கனூரில் கும்பாபிஷேகம் கோலாகலம்",
-   "english_headline": "Kumbabhishekam held in grand manner at Guruvappanaickanur temples, Udumalai, on 20 Nov",
-   "category": "Temples & Events",
-   "location": "Guruvappanaickanur, Udumalai, Tirupur district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் விழா",
-    "loc": "குருவப்பநாயக்கனூர், உடுமலை",
-    "hl1": "குருவப்பநாயக்கனூரில் கும்பாபிஷேகம்",
-    "hl2": "நவ. 20 கோலாகலமாக நடந்தது",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "உடுமலை குருவப்பநாயக்கனூரில் கோவில் கும்பாபிஷேகம்",
-       "இன்று (<b>நவ. 20</b>) கோலாகலமாக நடந்தது",
-       "விழா கடந்த <b>18ஆம் தேதி</b> தொடங்கியது"
-      ]
-     },
-     {
-      "title": "சிறப்பு பூஜைகள்",
-      "lines": [
-       "வன்னிவிநாயகர், தலகொண்டம்மன், தொட்டிச்சி அம்மன் கோவில்",
-       "<b>3 கால</b> யாக பூஜைகளுக்குப் பிறகு விழா தொடங்கியது",
-       "காலை <b>6 மணிக்கு</b> மங்கள இசையுடன் துவக்கம்"
-      ]
-     },
-     {
-      "title": "கும்பாபிஷேகம்",
-      "lines": [
-       "காலை <b>9:15</b> முதல் <b>10:15</b> மணிக்குள் மகா கும்பாபிஷேகம்",
-       "கோபுர கலசங்கள், சுவாமி விக்ரஹங்களுக்கு கும்பாபிஷேகம்",
-       "பின்னர் சிறப்பு அலங்காரம், தீபாராதனை"
-      ]
-     },
-     {
-      "title": "அன்னதானம்",
-      "lines": [
-       "காலை <b>9 மணி</b> முதல் பக்தர்களுக்கு அன்னதானம்",
-       "குருவப்பநாயக்கனூர் மற்றும் சுற்றுப்புற பகுதி பக்தர்கள்",
-       "திரளான பக்தர்கள் கலந்து கொண்டனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "உடுமலை குருவப்பநாயக்கனூரில் இன்று கும்பாபிஷேகம் கோலாகலமாக நடைபெற்றது. குருவப்பநாயக்கனூரில் உள்ள ஸ்ரீ வன்னிவிநாயகர், ஸ்ரீ தலகொண்டம்மன், ஸ்ரீ தொட்டிச்சி அம்மன் கோவில் கும்பாபிஷேக விழா கடந்த 18ஆம் தேதி தொடங்கியது. மூன்று கால யாக பூஜைகளுக்குப் பிறகு, இன்று காலை 6 மணிக்கு மங்கள இசையுடன் விழா தொடங்கியது. தொடர்ந்து நான்காம் கால யாக வேள்வி உள்ளிட்ட பூஜைகள் நடைபெற்றன. காலை 9:15 மணி முதல் 10:15 மணிக்குள் கோபுர கலசங்களுக்கும், சுவாமி விக்ரஹங்களுக்கும் மகா கும்பாபிஷேகம் நடைபெற்றது. பின்னர் சிறப்பு அலங்காரமும் தீபாராதனையும் நடைபெற்றன. காலை 9 மணி முதல் பக்தர்களுக்கு அன்னதானம் வழங்கப்பட்டது. குருவப்பநாயக்கனூர் மற்றும் சுற்றுப்புறப் பகுதிகளிலிருந்து திரளான பக்தர்கள் கலந்து கொண்டனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 உடுமலை குருவப்பநாயக்கனூரில் கும்பாபிஷேகம் கோலாகலம்\n\n📰 முழு விவரம்:\nஉடுமலை குருவப்பநாயக்கனூரில் உள்ள ஸ்ரீ வன்னிவிநாயகர், ஸ்ரீ தலகொண்டம்மன், ஸ்ரீ தொட்டிச்சி அம்மன் கோவில் கும்பாபிஷேகம் இன்று (நவ. 20) கோலாகலமாக நடைபெற்றது. கோவில் திருப்பணிகள் மேற்கொள்ளப்பட்டு, விழா கடந்த 18ஆம் தேதி தொடங்கியது.\nமூன்று கால யாக பூஜைகளுக்குப் பிறகு, இன்று காலை 6 மணிக்கு மங்கள இசையுடன் விழா தொடங்கியது. நான்காம் கால யாக வேள்வி உள்ளிட்ட பூஜைகள் நடைபெற்றன.\nகாலை 9:15 முதல் 10:15 மணிக்குள் கோபுர கலசங்களுக்கும், சுவாமி விக்ரஹங்களுக்கும் மகா கும்பாபிஷேகம் நடைபெற்றது. பின்னர் சிறப்பு அலங்காரமும் தீபாராதனையும் நடைபெற்றன.\nகாலை 9 மணி முதல் பக்தர்களுக்கு அன்னதானம் வழங்கப்பட்டது. குருவப்பநாயக்கனூர் மற்றும் சுற்றுப்புறப் பகுதிகளிலிருந்து திரளான பக்தர்கள் கலந்து கொண்டனர்.\n\nUdumalai Kumbabhishekam Guruvappanaickanur | Tirupur news\n📍 குருவப்பநாயக்கனூர், உடுமலை, திருப்பூர் மாவட்டம் | 20 நவம்பர்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalai #TirupurNews #திருப்பூர்",
-   "prompts": "A priest in white veshti and bare upper body pours sacred water from a brass kalasam over the tall gopuram of a village temple in Guruvappanaickanur, Udumalai, as a large crowd of devotees gathers below during the Kumbabhishekam ceremony. The temple is a small, traditional South Indian village shrine with a painted multi-tiered gopuram topped with golden kalasams, set among low houses and a few coconut palms on the edge of Tirupur district. Priests in white dhotis and devotees in sarees, salwars and shirts and veshtis stand in the courtyard, most seen from behind or from a distance, some holding flower garlands and brass plates. Bright morning daylight, around 9:30 am, a few strands of smoke rising from yaga fire near the entrance. Camera at eye level, 35 mm lens, wide enough to show the gopuram, the crowd and the temple courtyard. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of several brass kalasam pots with mango leaves and coconut tied at the mouth, placed on a stone platform in front of the sanctum, with sacred water and a small flame of camphor lamp beside them during the Kumbabhishekam rites at a village temple in Udumalai. Hands of a priest in white veshti are visible, reaching to lift a kalasam, while the edge of a red-and-yellow painted pillar and marigold garlands frame the shot. Soft early-morning light from the open courtyard, some marigold petals and smoke from the yaga fire in the background. Camera at slightly high angle, 50 mm macro-style close shot, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sri-talakondamman-temple-kumbabisaram/4381460",
-   "published": "2026-11-20T18:07:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181779/tirupur360/c3qith18ozkjo4hbhrto.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181783/tirupur360/dbgnejiq7lqofluukuku.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சின்னவீரம்பட்டி வெற்றிவேல் நகரில் குடிநீர், தெருவிளக்கு இல்லாமல் மக்கள் தவிப்பு",
-   "english_headline": "Vetrivel Nagar in Chinnaveerampatti faces drinking water and street light problems, residents suffer",
-   "category": "Civic Issues",
-   "location": "Vetrivel Nagar, Chinnaveerampatti panchayat, Udumalaipettai taluk, Tirupur district",
+   "tamil_headline": "பொங்கலூரில் மாயமான மூதாட்டி கிணற்றில் சடலமாக மீட்பு",
+   "english_headline": "Missing elderly woman found dead in a well in Pongalur",
+   "category": "Crime & Safety",
+   "location": "Malaipalayam, Pongalur union, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அடிப்படை வசதி",
-    "loc": "சின்னவீரம்பட்டி, உடுமலை",
-    "hl1": "சின்னவீரம்பட்டி இல்லாமல் தவிப்பு",
-    "hl2": "தெருவிளக்கும் போதிய இல்லை",
+    "cat": "கிணற்றில் சடலம்",
+    "loc": "பொங்கலூர்",
+    "hl1": "பொங்கலூரில் மாயமான சடலமாக மீட்பு",
+    "hl2": "85 வயது லட்சுமி",
     "slides": [
      {
-      "title": "குடிநீர் பிரச்சனை",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "ஒரு வாரத்துக்கும் அதிகமாக குடிநீர் வரவில்லை",
-       "மக்கள் பல கி.மீ. தூரம் சென்று தண்ணீர் பிடிக்கின்றனர்",
-       "கடந்த மாதம் போராட்டமும் நடைபெற்றது"
+       "மலைப்பாளையத்தைச் சேர்ந்த <b>85 வயது</b> லட்சுமி மாயமானார்",
+       "இன்று (நவ. 20) காலை அவரைக் காணவில்லை",
+       "குடும்பத்தினர் அவிநாசிபாளையம் போலீசில் புகார் அளித்தனர்"
       ]
      },
      {
-      "title": "தெருவிளக்கு",
+      "title": "சடலம் மீட்பு",
       "lines": [
-       "தாராபுரம் மாநில நெடுஞ்சாலையிலிருந்து குடியிருப்புக்கு போதிய",
-       "குறைந்த மின்னழுத்தத்தால் உள்ள விளக்குகளும் முறையாக"
+       "அருகிலுள்ள கிணற்றில் லட்சுமி இறந்து கிடந்தார்",
+       "திருப்பூர் தெற்கு தீயணைப்புத் துறையினர் உடலை மீட்டனர்",
+       "கடந்த ஓராண்டாக தலையில் கட்டி இருந்ததால் அவதிப்பட்டு வந்தார்"
       ]
      },
      {
-      "title": "கலெக்டருக்கு மனு",
+      "title": "போலீஸ் விசாரணை",
       "lines": [
-       "அடிப்படை வசதிகளை மேம்படுத்த வலியுறுத்தி மனு அனுப்பப்பட்டது",
-       "ஊராட்சி, ஒன்றிய நிர்வாகம் ஆய்வு செய்ய வேண்டும் என மக்கள்"
+       "தற்கொலையா அல்லது தவறி விழுந்தாரா என விசாரணை",
+       "அவிநாசிபாளையம் போலீசார் விசாரித்து வருகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சின்னவீரம்பட்டி வெற்றிவேல் நகரில் ஒரு வாரத்துக்கும் அதிகமாக குடிநீர் வரவில்லை. இதனால் மக்கள் பல கிலோமீட்டர் தூரம் சென்று தண்ணீர் பிடித்து வருகின்றனர். உடுமலை ஒன்றியம், சின்னவீரம்பட்டி ஊராட்சிக்குட்பட்ட இப்பகுதிக்கு திருமூர்த்தி கூட்டுக்குடிநீர் திட்டத்தில் முறையாக குடிநீர் வழங்கப்படுவதில்லை. கடந்த மாதம் குடிநீர் தட்டுப்பாட்டைக் கண்டித்து மக்கள் போராட்டமும் நடத்தினர். ஆனாலும் குடிநீர் விநியோகம் சீராகவில்லை. ஊராட்சி, ஒன்றிய நிர்வாகத்தினர் ஆய்வு செய்து குடிநீர் விநியோகத்தை சீராக்க வேண்டும் என மக்கள் கோரியுள்ளனர். தாராபுரம் மாநில நெடுஞ்சாலை மற்றும் கிராம இணைப்பு சாலையிலிருந்து குடியிருப்புக்கு வரும் வழியில் போதிய தெருவிளக்குகள் இல்லை. குறைந்த மின்னழுத்தப் பிரச்னையால் உள்ள தெருவிளக்குகளும் முறையாக எரிவதில்லை. அடிப்படை வசதிகளை விரைவில் மேம்படுத்த வலியுறுத்தி திருப்பூர் கலெக்டருக்கு புகார் மனு அனுப்பப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 சின்னவீரம்பட்டி வெற்றிவேல் நகரில் ஒரு வாரமாக குடிநீர் இல்லை\n\n📰 முழு விவரம்:\nஉடுமலை ஒன்றியம், சின்னவீரம்பட்டி ஊராட்சிக்குட்பட்ட வெற்றிவேல் நகரில் ஒரு வாரத்துக்கும் அதிகமாக குடிநீர் வரவில்லை. திருமூர்த்தி கூட்டுக்குடிநீர் திட்டத்தில் இப்பகுதிக்கு முறையாக குடிநீர் வழங்கப்படுவதில்லை. மக்கள் பல கி.மீ. தூரம் பயணித்து நகருக்கு வந்து தண்ணீர் பிடித்துச் செல்கின்றனர். கடந்த மாதம் குடிநீர் தட்டுப்பாட்டைக் கண்டித்து மக்கள் போராட்டம் நடத்தினர்.\nதாராபுரம் மாநில நெடுஞ்சாலை மற்றும் கிராம இணைப்பு சாலையிலிருந்து குடியிருப்புக்கு வரும் வழியில் போதிய தெருவிளக்குகள் இல்லை. குறைந்த மின்னழுத்தப் பிரச்னையால் உள்ள தெருவிளக்குகளும் முறையாக எரிவதில்லை.\nஅடிப்படை வசதிகளை விரைவில் மேம்படுத்தக் கோரி திருப்பூர் கலெக்டருக்கு புகார் மனு அனுப்பப்பட்டுள்ளது.\n\nℹ️ மக்கள் கவனத்திற்கு: குடிநீர் வினியோகத்தை சீராக்க ஊராட்சி, ஒன்றிய நிர்வாகம் ஆய்வு செய்ய வேண்டும் என மக்கள் கோருகின்றனர்.\n\nChinnaveerampatti water and street light problem | Tirupur news\n📍 சின்னவீரம்பட்டி, உடுமலை | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "A line of women in sarees and men in shirts carry steel and plastic water pots along a dusty unpaved road in Vetrivel Nagar colony, Chinnaveerampatti, Udumalaipettai taluk, Tirupur district, Tamil Nadu. They walk away from the camera toward a row of small house roofs and a water point, their pots catching the daylight, showing that they have travelled a long way to fetch water for the week-long shortage. On one side of the road stands a concrete street light pole with its lamp switched off, and a few dim bulbs on further poles fade into the distance, pointing to the low-voltage street light problem. Two-wheelers are parked at the roadside and a few dry coconut palms and open plots stand behind the houses of a growing residential area on the outskirts of Tirupur district. The scene is in daylight with a flat, hazy sky. Shot from eye level at 35 mm, wide enough to show the colony road, the people from behind and far away, and the unlit pole. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a public water tap at a colony water point in Vetrivel Nagar, Chinnaveerampatti, Tirupur district, Tamil Nadu. A dull metal tap on a concrete stand is connected to a pipe, with a few empty plastic water pots and a steel vessel placed on the wet, dusty ground below it, showing that water has not flowed for days. Behind the tap, the edge of a concrete street light pole with an unlit lamp is visible against a plain sky, linking the water shortage and the broken street lights. The ground is damp in patches and there is a small puddle near the stand. The light is natural daytime light. Shot from a low angle at 35 mm with a shallow depth of field so the pots and tap are sharp and the background people, if any, are blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/basic-people-suffer-in-thavipu-vetrivelnagar-due-to-lack-of-facilities/4381378",
-   "published": "2026-11-20T17:10:34+05:30",
+   "reel_script": "பொங்கலூர் அருகே மாயமான 85 வயது மூதாட்டி கிணற்றில் சடலமாக மீட்கப்பட்டார். மலைப்பாளையத்தைச் சேர்ந்த அப்பாச்சியின் மனைவி லட்சுமி இன்று நவம்பர் 20ஆம் தேதி காலை திடீரென காணாமல் போனார். குடும்பத்தினர் அவிநாசிபாளையம் போலீசில் புகார் அளித்தனர். இதற்கிடையே, அருகிலுள்ள கிணற்றில் லட்சுமி இறந்து கிடப்பதாக தகவல் கிடைத்தது. திருப்பூர் தெற்கு தீயணைப்புத் துறையினர் கிணற்றில் இறங்கி அவரது உடலை மீட்டனர். கடந்த ஓராண்டாக தலையில் கட்டி இருந்ததால் அவதிப்பட்டு வந்தார். அவர் தற்கொலை செய்து கொண்டாரா அல்லது தவறி விழுந்தாரா என்பது குறித்து அவிநாசிபாளையம் போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பொங்கலூரில் மாயமான 85 வயது மூதாட்டி கிணற்றில் சடலமாக மீட்பு\n\n📰 முழு விவரம்:\nமலைப்பாளையத்தைச் சேர்ந்த அப்பாச்சியின் மனைவி லட்சுமி (85 வயது) இன்று (நவ. 20) காலை திடீரென காணாமல் போனார். குடும்பத்தினர் அவிநாசிபாளையம் போலீசில் புகார் அளித்தனர். இதற்கிடையே அருகிலுள்ள கிணற்றில் அவர் இறந்து கிடப்பதாக தகவல் கிடைத்தது. திருப்பூர் தெற்கு தீயணைப்புத் துறையினர் கிணற்றில் இறங்கி உடலை மீட்டனர். கடந்த ஓராண்டாக தலையில் கட்டி இருந்ததால் அவதிப்பட்டு வந்தார்.\n📍 இடம்: மலைப்பாளையம், பொங்கலூர் ஒன்றியம்\n🗓️ நாள்: நவ. 20\n👮 நடவடிக்கை: தற்கொலையா அல்லது தவறி விழுந்தாரா என்பது குறித்து அவிநாசிபாளையம் போலீசார் விசாரித்து வருகின்றனர்.\n\nPongalur missing elderly woman found dead in well | Tirupur news\n📍 பொங்கலூர், திருப்பூர் மாவட்டம் | 20 நவம்பர்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Pongalur #TirupurNews #திருப்பூர்",
+   "prompts": "A fire and rescue team in khaki uniforms stands around an open village well in Malaipalayam, Pongalur, Tirupur district, while a rope is lowered into the well to bring up a body. The well is a low circular stone parapet set on dry village land with a few coconut palms and scrubby trees in the background, typical of the outskirts of Tirupur city. Two to three fire service personnel lean over the parapet, seen from behind, and two police officers in khaki stand a few metres away, with several villagers in plain shirts, veshti and saree gathered at a respectful distance. A red fire service vehicle is parked on the dirt track nearby. It is bright daylight in the morning, with soft, even sunlight and no dramatic shadows. The mood is sombre and quiet. Camera: eye level, 35 mm, wide enough to show the well, the rescue crew, the police and the bystanders, with the empty fields behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the well mouth in Malaipalayam, Pongalur: a circular stone and concrete parapet of an open village well, with a coil of thick rescue rope tied to a metal rescue pulley or wooden post across the top. The rope runs down into the dark water below, and the wet stone of the parapet shows the water level. A pair of worn rubber slippers sits near the edge on the dusty ground, and a few steel water pots are visible nearby, left by villagers. Behind, slightly out of focus, a fire service worker in uniform stands with his back turned, and a khaki police officer watches from a distance. The light is soft morning daylight, with no text or signage visible. Camera: eye level, 50 mm, shallow depth of field focusing on the rope and well edge, with the background gently blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/missing-woman-s-body-found-in-pond/4381738",
+   "published": "2026-11-20T20:07:02+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181821/tirupur360/f0sx26yrras1w2dgpk48.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181825/tirupur360/dphsfhbduad5pgdd51pe.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795191945/tirupur360/zbr508omynwgcrrap9no.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795191955/tirupur360/fmdrmjewzqsnav930ptb.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பல்லடம் மங்கலம் ரோட்டில் ஆபத்தான பள்ளம்: அதிகாரிகள் அலட்சியம் என புகார்",
+   "english_headline": "Dangerous pit on Mangalam Road in Palladam near the low-level bridge; residents complain officials are negligent in closing it",
+   "category": "Roads & Transport",
+   "location": "Mangalam Road, Palladam town, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை ஆபத்து",
+    "loc": "பல்லடம்",
+    "hl1": "பல்லடத்தில் ஆபத்தான பள்ளம் அலட்சியம்",
+    "hl2": "மங்கலம் ரோடு, கோர்ட் எதிரே",
+    "slides": [
+     {
+      "title": "எங்கே ஆபத்து?",
+      "lines": [
+       "பல்லடம் – மங்கலம் ரோட்டில் தரைமட்ட பாலம் அருகே பள்ளம்",
+       "கோர்ட்டுக்கு எதிரே பாலத்தின் தடுப்புச்சுவர் உடைந்து",
+       "குடிநீர் குழாய் வால்வு, மழைநீர் வடிகால் அருகே பெரிய பள்ளம்"
+      ]
+     },
+     {
+      "title": "ஏன் ஆபத்து?",
+      "lines": [
+       "பள்ளம் நாளுக்கு நாள் விரிவடைகிறது",
+       "வாகன ஓட்டிகளும் பாதசாரிகளும் விபத்து அபாயத்தில் உள்ளனர்",
+       "கவனக்குறைவாக வருவோர் பள்ளத்தில் விழும் ஆபத்து"
+      ]
+     },
+     {
+      "title": "மக்கள் புகார்",
+      "lines": [
+       "அதிகாரிகள் அலட்சியம் காட்டுவதாக பொதுமக்கள் புகார்",
+       "பல அரசு அதிகாரிகள் தினமும் இந்த வழியில் செல்கின்றனர்",
+       "இதுவரை பள்ளத்தை சீரமைக்க நடவடிக்கை இல்லை"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "ஆபத்தான பள்ளத்தை மூட வேண்டும்",
+       "உடைந்த தரைமட்ட பாலத் தடுப்பைச் சீரமைக்க வேண்டும்",
+       "நெடுஞ்சாலைத்துறை, நகராட்சி நிர்வாகம் நடவடிக்கை எடுக்க"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பல்லடம் மங்கலம் ரோட்டில் ஆபத்தான பள்ளம் உள்ளது, அதை மூட அதிகாரிகள் அலட்சியம் காட்டுவதாக பொதுமக்கள் புகார் தெரிவித்துள்ளனர். பல்லடம் – மங்கலம் ரோட்டில் தரைமட்ட பாலம் அருகே பள்ளம் உள்ளது. கோர்ட்டுக்கு எதிரே பாலத்தின் தடுப்புச்சுவர் உடைந்து தொங்கிக் கொண்டிருக்கிறது. குடிநீர் குழாய் வால்வு மற்றும் மழைநீர் வடிகால் அமைந்துள்ள பகுதியில் பெரிய பள்ளம் ஏற்பட்டுள்ளது. இந்தப் பள்ளம் நாளுக்கு நாள் விரிவடைந்து வருகிறது. வாகன ஓட்டிகளும் பாதசாரிகளும் விபத்து அபாயத்தில் உள்ளனர். கவனக்குறைவாக வரும் வாகன ஓட்டிகள் பள்ளத்தில் தவறி விழும் ஆபத்து உள்ளது. பல்வேறு அரசுத்துறை அதிகாரிகள் தினமும் இந்த வழியாகச் சென்றாலும், இதுவரை பள்ளத்தை சீரமைக்க நடவடிக்கை எடுக்கப்படவில்லை. நெடுஞ்சாலைத்துறையும் நகராட்சி நிர்வாகமும் ஆபத்தான பள்ளத்தை மூட வேண்டும், உடைந்த பாலத் தடுப்பையும் சீரமைக்க வேண்டும் என பொதுமக்கள் கோரிக்கை வைத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 பல்லடம் மங்கலம் ரோட்டில் ஆபத்தான பள்ளம்: அதிகாரிகள் அலட்சியம் என புகார்\n\n📰 முழு விவரம்:\nபல்லடம் – மங்கலம் ரோட்டில் தரைமட்ட பாலம் அருகே உள்ள ஆபத்தான பள்ளத்தை மூட அதிகாரிகள் நடவடிக்கை எடுக்காமல் அலட்சியம் காட்டுவதாக பொதுமக்கள் புகார் தெரிவித்துள்ளனர். கோர்ட்டுக்கு எதிரே உள்ள தரைமட்ட பாலத்தின் தடுப்புச்சுவர் உடைந்து தொங்குகிறது. குடிநீர் குழாய் வால்வு மற்றும் மழைநீர் வடிகால் அமைந்துள்ள பகுதியில் பெரிய பள்ளம் ஏற்பட்டுள்ளது. இந்தப் பள்ளம் நாளுக்கு நாள் விரிவடைவதால் வாகன ஓட்டிகள் மற்றும் பாதசாரிகளுக்கு விபத்து அபாயம் உள்ளது.\n📍 இடம்: பல்லடம் – மங்கலம் ரோடு, கோர்ட்டுக்கு எதிரே, தரைமட்ட பாலம் அருகில்\n🏛️ இந்தச் சாலையில் பத்திரப்பதிவு அலுவலகம், நெடுஞ்சாலைத்துறை அலுவலகம், கிளைச் சிறை, கோர்ட், போக்குவரத்து போலீஸ் நிலையம் உள்ளன.\n👮 நடவடிக்கை: இதுவரை பள்ளத்தை சீரமைக்க நடவடிக்கை எடுக்கப்படவில்லை என பொதுமக்கள் வேதனை தெரிவித்துள்ளனர்.\nℹ️ மக்கள் கோரிக்கை: நெடுஞ்சாலைத்துறை மற்றும் நகராட்சி நிர்வாகம் ஆபத்தான பள்ளத்தை மூடவும், உடைந்த தரைமட்ட பாலத் தடுப்பைச் சீரமைக்கவும் வேண்டும்.\n\nPalladam Mangalam Road dangerous pit, residents complain | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "Two-wheelers and a car slow down on Mangalam Road in Palladam town as they pass a large, ragged pit beside a low-level concrete bridge. The road runs between government office buildings, with a court building and a traffic police station in the background. A broken, sagging concrete parapet wall hangs at the edge of the bridge, and the pit has opened up right next to it, the ground around it cracked and crumbling. Pedestrians in shirts and sarees, seen from behind, walk along the footpath edge, keeping a careful distance from the hole. The scene is in daylight with an overcast, dusty look. Shot at eye level with a 35 mm lens, wide enough to show the road, the bridge, the pit and the office buildings together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the widening pit at the edge of a low-level concrete bridge on a town road, with the broken parapet wall visible above it. Rough chunks of concrete and loose soil have fallen away around the rim, and a metal water pipe valve and a rainwater drain sit exposed at the bottom of the hole. A small puddle sits in the depression, and the edge of the asphalt is cracked and breaking off. A two-wheeler's front wheel is just visible at the frame's edge, passing close to the hole, with no people shown. Daylight, plain and unembellished. Shot from slightly above at 35 mm, focused on the pit and the broken wall to show the danger clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/mangalam-road-crash-one-killed-several-injured/4381808",
+   "published": "2026-11-20T20:52:36+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795192016/tirupur360/d67t2h7ttr6jiyez5yx6.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795192026/tirupur360/wboknotr82scnsuda6xg.jpg"
    ]
   }
  ]
