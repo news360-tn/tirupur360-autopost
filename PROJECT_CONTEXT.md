@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-20 | `c6d392e` | News reels: 360 clock branding layer (logo progress ring, opening ring, clock-hand picture change, end-card ring) |
+| 2026-11-20 | `3ca73af` | goldrate posted |
+| 2026-11-20 | `dcbdadf` | pick: written and posted |
+| 2026-11-20 | `273128f` | pick: picked news saved |
+| 2026-11-20 | `c898e53` | pick: picked news saved |
+| 2026-11-20 | `8023932` | pick: list sent |
+| 2026-11-20 | `e67da4f` | pick: written and posted |
+| 2026-11-20 | `fd4059c` | pick: picked news saved |
+| 2026-11-20 | `0426153` | pick: picked news saved |
+| 2026-11-20 | `81911c1` | pick: list sent |
 | 2026-11-20 | `827c881` | Reel length back to the full news (at most 90 s, 70-160 words); captions always fit Instagram's 2,200 |
 | 2026-11-20 | `6708124` | rasipalan posted |
 | 2026-11-19 | `665f6d5` | pick: written and posted |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `9ae1883` | pick: list sent |
 | 2026-11-19 | `ba4dc6a` | rasipalan + goldrate: publish again when Instagram says 'media not ready' (9007, nothing posted - Erode 19 Nov); Cloudinary upload tried 3 times with its reason in the log (Rasipuram rasipalan posted 18:43 on 18 Nov after 3 refusals) |
 | 2026-11-19 | `b6db361` | PROJECT_CONTEXT.md: wording ('<district>-district news') |
-| 2026-11-19 | `26a5b32` | PROJECT_CONTEXT.md: page names with a space (Salem 360 style), not an underscore |
-| 2026-11-19 | `b295fe6` | PROJECT_CONTEXT.md: own page name, handle, Sheet value, token and e-mail tag (was the Coimbatore copy); status live |
-| 2026-11-19 | `542af21` | goldrate posted |
-| 2026-11-19 | `10c1128` | tests: install pytest and run the suite with pytest (gold reel tests were red since 19 Nov); insights: retry the save when another job saved at the same moment; README: page is live |
-| 2026-11-19 | `149af6e` | Gold reel: new bright poster design and faster pace (short lines, quicker voice, fast cuts) |
-| 2026-11-19 | `002c7a6` | pick: written and posted |
-| 2026-11-19 | `e6b6a61` | pick: picked news saved |
-| 2026-11-19 | `d0c99e0` | pick: picked news saved |
-| 2026-11-19 | `b072d30` | pick: list sent |
-| 2026-11-19 | `29725b0` | Gold reel: modern theme - full-screen scenes (hook, 22K, 24K, silver, follow) changing with each spoken line |
 <!-- recent-changes:end -->
