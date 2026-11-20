@@ -3,98 +3,98 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/kalvimalar-news/awareness-camp-on-solid-waste-management/83718",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/an-end-to-the-privatization-of-sanitation-mr-murugan-came-into-force-in-poondi-municipality/4381035",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/change-of-congress-office-bearers/4381061",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/satya-sai-101st-birth-anniversary-celebrations-kick-off-today/4380766",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/basic-people-suffer-in-thavipu-vetrivelnagar-due-to-lack-of-facilities/4381378",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/copra-auction-at-mall/4381494",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sri-talakondamman-temple-kumbabisaram/4381460",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/department-of-posts-grievance-meeting-on-dec-4/4380793",
   "candidate filter: collected=4",
   "to write: 4 Tirupur district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/change-of-con",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/kalvimalar-news/awareness-cam",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "NOT filed (N) டிச. 4ல் தபால் துறை குறைகேட்பு கூட்டம்: not Tirupur district news (the story's first lines name another place and no Tirupur place)",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
-  "filed: 4 Tirupur district stories (target 4), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 77 min",
+  "filed: 3 Tirupur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok gemini/gemini-3-flash-preview (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (25s)",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok gemini/gemini-3.6-flash (44s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -103,257 +103,194 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "காங்கிரஸ் அகில இந்திய செயலர்கள் மாற்றம்: திருப்பூர் கோபிநாத் உள்ளிட்டோர் விவரம்",
-   "english_headline": "AICC reshuffle: Tirupur Gopinath among Tamil Nadu secretaries; new in-charges for TN and Puducherry",
-   "category": "Government & Services",
-   "location": "Tirupur city, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "காங்கிரஸ் செய்தி",
-    "loc": "திருப்பூர்",
-    "hl1": "காங்கிரஸில் அதிரடி மாற்றங்கள்",
-    "hl2": "திருப்பூர்",
-    "slides": [
-     {
-      "title": "செயலர்கள் மாற்றம்",
-      "lines": [
-       "அகில இந்திய காங்கிரஸ் செயலர்கள் மாற்றம்",
-       "தமிழகத்தைச் சேர்ந்தவர்களுக்குப் <b>புதிய பொறுப்புகள்</b>",
-       "கட்சித் தலைமை அதிரடி அறிவிப்பு"
-      ]
-     },
-     {
-      "title": "புதிய பொறுப்புகள்",
-      "lines": [
-       "மயூரா ஜெயகுமார்: <b>கேரளா</b> மாநிலப் பொறுப்பாளர்",
-       "செந்தமிழ் அரசு: <b>அந்தமான்</b> தீவுப் பொறுப்பாளர்",
-       "திருப்பூர் கோபிநாத் உள்ளிட்டோர் ஏற்கனவே செயலர்கள்"
-      ]
-     },
-     {
-      "title": "தமிழகப் பொறுப்பு",
-      "lines": [
-       "தமிழகம், புதுச்சேரிக்கு <b>3 புதிய பொறுப்பாளர்கள்</b>",
-       "நிவேதித் ஆல்வா, ஜங்கா கவுதம் நியமனம்",
-       "வெங்கடேஸ்வர் தமிழகப் பொறுப்பைக் கவனிப்பார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூரைச் சேர்ந்த கோபிநாத் உள்ளிட்ட அகில இந்திய காங்கிரஸ் செயலர்கள் மாற்றப்பட்டுள்ளனர். காங்கிரஸ் கட்சியின் அகில இந்திய அளவில் புதிய செயலர்களைத் தலைமை நியமித்துள்ளது. தமிழகத்தில் ஏற்கனவே மயூரா ஜெயகுமார், திருப்பூர் கோபிநாத், லீடர் அறிவழகன் மற்றும் ராஜ்யசபா உறுப்பினர் கிறிஸ்டோபர் ஆகியோர் செயலர்களாகப் பணியாற்றி வந்தனர். இவர்களில் மயூரா ஜெயகுமார் தற்போது கேரளா மாநிலப் பொறுப்பாளராக நியமிக்கப்பட்டுள்ளார். தமிழகத்தைச் சேர்ந்த செந்தமிழ் அரசு அந்தமான் நிக்கோபர் தீவுகளின் பொறுப்பாளராக நியமனம் செய்யப்பட்டுள்ளார். தமிழகம் மற்றும் புதுச்சேரி மாநிலங்களுக்கான புதிய பொறுப்பாளர்களாக மூன்று பேர் நியமிக்கப்பட்டுள்ளனர். நிவேதித் ஆல்வா, ஜங்கா கவுதம் மற்றும் வெங்கடேஸ்வர் ஆகியோர் தமிழகம் மற்றும் புதுச்சேரி பொறுப்புகளைக் கவனிப்பார்கள் என்று அறிவிக்கப்பட்டுள்ளது. அகில இந்திய காங்கிரஸ் தலைமை இந்த மாற்றங்களை மேற்கொண்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚩 காங்கிரஸில் அதிரடி மாற்றம்: திருப்பூரைச் சேர்ந்த கோபிநாத் உள்ளிட்ட செயலர்களுக்குப் புதிய பொறுப்புகள்.\n\n📰 முழு விவரம்:\nகாங்கிரஸ் கட்சியின் அகில இந்திய செயலர்கள் மாற்றப்பட்டுள்ளனர். தமிழகத்தில் ஏற்கனவே காங்கிரஸ் செயலர்களாக மயூரா ஜெயகுமார், திருப்பூர் கோபிநாத், லீடர் அறிவழகன் மற்றும் ராஜ்யசபா எம்.பி. கிறிஸ்டோபர் ஆகியோர் இருந்தனர்.\n🔄 புதிய மாற்றங்கள்:\n📍 மயூரா ஜெயகுமார் - கேரளா மாநிலப் பொறுப்பாளராக நியமனம்.\n📍 செந்தமிழ் அரசு - அந்தமான் நிக்கோபர் தீவுப் பொறுப்பாளராக நியமனம்.\n📍 தமிழகம் மற்றும் புதுச்சேரி பொறுப்பாளர்களாக நிவேதித் ஆல்வா, ஜங்கா கவுதம், வெங்கடேஸ்வர் ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.\nஅகில இந்திய காங்கிரஸ் தலைமை இந்த புதிய அறிவிப்புகளை வெளியிட்டுள்ளது.\n\nTirupur Gopinath AICC secretary reshuffle | Congress news Tirupur\n📍 திருப்பூர் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #Congress #திருப்பூர்",
-   "prompts": "A group of Congress party workers in white khadi shirts and veshti stands in a meeting hall in Tirupur city, a printed appointment letter held up in one man's hands while others gather around to read it. The setting is a modest party office in Tirupur with plain whitewashed walls, a row of plastic chairs, and a long table covered with a cloth and microphones. Several men and one woman in a cotton saree stand near the table, seen from behind or in profile and kept far enough away that no faces are clearly recognisable. A few file folders and a stack of paper lie on the table, with a framed portrait of a leader on the wall kept out of focus. The light is warm and indoor, from tube lights and a ceiling fan, suggesting a daytime meeting. The camera is at eye level, 35 mm, wide enough to show the full room and the people gathered. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official appointment letters and a few party paper documents lying on a wooden table in a Congress office in Tirupur city. The pages are blank on the visible side or angled so no text can be read, and a plain steel pen rests across them. A cup of tea in a steel tumbler sits beside the papers, and the edge of a sleeve in white khadi cloth enters the frame at the side. The table surface is worn and a fan's shadow falls across the paper stack. The light is soft daytime light from a nearby window. The camera is slightly high, 35 mm, focused on the papers with the table edge and background softly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/change-of-congress-office-bearers/4381061",
-   "published": "2026-11-19T23:34:35+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173500/tirupur360/r3pjzrj56utuewlcbckg.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173517/tirupur360/nwygv87f1ebgbvyh6ewg.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் சாய் மந்திரில் சத்ய சாய்பாபா 101வது பிறந்த நாள் விழா நாளை தொடக்கம்",
-   "english_headline": "Sathya Sai Baba 101st birthday celebrations begin tomorrow at Sri Sai Mandir, Tirupur",
-   "category": "Temples & Events",
-   "location": "Sri Sai Mandir campus, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோயில் நிகழ்ச்சி",
-    "loc": "திருப்பூர் ஸ்ரீ சாய் மந்திர்",
-    "hl1": "சத்ய சாய் 101வது பிறந்த நாள் விழா",
-    "hl2": "நவ. 20 முதல் 23 வரை",
-    "slides": [
-     {
-      "title": "எப்போது தொடக்கம்?",
-      "lines": [
-       "நாளை <b>நவ. 20</b> மாலை <b>5 மணிக்கு</b> தொடக்கம்",
-       "100வது திருவிளக்கு பூஜையுடன் விழா தொடங்குகிறது",
-       "பிறந்த நாள் விழா <b>நவ. 23</b> அன்று கொண்டாட்டம்"
-      ]
-     },
-     {
-      "title": "நவ. 21, 22",
-      "lines": [
-       "நவ. 21: முதியோர் இல்லத்துக்கு விஜயம்",
-       "நவ. 22 காலை 8 மணி: 101 நாம சங்கீர்த்தன பஜன்",
-       "நவ. 22 மதியம் 2 மணி: நாராயண சேவை உணவு தயாரிப்பு"
-      ]
-     },
-     {
-      "title": "நவ. 23 நிகழ்ச்சி",
-      "lines": [
-       "காலை 5 மணி: சுப்ரபாதம், நகர சங்கீர்த்தனம்",
-       "கணபதி ஹோமம், பிரசாந்தி கொடியேற்றம், ருத்ர பாராயணம்",
-       "மாலையில் திருவீதியுலா, இசை, சிறப்பு சொற்பொழிவு, மங்கள ஆரத்தி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் ஸ்ரீ சாய் மந்திர் வளாகத்தில் சத்ய சாய்பாபாவின் 101வது பிறந்த நாள் விழா நாளை தொடங்குகிறது. பகவான் ஸ்ரீ சத்ய சாய்பாபாவின் பிறந்த நாள் விழா நவம்பர் 23ஆம் தேதி கொண்டாடப்படுகிறது. கடந்த ஆண்டு அவரது 100வது பிறந்த நாள் நூற்றாண்டு விழா ஆண்டு முழுவதும் நடத்தப்பட்டது. அதன் தொடர்ச்சியாக இந்த விழா நிகழ்ச்சிகள் ஏற்பாடு செய்யப்பட்டுள்ளன. நவம்பர் 20ஆம் தேதி மாலை 5 மணிக்கு 100வது திருவிளக்கு பூஜையுடன் விழா தொடங்குகிறது. நவம்பர் 21ஆம் தேதி முதியோர் இல்லத்துக்கு விஜயம் செய்யும் நிகழ்ச்சி நடைபெறுகிறது. நவம்பர் 22ஆம் தேதி காலை 8 மணிக்கு 101 நாம சங்கீர்த்தன பஜனும், மதியம் 2 மணிக்கு நாராயண சேவைக்கான உணவு தயாரிப்பு நிகழ்ச்சியும் நடைபெறுகின்றன. நவம்பர் 23ஆம் தேதி காலை 5 மணிக்கு சுப்ரபாதம், நகர சங்கீர்த்தனத்துடன் பிறந்த நாள் விழா தொடங்குகிறது. பின்னர் கணபதி ஹோமம், பிரசாந்தி கொடியேற்றம், ருத்ர பாராயணம் நடைபெறுகின்றன. மாலையில் திருவீதியுலா, இசை நிகழ்ச்சி, சிறப்பு சொற்பொழிவு, ஊஞ்சல் உற்சவம், மங்கள ஆரத்தி ஆகியவை நடைபெற உள்ளன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 திருப்பூர் சாய் மந்திரில் சத்ய சாய்பாபா 101வது பிறந்த நாள் விழா நாளை தொடக்கம்\n\n📰 முழு விவரம்:\nபகவான் ஸ்ரீ சத்ய சாய்பாபாவின் 101வது பிறந்த நாள் விழாவையொட்டி, திருப்பூர் ஸ்ரீ சாய் மந்திர் வளாகத்தில் பல்வேறு சிறப்பு நிகழ்ச்சிகள் நவம்பர் 20ஆம் தேதி தொடங்குகின்றன. பிறந்த நாள் விழா நவம்பர் 23ஆம் தேதி கொண்டாடப்படுகிறது. கடந்த ஆண்டு 100வது பிறந்த நாள் நூற்றாண்டு விழா ஆண்டு முழுவதும் நடத்தப்பட்டது; அதன் தொடர்ச்சியாக இந்நிகழ்ச்சிகள் ஏற்பாடு செய்யப்பட்டுள்ளன.\n🕔 நவ. 20 மாலை 5 மணி: 100வது திருவிளக்கு பூஜையுடன் விழா தொடக்கம்\n🏠 நவ. 21: முதியோர் இல்லத்துக்கு விஜயம்\n🎶 நவ. 22 காலை 8 மணி: 101 நாம சங்கீர்த்தன பஜன்; மதியம் 2 மணி: நாராயண சேவைக்கான உணவு தயாரிப்பு\n🌅 நவ. 23 காலை 5 மணி: சுப்ரபாதம், நகர சங்கீர்த்தனம், கணபதி ஹோமம், பிரசாந்தி கொடியேற்றம், ருத்ர பாராயணம்\n🎭 நவ. 23 மாலை: திருவீதியுலா, இசை நிகழ்ச்சி, சிறப்பு சொற்பொழிவு, ஊஞ்சல் உற்சவம், மங்கள ஆரத்தி\n\nSathya Sai Baba 101st birthday celebrations Tirupur | Tirupur news\n📍 திருப்பூர் ஸ்ரீ சாய் மந்திர், திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "Devotees sit in neat rows on the floor of the Sri Sai Mandir campus in Tirupur as a 100th Thiruvilakku puja begins in the evening, with a long line of brass oil lamps lit in front of them. The hall is a open-sided temple courtyard with a white-washed pillared mandapam and a small temple tower behind, decorated with marigold and jasmine garlands. Mostly women in silk sarees and men in white shirts and veshti sit cross-legged, seen from behind and from a distance, some holding flower garlands, while a priest in white stands near the lamps. The evening is dusky, the warm yellow glow of the lamps filling the hall. Camera at eye level, 35 mm, wide enough to show the rows of lamps and the mandapam. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of brass thiruvilakku oil lamps lined up on a stone floor at Sri Sai Mandir in Tirupur, their small flames lit for the 100th lamp puja. The brass lamps have wicks in ghee or oil, with marigold petals and a few jasmine garlands scattered beside them. Behind the lamps, out of focus, the feet and saree borders of devotees seated on the floor can be seen, and a pillar of the temple mandapam is faintly visible. The light is warm and evening-soft, the flames casting a golden glow. Camera close and slightly high, 50 mm, shallow depth of field to keep the lamps sharp. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/satya-sai-101st-birth-anniversary-celebrations-kick-off-today/4380766",
-   "published": "2026-11-19T19:34:48+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173526/tirupur360/tn8yyoe5a2p9wimsho99.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173529/tirupur360/p7xjmomutgvbwaxflnuv.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருமுருகன்பூண்டி நகராட்சியில் தூய்மைப் பணிகள் அரசு நேரடி கட்டுப்பாட்டுக்கு மாறின",
-   "english_headline": "Cleaning work in Thirumurugan Poondi, Tarapuram and Kangayam municipalities taken back by the government from private contractors",
-   "category": "Government & Services",
-   "location": "Thirumurugan Poondi, Tarapuram and Kangayam municipalities, Tirupur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு அறிவிப்பு",
-    "loc": "திருமுருகன்பூண்டி நகராட்சி",
-    "hl1": "திருமுருகன்பூண்டியில் தூய்மைப் பணி அரசு",
-    "hl2": "தனியார் ஒப்பந்தம் முடிவு",
-    "slides": [
-     {
-      "title": "என்ன மாற்றம்?",
-      "lines": [
-       "தனியார் வசம் இருந்த தூய்மைப் பணி அரசு வசம் மாறியது",
-       "நகர்ப்புற வாழ்வாதார இயக்கம் மூலம் நேரடியாக பணிகள்",
-       "பூண்டி, தாராபுரம், காங்கயம் நகராட்சிகளில் அமல்"
-      ]
-     },
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "<b>15ஆம் தேதி</b> தனியார் ஒப்பந்தம் முடிவுக்கு வந்தது",
-       "அதன் பின் அரசின் மகளிர் திட்டம் பணிகளைத் தொடங்கியது",
-       "உடுமலை உள்ளிட்ட மீதி நகராட்சிகளில் <b>அடுத்த மாதம் 1ஆம்"
-      ]
-     },
-     {
-      "title": "ஊதியம், வருகை",
-      "lines": [
-       "நகராட்சி அதிகாரிகளே வருகைப் பதிவை நேரடியாகக் கண்காணிப்பர்",
-       "நகராட்சி நிதியிலிருந்து மாதந்தோறும் நேரடியாக ஊதியம்",
-       "விரைவில் பயோமெட்ரிக் முறை அறிமுகமாகலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருமுருகன்பூண்டி நகராட்சியில் தனியார் வசம் இருந்த தூய்மைப் பணிகள் இனி அரசின் நேரடி கட்டுப்பாட்டில் நடைபெறும். தனியார் ஒப்பந்தம் 15ஆம் தேதியுடன் முடிவுக்கு வந்தது. திருமுருகன்பூண்டி, தாராபுரம், காங்கயம் நகராட்சிகளில் இந்த மாற்றம் அமலுக்கு வந்துள்ளது. அரசின் சார்பு நிறுவனமான நகர்ப்புற வாழ்வாதார இயக்கம் மூலம் பணிகள் நேரடியாக மேற்கொள்ளப்படுகின்றன. அரசின் மகளிர் திட்டத்தின் கீழ் செயல்படும் இந்த இயக்கம் தூய்மைப் பணிகளைத் தொடங்கியுள்ளது. இனி பணியாளர்களின் வருகைப் பதிவை நகராட்சி அதிகாரிகளே நேரடியாகக் கண்காணிப்பார்கள். நகராட்சி நிதியிலிருந்தே பணியாளர்களுக்கு மாதந்தோறும் நேரடியாக ஊதியம் வழங்கப்படும். வருகைப் பதிவில் வெளிப்படைத்தன்மைக்காக விரைவில் பயோமெட்ரிக் முறை அறிமுகப்படுத்தப்பட உள்ளதாகக் கூறப்படுகிறது. முன்பு குப்பையின் அளவுக்கு ஏற்ப டன் கணக்கில் ஒப்பந்ததாரர்களுக்குப் பணம் வழங்கப்பட்டது. அந்த முறை ரத்து செய்யப்பட்டு, நகரம் முழுவதையும் தூய்மையாகப் பராமரிக்க இலக்கு நிர்ணயிக்கப்பட்டுள்ளது. தேவைப்படும் இடங்களில் கூடுதல் பணியாளர்கள் நியமிக்கப்பட வாய்ப்புள்ளதாக எதிர்பார்க்கப்படுகிறது. உடுமலை உள்ளிட்ட மாவட்டத்தின் எஞ்சிய நகராட்சிகளில் அடுத்த மாதம் 1ஆம் தேதி முதல் அரசின் சார்பில் தூய்மைப் பணிகள் மேற்கொள்ளப்பட உள்ளன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧹 திருமுருகன்பூண்டி நகராட்சியில் தூய்மைப் பணி அரசு வசம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டத்தில் பூண்டி, தாராபுரம், காங்கயம் நகராட்சிகளில் தனியார் வசம் இருந்த தூய்மைப் பணிகள் முடிவுக்கு வந்தன.\nதனியார் ஒப்பந்தம் 15ஆம் தேதியுடன் முடிவுக்கு வந்தது. அதன் பின் அரசின் சார்பு நிறுவனமான நகர்ப்புற வாழ்வாதார இயக்கம் மூலம் பணிகள் நேரடியாக மேற்கொள்ளப்படுகின்றன.\nஅரசின் மகளிர் திட்டத்தின் கீழ் செயல்படும் இந்த இயக்கம் தூய்மைப் பணிகளைத் தொடங்கியுள்ளது.\n👮 நகராட்சி அதிகாரிகளே பணியாளர்களின் வருகைப் பதிவை நேரடியாகக் கண்காணிப்பர்.\n💰 நகராட்சி நிதியிலிருந்து பணியாளர்களுக்கு மாதந்தோறும் நேரடியாக ஊதியம் வழங்கப்படும்.\n🆔 வருகைப் பதிவில் வெளிப்படைத்தன்மைக்காக விரைவில் பயோமெட்ரிக் முறை அறிமுகப்படுத்தப்பட உள்ளதாகக் கூறப்படுகிறது.\n🗑️ முன்பு குப்பையின் அளவுக்கு ஏற்ப டன் கணக்கில் ஒப்பந்ததாரர்களுக்குப் பணம் வழங்கப்பட்டது. அந்த முறை ரத்து செய்யப்பட்டது.\n🎯 நகரம் முழுவதையும் தூய்மையாகப் பராமரிக்க இலக்கு நிர்ணயிக்கப்பட்டுள்ளது.\n👷 தேவைப்படும் இடங்களில் கூடுதல் பணியாளர்கள் நியமிக்கப்பட வாய்ப்புள்ளதாக எதிர்பார்க்கப்படுகிறது.\n📅 உடுமலை உள்ளிட்ட மாவட்டத்தின் எஞ்சிய நகராட்சிகளில் அடுத்த மாதம் 1ஆம் தேதி முதல் அரசின் சார்பில் தூய்மைப் பணிகள் மேற்கொள்ளப்பட உள்ளன.\n\nThirumurugan Poondi cleaning work taken over by govt | Tirupur news\n📍 திருமுருகன்பூண்டி, திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Poondi #TirupurNews #திருப்பூர்",
-   "prompts": "A group of women sanitation workers in green uniforms sweeps a street and collects garbage into a municipal tipper vehicle in a town centre of Tarapuram, Tirupur district. Sweepers with brooms and metal dustpans clear the roadside near a row of small shops, two-wheelers and an autorickshaw parked at the kerb. A few women stand in a line beside a white municipal garbage van, their backs to the camera, while another worker pushes a handcart with plastic bins. The street is lined with low concrete buildings and an old town bus stop in the background. It is morning in soft daylight with a clear sky. The camera stands at eye level about 20 metres away, using a 35 mm lens wide enough to show the whole street and the workers, faces turned away from the lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a municipal garbage tipper vehicle with its rear open, showing piled household waste, plastic bags and sweepings being tipped into it. A pair of worn brooms and a green metal dustpan rest on the roadside kerb beside a clean swept patch of tarmac. A sanitation worker's rubber-gloved hand holds a wet heap of waste over the tailgate, partly visible at the frame edge. Behind is a row of wheelie bins on a concrete pavement and the edge of a shopfront with its shutter half down. Morning daylight, soft shadows. Camera slightly high, 35 mm, shallow focus on the garbage and tools. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/an-end-to-the-privatization-of-sanitation-mr-murugan-came-into-force-in-poondi-municipality/4381035",
-   "published": "2026-11-19T22:44:58+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173535/tirupur360/moba7owluifhixif5gkf.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173538/tirupur360/kgifghsygbex7x9sckfo.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "உடுமலையில் பள்ளி மாணவியருக்கு திடக்கழிவு தரம் பிரித்தல் விழிப்புணர்வு முகாம்",
-   "english_headline": "Udumalaipettai municipality holds waste segregation awareness camp for school girls",
-   "category": "Civic Issues",
+   "tamil_headline": "உடுமலை விற்பனை கூடத்தில் கொப்பரை ஏலம்: அதிகபட்சமாக கிலோ ரூ.157.60-க்கு விற்பனை",
+   "english_headline": "Copra auction at Udumalaipettai Regulated Market: highest price reaches Rs 157.60 per kg under e-NAM scheme",
+   "category": "Business & Prices",
    "location": "Udumalaipettai, Tirupur district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விழிப்புணர்வு முகாம்",
+    "cat": "கொப்பரை ஏலம்",
     "loc": "உடுமலை",
-    "hl1": "உடுமலையில் குப்பை தரம் பிரித்தல் முகாம்",
-    "hl2": "மாணவியருக்கு விழிப்புணர்வு",
+    "hl1": "உடுமலையில் கொப்பரை கிலோ ரூ.157.60",
+    "hl2": "426 மூட்டைகள் ஏலம் போனது",
     "slides": [
      {
-      "title": "எங்கே நடந்தது?",
+      "title": "ஏல நிலவரம்",
       "lines": [
-       "உடுமலை அரசு பெண்கள் மேல்நிலைப்பள்ளியில் முகாம்",
-       "உடுமலை நகராட்சி சார்பில் நடத்தப்பட்டது",
-       "திடக்கழிவு மேலாண்மை விதிகள் அடிப்படையில்"
+       "உடுமலை ஒழுங்குமுறை விற்பனைக்கூடம்",
+       "<b>36</b> விவசாயிகள், <b>11</b> வியாபாரிகள் பங்கேற்பு",
+       "மொத்தம் <b>426</b> மூட்டைகள் ஏலம் விடப்பட்டன"
       ]
      },
      {
-      "title": "என்ன",
+      "title": "கொப்பரை விலை",
       "lines": [
-       "கழிவுகளை <b>4 வகையாக</b> தரம் பிரித்துத் தர வேண்டும்",
-       "டெங்கு பரவல், போதை ஒழிப்பு, தன் சுத்தம் குறித்து விளக்கம்",
-       "மாணவியருக்கு விழிப்புணர்வு ஏற்படுத்தப்பட்டது"
+       "முதல் தரம்: அதிகபட்சமாக கிலோ <b>ரூ.157.60</b>",
+       "இரண்டாம் தரம்: கிலோ <b>ரூ.129</b>",
+       "மின்னணு தேசிய வேளாண் சந்தை திட்டம் மூலம் ஏலம்"
       ]
      },
      {
-      "title": "யார் பங்கேற்றனர்?",
+      "title": "கூடுதல் விவரம்",
       "lines": [
-       "நகராட்சி கமிஷனர் குமரன் தலைமையில் நடந்தது",
-       "நகர் நல அலுவலர் டாக்டர் அமுதவல்லி முன்னிலை வகித்தார்",
-       "துப்புரவு ஆய்வாளர்கள், ஆசிரியர்கள், மாணவர்கள் பங்கேற்பு"
+       "பங்கேற்க விரும்பும் விவசாயிகள், வியாபாரிகள்",
+       "விற்பனைக்கூட கண்காணிப்பாளரைத் தொடர்புகொள்ளலாம்",
+       "தொடர்பு எண்: <b>94880 00163</b>"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "உடுமலையில் பள்ளி மாணவியருக்கு குப்பை தரம் பிரித்தல் விழிப்புணர்வு முகாம் நடைபெற்றது. உடுமலை நகராட்சி சார்பில் அரசு பெண்கள் மேல்நிலைப்பள்ளியில் இந்த முகாம் நடத்தப்பட்டது. திடக்கழிவு மேலாண்மை விதிகள் அடிப்படையில் கழிவுகளை நான்கு வகையாகப் பிரித்துத் தருவது குறித்து விளக்கப்பட்டது. டெங்கு காய்ச்சல் பரவுதல், போதை ஒழிப்பு, தன் சுத்தம் ஆகியவை குறித்தும் மாணவியருக்கு விழிப்புணர்வு ஏற்படுத்தப்பட்டது. நகராட்சி கமிஷனர் குமரன் தலைமையில் நடந்த இந்த முகாமில், நகர் நல அலுவலர் டாக்டர் அமுதவல்லி முன்னிலை வகித்தார். துப்புரவு ஆய்வாளர்கள் செல்வம், ராஜ்மோகன் உள்ளிட்டோரும் பள்ளி ஆசிரியர்கள், மாணவர்கள், தூய்மைப் பணி மேற்பார்வையாளர்களும் பங்கேற்றனர். உடுமலை நகராட்சி பகுதிகளில் இதுபோன்ற விழிப்புணர்வுப் பணிகள் தொடர்ந்து நடைபெறுகின்றன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "♻️ உடுமலையில் பள்ளி மாணவியருக்கு குப்பை தரம் பிரித்தல் முகாம்\n\n📰 முழு விவரம்:\nஉடுமலை நகராட்சி சார்பில் அரசு பெண்கள் மேல்நிலைப்பள்ளியில் திடக்கழிவு மேலாண்மை விழிப்புணர்வு முகாம் நடைபெற்றது. திடக்கழிவு மேலாண்மை விதிகள் அடிப்படையில் கழிவுகளை நான்கு வகையாகத் தரம் பிரித்துத் தருவது குறித்து மாணவியருக்கு விளக்கப்பட்டது.\nடெங்கு காய்ச்சல் பரவுதல், போதை ஒழிப்பு, தன் சுத்தம் குறித்தும் விழிப்புணர்வு ஏற்படுத்தப்பட்டது.\nநகராட்சி கமிஷனர் குமரன் தலைமையில், நகர் நல அலுவலர் டாக்டர் அமுதவல்லி முன்னிலையில் முகாம் நடைபெற்றது. துப்புரவு ஆய்வாளர்கள் செல்வம், ராஜ்மோகன், பள்ளி ஆசிரியர்கள், மாணவர்கள், தூய்மைப் பணி மேற்பார்வையாளர்கள் பங்கேற்றனர்.\n\n📍 இடம்: அரசு பெண்கள் மேல்நிலைப்பள்ளி, உடுமலை\n\nUdumalaipettai waste segregation awareness camp for school girls | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "Schoolgirls in Tamil Nadu government school uniform sit in rows on benches in a school hall in Udumalaipettai, Tirupur district, listening to municipal officials at the front during an awareness camp on waste segregation. Seen from behind and slightly to the side, the girls wear white blouses and dark skirts, while teachers stand near a low table at the front. Two municipal officers in plain sarees and shirts stand before a row of four colour-coded dustbins set on the floor, each for a different category of waste, as a sanitary supervisor in a uniform demonstrates sorting. Tubelights and ceiling fans light the hall in daytime, with concrete walls and a tiled floor typical of a Tamil Nadu government school. Camera at eye level or slightly high, 35 mm, wide enough to show the hall and the row of bins. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of four colour-coded dustbins lined up on a tiled classroom floor in a government girls' school in Udumalaipettai, Tirupur district, used to demonstrate segregation of municipal solid waste into four categories. Each bin holds a different kind of waste: dry leaves, plastic bottles, paper and food scraps placed separately beside it. A pair of hands in a school uniform sleeve, seen from behind, points at one bin, with a few schoolgirls' white shoes visible at the edge of frame. Daylight from a window falls across the tiles. Camera close to floor level, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/kalvimalar-news/awareness-camp-on-solid-waste-management/83718",
-   "published": "2026-11-20 15:35:38",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says the camp was held at Bharathiyar Centenary Girls' Higher Secondary School (பாரதியார் நூற்றாண்டு பெண்கள் மேல்நிலைப் பள்ளி), but the draft names the school as அரசு பெண்கள் மேல்நிலைப்பள்ளி, which is not in the article.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "உடுமலை ஒழுங்குமுறை விற்பனை கூடத்தில் கொப்பரை கிலோ அதிகபட்சமாக 157.60 ரூபாய்க்கு ஏலம் போனது. மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் உடுமலை விற்பனை கூடத்தில் வாரந்தோறும் கொப்பரை ஏலம் நடைபெறுகிறது. இந்த வாரம் நடைபெற்ற ஏலத்துக்கு 36 விவசாயிகள் கொப்பரையைக் கொண்டு வந்தனர். இதில் 11 வியாபாரிகள் பங்கேற்று 426 மூட்டைகள் ஏலம் விடப்பட்டன. ஏலத்தில் முதல் தரக் கொப்பரைக்கு அதிகபட்சமாக கிலோவுக்கு 157.60 ரூபாய் விலை கிடைத்தது. இரண்டாம் தரக் கொப்பரைக்குக் குறைந்தபட்சமாகவும் அதிகபட்சமாகவும் கிலோவுக்கு 129 ரூபாய் விலை கிடைத்தது. ஏலத்தில் பங்கேற்க விரும்பும் விவசாயிகள் மற்றும் வியாபாரிகள் கூடுதல் விவரங்களுக்கு விற்பனைக்கூட கண்காணிப்பாளரைத் தொடர்பு கொள்ளலாம். தொடர்புகொள்ள வேண்டிய மொபைல் எண் 94880 00163 ஆகும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🥥 உடுமலையில் கொப்பரை ஏலம்: அதிகபட்சமாக கிலோ ரூ.157.60-க்கு விற்பனை!\n\n📰 முழு விவரம்:\nஉடுமலை ஒழுங்குமுறை விற்பனை கூடத்தில் மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் வாராந்திர கொப்பரை ஏலம் நடைபெற்றது. இந்த வார ஏலத்துக்கு 36 விவசாயிகள் கொப்பரையைக் கொண்டு வந்தனர். இதில் 11 வியாபாரிகள் பங்கேற்று 426 மூட்டைகள் கொப்பரை ஏலம் விடப்பட்டன. முதல் தரக் கொப்பரை கிலோவுக்கு அதிகபட்சமாக ரூ.157.60 வரை விலை கிடைத்தது. இரண்டாம் தரக் கொப்பரை கிலோவுக்கு குறைந்தபட்சமாகவும் அதிகபட்சமாகவும் ரூ.129 வரை ஏலம் போனது.\n\n📊 ஏல விவரங்கள்:\n🌾 விவசாயிகள்: 36 பேர்\n💼 வியாபாரிகள்: 11 பேர்\n📦 ஏல மூட்டைகள்: 426 மூட்டைகள்\n💰 முதல் தரம்: அதிகபட்சம் கிலோ ரூ.157.60\n💰 இரண்டாம் தரம்: கிலோ ரூ.129\n📞 தொடர்புக்கு: விற்பனைக்கூட கண்காணிப்பாளர் (94880–00163)\n\nℹ️ மக்கள் கவனத்திற்கு: ஏலத்தில் பங்கேற்க விரும்பும் விவசாயிகள், வியாபாரிகள் மேற்கண்ட எண்ணில் தொடர்பு கொள்ளலாம்.\n\nUdumalaipettai regulated market copra auction price eNAM | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "Farmers and traders gather at the Udumalaipettai Regulated Market auction yard as copra sacks are stacked in rows on the concrete floor. A group of around eleven traders in shirts and veshti stand in a loose circle, seen from behind, while an auction supervisor in trousers and shirt calls out bids. Behind them, roughly thirty-six farmers, men in shirts and lungis and a few women in cotton sarees, wait beside heaps of white and brown copra sacks, many piled high in neat rows under a tin-roofed open shed. Tiruppur district agricultural market atmosphere: dusty concrete floor, weighing scales, sacks tied with rope, a few bicycles and tractors parked at the edge. Daylight, soft overcast light from the shed opening. Camera at eye level, 35 mm, wide enough to show the full sack stacks and the gathered crowd, all people seen from behind or at a distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of dried coconut copra spilling from a jute sack on the auction floor, the pale white kernel pieces heaped in a pile beside a weighing scale. Next to the sack, a stack of more sacks is partly visible, and a farmer's hand in a cotton sleeve rests on the rim of a sack, seen from behind. Behind, the blurred figures of traders stand near the auction table. Daylight from the open shed, neutral warm tones. Camera slightly high, 35 mm, shallow depth of field focusing on the copra heap and sack texture. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/copra-auction-at-mall/4381494",
+   "published": "2026-11-20T18:12:30+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173561/tirupur360/a2gqt2fi28gbaxlqiqhg.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795173595/tirupur360/fah2swzyv7cq15qg9m56.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181735/tirupur360/jlxqgy6i3s3gjheo0dsz.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181769/tirupur360/ewhk0hc46zzvdlapf1jz.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "உடுமலை குருவப்பநாயக்கனூரில் கும்பாபிஷேகம் கோலாகலம்",
+   "english_headline": "Kumbabhishekam held in grand manner at Guruvappanaickanur temples, Udumalai, on 20 Nov",
+   "category": "Temples & Events",
+   "location": "Guruvappanaickanur, Udumalai, Tirupur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கோவில் விழா",
+    "loc": "குருவப்பநாயக்கனூர், உடுமலை",
+    "hl1": "குருவப்பநாயக்கனூரில் கும்பாபிஷேகம்",
+    "hl2": "நவ. 20 கோலாகலமாக நடந்தது",
+    "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "உடுமலை குருவப்பநாயக்கனூரில் கோவில் கும்பாபிஷேகம்",
+       "இன்று (<b>நவ. 20</b>) கோலாகலமாக நடந்தது",
+       "விழா கடந்த <b>18ஆம் தேதி</b> தொடங்கியது"
+      ]
+     },
+     {
+      "title": "சிறப்பு பூஜைகள்",
+      "lines": [
+       "வன்னிவிநாயகர், தலகொண்டம்மன், தொட்டிச்சி அம்மன் கோவில்",
+       "<b>3 கால</b> யாக பூஜைகளுக்குப் பிறகு விழா தொடங்கியது",
+       "காலை <b>6 மணிக்கு</b> மங்கள இசையுடன் துவக்கம்"
+      ]
+     },
+     {
+      "title": "கும்பாபிஷேகம்",
+      "lines": [
+       "காலை <b>9:15</b> முதல் <b>10:15</b> மணிக்குள் மகா கும்பாபிஷேகம்",
+       "கோபுர கலசங்கள், சுவாமி விக்ரஹங்களுக்கு கும்பாபிஷேகம்",
+       "பின்னர் சிறப்பு அலங்காரம், தீபாராதனை"
+      ]
+     },
+     {
+      "title": "அன்னதானம்",
+      "lines": [
+       "காலை <b>9 மணி</b> முதல் பக்தர்களுக்கு அன்னதானம்",
+       "குருவப்பநாயக்கனூர் மற்றும் சுற்றுப்புற பகுதி பக்தர்கள்",
+       "திரளான பக்தர்கள் கலந்து கொண்டனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "உடுமலை குருவப்பநாயக்கனூரில் இன்று கும்பாபிஷேகம் கோலாகலமாக நடைபெற்றது. குருவப்பநாயக்கனூரில் உள்ள ஸ்ரீ வன்னிவிநாயகர், ஸ்ரீ தலகொண்டம்மன், ஸ்ரீ தொட்டிச்சி அம்மன் கோவில் கும்பாபிஷேக விழா கடந்த 18ஆம் தேதி தொடங்கியது. மூன்று கால யாக பூஜைகளுக்குப் பிறகு, இன்று காலை 6 மணிக்கு மங்கள இசையுடன் விழா தொடங்கியது. தொடர்ந்து நான்காம் கால யாக வேள்வி உள்ளிட்ட பூஜைகள் நடைபெற்றன. காலை 9:15 மணி முதல் 10:15 மணிக்குள் கோபுர கலசங்களுக்கும், சுவாமி விக்ரஹங்களுக்கும் மகா கும்பாபிஷேகம் நடைபெற்றது. பின்னர் சிறப்பு அலங்காரமும் தீபாராதனையும் நடைபெற்றன. காலை 9 மணி முதல் பக்தர்களுக்கு அன்னதானம் வழங்கப்பட்டது. குருவப்பநாயக்கனூர் மற்றும் சுற்றுப்புறப் பகுதிகளிலிருந்து திரளான பக்தர்கள் கலந்து கொண்டனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 உடுமலை குருவப்பநாயக்கனூரில் கும்பாபிஷேகம் கோலாகலம்\n\n📰 முழு விவரம்:\nஉடுமலை குருவப்பநாயக்கனூரில் உள்ள ஸ்ரீ வன்னிவிநாயகர், ஸ்ரீ தலகொண்டம்மன், ஸ்ரீ தொட்டிச்சி அம்மன் கோவில் கும்பாபிஷேகம் இன்று (நவ. 20) கோலாகலமாக நடைபெற்றது. கோவில் திருப்பணிகள் மேற்கொள்ளப்பட்டு, விழா கடந்த 18ஆம் தேதி தொடங்கியது.\nமூன்று கால யாக பூஜைகளுக்குப் பிறகு, இன்று காலை 6 மணிக்கு மங்கள இசையுடன் விழா தொடங்கியது. நான்காம் கால யாக வேள்வி உள்ளிட்ட பூஜைகள் நடைபெற்றன.\nகாலை 9:15 முதல் 10:15 மணிக்குள் கோபுர கலசங்களுக்கும், சுவாமி விக்ரஹங்களுக்கும் மகா கும்பாபிஷேகம் நடைபெற்றது. பின்னர் சிறப்பு அலங்காரமும் தீபாராதனையும் நடைபெற்றன.\nகாலை 9 மணி முதல் பக்தர்களுக்கு அன்னதானம் வழங்கப்பட்டது. குருவப்பநாயக்கனூர் மற்றும் சுற்றுப்புறப் பகுதிகளிலிருந்து திரளான பக்தர்கள் கலந்து கொண்டனர்.\n\nUdumalai Kumbabhishekam Guruvappanaickanur | Tirupur news\n📍 குருவப்பநாயக்கனூர், உடுமலை, திருப்பூர் மாவட்டம் | 20 நவம்பர்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalai #TirupurNews #திருப்பூர்",
+   "prompts": "A priest in white veshti and bare upper body pours sacred water from a brass kalasam over the tall gopuram of a village temple in Guruvappanaickanur, Udumalai, as a large crowd of devotees gathers below during the Kumbabhishekam ceremony. The temple is a small, traditional South Indian village shrine with a painted multi-tiered gopuram topped with golden kalasams, set among low houses and a few coconut palms on the edge of Tirupur district. Priests in white dhotis and devotees in sarees, salwars and shirts and veshtis stand in the courtyard, most seen from behind or from a distance, some holding flower garlands and brass plates. Bright morning daylight, around 9:30 am, a few strands of smoke rising from yaga fire near the entrance. Camera at eye level, 35 mm lens, wide enough to show the gopuram, the crowd and the temple courtyard. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of several brass kalasam pots with mango leaves and coconut tied at the mouth, placed on a stone platform in front of the sanctum, with sacred water and a small flame of camphor lamp beside them during the Kumbabhishekam rites at a village temple in Udumalai. Hands of a priest in white veshti are visible, reaching to lift a kalasam, while the edge of a red-and-yellow painted pillar and marigold garlands frame the shot. Soft early-morning light from the open courtyard, some marigold petals and smoke from the yaga fire in the background. Camera at slightly high angle, 50 mm macro-style close shot, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sri-talakondamman-temple-kumbabisaram/4381460",
+   "published": "2026-11-20T18:07:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181779/tirupur360/c3qith18ozkjo4hbhrto.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181783/tirupur360/dbgnejiq7lqofluukuku.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சின்னவீரம்பட்டி வெற்றிவேல் நகரில் குடிநீர், தெருவிளக்கு இல்லாமல் மக்கள் தவிப்பு",
+   "english_headline": "Vetrivel Nagar in Chinnaveerampatti faces drinking water and street light problems, residents suffer",
+   "category": "Civic Issues",
+   "location": "Vetrivel Nagar, Chinnaveerampatti panchayat, Udumalaipettai taluk, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அடிப்படை வசதி",
+    "loc": "சின்னவீரம்பட்டி, உடுமலை",
+    "hl1": "சின்னவீரம்பட்டி இல்லாமல் தவிப்பு",
+    "hl2": "தெருவிளக்கும் போதிய இல்லை",
+    "slides": [
+     {
+      "title": "குடிநீர் பிரச்சனை",
+      "lines": [
+       "ஒரு வாரத்துக்கும் அதிகமாக குடிநீர் வரவில்லை",
+       "மக்கள் பல கி.மீ. தூரம் சென்று தண்ணீர் பிடிக்கின்றனர்",
+       "கடந்த மாதம் போராட்டமும் நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "தெருவிளக்கு",
+      "lines": [
+       "தாராபுரம் மாநில நெடுஞ்சாலையிலிருந்து குடியிருப்புக்கு போதிய",
+       "குறைந்த மின்னழுத்தத்தால் உள்ள விளக்குகளும் முறையாக"
+      ]
+     },
+     {
+      "title": "கலெக்டருக்கு மனு",
+      "lines": [
+       "அடிப்படை வசதிகளை மேம்படுத்த வலியுறுத்தி மனு அனுப்பப்பட்டது",
+       "ஊராட்சி, ஒன்றிய நிர்வாகம் ஆய்வு செய்ய வேண்டும் என மக்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சின்னவீரம்பட்டி வெற்றிவேல் நகரில் ஒரு வாரத்துக்கும் அதிகமாக குடிநீர் வரவில்லை. இதனால் மக்கள் பல கிலோமீட்டர் தூரம் சென்று தண்ணீர் பிடித்து வருகின்றனர். உடுமலை ஒன்றியம், சின்னவீரம்பட்டி ஊராட்சிக்குட்பட்ட இப்பகுதிக்கு திருமூர்த்தி கூட்டுக்குடிநீர் திட்டத்தில் முறையாக குடிநீர் வழங்கப்படுவதில்லை. கடந்த மாதம் குடிநீர் தட்டுப்பாட்டைக் கண்டித்து மக்கள் போராட்டமும் நடத்தினர். ஆனாலும் குடிநீர் விநியோகம் சீராகவில்லை. ஊராட்சி, ஒன்றிய நிர்வாகத்தினர் ஆய்வு செய்து குடிநீர் விநியோகத்தை சீராக்க வேண்டும் என மக்கள் கோரியுள்ளனர். தாராபுரம் மாநில நெடுஞ்சாலை மற்றும் கிராம இணைப்பு சாலையிலிருந்து குடியிருப்புக்கு வரும் வழியில் போதிய தெருவிளக்குகள் இல்லை. குறைந்த மின்னழுத்தப் பிரச்னையால் உள்ள தெருவிளக்குகளும் முறையாக எரிவதில்லை. அடிப்படை வசதிகளை விரைவில் மேம்படுத்த வலியுறுத்தி திருப்பூர் கலெக்டருக்கு புகார் மனு அனுப்பப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 சின்னவீரம்பட்டி வெற்றிவேல் நகரில் ஒரு வாரமாக குடிநீர் இல்லை\n\n📰 முழு விவரம்:\nஉடுமலை ஒன்றியம், சின்னவீரம்பட்டி ஊராட்சிக்குட்பட்ட வெற்றிவேல் நகரில் ஒரு வாரத்துக்கும் அதிகமாக குடிநீர் வரவில்லை. திருமூர்த்தி கூட்டுக்குடிநீர் திட்டத்தில் இப்பகுதிக்கு முறையாக குடிநீர் வழங்கப்படுவதில்லை. மக்கள் பல கி.மீ. தூரம் பயணித்து நகருக்கு வந்து தண்ணீர் பிடித்துச் செல்கின்றனர். கடந்த மாதம் குடிநீர் தட்டுப்பாட்டைக் கண்டித்து மக்கள் போராட்டம் நடத்தினர்.\nதாராபுரம் மாநில நெடுஞ்சாலை மற்றும் கிராம இணைப்பு சாலையிலிருந்து குடியிருப்புக்கு வரும் வழியில் போதிய தெருவிளக்குகள் இல்லை. குறைந்த மின்னழுத்தப் பிரச்னையால் உள்ள தெருவிளக்குகளும் முறையாக எரிவதில்லை.\nஅடிப்படை வசதிகளை விரைவில் மேம்படுத்தக் கோரி திருப்பூர் கலெக்டருக்கு புகார் மனு அனுப்பப்பட்டுள்ளது.\n\nℹ️ மக்கள் கவனத்திற்கு: குடிநீர் வினியோகத்தை சீராக்க ஊராட்சி, ஒன்றிய நிர்வாகம் ஆய்வு செய்ய வேண்டும் என மக்கள் கோருகின்றனர்.\n\nChinnaveerampatti water and street light problem | Tirupur news\n📍 சின்னவீரம்பட்டி, உடுமலை | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "A line of women in sarees and men in shirts carry steel and plastic water pots along a dusty unpaved road in Vetrivel Nagar colony, Chinnaveerampatti, Udumalaipettai taluk, Tirupur district, Tamil Nadu. They walk away from the camera toward a row of small house roofs and a water point, their pots catching the daylight, showing that they have travelled a long way to fetch water for the week-long shortage. On one side of the road stands a concrete street light pole with its lamp switched off, and a few dim bulbs on further poles fade into the distance, pointing to the low-voltage street light problem. Two-wheelers are parked at the roadside and a few dry coconut palms and open plots stand behind the houses of a growing residential area on the outskirts of Tirupur district. The scene is in daylight with a flat, hazy sky. Shot from eye level at 35 mm, wide enough to show the colony road, the people from behind and far away, and the unlit pole. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a public water tap at a colony water point in Vetrivel Nagar, Chinnaveerampatti, Tirupur district, Tamil Nadu. A dull metal tap on a concrete stand is connected to a pipe, with a few empty plastic water pots and a steel vessel placed on the wet, dusty ground below it, showing that water has not flowed for days. Behind the tap, the edge of a concrete street light pole with an unlit lamp is visible against a plain sky, linking the water shortage and the broken street lights. The ground is damp in patches and there is a small puddle near the stand. The light is natural daytime light. Shot from a low angle at 35 mm with a shallow depth of field so the pots and tap are sharp and the background people, if any, are blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/basic-people-suffer-in-thavipu-vetrivelnagar-due-to-lack-of-facilities/4381378",
+   "published": "2026-11-20T17:10:34+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181821/tirupur360/f0sx26yrras1w2dgpk48.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795181825/tirupur360/dphsfhbduad5pgdd51pe.jpg"
    ]
   }
  ]
