@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-20 | `696eaa2` | Facebook: up to 18 news a day per page (45 min apart), article link in the first comment, 3 hashtags |
 | 2026-11-20 | `dbe3c4d` | Daily rasipalan as a reel in the 360 gold-reel pattern (music only); carousel only if the reel fails |
 | 2026-11-20 | `a2e8d23` | Reels without a picture: a designed background by news type, never the page logo |
 | 2026-11-20 | `b8257ed` | stories shared |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `8e168da` | Posting loop: start the next posting run with 3 tries |
 | 2026-11-20 | `f8c492c` | Cloudinary clean-up every 6 hours; red run + e-mail when the login is refused, usage unreadable or 80% used |
 | 2026-11-20 | `7917f53` | pick: written and posted |
-| 2026-11-20 | `ccfa074` | pick: picked news saved |
 <!-- recent-changes:end -->
