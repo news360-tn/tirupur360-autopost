@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `e7a30c8` | YouTube: news reels uploaded automatically as Shorts (only with the page's keys) |
+| 2026-11-21 | `773dafb` | facebook RN-191 |
+| 2026-11-21 | `9bd9be9` | posted RN-191 |
+| 2026-11-21 | `6b6ca61` | pick: picked news saved |
+| 2026-11-21 | `b11c78c` | pick: picked news saved |
+| 2026-11-21 | `e7f7fdb` | pick: list sent |
+| 2026-11-21 | `b2da434` | powercut: notices written |
+| 2026-11-21 | `8b362a4` | pick: written and posted |
+| 2026-11-21 | `1f74f67` | facebook RN-187 |
+| 2026-11-21 | `c9fc1e8` | posted RN-187 |
 | 2026-11-21 | `5f328dc` | Facebook: every news that is on Instagram also goes to Facebook |
 | 2026-11-21 | `a7b7024` | facebook RN-185 |
 | 2026-11-21 | `ed9a147` | posted RN-185 |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-21 | `b204f76` | pick: picked news saved |
 | 2026-11-21 | `f0c5363` | pick: list sent |
 | 2026-11-21 | `862737c` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
-| 2026-11-21 | `6fdd98e` | powercut: notices written |
-| 2026-11-21 | `a179650` | powercut: notices written |
-| 2026-11-21 | `de61ad5` | pick: written and posted |
-| 2026-11-21 | `1602191` | pick: picked news saved |
-| 2026-11-21 | `9fbd36e` | pick: list sent |
-| 2026-11-21 | `99a34a0` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
-| 2026-11-21 | `d397096` | pick: written and posted |
-| 2026-11-21 | `91417f9` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
-| 2026-11-21 | `84a413e` | goldrate posted |
-| 2026-11-21 | `b52afb8` | pick: picked news saved |
 <!-- recent-changes:end -->
