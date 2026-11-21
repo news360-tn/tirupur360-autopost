@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `5bfaa08` | Posted report: one e-mail for all pages, 4 times a day |
 | 2026-11-21 | `89f3161` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
 | 2026-11-21 | `2d622f7` | goldrate posted |
 | 2026-11-21 | `909893d` | pick: written and posted |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `704e948` | pick: written and posted |
 | 2026-11-20 | `7cd4f4e` | pick: picked news saved |
 | 2026-11-20 | `15e42fb` | pick: picked news saved |
-| 2026-11-20 | `50b885e` | pick: list sent |
 <!-- recent-changes:end -->
