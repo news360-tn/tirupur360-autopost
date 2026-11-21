@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-21T12:37+05:30",
- "posts_measured": 144,
+ "updated": "2026-11-21T16:30+05:30",
+ "posts_measured": 148,
  "topic_weight": {
   "politics": -0.41,
-  "accident": 0.95,
+  "accident": 0.94,
   "crime": 1.5,
   "education": -0.5,
-  "jobs": -0.37,
-  "power_cut": 0.02,
-  "temple": -0.48,
-  "civic": 0.23,
-  "poultry_agri": -0.5,
+  "jobs": -0.3,
+  "power_cut": 0.03,
+  "temple": -0.5,
+  "civic": 0.24,
+  "poultry_agri": -0.48,
   "weather": -0.5
  },
  "topic_n": {
   "politics": 13,
   "accident": 12,
   "crime": 21,
-  "education": 10,
+  "education": 11,
   "jobs": 4,
   "power_cut": 8,
-  "temple": 12,
+  "temple": 13,
   "civic": 27,
-  "poultry_agri": 11,
+  "poultry_agri": 13,
   "weather": 3,
   "sports_culture": 1
  },
@@ -38,7 +38,7 @@
   "🚨 மங்கலம் அருகே கிரேன் மோதிய அரசுப் பள்ளி மாணவன் பலி",
   "🫀 பல்லடம் இளைஞரின் உடல் உறுப்புகள் தானம்: மூளைச்சாவுக்குப் பின் பல உயிர்களுக்கு "
  ],
- "avg_watch_s": 7.3,
+ "avg_watch_s": 7.4,
  "best_topics": [
   "crime",
   "accident",
@@ -46,6 +46,6 @@
  ],
  "weak_topics": [
   "education",
-  "poultry_agri"
+  "temple"
  ]
 }
