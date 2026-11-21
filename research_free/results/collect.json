@@ -3,203 +3,109 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/the-area-of-agricultural-land-in-tiruppur-district-has-decreased-by-5000-hectares",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/farmers-are-scared-due-to-the-information-circulating-about-mineral-resources-in-the-tarapuram-area-farmers-demand-an-explanation",
-  "candidate filter: collected=2",
-  "to write: 2 Tirupur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/hindu-munnani-opposes-the-demolition-of-temples-located-on-reserved-sites-in-thirumuruganpoondi",
+  "candidate filter: collected=1",
+  "to write: 1 Tirupur district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'pollinations': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
-  "filed: 2 Tirupur district stories (target 2), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
+  "filed: 1 Tirupur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (20s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (40s)",
+  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (42s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "தாராபுரத்தில் கனிமவளம் இருப்பதாக பரவும் தகவல்: விவசாயிகள் விளக்கம் கோரிக்கை",
-   "english_headline": "Rumours of mineral deposits in Tarapuram villages worry farmers; they ask the district administration for clarification",
-   "category": "Government & Services",
-   "location": "Tarapuram, Tirupur district",
+   "tamil_headline": "திருமுருகன்பூண்டியில் கோயில்களை இடிக்க இந்து முன்னணி எதிர்ப்பு",
+   "english_headline": "Hindu Munnani protests planned demolition of temples on reserve sites in Thirumurugan Poondi",
+   "category": "Civic Issues",
+   "location": "Thirumurugan Poondi, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயிகள் கோரிக்கை",
-    "loc": "தாராபுரம்",
-    "hl1": "தாராபுரத்தில் கனிமவளம் பரவும் தகவல்",
-    "hl2": "விளக்கம் கோரும் விவசாயிகள்",
+    "cat": "கோயில் எதிர்ப்பு",
+    "loc": "திருமுருகன்பூண்டி",
+    "hl1": "திருமுருகன்பூண்டியில் கோயில் எதிர்ப்பு",
+    "hl2": "இந்து முன்னணி போராட்டம்",
     "slides": [
      {
-      "title": "என்ன பிரச்னை?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "சூரியநல்லூர், தொப்பம்பட்டி, சங்கரண்டாம்பாளையத்தில் கனிமவளம்",
-       "விவசாயிகளுக்குத் தெரியாமல் பட்டா நிலத்தில் மண் எடுத்து",
-       "இதனால் விவசாயிகள் மத்தியில் அச்சமும் குழப்பமும்"
+       "இந்து முன்னணியினர் போராட்டம் நடத்தினர்",
+       "ரிசர்வ் சைட்டில் உள்ள கோயில்களை இடிக்க எதிர்ப்பு",
+       "வியாழக்கிழமை போராட்டம்; வெள்ளிக்கிழமை நகராட்சி முற்றுகை"
       ]
      },
      {
-      "title": "விவசாயிகளின் கவலை",
+      "title": "எந்தப் பகுதி?",
       "lines": [
-       "ஏக்கருக்கு <b>ரூ.40 லட்சம் முதல் ரூ.50 லட்சம்</b> வரை நில மதிப்பு",
-       "நிலங்களைப் பாதிக்கும் நடவடிக்கை வருமோ என அச்சம்",
-       "ஆய்வு செய்தவர்கள், துறை, அரசு அனுமதி பற்றி தெளிவான விவரம்"
+       "செந்தில் நகர், ராக்கியாபாளையம் (13ஆவது வார்டு)",
+       "ஜெகநாதன் நகர்",
+       "செல்வ விநாயகர் கோயில், ஞானவிநாயகர் கோயில்"
       ]
      },
      {
-      "title": "கோரிக்கை",
+      "title": "மனுவில் என்ன?",
       "lines": [
-       "தகவல் உண்மையா, வதந்தியா என மாவட்ட நிர்வாகம் விளக்க வேண்டும்",
-       "கோட்டாட்சியர் உரிய விளக்கம் அளிப்பதாகத் தெரிவித்துள்ளார்",
-       "அமராவதி ராஜவாய்க்காலில் புதர்களை அகற்றி தூர்வார கோரிக்கை"
+       "நகராட்சி அறிக்கையை ரத்து செய்ய வேண்டும் என்று கோரிக்கை",
+       "இடையூறு இல்லாத கோயில்களை அகற்றக் கூடாது",
+       "200-க்கும் மேற்பட்டோர் பங்கேற்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தாராபுரம் பகுதியில் கனிமவளம் இருப்பதாகப் பரவும் தகவலால் விவசாயிகள் அச்சத்தில் உள்ளனர். சூரியநல்லூர், தொப்பம்பட்டி, சங்கரண்டாம்பாளையம் ஆகிய கிராமங்களில் அரிய கனிமவளங்கள் இருப்பதாகக் கூறி, சிலர் விவசாயிகளின் பட்டா நிலங்களில் அவர்களுக்குத் தெரியாமல் மண் எடுத்து ஆய்வு செய்ததாகத் தகவல்கள் பரவுகின்றன. தாராபுரம் கோட்டாட்சியர் அலுவலகத்தில் வியாழக்கிழமை நடைபெற்ற விவசாயிகள் குறைதீர் கூட்டத்தில் இந்தக் கோரிக்கை எழுப்பப்பட்டது. ஏக்கருக்கு ரூ.40 லட்சம் முதல் ரூ.50 லட்சம் வரை நில மதிப்பு உள்ள நிலையில், நிலங்களைப் பாதிக்கும் நடவடிக்கை வருமோ என்ற அச்சம் நிலவுகிறது. ஆய்வு செய்தவர்கள் யார், எந்தத் துறையைச் சேர்ந்தவர்கள், அரசு அனுமதி பெறப்பட்டதா என்பது குறித்து தெளிவான விவரங்கள் இல்லை. எனவே, இந்தத் தகவல் உண்மையா அல்லது வதந்தியா என்பதை மாவட்ட நிர்வாகம் தெளிவுபடுத்த வேண்டும் என விவசாயிகள் கோரியுள்ளனர். இதற்குப் பதிலளித்த கோட்டாட்சியர் உரிய விளக்கம் அளிப்பதாகத் தெரிவித்துள்ளார். மேலும், அமராவதி ராஜவாய்க்காலில் புதர்களை அகற்றி முழுமையாகத் தூர்வார நடவடிக்கை வேண்டும் என்றும் கோரிக்கை வைக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 தாராபுரத்தில் கனிமவளம் பற்றிய தகவலால் விவசாயிகள் அச்சம்\n\n📰 முழு விவரம்:\nதாராபுரம் பகுதியில் கனிமவளம் இருப்பதாகப் பரவும் தகவல் குறித்து விளக்கம் அளிக்க விவசாயிகள் கோரியுள்ளனர். சூரியநல்லூர், தொப்பம்பட்டி, சங்கரண்டாம்பாளையம் பகுதிகளில் விவசாயிகளுக்குத் தெரியாமல் பட்டா நிலங்களில் மண் எடுத்து ஆய்வு செய்ததாகத் தகவல் பரவுகிறது. ஏக்கருக்கு ரூ.40 லட்சம் முதல் ரூ.50 லட்சம் வரை நில மதிப்பு உள்ள நிலையில், விவசாயிகள் அச்சத்தில் உள்ளனர்.\n📍 இடம்: தாராபுரம் வட்டம், சூரியநல்லூர், தொப்பம்பட்டி, சங்கரண்டாம்பாளையம்\n🗓️ நாள்: வியாழக்கிழமை நடைபெற்ற தாராபுரம் வருவாய் கோட்ட விவசாயிகள் குறைதீர் கூட்டத்தில் கோரிக்கை\n👮 நடவடிக்கை: தாராபுரம் கோட்டாட்சியர் ஃபெலிக்ஸ் ராஜா உரிய விளக்கம் அளிப்பதாகத் தெரிவித்துள்ளார்\nℹ️ மக்கள் கவனத்திற்கு: ஆய்வு செய்தவர்கள், துறை, அரசு அனுமதி பற்றிய விவரங்களை மாவட்ட நிர்வாகம் தெளிவுபடுத்த வேண்டும்.\n\nTarapuram mineral rumours worry farmers | Tirupur news\n📍 தாராபுரம், திருப்பூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Tarapuram #விவசாயம் #TirupurNews",
-   "prompts": "A row of farmers sits on plastic chairs in a government revenue office hall in Tarapuram, Tirupur district, Tamil Nadu, listening to officials at a long table at the front. The farmers, men in shirts and veshti and a few women in cotton sarees, are shown from behind or far away, some holding folded papers and notebooks. The table is covered with a white cloth, with official files, a microphone and water bottles on it. Along the back wall hang plain government notice boards, and ceiling fans turn overhead. Through open windows comes soft daylight after the November northeast monsoon rain, with the faint green of coconut trees outside. Several officials in formal shirts sit at the table as a meeting chair presides. Camera at eye level, 35 mm, wide enough to show the whole hall and its people. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official grievance petition files and a handwritten farmer's application lying on a wooden government office desk in Tarapuram revenue office. Beside them is a small clay pot of drinking water and a steel tumbler, with a folded sheet of paper and a pen. In the blurred background, a plain grey office cabinet and a few farmers' shoulders are visible from behind. The light is soft daylight from a window, after rain, with a slightly cool tone. Camera close and slightly high, 35 mm, shallow depth of field keeping the files sharp. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/farmers-are-scared-due-to-the-information-circulating-about-mineral-resources-in-the-tarapuram-area-farmers-demand-an-explanation",
-   "published": "2026-11-19T23:42:31.941Z",
+   "reel_script": "திருமுருகன்பூண்டியில் இரண்டு கோயில்களை இடிக்கும் முடிவுக்கு இந்து முன்னணியினர் எதிர்ப்பு தெரிவித்துள்ளனர். வியாழக்கிழமை போராட்டம் நடத்திய இந்து முன்னணியினர், வெள்ளிக்கிழமை திருமுருகன்பூண்டி நகராட்சி அலுவலகத்தை முற்றுகையிட்டு மனு அளித்தனர். செந்தில் நகர் மற்றும் ஜெகநாதன் நகர் பகுதிகளில் ரிசர்வ் சைட்டுகளில் வழிபாட்டில் உள்ள கோயில்களை இடிக்க நகராட்சி நிர்வாகம் அறிக்கை அளித்துள்ளது. ராக்கியாபாளையம் செந்தில் நகரில் செல்வ விநாயகர் கோயில் தொடர்ந்து வழிபாட்டில் உள்ளதாக மனுதாரர்கள் கூறுகின்றனர். ஜெகநாதன் நகரில் ஞானவிநாயகர் கோயில் 18 சென்ட் இடத்தில் 3 சென்டில் மட்டுமே அமைந்துள்ளது என்றும் தெரிவித்தனர். ஆக்கிரமிப்பு என்று கூறி கோயில்களை இடிப்பதை எதிர்த்து, அறிக்கையை ரத்து செய்ய வேண்டும் என்று மனுவில் கோரப்பட்டது. இடையூறு இல்லாத கோயில்களை அகற்றக் கூடாது என்றும் வலியுறுத்தப்பட்டது. போராட்டத்தில் இந்து முன்னணி மாநில பொதுச் செயலாளர் வி எஸ் செந்தில்குமார் உள்ளிட்ட 200-க்கும் மேற்பட்டோர் பங்கேற்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 திருமுருகன்பூண்டியில் கோயில் இடிப்புக்கு இந்து முன்னணி எதிர்ப்பு\n\n📰 முழு விவரம்:\nதிருமுருகன்பூண்டி செந்தில் நகர், ஜெகநாதன் நகர் பகுதிகளில் ரிசர்வ் சைட்டுகளில் வழிபாட்டில் உள்ள கோயில்களை இடிக்க எதிர்ப்பு தெரிவித்து இந்து முன்னணியினர் வியாழக்கிழமை போராட்டம் நடத்தினர். வெள்ளிக்கிழமை திருமுருகன்பூண்டி நகராட்சி அலுவலகத்தை முற்றுகையிட்டு மனு அளித்தனர். ராக்கியாபாளையம் செந்தில் நகர் (13ஆவது வார்டு) பகுதியில் 40-க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன. வீட்டு மனை பிரிக்கும்போது ரிசர்வ் சைட்டில் பூங்காவும் கோயிலும் தனித்தனியாக ஒதுக்கப்பட்டன. அங்கு செல்வ விநாயகர் கோயில் தொடர்ந்து வழிபாட்டில் உள்ளது. 28 சென்டில் விளையாட்டுப் பூங்கா உள்ளது; விநாயகர் கோயில் அருகே 6 சென்ட் காலி இடமும் உள்ளது. ஜெகநாதன் நகரில் ஒதுக்கப்பட்ட 18 சென்ட் இடத்தில் 3 சென்டில் மட்டுமே ஞானவிநாயகர் கோயில் அமைக்கப்பட்டு வழிபாடு நடக்கிறது; 15 சென்டில் பூங்கா உள்ளது. ஆக்கிரமிப்பு என்று கூறி செந்தில் நகர் செல்வ விநாயகர் கோயில், ஜெகநாதன் நகர் ஞானவிநாயகர் கோயில் ஆகியவற்றை இடிப்பதாக நகராட்சி நிர்வாகம் அறிக்கை அளித்துள்ளது. பொதுமக்களின் மன அமைதியைக் கெடுக்கும் அறிக்கையை ரத்து செய்ய வேண்டும்; இடையூறு இல்லாத கோயில்களை அகற்றக் கூடாது என்று மனுவில் கோரப்பட்டது.\n\n📍 இடம்: திருமுருகன்பூண்டி (செந்தில் நகர், ஜெகநாதன் நகர்), திருப்பூர் மாவட்டம்\n🗓️ நாள்: வியாழக்கிழமை போராட்டம், வெள்ளிக்கிழமை நகராட்சி முற்றுகை\n👥 பங்கேற்பு: இந்து முன்னணி மாநில பொதுச் செயலாளர் வி.எஸ்.செந்தில்குமார் உள்ளிட்ட 200-க்கும் மேற்பட்டோர்\n\nThirumurugan Poondi temple demolition protest | Tirupur news\n📍 திருமுருகன்பூண்டி, திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A crowd of more than 200 Hindu Munnani members and local residents gathers in front of the Thirumurugan Poondi municipal office in Tirupur district, some holding up petitions and raising slogans while stopping the office entrance. The setting is a plain government building with a flat concrete facade, a row of parked two-wheelers and a few autorickshaws at the roadside, and a dusty street of Tirupur city in daylight. Most protesters are men in white shirts and veshti, a few women in cotton sarees stand at the back, and a temple committee member holds a bundle of papers aloft. Their backs are turned or they are seen from a distance, and no faces are visible. Harsh midday sunlight, clear weather. Shot at eye level with a 35 mm lens wide enough to show the full crowd, the office building and the road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small village-style temple shrine with a simple stone Ganesha idol under a tin or concrete roof, a few brass oil lamps and flower garlands on the ledge, set beside an open, sparsely planted plot of cleared ground and a low boundary wall in a residential colony of Tirupur. A stack of folded petitions or a single typed memorandum rests on the edge of the shrine ledge in the foreground, emphasising the threat to the worship place. Daylight, soft natural light, no people in focus, a faint blurred figure of a devotee far behind. Shot at slightly high angle, 35 mm, showing the shrine and the vacant plot beside it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/hindu-munnani-opposes-the-demolition-of-temples-located-on-reserved-sites-in-thirumuruganpoondi",
+   "published": "2026-11-20T23:44:00.000Z",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795215725/tirupur360/rtvalhoqrqys9oc6cxlm.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795215736/tirupur360/ibwifn2vb9vwt1difjne.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் மாவட்டத்தில் 15 ஆண்டுகளில் 5,000 ஹெக்டேர் விவசாய நிலங்கள் குறைவு: தகவல் அறியும் உரிமைச் சட்டத்தில் தகவல்",
-   "english_headline": "Agricultural land in Tirupur district shrinks by 5,000 hectares over the last 15 years, RTI data reveals",
-   "category": "Weather & Agriculture",
-   "location": "Panikkampatti village, Palladam taluk, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேளாண் தகவல்",
-    "loc": "பல்லடம், திருப்பூர்",
-    "hl1": "திருப்பூரில் 5,000 ஹெக்டேர் நிலம் குறைவு",
-    "hl2": "15 ஆண்டுகளில் நிலங்கள்",
-    "slides": [
-     {
-      "title": "RTI தகவல்",
-      "lines": [
-       "பல்லடம் <b>பணிக்கம்பட்டி</b> சமூக ஆர்வலர் RTI மனு தாக்கல்",
-       "வேளாண் துறை அளித்த பதிலில் அதிர்ச்சித் தகவல்",
-       "15 ஆண்டுகளில் <b>5,000 ஹெக்டேர்</b> விளைநிலங்கள் குறைவு"
-      ]
-     },
-     {
-      "title": "நிலப்பரப்பு விவரம்",
-      "lines": [
-       "2010-ல் <b>1,96,996 ஹெக்டேர்</b> விளைநிலங்கள் இருந்தன",
-       "2011-ல் <b>1.99 லட்சம்</b> ஹெக்டேராக அதிகரித்தது",
-       "கடந்த ஆண்டு நிலவரப்படி <b>1,91,343 ஹெக்டேர்</b> உள்ளது"
-      ]
-     },
-     {
-      "title": "சாகுபடி குறைவு",
-      "lines": [
-       "நெல்: 64,892-ல் இருந்து <b>43,532 ஹெக்டேராக</b>க் குறைவு",
-       "தானியங்கள்: 1.98 லட்சத்தில் இருந்து <b>1.95 லட்சம்</b>",
-       "பருப்பு: 2.77 லட்சத்தில் இருந்து <b>2.49 லட்சம்</b>"
-      ]
-     },
-     {
-      "title": "முக்கிய காரணங்கள்",
-      "lines": [
-       "நகரப் பகுதிகளின் அதிவேக விரிவாக்கம்",
-       "ரியல் எஸ்டேட் மனைகளாக விளைநிலங்கள் மாற்றம்",
-       "தொழில் வளர்ச்சி காரணமாக விவசாய நிலங்கள் குறைவு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாவட்டத்தில் கடந்த 15 ஆண்டுகளில் 5,000 ஹெக்டேர் விவசாய நிலங்கள் குறைந்துள்ளன. பல்லடம் ஒன்றியம் பணிக்கம்பட்டி கிராமத்தைச் சேர்ந்த சமூக ஆர்வலர் வித்யபிரகாஷ் தகவல் அறியும் உரிமைச் சட்டத்தில் கேட்ட கேள்விகளுக்கு வேளாண் துறை இந்த விவரங்களை அளித்துள்ளது. 2010ஆம் ஆண்டில் 1,96,996 ஹெக்டேராக இருந்த விளைநிலங்கள், 2011ஆம் ஆண்டில் 1.99 லட்சம் ஹெக்டேராக அதிகரித்தது. பின்னர் 2012ஆம் ஆண்டில் 1.15 லட்சம் ஹெக்டேராகக் குறைந்து, கடந்த ஆண்டு நிலவரப்படி 1,91,343 ஹெக்டேராக உள்ளது. இதேபோல 2011ஆம் ஆண்டில் 64,892 ஹெக்டேராக இருந்த நெல் சாகுபடி, தற்போது 43,532 ஹெக்டேராகக் குறைந்துள்ளது. தானியங்கள் சாகுபடி 1.98 லட்சத்தில் இருந்து 1.95 லட்சம் ஹெக்டேராகவும், பருப்பு வகைகள் சாகுபடி 2.77 லட்சத்தில் இருந்து 2.49 லட்சம் ஹெக்டேராகவும் சரிந்துள்ளது. நகர விரிவாக்கம், ரியல் எஸ்டேட் மற்றும் தொழில் வளர்ச்சியே விளைநிலங்கள் குறைவதற்கு முக்கியக் காரணம் என தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 திருப்பூரில் கடந்த 15 ஆண்டுகளில் 5,000 ஹெக்டேர் விவசாய நிலங்கள் குறைந்துள்ளன.\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டத்தில் கடந்த 15 ஆண்டுகளில் 5,000 ஹெக்டேர் விவசாய நிலங்களின் பரப்பளவு குறைந்துள்ளதாக வேளாண் துறை புள்ளிவிவரங்கள் தெரிவிக்கின்றன. பல்லடம் ஒன்றியம் பணிக்கம்பட்டி கிராமத்தைச் சேர்ந்த சமூக ஆர்வலர் வித்யபிரகாஷ் தகவல் அறியும் உரிமைச் சட்டத்தின்கீழ் கேட்ட விவரங்களில் இது தெரியவந்துள்ளது. 2010-ல் 1,96,996 ஹெக்டேராக இருந்த விளைநிலங்கள், கடந்த ஆண்டு நிலவரப்படி 1,91,343 ஹெக்டேராகக் குறைந்துள்ளது. நெல் சாகுபடி 64,892 ஹெக்டேரில் இருந்து 43,532 ஹெக்டேராகக் குறைந்துள்ளது. தானியங்கள் மற்றும் பருப்பு வகைகள் சாகுபடி பரப்பளவும் சரிந்துள்ளது. நகர விரிவாக்கம், ரியல் எஸ்டேட் மற்றும் தொழில் வளர்ச்சியே இதற்குக் காரணமாகக் கூறப்படுகிறது.\n\n📍 இடம்: பணிக்கம்பட்டி, பல்லடம் ஒன்றியம், திருப்பூர் மாவட்டம்\n📊 நிலப்பரப்பு குறைவு: 5,000 ஹெக்டேர் (15 ஆண்டுகளில்)\n🌾 நெல் சாகுபடி சரிவு: 64,892-ல் இருந்து 43,532 ஹெக்டேர்\nℹ️ முக்கிய காரணம்: நகர விரிவாக்கம், ரியல் எஸ்டேட், தொழில் வளர்ச்சி\n\nவிவசாய நிலங்களைப் பாதுகாக்க விழிப்புணர்வு ஏற்படுத்துவோம்.\n\nTirupur agricultural land reduced by 5000 hectares RTI report | Tirupur news\n📍 பணிக்கம்பட்டி, திருப்பூர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A stretch of farmland in Panikkampatti village on the Palladam side of Tirupur district shows the shrinking of paddy fields: in the foreground a green paddy field is cut short by a freshly levelled dry plot where earth-moving machinery stands idle, with a row of new unfinished concrete building walls on the far edge. Two farmers in a white veshti and shirt walk along a narrow earthen bund between the fields, seen from behind and far away, carrying a hoe on one shoulder. Behind them the rural landscape is dotted with coconut palms and the first low rooftops of the expanding town, with a few distant two-wheelers on a dusty village road. The paddy stalks are sparse and patchy, suggesting reduced cultivation. Daylight, soft late-afternoon sun, slightly hazy sky. Camera at eye level, 35 mm, wide enough to show the field, the bund, the buildings and the palms. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a dry, cracked earthen bund at the edge of a paddy field in Panikkampatti village, with a small clump of harvested paddy stubble and a few loose straws lying on the dry soil. Beyond the bund, a patch of levelled bare ground is marked with fresh tyre tracks and a pile of gravel, showing the land being converted for building plots. A rusty irrigation pipe and a worn wooden hoe rest on the edge of the field. Bright daylight, dry and dusty ground, no people in the frame. Camera low and close, slightly above the ground, 35 mm, focusing on the contrast between the cultivated stubble and the bare plot. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/19/the-area-of-agricultural-land-in-tiruppur-district-has-decreased-by-5000-hectares",
-   "published": "2026-11-19T23:38:15.351Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('திருப்பூா் மாவட்டத்தில் கடந்த 15 ஆண்டுகளில், விளை நிலங்களின்'); 1 ('2011-ஆம் ஆண்டில் 1.99 லட்சம் ஹெக்டேராக அதிகரித்த பரப்பளவு, 2'); 99 ('2011-ஆம் ஆண்டில் 1.99 லட்சம் ஹெக்டேராக அதிகரித்த பரப்பளவு, 2'); 5 ('இதன்படி, 15 ஆண்டுகளில் 5 ஆயிரம் ஹெக்டோ் விவசாய விளைநிலங்கள்'); 1 ('தானியங்கள் சாகுபடி 1.98 லட்சத்தில் இருந்து, 1.95 லட்சம் ஹெக்'); 98 ('தானியங்கள் சாகுபடி 1.98 லட்சத்தில் இருந்து, 1.95 லட்சம் ஹெக்')",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795215764/tirupur360/vonndlka7oruwhuyokho.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795215773/tirupur360/uu3i497qof8rwu4wbyty.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795231537/tirupur360/knwmpfgbap4tzbpvpiix.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795231541/tirupur360/tfxogaxshfjbwcmeo9el.jpg"
    ]
   }
  ]
