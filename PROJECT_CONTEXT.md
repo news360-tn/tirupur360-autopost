@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `89f3161` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
+| 2026-11-21 | `2d622f7` | goldrate posted |
+| 2026-11-21 | `909893d` | pick: written and posted |
+| 2026-11-21 | `b204f76` | pick: picked news saved |
+| 2026-11-21 | `f0c5363` | pick: list sent |
 | 2026-11-21 | `862737c` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
 | 2026-11-21 | `6fdd98e` | powercut: notices written |
 | 2026-11-21 | `a179650` | powercut: notices written |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `7cd4f4e` | pick: picked news saved |
 | 2026-11-20 | `15e42fb` | pick: picked news saved |
 | 2026-11-20 | `50b885e` | pick: list sent |
-| 2026-11-20 | `a8fa954` | pick: written and posted |
-| 2026-11-20 | `8c54c10` | pick: picked news saved |
-| 2026-11-20 | `9fb9598` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
-| 2026-11-20 | `5ed7708` | pick: picked news saved |
-| 2026-11-20 | `b5257c0` | pick: list sent |
 <!-- recent-changes:end -->
