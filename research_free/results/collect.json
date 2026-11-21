@@ -3,109 +3,435 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/hindu-munnani-opposes-the-demolition-of-temples-located-on-reserved-sites-in-thirumuruganpoondi",
-  "candidate filter: collected=1",
-  "to write: 1 Tirupur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/tiruppur-two-people-died-in-a-head-on-collision-between-two-wheelers",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/corporations-municipalities-to-conduct-mandatory-monthly-inspections-for-demolition-of-infringing-buildings/4382443",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/rs-1638-temple-lands-worth-crores-recovered/4382591",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/waste-dumped-into-the-stream-can-be-hazardous-to-the-environment/4382324",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nataraja-bridge-park-work-dissatisfied-with-turtle-speed/4382614",
+  "candidate filter: collected=5",
+  "to write: 5 Tirupur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/rs-1638-templ",
+  "real photo from the source (Dinamalar) for 'Palladam Mullai Nagar stream turned into'",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
-  "filed: 1 Tirupur district stories (target 1), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "real photo from the source (Dinamalar) for 'Temple lands worth Rs 16.38 crore spanni'",
+  "auto images: 1 of 1 stories ({})",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/tiruppur-two-peo",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 73 min",
+  "filed: 5 Tirupur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (19s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (30s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (33s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (35s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (37s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.5-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (22s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருமுருகன்பூண்டியில் கோயில்களை இடிக்க இந்து முன்னணி எதிர்ப்பு",
-   "english_headline": "Hindu Munnani protests planned demolition of temples on reserve sites in Thirumurugan Poondi",
+   "tamil_headline": "பல்லடம் முல்லை நகரில் மாசடையும் நீரோடை: நடவடிக்கை எடுக்க பொதுமக்கள் கோரிக்கை",
+   "english_headline": "Palladam Mullai Nagar stream turned into sewage drain due to dumped waste; residents demand municipal action",
    "category": "Civic Issues",
-   "location": "Thirumurugan Poondi, Tirupur district",
+   "location": "Mullai Nagar, Palladam town, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கோயில் எதிர்ப்பு",
-    "loc": "திருமுருகன்பூண்டி",
-    "hl1": "திருமுருகன்பூண்டியில் கோயில் எதிர்ப்பு",
-    "hl2": "இந்து முன்னணி போராட்டம்",
+    "cat": "சுகாதார சீர்கேடு",
+    "loc": "முல்லை நகர், பல்லடம்",
+    "hl1": "பல்லடத்தில் மாசடையும் நீரோடை",
+    "hl2": "நடவடிக்கை எடுக்க கோரிக்கை",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன பிரச்சினை?",
       "lines": [
-       "இந்து முன்னணியினர் போராட்டம் நடத்தினர்",
-       "ரிசர்வ் சைட்டில் உள்ள கோயில்களை இடிக்க எதிர்ப்பு",
-       "வியாழக்கிழமை போராட்டம்; வெள்ளிக்கிழமை நகராட்சி முற்றுகை"
+       "பல்லடம் நகருக்குள் செல்லும் <b>நீரோடை</b> கழிவுநீர் ஓடையாக மாற்றம்",
+       "முல்லை நகர் பகுதியில் குப்பைகள் திறந்தவெளியில்",
+       "பிளாஸ்டிக் மற்றும் இறைச்சிக் கழிவுகளால் துர்நாற்றம்"
       ]
      },
      {
-      "title": "எந்தப் பகுதி?",
+      "title": "பாதிப்புகள்",
       "lines": [
-       "செந்தில் நகர், ராக்கியாபாளையம் (13ஆவது வார்டு)",
-       "ஜெகநாதன் நகர்",
-       "செல்வ விநாயகர் கோயில், ஞானவிநாயகர் கோயில்"
+       "கழிவுநீர் நேரடியாக நீரோடையில் கலக்கிறது",
+       "பச்சாபாளையம் குட்டை, ஒன்பதாம் பள்ளம் நீர்நிலைகள் பாதிப்பு",
+       "நொய்யல் ஆற்றில் கலக்கும் நீரில் மாசு"
       ]
      },
      {
-      "title": "மனுவில் என்ன?",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "நகராட்சி அறிக்கையை ரத்து செய்ய வேண்டும் என்று கோரிக்கை",
-       "இடையூறு இல்லாத கோயில்களை அகற்றக் கூடாது",
-       "200-க்கும் மேற்பட்டோர் பங்கேற்றனர்"
+       "குப்பைகள் கொட்டுவதைத் தடுக்க நகராட்சி நடவடிக்கை தேவை",
+       "கழிவுநீர் கலப்பதைத் தடுக்க கோரிக்கை",
+       "நீரோடையைச் சீரமைத்துத் தூய்மைப்படுத்த வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருமுருகன்பூண்டியில் இரண்டு கோயில்களை இடிக்கும் முடிவுக்கு இந்து முன்னணியினர் எதிர்ப்பு தெரிவித்துள்ளனர். வியாழக்கிழமை போராட்டம் நடத்திய இந்து முன்னணியினர், வெள்ளிக்கிழமை திருமுருகன்பூண்டி நகராட்சி அலுவலகத்தை முற்றுகையிட்டு மனு அளித்தனர். செந்தில் நகர் மற்றும் ஜெகநாதன் நகர் பகுதிகளில் ரிசர்வ் சைட்டுகளில் வழிபாட்டில் உள்ள கோயில்களை இடிக்க நகராட்சி நிர்வாகம் அறிக்கை அளித்துள்ளது. ராக்கியாபாளையம் செந்தில் நகரில் செல்வ விநாயகர் கோயில் தொடர்ந்து வழிபாட்டில் உள்ளதாக மனுதாரர்கள் கூறுகின்றனர். ஜெகநாதன் நகரில் ஞானவிநாயகர் கோயில் 18 சென்ட் இடத்தில் 3 சென்டில் மட்டுமே அமைந்துள்ளது என்றும் தெரிவித்தனர். ஆக்கிரமிப்பு என்று கூறி கோயில்களை இடிப்பதை எதிர்த்து, அறிக்கையை ரத்து செய்ய வேண்டும் என்று மனுவில் கோரப்பட்டது. இடையூறு இல்லாத கோயில்களை அகற்றக் கூடாது என்றும் வலியுறுத்தப்பட்டது. போராட்டத்தில் இந்து முன்னணி மாநில பொதுச் செயலாளர் வி எஸ் செந்தில்குமார் உள்ளிட்ட 200-க்கும் மேற்பட்டோர் பங்கேற்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 திருமுருகன்பூண்டியில் கோயில் இடிப்புக்கு இந்து முன்னணி எதிர்ப்பு\n\n📰 முழு விவரம்:\nதிருமுருகன்பூண்டி செந்தில் நகர், ஜெகநாதன் நகர் பகுதிகளில் ரிசர்வ் சைட்டுகளில் வழிபாட்டில் உள்ள கோயில்களை இடிக்க எதிர்ப்பு தெரிவித்து இந்து முன்னணியினர் வியாழக்கிழமை போராட்டம் நடத்தினர். வெள்ளிக்கிழமை திருமுருகன்பூண்டி நகராட்சி அலுவலகத்தை முற்றுகையிட்டு மனு அளித்தனர். ராக்கியாபாளையம் செந்தில் நகர் (13ஆவது வார்டு) பகுதியில் 40-க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன. வீட்டு மனை பிரிக்கும்போது ரிசர்வ் சைட்டில் பூங்காவும் கோயிலும் தனித்தனியாக ஒதுக்கப்பட்டன. அங்கு செல்வ விநாயகர் கோயில் தொடர்ந்து வழிபாட்டில் உள்ளது. 28 சென்டில் விளையாட்டுப் பூங்கா உள்ளது; விநாயகர் கோயில் அருகே 6 சென்ட் காலி இடமும் உள்ளது. ஜெகநாதன் நகரில் ஒதுக்கப்பட்ட 18 சென்ட் இடத்தில் 3 சென்டில் மட்டுமே ஞானவிநாயகர் கோயில் அமைக்கப்பட்டு வழிபாடு நடக்கிறது; 15 சென்டில் பூங்கா உள்ளது. ஆக்கிரமிப்பு என்று கூறி செந்தில் நகர் செல்வ விநாயகர் கோயில், ஜெகநாதன் நகர் ஞானவிநாயகர் கோயில் ஆகியவற்றை இடிப்பதாக நகராட்சி நிர்வாகம் அறிக்கை அளித்துள்ளது. பொதுமக்களின் மன அமைதியைக் கெடுக்கும் அறிக்கையை ரத்து செய்ய வேண்டும்; இடையூறு இல்லாத கோயில்களை அகற்றக் கூடாது என்று மனுவில் கோரப்பட்டது.\n\n📍 இடம்: திருமுருகன்பூண்டி (செந்தில் நகர், ஜெகநாதன் நகர்), திருப்பூர் மாவட்டம்\n🗓️ நாள்: வியாழக்கிழமை போராட்டம், வெள்ளிக்கிழமை நகராட்சி முற்றுகை\n👥 பங்கேற்பு: இந்து முன்னணி மாநில பொதுச் செயலாளர் வி.எஸ்.செந்தில்குமார் உள்ளிட்ட 200-க்கும் மேற்பட்டோர்\n\nThirumurugan Poondi temple demolition protest | Tirupur news\n📍 திருமுருகன்பூண்டி, திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A crowd of more than 200 Hindu Munnani members and local residents gathers in front of the Thirumurugan Poondi municipal office in Tirupur district, some holding up petitions and raising slogans while stopping the office entrance. The setting is a plain government building with a flat concrete facade, a row of parked two-wheelers and a few autorickshaws at the roadside, and a dusty street of Tirupur city in daylight. Most protesters are men in white shirts and veshti, a few women in cotton sarees stand at the back, and a temple committee member holds a bundle of papers aloft. Their backs are turned or they are seen from a distance, and no faces are visible. Harsh midday sunlight, clear weather. Shot at eye level with a 35 mm lens wide enough to show the full crowd, the office building and the road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small village-style temple shrine with a simple stone Ganesha idol under a tin or concrete roof, a few brass oil lamps and flower garlands on the ledge, set beside an open, sparsely planted plot of cleared ground and a low boundary wall in a residential colony of Tirupur. A stack of folded petitions or a single typed memorandum rests on the edge of the shrine ledge in the foreground, emphasising the threat to the worship place. Daylight, soft natural light, no people in focus, a faint blurred figure of a devotee far behind. Shot at slightly high angle, 35 mm, showing the shrine and the vacant plot beside it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/20/hindu-munnani-opposes-the-demolition-of-temples-located-on-reserved-sites-in-thirumuruganpoondi",
-   "published": "2026-11-20T23:44:00.000Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "பல்லடம் முல்லை நகர் பகுதியில் உள்ள நீரோடையில் கழிவுகள் கொட்டப்படுவதால் நீர்நிலைகள் மாசடைந்து வருகின்றன. புளியம்பட்டி, அனுப்பட்டி வழியாக பல்லடம் நகருக்குள் வரும் இந்த நீரோடை தற்போது கழிவுநீர் ஓடையாக மாறியுள்ளது. குறிப்பாக, முல்லை நகர் பகுதியில் பிளாஸ்டிக் குப்பைகள், கோழி மற்றும் இறைச்சிக் கழிவுகள் திறந்தவெளியில் கொட்டப்படுகின்றன. இதனால் அப்பகுதியில் கடும் துர்நாற்றம் வீசுவதுடன், கழிவுநீரும் நேரடியாக ஓடையில் விடப்படுகிறது. இதையடுத்து, இந்த மாசடைந்த நீர் பச்சாபாளையம் குட்டை மற்றும் ஒன்பதாம் பள்ளம் வழியாக நொய்யல் ஆற்றைச் சென்றடைகிறது. இதனால் பொதுமக்களின் உடல்நலத்துக்குப் பாதிப்பு ஏற்படும் அபாயம் உருவாகியுள்ளது. இந்நிலையில், நீரோடையில் கழிவுகள் கொட்டப்படுவதைத் தடுக்க பல்லடம் நகராட்சி நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என்றும், கழிவுநீரைத் தடுத்து ஓடையை மீண்டும் தூய்மைப்படுத்த வேண்டும் என்றும் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ பல்லடம் முல்லை நகரில் மாசடையும் நீரோடை - நகராட்சி நடவடிக்கை எடுக்க பொதுமக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nபல்லடம் வட்டார கிராமங்களான புளியம்பட்டி, அனுப்பட்டி, பணிக்கம்பட்டி வழியாக பல்லடம் நகருக்குள் வரும் நீரோடை, கழிவுநீர் ஓடையாக மாறிவருவதாகப் பொதுமக்கள் குற்றம்சாட்டுகின்றனர். முல்லை நகர் பகுதியில் பிளாஸ்டிக் குப்பைகள், கோழி, இறைச்சி, மீன் கழிவுகள் மற்றும் அழுகிய காய்கறிகள் திறந்தவெளியில் கொட்டப்படுகின்றன. கழிவுநீரும் நேரடியாக ஓடையில் விடப்படுவதால், பச்சாபாளையம் குட்டை, ஒன்பதாம் பள்ளம் வழியாக நொய்யல் ஆற்றில் கலக்கும் நீர் மாசடைந்து வருகிறது. இதனால் ஏற்படும் துர்நாற்றத்தால் பொதுமக்களுக்கு நோய் பரவும் அபாயம் ஏற்பட்டுள்ளது.\n\n📍 இடம்: முல்லை நகர், பல்லடம்\n⚠️ பிரச்சினை: நீரோடையில் கழிவுகள் கொட்டுதல், கழிவுநீர் கலத்தல்\n🗣️ கோரிக்கை: குப்பைகள் கொட்டுவதைத் தடுக்கவும், நீரோடையைத் தூய்மைப்படுத்தவும் நகராட்சி நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nPalladam Mullai Nagar stream pollution issue | Tirupur news\n📍 முல்லை நகர், பல்லடம், திருப்பூர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "A natural stream filled with stagnant black sewage water and large heaps of garbage flows through a residential area. In Mullai Nagar, Palladam, the stream bed is choked with piles of plastic bags, discarded vegetable scraps, and organic waste. A few residents in shirts and veshtis are seen from behind, standing on the bank and looking at the pollution. In the background, a two-wheeler passes on a narrow paved road adjacent to the stream. The scene is captured in bright daylight at eye level with a 35mm wide-angle lens to show the extent of the environmental damage. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the edge of the Mullai Nagar stream where domestic waste meets the murky water. The frame is filled with a dense accumulation of colorful plastic waste, discarded food scraps, and rotting organic matter partially submerged in thick, black sludge. The stagnant water reflects the harsh daylight, highlighting the oily sheen on the surface. No people are visible in this tight shot, emphasizing the severity of the dumped waste and the transformation of the waterway into a drain. The camera is positioned at a low angle to capture the texture of the debris and the polluted water. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/waste-dumped-into-the-stream-can-be-hazardous-to-the-environment/4382324",
+   "published": "2026-11-21T17:20:24+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash + proofread gemini/gemini-3.5-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795231537/tirupur360/knwmpfgbap4tzbpvpiix.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795231541/tirupur360/tfxogaxshfjbwcmeo9el.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273464/tirupur360/wkvjpxuvzddor28rulib.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273465/tirupur360/a3wnf4qnfwzb18ov75l7.jpg"
+   ],
+   "real_photo": "Dinamalar"
+  },
+  {
+   "tamil_headline": "வெள்ளகோவில், முத்தூரில் ரூ.16.38 கோடி மதிப்புள்ள 64.19 ஏக்கர் கோவில் நிலங்கள் மீட்பு",
+   "english_headline": "Temple lands worth Rs 16.38 crore spanning 64.19 acres retrieved in Vellakoil and Muthur",
+   "category": "Temples & Events",
+   "location": "Vellakoil and Muthur, Kangeyam taluk, Tirupur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நிலம் மீட்பு",
+    "loc": "வெள்ளகோவில், முத்தூர்",
+    "hl1": "வெள்ளகோவிலில் ரூ.16.38 கோடி நிலம் மீட்பு",
+    "hl2": "64.19 ஏக்கர் நிலங்கள் மீட்பு",
+    "slides": [
+     {
+      "title": "நிலம் மீட்பு",
+      "lines": [
+       "<b>வெள்ளகோவில், முத்தூர்</b> பகுதிகளில் 64.19 ஏக்கர் நிலம் மீட்பு",
+       "மீட்கப்பட்ட நிலங்களின் மதிப்பு <b>ரூ.16.38 கோடி</b>",
+       "இணை கமிஷனர் <b>ஹர்ஷினி</b> தலைமையில் நடவடிக்கை"
+      ]
+     },
+     {
+      "title": "வெள்ளகோவில் நிலம்",
+      "lines": [
+       "சோழீஸ்வரர் கோவிலுக்கு சொந்தமான <b>1.23 ஏக்கர்</b> நிலம் மீட்பு",
+       "காசிவிஸ்வநாதர் கோவிலுக்கு சொந்தமான <b>61.21 ஏக்கர்</b> புஞ்சை நிலம்",
+       "மொத்தம் <b>25 ஆக்கிரமிப்பாளர்களிடம்</b> இருந்து மீட்பு"
+      ]
+     },
+     {
+      "title": "முத்தூர் நிலம்",
+      "lines": [
+       "முத்தூர் சோழீஸ்வரர் கோவில் <b>1.75 ஏக்கர்</b> நிலம் மீட்பு",
+       "இந்த நிலத்தின் மதிப்பு <b>ரூ.70 லட்சம்</b>",
+       "காங்கேயம் தாலுகாவில் நடந்த நில மீட்பு நடவடிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வெள்ளகோவில் மற்றும் முத்தூர் பகுதிகளில் 16.38 கோடி ரூபாய் மதிப்புள்ள 64.19 ஏக்கர் கோவில் நிலங்களை அதிகாரிகள் மீட்டனர். திருப்பூர் மண்டல இணை கமிஷனர் ஹர்ஷினி தலைமையில் இந்த நடவடிக்கை நடைபெற்றது. வெள்ளகோவில் சோழீஸ்வரர் கோவிலுக்குச் சொந்தமான 1.23 ஏக்கர் நிலம் மீட்கப்பட்டது. உத்தமபாளையம் காசிவிஸ்வநாதர் கோவிலுக்குச் சொந்தமான 61.21 ஏக்கர் புஞ்சை நிலத்தையும் அதிகாரிகள் மீட்டனர். மொத்தம் 25 ஆக்கிரமிப்பாளர்களிடம் இருந்து மீட்கப்பட்ட இந்த நிலங்களின் மதிப்பு 15.68 கோடி ரூபாய் ஆகும். காங்கேயம் தாலுகா முத்தூர் சோழீஸ்வரர் கோவிலுக்குச் சொந்தமான 1.75 ஏக்கர் நிலமும் மீட்கப்பட்டது. இந்த நிலத்தின் மதிப்பு 70 லட்சம் ரூபாய் ஆகும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏰 வெள்ளகோவில், முத்தூரில் ரூ.16.38 கோடி மதிப்புள்ள 64.19 ஏக்கர் கோவில் நிலங்கள் மீட்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டம் வெள்ளகோவில் மற்றும் முத்தூர் பகுதிகளில் ஆக்கிரமிப்பில் இருந்த 16.38 கோடி ரூபாய் மதிப்புள்ள 64.19 ஏக்கர் கோவில் நிலங்கள் மீட்கப்பட்டுள்ளன. திருப்பூர் மண்டல இணை கமிஷனர் ஹர்ஷினி தலைமையில் இந்த நடவடிக்கை நடைபெற்றது. வெள்ளகோவில் சோழீஸ்வரர் கோவிலுக்குச் சொந்தமான 1.23 ஏக்கர் நிலமும், உத்தமபாளையம் காசிவிஸ்வநாதர் கோவிலுக்குச் சொந்தமான 61.21 ஏக்கர் புஞ்சை நிலமும் மீட்கப்பட்டன. 25 ஆக்கிரமிப்பாளர்களிடம் இருந்து மீட்கப்பட்ட இந்த நிலங்களின் மதிப்பு 15.68 கோடி ரூபாய் ஆகும். மேலும், காங்கேயம் தாலுகா முத்தூர் சோழீஸ்வரர் கோவிலுக்குச் சொந்தமான 70 லட்சம் ரூபாய் மதிப்புள்ள 1.75 ஏக்கர் நிலமும் மீட்கப்பட்டுள்ளது.\n\n📍 இடம்: வெள்ளகோவில், முத்தூர், திருப்பூர் மாவட்டம்\n🗓️ நாள்: 21 நவம்பர் 2026\n👮 நடவடிக்கை: இணை கமிஷனர் ஹர்ஷினி தலைமையில் நிலங்கள் மீட்பு\nℹ️ மக்கள் கவனத்திற்கு: ஆக்கிரமிப்பில் இருந்த கோவில் நிலங்கள் மீட்கப்பட்டு நடவடிக்கை எடுக்கப்பட்டுள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nVellakoil Muthur temple land recovery Tirupur news\n📍 Vellakoil, Tirupur | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
+   "prompts": "HR&CE officials and workers are marking the boundaries of a vast 64.19-acre stretch of dry punjai land. In the background, the traditional stone gopuram of the Sholieswarar temple rises above the horizon in the Vellakoil area. Four men in formal shirts and trousers and two workers in veshtis are seen from behind, standing near a pile of concrete boundary stones. The landscape is typical of Kangeyam taluk, featuring dry earth and a few distant coconut trees under the bright midday sun. The camera is at eye level, using a 35mm lens to capture the wide scale of the retrieved land and the temple in the distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on a freshly installed yellow concrete boundary pillar on the edge of the retrieved temple land in Uthamapalayam. The pillar is firmly set into the dry, red soil, with the vast expanse of the 61.21-acre plot stretching into the blurred background. A few distant shrubs and the faint outline of a stone temple wall are visible on the horizon. A single worker in a shirt and veshti is seen from a distance, walking away from the marker. The lighting is bright daylight, highlighting the texture of the parched earth. The camera is at a low angle, focusing on the marker stone as the primary detail of the government action. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/rs-1638-temple-lands-worth-crores-recovered/4382591",
+   "published": "2026-11-21T19:35:36+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273488/tirupur360/jpnfxva8whn9cl13pk9j.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273488/tirupur360/vewljweifvmsrkggz7il.jpg"
+   ],
+   "real_photo": "Dinamalar"
+  },
+  {
+   "tamil_headline": "திருப்பூர் நடராஜா பாலம் அருகே சிறுவர் பூங்கா திறப்பதில் தாமதம்: பணிகள் விரைவில் முடிக்கப்படும் என தகவல்",
+   "english_headline": "Opening of new children's park near Nataraja bridge in Tirupur delayed due to pending final works",
+   "category": "Civic Issues",
+   "location": "Nataraja bridge area, Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சிறுவர் பூங்கா",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூர் நடராஜா பாலம் பூங்கா தாமதம்",
+    "hl2": "இறுதிப் பணிகள் நிலுவை",
+    "slides": [
+     {
+      "title": "திட்டம் என்ன?",
+      "lines": [
+       "நொய்யல் ஆற்றின் குறுக்கே உயர்மட்டப் பாலம் கட்டப்பட்டுள்ளது",
+       "பாலம் அருகே <b>40 சென்ட்</b> நிலத்தில் சிறுவர் பூங்கா",
+       "பாலம் கட்டியதில் மீதமான நிதியில் பூங்கா உருவாக்கம்"
+      ]
+     },
+     {
+      "title": "தாமதம் ஏன்?",
+      "lines": [
+       "பூங்காவில் மணல் பரப்ப வேண்டியுள்ளது",
+       "மணல் தட்டுப்பாடு காரணமாக பூங்கா திறப்பதில் தாமதம்",
+       "வண்ணம் பூசும் பணியில் இறுதிச் சரிபார்ப்பு நிலுவை"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள்",
+      "lines": [
+       "மாநகராட்சி பொறியியல் பிரிவினர் தகவல்",
+       "நிலுவைப் பணிகள் விரைவில் முடிக்கப்படும்",
+       "பணிகள் முடிந்ததும் பூங்கா பொதுமக்கள் பயன்பாட்டுக்கு வரும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் நடராஜா பாலம் அருகே சிறுவர் பூங்கா திறக்கப்படாமல் தாமதமாகி வருகிறது. திருப்பூர் மாநகராட்சி சார்பில் நொய்யல் ஆற்றின் குறுக்கே உயர்மட்டப் பாலம் கட்டப்பட்டது. பாலம் அருகே பயன்படுத்தப்படாமல் இருந்த 40 சென்ட் நிலத்தில் சிறுவர் விளையாட்டுப் பூங்கா அமைக்க மாநகராட்சி திட்டமிட்டது. பாலம் கட்ட ஒதுக்கப்பட்ட நிதியில் மீதமான தொகையைக் கொண்டு மாநகராட்சி பூங்காவை அமைத்தது. பெரும்பாலான பணிகள் முடிவடைந்த நிலையிலும் பூங்கா இன்னும் பொதுமக்கள் பயன்பாட்டுக்கு திறக்கப்படவில்லை. பூங்காவின் சில பகுதிகளில் மணல் பரப்ப வேண்டியுள்ளது என்று மாநகராட்சி பொறியியல் பிரிவினர் தெரிவித்தனர். மணல் தட்டுப்பாடு காரணமாக மணல் பெறுவதில் தாமதம் ஏற்பட்டுள்ளதாக அதிகாரிகள் கூறினர். மேலும் வண்ணம் பூசும் பணியில் இறுதிக்கட்டச் சரிபார்ப்பு மேற்கொள்ள வேண்டியுள்ளது. இந்தப் பணிகள் விரைவில் முடிக்கப்பட்டு பூங்கா திறக்கப்படும் என்று மாநகராட்சி அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛝 திருப்பூர் நடராஜா பாலம் அருகே சிறுவர் பூங்கா திறப்பதில் தாமதம்!\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சி சார்பில் நொய்யல் ஆற்றின் குறுக்கே உயர்மட்டப் பாலம் கட்டப்பட்டுள்ளது. இந்த பாலம் அருகே பயன்படுத்தப்படாமல் இருந்த 40 சென்ட் நிலத்தில் சிறுவர் விளையாட்டுப் பூங்கா அமைக்க மாநகராட்சி திட்டமிட்டது. பாலம் கட்ட ஒதுக்கப்பட்ட நிதியில் மீதமான தொகையைக் கொண்டு பூங்கா அமைக்கும் பெரும்பாலான பணிகள் நிறைவடைந்துள்ளன. ஆனால் மணல் தட்டுப்பாடு காரணமாக பூங்காவில் மணல் பரப்புவதிலும், வண்ணம் பூசும் பணியின் இறுதிக்கட்டச் சரிபார்ப்பிலும் தாமதம் ஏற்பட்டுள்ளது. இந்தப் பணிகள் விரைவில் முடிக்கப்பட்டு பூங்கா பொதுமக்கள் பயன்பாட்டுக்குத் திறக்கப்படும் என்று மாநகராட்சி பொறியியல் பிரிவினர் தெரிவித்துள்ளனர்.\n\n📍 இடம்: நடராஜா பாலம் அருகே, திருப்பூர்\n🌳 திட்டம்: 40 சென்ட் நிலத்தில் சிறுவர் விளையாட்டுப் பூங்கா\n🏗️ காரணம்: மணல் தட்டுப்பாடு மற்றும் வண்ணம் பூசும் பணி நிலுவை\n👮 நடவடிக்கை: மீதிப் பணிகளை விரைந்து முடித்து பூங்காவைத் திறக்க நடவடிக்கை\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nTirupur Nataraja bridge new children park opening delayed | Tirupur news\n📍 Nataraja Bridge, Tirupur | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #NatarajaBridge #TirupurPark #திருப்பூர்",
+   "prompts": "A nearly completed children's park sits empty and fenced off near the massive concrete structure of the Nataraja bridge in Tirupur. The park, located on a 40-cent plot along the roadside near the Noyyal river, features colorful slides and swings that are fully installed but the ground remains unfinished. In the background, the high-level bridge spans across the area with typical Tirupur city traffic of two-wheelers and autorickshaws visible on the adjacent road. A few corporation workers in shirts and trousers are seen from a distance near the park entrance, appearing to inspect the site. The scene is captured in bright daylight with a 35mm wide-angle lens at eye level to show the proximity of the bridge to the new civic facility. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detail shot focuses on the base of a bright yellow and red children's slide standing on bare, uneven earth where the final layer of sand is yet to be spread. The ground shows patches of dry soil and construction debris, indicating the pending final works mentioned by the corporation. In the blurred background, a freshly painted green metal fence and the concrete pillars of the Nataraja bridge are visible. No people are in the frame, emphasizing the quiet, unopened state of the facility. The lighting is clear midday sun, highlighting the contrast between the new, colorful play equipment and the unfinished ground surface. The camera is positioned at a low angle to emphasize the lack of safety sand around the equipment. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/nataraja-bridge-park-work-dissatisfied-with-turtle-speed/4382614",
+   "published": "2026-11-21T19:52:29+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273584/tirupur360/uvownn9atme4encx4stv.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273616/tirupur360/u8kgwuly9hnubeh36mk7.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "விதிமீறல் கட்டடங்களுக்கு கிடுக்கிப்பிடி: மாதந்தோறும் கட்டாய ஆய்வு",
+   "english_headline": "Strict action on rule-breaking buildings in Tirupur corporation and municipalities: monthly mandatory inspections ordered",
+   "category": "Civic Issues",
+   "location": "Tirupur corporation and municipalities, Tirupur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கட்டட விதிமீறல்",
+    "loc": "திருப்பூர் மாநகராட்சி",
+    "hl1": "திருப்பூர் மாதந்தோறும் ஆய்வு",
+    "hl2": "விதிமீறலுக்கு சீல், இடிப்பு",
+    "slides": [
+     {
+      "title": "புதிய உத்தரவு",
+      "lines": [
+       "நகராட்சி நிர்வாக இயக்குனரகம் உத்தரவு பிறப்பித்துள்ளது",
+       "உச்ச நீதிமன்ற உத்தரவின் அடிப்படையில் அமல்",
+       "மாநகராட்சி, நகராட்சிகளுக்கு சுற்றறிக்கை அனுப்பப்பட்டுள்ளது"
+      ]
+     },
+     {
+      "title": "மாதந்தோறும் ஆய்வு",
+      "lines": [
+       "திட்டமிடல் அலுவலர்கள் <b>மாதந்தோறும்</b> ஆய்வு செய்ய வேண்டும்",
+       "ஒப்புதல் எண், உரிமையாளர் பெயர் உள்ளிட்ட பதிவேடு பராமரிக்க",
+       "திடீர் கள ஆய்வும் நடத்த வேண்டும்"
+      ]
+     },
+     {
+      "title": "நடவடிக்கை",
+      "lines": [
+       "விதிமீறல் கண்டறிந்தால் உடனடி நடவடிக்கை",
+       "சீல் வைப்பது அல்லது இடிப்பது வரை நடவடிக்கை",
+       "ஒவ்வொரு மாதமும் <b>5ஆம் தேதிக்குள்</b> அறிக்கை அனுப்ப வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் மாநகராட்சி, நகராட்சிகளில் விதிமீறல் கட்டடங்கள் மீது கடும் நடவடிக்கை. மாதந்தோறும் கட்டாய ஆய்வு நடத்த நகராட்சி நிர்வாக இயக்குனரகம் உத்தரவிட்டுள்ளது. உச்ச நீதிமன்ற உத்தரவின் அடிப்படையில் அனைத்து மாநகராட்சி, நகராட்சி ஆணையர்களுக்கும் சுற்றறிக்கை அனுப்பப்பட்டுள்ளது. அங்கீகரிக்கப்பட்ட வரைபடத்தின்படியே கட்டுமானப் பணிகள் நடைபெறுகின்றனவா என்பதை திட்டமிடல் அலுவலர்கள், உதவிப் பொறியாளர்கள், நகரமைப்பு ஆய்வாளர்கள் மாதந்தோறும் ஆய்வு செய்ய வேண்டும். கட்டுமானப் பணி நடக்கும் இடங்களில் ஒப்புதல் எண், இடத்தின் விவரம், உரிமையாளர் பெயர், ஆய்வுத் தேதி, விதிமீறல்கள் ஆகியவற்றுடன் தனிப் பதிவேடு பராமரிக்க வேண்டும். விதிமீறல் அல்லது அங்கீகாரமற்ற கட்டுமானம் கண்டறியப்பட்டால் காலதாமதமின்றி நடவடிக்கை எடுக்க வேண்டும். சீல் வைப்பது அல்லது இடிப்பது வரை நடவடிக்கைகள் விரைவாக முடிக்கப்பட வேண்டும். ஆணையர்கள் பதிவேடுகளைச் சரிபார்ப்பதுடன் திடீர் கள ஆய்வும் நடத்த வேண்டும். ஒவ்வொரு மாதமும் 5ஆம் தேதிக்குள் அறிக்கையை நகராட்சி நிர்வாக இயக்குனரகத்துக்கு அனுப்ப வேண்டும். உத்தரவை அலட்சியப்படுத்தினால் ஆணையர்கள் உச்ச நீதிமன்றத்தில் தனிப்பட்ட முறையில் பொறுப்பேற்க நேரிடும். திருப்பூர் கட்டுனர் மைய துணைத் தலைவர் செல்வராஜூ, இந்த உத்தரவால் சாலை, செப்டிக் டேங்க், வாகன நிறுத்துமிடம் விதிகள் முறையாகப் பின்பற்றப்படும் என்றார். பொதுமக்களுக்கு பாதிப்பு ஏற்படாத வகையில் நியாயமான திருத்த வாய்ப்புகளும் வழங்கப்பட வேண்டும் என்றும் அவர் கூறினார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் மாநகராட்சி, நகராட்சிகளில் விதிமீறல் கட்டடங்களுக்கு மாதந்தோறும் கட்டாய ஆய்வு\n\n📰 முழு விவரம்:\nவிதிமீறல் கட்டடங்களைக் கட்டுப்படுத்த நகராட்சி நிர்வாக இயக்குனரகம் உத்தரவிட்டுள்ளது. உச்ச நீதிமன்ற உத்தரவின் அடிப்படையில் அனைத்து மாநகராட்சி, நகராட்சி ஆணையர்களுக்கும் சுற்றறிக்கை அனுப்பப்பட்டுள்ளது.\nஅங்கீகரிக்கப்பட்ட வரைபடத்தின்படியே கட்டுமானம் நடைபெறுகிறதா என்பதை திட்டமிடல் அலுவலர்கள், உதவிப் பொறியாளர்கள், நகரமைப்பு ஆய்வாளர்கள் மாதந்தோறும் ஆய்வு செய்ய வேண்டும்.\nவிதிமீறல் கண்டறியப்பட்டால் சீல் வைப்பது அல்லது இடிப்பது வரை உடனடி நடவடிக்கை எடுக்கப்படும்.\nஒவ்வொரு மாதமும் 5ஆம் தேதிக்குள் ஆய்வு அறிக்கையை நகராட்சி நிர்வாக இயக்குனரகத்துக்கு அனுப்ப வேண்டும்.\n🏗️ விதிமீறல்களைத் தடுக்கும் அதேநேரத்தில் பொதுமக்களுக்குப் பாதிப்பு ஏற்படாமல் நியாயமான திருத்த வாய்ப்புகளும் வழங்கப்பட வேண்டும் என்று திருப்பூர் கட்டுனர் மைய துணைத் தலைவர் செல்வராஜூ கூறினார்.\n\nTiruppur building rule violations monthly inspection order | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #கட்டடம்",
+   "prompts": "A civic inspector from the Tirupur corporation town planning wing, wearing a shirt and trousers with an ID lanyard, stands beside a half-built multi-storey concrete building on a busy Tirupur city road and checks a site register held in his hand. Bamboo scaffolding and exposed iron rods rise from the unfinished concrete frame, with a few construction workers in vests and lungis carrying cement bags in the background at a distance. Beside the road, two-wheelers and an autorickshaw pass, and a row of small shops with closed shutters lines the far side. Two assistant engineers in shirts stand a few steps away, one with a clipboard. The scene is a bright daytime, hazy morning light, with the building seen from the street. Camera at eye level, 35 mm, wide enough to show the building's full height, the road and the officials together, with all faces turned away or too far to identify. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an official inspection register opened on a plastic chair at the edge of a construction site in Tirupur city, its pages filled with ruled columns and handwritten entries in blue ink. A pen rests across the open page beside a folded notice paper and a clipped stack of approved building plan sheets. Behind the table, bamboo scaffolding and a grey concrete wall of an unfinished building rise out of focus, with sand heaps and cement bags on the ground. The lighting is soft daylight from the side, the scene slightly dusty. The camera is slightly above the table, 35 mm, shallow depth of field so the register and plan sheets are sharp while the background blurs. No readable names or numbers are visible, and no people appear in frame. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/corporations-municipalities-to-conduct-mandatory-monthly-inspections-for-demolition-of-infringing-buildings/4382443",
+   "published": "2026-11-21T18:26:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273625/tirupur360/mwxe1xvesjpvluz9s1pe.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273628/tirupur360/km3hs7pqjzfmusdah4sq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "காங்கேயத்தில் நேருக்கு நேர் மோதிய இருசக்கர வாகனங்கள்: 2 பேர் உயிரிழப்பு",
+   "english_headline": "Two killed in head-on two-wheeler collision in Kangeyam, Tirupur district",
+   "category": "Roads & Transport",
+   "location": "Kangeyam, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "காங்கேயம்",
+    "hl1": "காங்கேயத்தில் நேருக்கு நேர் மோதல்",
+    "hl2": "2 பேர் உயிரிழப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "காங்கேயம் பகுதி சாலையில் நேருக்கு நேர் மோதல்",
+       "எதிர்த் திசையில் அதிவேகமாக வந்த வாகனம் மோதியது",
+       "நேற்று (வெள்ளிக்கிழமை) நடந்தது"
+      ]
+     },
+     {
+      "title": "உயிரிழந்தவர்கள்",
+      "lines": [
+       "இளைஞர் பாலாஜி (<b>20 வயது</b>) உயிரிழந்தார்",
+       "சுந்தரம் (<b>50 வயது</b>) உயிரிழந்தார்",
+       "இருவரும் சம்பவ இடத்திலேயே உயிரிழந்தனர்"
+      ]
+     },
+     {
+      "title": "விசாரணை",
+      "lines": [
+       "அருகிலிருந்த கண்காணிப்பு கேமராவில் காட்சி பதிவு",
+       "காங்கேயம் போலீசார் தீவிர விசாரணை",
+       "உடல்கள் பிரேத பரிசோதனைக்கு அனுப்பப்பட்டன"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "காங்கேயத்தில் நேருக்கு நேர் மோதிய விபத்தில் 2 பேர் உயிரிழந்தனர். திருப்பூர் மாவட்டம் காங்கேயம் பகுதி சாலையில் நேற்று வெள்ளிக்கிழமை இந்த விபத்து நடைபெற்றது. இருசக்கர வாகனம் ஒன்று சென்று கொண்டிருந்தபோது, எதிர்த் திசையில் அதிவேகமாக வந்த மற்றொரு இருசக்கர வாகனம் அதன் மீது நேருக்கு நேர் மோதியது. இதனால், இளைஞர் பாலாஜி, 20 வயது, மற்றும் சுந்தரம், 50 வயது, ஆகிய இருவரும் தூக்கி வீசப்பட்டு படுகாயமடைந்தனர். இருவரும் சம்பவ இடத்திலேயே உயிரிழந்தனர். விபத்து அருகிலிருந்த கண்காணிப்பு கேமராவில் பதிவாகி, அந்தக் காட்சிகள் சமூக வலைதளங்களில் வெளியாகியுள்ளன. இதையடுத்து, காங்கேயம் போலீசார் உடல்களை மீட்டு பிரேத பரிசோதனைக்கு அனுப்பி வைத்தனர். விபத்து குறித்து போலீசார் தீவிர விசாரணை மேற்கொண்டு வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 காங்கேயத்தில் நேருக்கு நேர் மோதிய இருசக்கர வாகனங்கள்: 2 பேர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டம் காங்கேயம் பகுதி சாலையில் நேற்று (நவ. 20, வெள்ளிக்கிழமை) இரண்டு இருசக்கர வாகனங்கள் நேருக்கு நேர் மோதிக்கொண்டன. இருசக்கர வாகனம் ஒன்று சென்றுகொண்டிருந்தபோது, எதிர்த் திசையில் அதிவேகமாக வந்த மற்றொரு வாகனம் எதிர்பாராத விதமாக மோதியது. இதில் இளைஞர் பாலாஜி (20 வயது) மற்றும் சுந்தரம் (50 வயது) ஆகிய இருவரும் தூக்கி வீசப்பட்டு படுகாயமடைந்து, சம்பவ இடத்திலேயே உயிரிழந்தனர்.\n📹 விபத்து அருகிலிருந்த கண்காணிப்பு கேமராவில் பதிவாகி, சமூக வலைதளங்களில் வெளியாகியுள்ளது.\n👮 காங்கேயம் போலீசார் உடல்களை மீட்டு பிரேத பரிசோதனைக்கு அனுப்பினர். விபத்து குறித்து தீவிர விசாரணை நடைபெறுகிறது.\n\nKangeyam head-on bike collision, 2 killed | Tirupur news\n📍 காங்கேயம், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kangeyam #TirupurNews #திருப்பூர்",
+   "prompts": "A Kangeyam police constable in khaki stands beside two damaged two-wheelers lying apart on a busy Tirupur district road after a head-on crash, with a small crowd of onlookers kept at a distance. The place is an ordinary two-lane road in Kangeyam town, lined with low shop buildings, a concrete electric pole and a few parked two-wheelers. The bikes are scooters and motorcycles, their front parts crumpled and facing each other, with no riders or injured people visible. Police have set out a plain barrier and are inspecting the scene. The onlookers are seen from behind and far away, in shirts and trousers, some holding phones. It is daytime, with bright, flat daylight and a clear sky over the road. Shot at eye level from a slightly high angle, 35 mm lens, wide enough to show the road and buildings, no readable signboards or text. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a surveillance camera mounted high on a grey concrete pole beside a Kangeyam road, its black dome lens pointed down at the street, showing that the crash was recorded. Below it, on the tarmac, lie scattered broken fragments of a two-wheeler, a cracked headlight casing and a dented side panel, with a light smear of road dust. A corner of a police khaki sleeve and a boot appears at the edge of the frame, stepping near the debris. Behind, slightly out of focus, a plain shop wall and a tree branch. The light is harsh daytime sunlight casting short shadows. No people's faces, no blood, no readable text or logos. Shot as a tight detail at eye level, 35 mm lens, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/tiruppur-two-people-died-in-a-head-on-collision-between-two-wheelers",
+   "published": "2026-11-21T11:43:54Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273638/tirupur360/ryoga1zvakwngrdutpyb.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795273641/tirupur360/yx5px9eb6wea5oomzdtm.jpg"
    ]
   }
  ]
