@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `91417f9` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
+| 2026-11-21 | `84a413e` | goldrate posted |
+| 2026-11-21 | `b52afb8` | pick: picked news saved |
+| 2026-11-21 | `0c95f83` | pick: picked news saved |
+| 2026-11-21 | `53cb0d7` | pick: list sent |
 | 2026-11-21 | `5f544be` | Keep 20 of Instagram's 50 daily posts for news: stories stop at 30 (news was waiting at 48/50) |
 | 2026-11-21 | `4bd459b` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
 | 2026-11-21 | `85fde78` | rasipalan posted |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `a47239f` | stories shared |
 | 2026-11-20 | `5338edc` | Every news reel goes to the story again (stories_urgent_only false) |
 | 2026-11-20 | `714de72` | powercut: notices written |
-| 2026-11-20 | `6ea91b5` | powercut: notices written |
-| 2026-11-20 | `5474585` | pick: written and posted |
-| 2026-11-20 | `010b032` | pick: picked news saved |
-| 2026-11-20 | `97ef462` | pick: picked news saved |
-| 2026-11-20 | `646257b` | pick: list sent |
 <!-- recent-changes:end -->
