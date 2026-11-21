@@ -83,6 +83,19 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `4bd459b` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
+| 2026-11-21 | `85fde78` | rasipalan posted |
+| 2026-11-20 | `bce08a8` | pick: written and posted |
+| 2026-11-20 | `f86bf04` | pick: picked news saved |
+| 2026-11-20 | `dec2bb7` | pick: picked news saved |
+| 2026-11-20 | `278bcd9` | pick: list sent |
+| 2026-11-20 | `d37464d` | powercut: notices written |
+| 2026-11-20 | `704e948` | pick: written and posted |
+| 2026-11-20 | `7cd4f4e` | pick: picked news saved |
+| 2026-11-20 | `15e42fb` | pick: picked news saved |
+| 2026-11-20 | `50b885e` | pick: list sent |
+| 2026-11-20 | `a8fa954` | pick: written and posted |
+| 2026-11-20 | `8c54c10` | pick: picked news saved |
 | 2026-11-20 | `9fb9598` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
 | 2026-11-20 | `5ed7708` | pick: picked news saved |
 | 2026-11-20 | `b5257c0` | pick: list sent |
@@ -100,17 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `97ef462` | pick: picked news saved |
 | 2026-11-20 | `646257b` | pick: list sent |
 | 2026-11-20 | `54eb275` | Promotion ads (owner-approved only, bottom of the reel during the news) and twice-a-day YouTube details e-mail |
-| 2026-11-20 | `ebdb44c` | pick: written and posted |
-| 2026-11-20 | `a6a2992` | Fix: reels again made with reel4 (config reel_design back to v4) |
-| 2026-11-20 | `6ee5b7b` | pick: picked news saved |
-| 2026-11-20 | `6a43320` | pick: picked news saved |
-| 2026-11-20 | `624db69` | pick: list sent |
-| 2026-11-20 | `ea8dc02` | News reels: one design on every page - the earlier, proven design with the source and date shown clearly |
-| 2026-11-20 | `ea901e0` | Writer: the opening headline (hl1) is always a complete phrase |
-| 2026-11-20 | `eafe1c5` | News reels: the design team's design (Tamil) with the 360 clock branding on every page |
-| 2026-11-20 | `ddf0555` | pick: written and posted |
-| 2026-11-20 | `5545431` | pick: picked news saved |
-| 2026-11-20 | `7766244` | goldrate posted |
-| 2026-11-20 | `a2a63a3` | pick: picked news saved |
-| 2026-11-20 | `439b15e` | pick: list sent |
 <!-- recent-changes:end -->
