@@ -83,6 +83,19 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `5f328dc` | Facebook: every news that is on Instagram also goes to Facebook |
+| 2026-11-21 | `a7b7024` | facebook RN-185 |
+| 2026-11-21 | `ed9a147` | posted RN-185 |
+| 2026-11-21 | `80aa0ce` | powercut: notices written |
+| 2026-11-21 | `ef89c29` | facebook RN-183 |
+| 2026-11-21 | `5e40e44` | posted RN-183 |
+| 2026-11-21 | `de114fe` | facebook RN-186 |
+| 2026-11-21 | `7efdc72` | posted RN-186 |
+| 2026-11-21 | `5ba68d5` | facebook RN-184 |
+| 2026-11-21 | `f67c68e` | posted RN-184 |
+| 2026-11-21 | `3df012b` | pick: picked news saved |
+| 2026-11-21 | `8ce36e7` | pick: picked news saved |
+| 2026-11-21 | `ffe377b` | pick: list sent |
 | 2026-11-21 | `5bfaa08` | Posted report: one e-mail for all pages, 4 times a day |
 | 2026-11-21 | `89f3161` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
 | 2026-11-21 | `2d622f7` | goldrate posted |
@@ -100,17 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-21 | `91417f9` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
 | 2026-11-21 | `84a413e` | goldrate posted |
 | 2026-11-21 | `b52afb8` | pick: picked news saved |
-| 2026-11-21 | `0c95f83` | pick: picked news saved |
-| 2026-11-21 | `53cb0d7` | pick: list sent |
-| 2026-11-21 | `5f544be` | Keep 20 of Instagram's 50 daily posts for news: stories stop at 30 (news was waiting at 48/50) |
-| 2026-11-21 | `4bd459b` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
-| 2026-11-21 | `85fde78` | rasipalan posted |
-| 2026-11-20 | `bce08a8` | pick: written and posted |
-| 2026-11-20 | `f86bf04` | pick: picked news saved |
-| 2026-11-20 | `dec2bb7` | pick: picked news saved |
-| 2026-11-20 | `278bcd9` | pick: list sent |
-| 2026-11-20 | `d37464d` | powercut: notices written |
-| 2026-11-20 | `704e948` | pick: written and posted |
-| 2026-11-20 | `7cd4f4e` | pick: picked news saved |
-| 2026-11-20 | `15e42fb` | pick: picked news saved |
 <!-- recent-changes:end -->
