@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `862737c` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
+| 2026-11-21 | `6fdd98e` | powercut: notices written |
+| 2026-11-21 | `a179650` | powercut: notices written |
+| 2026-11-21 | `de61ad5` | pick: written and posted |
+| 2026-11-21 | `1602191` | pick: picked news saved |
+| 2026-11-21 | `9fbd36e` | pick: list sent |
 | 2026-11-21 | `99a34a0` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
 | 2026-11-21 | `d397096` | pick: written and posted |
 | 2026-11-21 | `91417f9` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `9fb9598` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
 | 2026-11-20 | `5ed7708` | pick: picked news saved |
 | 2026-11-20 | `b5257c0` | pick: list sent |
-| 2026-11-20 | `696eaa2` | Facebook: up to 18 news a day per page (45 min apart), article link in the first comment, 3 hashtags |
-| 2026-11-20 | `dbe3c4d` | Daily rasipalan as a reel in the 360 gold-reel pattern (music only); carousel only if the reel fails |
-| 2026-11-20 | `a2e8d23` | Reels without a picture: a designed background by news type, never the page logo |
-| 2026-11-20 | `b8257ed` | stories shared |
-| 2026-11-20 | `549c45f` | stories shared |
-| 2026-11-20 | `a47239f` | stories shared |
 <!-- recent-changes:end -->
