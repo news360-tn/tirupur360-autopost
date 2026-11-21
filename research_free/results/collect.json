@@ -3,108 +3,131 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/may-tiruppur-s-new-footprint-in-the-global-apparel-market-also-become-the-birthplace-of-brands/4382506",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/2086-participants-in-rural-review-examination/4382325",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/parani-lamp-in-avinashi-temple-tomorrow/4382575",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/kinnaram-made-in-tiruppur-which-goes-to-the-singapore-museum/4382596",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/yuva-sena-urges-government-to-implement-supreme-court-order/4382615",
-  "candidate filter: collected=5",
-  "to write: 5 Tirupur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/kinnaram-made",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/power-outage-for-5-hours-people-call-for-restoration/4382854",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/காங்கயத்தில்-சரக்கு-வேன்-மீது-லாரி-மோதி-விபத்து",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/குண்டடம்-அருகே-லாரி-கவிழ்ந்து-விபத்து",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/அரசுப்-பேருந்து-மோதியதில்-ஓய்வுபெற்ற-நீதித்-துறை-அலுவலா்-உயிரிழப்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/2-இருசக்கர-வாகனங்கள்-மோதிக்-கொண்டதில்-இருவா்-பலி",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/குண்டா்-தடுப்புச்-சட்டத்தின்-கீழ்-3-போ்-சிறையில்-அடைப்பு",
+  "candidate filter: collected=6",
+  "to write: 6 Tirupur district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "NOT filed (N) 2 இருசக்கர வாகனங்கள் மோதிக் கொண்டதில் இருவா் பலி!: duplicate after write",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Tirupur district stories (target 5), reels only",
+  "NOT filed (N) 5 மணி நேரம் மின் தடை: சீரமைக்க மக்கள் வலியுறுத்தல்: stale: power-cut notice from 21 Nov with no date",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 4}, time left 77 min",
+  "filed: 4 Tirupur district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (29s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (3s)",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3.6-flash (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (30s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -118,11 +141,32 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -131,320 +175,236 @@
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அவிநாசி கோவிலில் நவ. 23-ல் பரணி தீபம், நவ. 24-ல் மகா தீபம்",
-   "english_headline": "Paranai Deepam at Avinashi temple on 23 Nov and Maha Deepam on 24 Nov",
-   "category": "Temples & Events",
-   "location": "Avinashi town, Tirupur district",
+   "tamil_headline": "வெள்ளக்கோவிலில் அரசுப் பேருந்து மோதியதில் ஓய்வுபெற்ற நீதித் துறை அலுவலர் உயிரிழப்பு",
+   "english_headline": "Retired judicial department official dies after being hit by a government bus at Vellakoil",
+   "category": "Roads & Transport",
+   "location": "Vellakoil, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கோவில் தீபம்",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் நவ. 23-ல் பரணி தீபம்",
-    "hl2": "நவ. 24-ல் மகா தீபம்",
+    "cat": "சாலை விபத்து",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "வெள்ளக்கோவிலில் அரசுப் மோதி உயிரிழப்பு",
+    "hl2": "ஓய்வுபெற்ற நீதித் துறை",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "நவ. <b>23</b> அன்று பரணி தீபம்",
-       "நவ. <b>24</b> அன்று மகா தீபம்",
-       "கார்த்திகை மாத தீபத் திருவிழா"
+       "வெள்ளக்கோவில்-முத்தூர் சாலையில் விபத்து",
+       "பின்னால் வந்த அரசுப் பேருந்து இருசக்கர வாகனத்தில் மோதியது",
+       "படுகாயமடைந்த <b>69 வயது</b> ஆர்.கணேசன் உயிரிழந்தார்"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "யார் இவர்?",
       "lines": [
-       "அவிநாசி ஸ்ரீ கருணாம்பிகை உடனமர் அவிநாசிலிங்கேஸ்வரர் கோவில்",
-       "ராஜகோபுரம், தீபஸ்தம்பம், அம்மன் சன்னதி கோபுரம், கொடிமரம்",
-       "மகா தீபம் கோவில் தீபஸ்தம்பத்தில்"
+       "செம்மாண்டம்பாளையத்தைச் சேர்ந்தவர்",
+       "ஓய்வுபெற்ற நீதித் துறை அலுவலர்",
+       "மனைவி குணசேகரி ஓய்வுபெற்ற வட்டார வளர்ச்சி அலுவலர்"
       ]
      },
      {
-      "title": "நேரம்",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "பரணி தீபம்: மாலை <b>6:30</b> மணி",
-       "மகா தீபம்: இரவு <b>7:00</b> மணி",
-       "கோவில் நிர்வாகத்தினர் தகவல்"
+       "ஆம்புலன்ஸ் மூலம் காங்கயம் அரசு மருத்துவமனைக்கு",
+       "வழியிலேயே உயிரிழந்தார்",
+       "பேருந்து ஓட்டுநர் மீது போலீசார் வழக்குப் பதிவு செய்து"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அவிநாசியில் நவம்பர் 23ஆம் தேதி பரணி தீபம் ஏற்றப்படுகிறது. அவிநாசி ஸ்ரீ கருணாம்பிகை உடனமர் அவிநாசிலிங்கேஸ்வரர் கோவிலில் இந்த தீபம் ஏற்றப்படுகிறது. நவம்பர் 23ஆம் தேதி மாலை 6:30 மணிக்கு கோவில் ராஜகோபுரம், தீபஸ்தம்பம், அம்மன் சன்னதி கோபுரம் மற்றும் கொடிமரம் ஆகிய இடங்களில் பரணி தீபம் ஏற்றப்படும். நவம்பர் 24ஆம் தேதி இரவு 7:00 மணிக்கு கோவில் தீபஸ்தம்பத்தில் மகா தீபம் ஏற்றப்பட உள்ளது. கார்த்திகை மாத தீபத் திருவிழாவை முன்னிட்டு இந்த தீபங்கள் ஏற்றப்படுகின்றன என்று கோவில் நிர்வாகத்தினர் தெரிவித்தனர். கொங்கு ஏழு சிவாலயங்களில் முதன்மையானதாக விளங்கும் இக்கோவிலில் இந்த நிகழ்வு நடைபெறுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🪔 அவிநாசியில் நவ. 23-ல் பரணி தீபம், நவ. 24-ல் மகா தீபம்\n\n📰 முழு விவரம்:\nஅவிநாசி ஸ்ரீ கருணாம்பிகை உடனமர் அவிநாசிலிங்கேஸ்வரர் கோவிலில் நவம்பர் 23ஆம் தேதி பரணி தீபமும், நவம்பர் 24ஆம் தேதி மகா தீபமும் ஏற்றப்படுகின்றன. கார்த்திகை மாத தீபத் திருவிழாவை முன்னிட்டு இந்த தீபங்கள் ஏற்றப்படுகின்றன. கொங்கு ஏழு சிவாலயங்களில் முதன்மையானதாக விளங்கும் இக்கோவிலில் இந்த நிகழ்வு நடைபெறுகிறது.\n📍 இடம்: கோவில் ராஜகோபுரம், தீபஸ்தம்பம், அம்மன் சன்னதி கோபுரம், கொடிமரம்\n🗓️ நாள்: நவம்பர் 23 (பரணி தீபம்), நவம்பர் 24 (மகா தீபம்)\n🕘 நேரம்: பரணி தீபம் மாலை 6:30 மணி, மகா தீபம் இரவு 7:00 மணி\n\nAvinashi Paranai Deepam 23 Nov, Maha Deepam 24 Nov | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "At dusk, the tall rajagopuram of the Avinashilingeswarar temple in Avinashi town glows with rows of clay oil lamps lit for the Karthigai Deepam festival. Devotees in sarees, veshti and shirts stand in the temple courtyard, seen from behind and far away, their silhouettes against the warm light. The tall stone deepasthambam (lamp pillar) in the foreground is lit with flames, and a flagstaff stands near the Amman shrine tower. The surrounding stone temple walls and carved pillars are lit by the lamps, and the evening sky is deep blue. Shot at eye level from the outer courtyard, 35 mm, wide enough to show the full gopuram and the crowd. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the stone deepasthambam at the Avinashi temple, its tiers filled with rows of small clay oil lamps burning with bright flames at dusk. Behind the pillar, the blurred outline of a temple staff member lights more lamps, seen only from behind. The carved stone base and the warm glow of the flames fill the frame, with the dark evening sky above. Shot slightly high, 35 mm, focused on the lit lamps and the texture of the stone pillar. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/parani-lamp-in-avinashi-temple-tomorrow/4382575",
-   "published": "2026-11-21T19:34:59+05:30",
+   "reel_script": "வெள்ளக்கோவிலில் அரசுப் பேருந்து மோதியதில் 69 வயது ஓய்வுபெற்ற நீதித் துறை அலுவலர் உயிரிழந்தார். வெள்ளக்கோவில், செம்மாண்டம்பாளையம் பகுதியைச் சேர்ந்த ஆர் கணேசன் ஓய்வுபெற்ற நீதித் துறை அலுவலர் ஆவார். அவரது மனைவி குணசேகரி ஓய்வுபெற்ற வட்டார வளர்ச்சி அலுவலர். சனிக்கிழமை வெள்ளக்கோவில்-முத்தூர் சாலையில் கணேசன் தனது இருசக்கர வாகனத்தில் சென்று கொண்டிருந்தார். அப்போது பின்னால் வந்த அரசுப் பேருந்து அவரது வாகனத்தின் மீது மோதியது. படுகாயமடைந்த அவரை அங்கிருந்தவர்கள் மீட்டு ஆம்புலன்ஸ் மூலம் காங்கயம் அரசு மருத்துவமனைக்கு அனுப்பினர். ஆனால் செல்லும் வழியிலேயே அவர் உயிரிழந்தார். இது குறித்த புகாரின்பேரில் அரசுப் பேருந்து ஓட்டுநர் திருமுருகன் மீது வெள்ளக்கோவில் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 வெள்ளக்கோவிலில் அரசுப் பேருந்து மோதி ஓய்வுபெற்ற நீதித் துறை அலுவலர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில்-முத்தூர் சாலையில் சனிக்கிழமை இருசக்கர வாகனத்தில் சென்ற ஆர்.கணேசன் (69 வயது) மீது பின்னால் வந்த அரசுப் பேருந்து மோதியது. படுகாயமடைந்த அவர் ஆம்புலன்ஸ் மூலம் காங்கயம் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டார். ஆனால் செல்லும் வழியிலேயே உயிரிழந்தார்.\n📍 இடம்: வெள்ளக்கோவில்-முத்தூர் சாலை, வெள்ளக்கோவில்\n🗓️ நாள்: சனிக்கிழமை\n👮 நடவடிக்கை: புகாரின்பேரில் அரசுப் பேருந்து ஓட்டுநர் திருமுருகன் மீது வெள்ளக்கோவில் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\nஓட்டுநர்கள் சாலையில் கவனமாக வாகனம் ஓட்ட வேண்டும்.\n\nVellakoil bus accident retired official dies | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
+   "prompts": "A damaged two-wheeler lies on the side of a two-lane tar road in Vellakoil, Tirupur district, after a government town bus has come to a halt a short distance ahead of it. The road runs past dry scrubland, a few low village houses and a roadside tea stall, with power poles lining the edge. Tamil Nadu police in khaki stand at a distance near the bus, while a small group of local men in shirts and veshti, seen from behind, watch quietly and an ambulance is parked along the verge. The scene is in daylight on a Saturday, with a flat, hazy sky. Shot at eye level from about 30 metres, using a 35 mm lens wide enough to show the road, the bus, the police and the parked ambulance together, with no injured person visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a two-wheeler's front wheel and bent handlebar resting on the tar of a Tamil Nadu village road in Vellakoil, Tirupur district. Behind it, the rear end of a government TNSTC bus is blurred, and a few men in shirts stand far off, seen from behind. Loose dust and a skid mark run across the road surface, and a roadside wall with a plain surface forms the background. Daylight on a Saturday, soft overcast light. Shot at knee height with a 35 mm lens, slightly shallow focus, so the damaged vehicle is the main subject while the bus and people remain in the background, with no injured person or blood visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/அரசுப்-பேருந்து-மோதியதில்-ஓய்வுபெற்ற-நீதித்-துறை-அலுவலா்-உயிரிழப்பு",
+   "published": "2026-11-21T19:33:56.512Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293770/tirupur360/v56gprdjfcfuogkxluch.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293773/tirupur360/nx4gctypcjl2dvasqreh.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூரில் குண்டர் சட்டம்: 3 பேர் சிறையில்",
+   "english_headline": "3 persons jailed under Gangster Suppression Act in Tirupur",
+   "category": "Crime & Safety",
+   "location": "Tirupur city, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குண்டர் சட்டம்",
+    "loc": "திருப்பூர் மாநகரம்",
+    "hl1": "திருப்பூரில் 3 குண்டர்கள் சிறையில்",
+    "hl2": "காவல் ஆணையர் ஆணை",
+    "slides": [
+     {
+      "title": "சிறை அடைப்பு",
+      "lines": [
+       "திருப்பூரில் 3 பேர் சிறையில் அடைக்கப்பட்டனர்",
+       "குண்டர் தடுப்புச் சட்டத்தின் கீழ் நடவடிக்கை"
+      ]
+     },
+     {
+      "title": "கைது விவரம்",
+      "lines": [
+       "கார்த்திகேயன் (52 வயது) இருசக்கர வாகனம் திருடினார்",
+       "சூரியபாண்டியன், ஹேமந்த்குமார் குட்கா வைத்திருந்தனர்"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள்",
+      "lines": [
+       "மாநகர காவல் ஆணையர் எஸ்.ராஜேஸ்வரி ஆணை பிறப்பித்தார்",
+       "பொது அமைதிக்கு குந்தகம் விளைவித்ததால் நடவடிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரில் 3 குண்டர்கள் சிறையில் அடைக்கப்பட்டனர். மாநகர காவல் ஆணையர் எஸ் ராஜேஸ்வரி இந்த ஆணையை பிறப்பித்தார். தெற்கு காவல் நிலைய எல்லைக்குள் கார்த்திகேயன் (52 வயது) கைது செய்யப்பட்டார். இவர் இருசக்கர வாகனத்தை திருடினார். அனுப்பர்பாளையம் அருகே சூரியபாண்டியன் (30 வயது) கைது செய்யப்பட்டார். ஹேமந்த்குமார் (26 வயது) கைது செய்யப்பட்டார். இவர்களிடமிருந்து குட்கா பொருள்கள் பறிமுதல் செய்யப்பட்டன. இவர்கள் பொது அமைதிக்கு குந்தகம் விளைவித்தனர். இதனால் குண்டர் தடுப்புச் சட்டம் லாகூ செய்யப்பட்டது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூரில் குண்டர் சட்டம்: 3 பேர் சிறையில் அடைக்கப்பட்டனர்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகரத்தில் குண்டர் தடுப்புச் சட்டத்தின் கீழ் 3 பேர் சிறையில் அடைக்கப்பட்டனர். தெற்கு காவல் நிலைய எல்லைக்குள் வீரராகவ பெருமாள் கோயில் அருகே கார்த்திகேயன் (52 வயது) இருசக்கர வாகனத்தை திருடியதால் கைது செய்யப்பட்டார். அனுப்பர்பாளையம் காவல் நிலைய எல்லைக்குள் தோட்டத்துப்பாளையம் அருகே சூரியபாண்டியன் (30 வயது) மற்றும் ஹேமந்த்குமார் (26 வயது) கைது செய்யப்பட்டனர். இவர்களிடமிருந்து குட்கா பொருள்கள் பறிமுதல் செய்யப்பட்டன. பொது அமைதிக்கு குந்தகம் விளைவித்ததால் மாநகர காவல் ஆணையர் எஸ்.ராஜேஸ்வரி சிறை அடைப்பு ஆணை பிறப்பித்தார்.\n\n📍 இடம்: திருப்பூர் மாநகரம்\n👮 நடவடிக்கை: 3 பேர் சிறையில் அடைக்கப்பட்டனர்\nℹ️ மக்கள் கவனத்திற்கு: பொது அமைதி பாதிப்புக்கு கண்டனம்\n\nTirupur gangsters jailed | Tirupur news\n📍 Tirupur city, Tirupur | 21 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #CrimeNews",
+   "prompts": "Three men are led away by Tamil Nadu police in khaki from a police station gate in Tirupur city, after the city police commissioner ordered them jailed under the Gangster Suppression Act. The setting is a government police station compound in the city, with a plain cream painted wall, a metal gate and a parked police jeep at the side. Two police constables in khaki uniforms walk the three men, shown from behind and far away, wearing shirts and trousers, their hands held in front. Behind them stands a stack of two-wheelers parked in a row. The time is midday under bright, hazy daylight, with a clear sky and no rain. The camera is at eye level, 35 mm, wide enough to show the full gate, the jeep and the walking group, the faces blurred or turned away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on a police table in a Tirupur city police station shows a set of seized gutka packets laid out in neat stacks in front of a khaki-uniformed officer's hand, with a steel ledger book and a ballpoint pen beside them. The packets are small and sealed, bundled and stacked, in a pile that spills across the wooden table top. Behind the table, out of focus, a constable in khaki stands with his back to the camera and a cream wall with a metal almirah behind him. The light is soft daytime light from a barred window on the left, casting gentle shadows. The camera is close, at table height, 35 mm, focused on the packets and pen, the background blurred so no faces or text are visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/குண்டா்-தடுப்புச்-சட்டத்தின்-கீழ்-3-போ்-சிறையில்-அடைப்பு",
+   "published": "2026-11-21T19:22:34.024Z",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: letters of another script inside Tamil words: ग ल ा ू - write every word only in Tamil letters; caption misses facts of the article (put every one in 📰 முழு விவரம்): 16 ('திருப்பூா் மாவட்டத்தில் குண்டா் தடுப்புச் சட்டத்தின்கீழ் 3 ப'); 28 ('திருப்பூா் மாவட்டத்தில் குண்டா் தடுப்புச் சட்டத்தின்கீழ் 3 ப')",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293785/tirupur360/tashbohwnsjoscnnrwjr.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293789/tirupur360/opp247idnguv1jibkih8.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "காங்கயத்தில் சரக்கு வேன் மீது லாரி மோதி விபத்து: ஓட்டுநர் படுகாயம்",
+   "english_headline": "Lorry hits cargo van at Kangayam roundabout, driver seriously injured",
+   "category": "Roads & Transport",
+   "location": "Kangayam, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "காங்கயம்",
+    "hl1": "காங்கயத்தில் லாரி மோதி விபத்து",
+    "hl2": "வேன் ஓட்டுநர் படுகாயம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "காங்கயம் காவல் நிலையம் அருகே விபத்து",
+       "கோவை சாலையில் செல்ல திரும்பிய லாரி மோதியது",
+       "சரக்கு வேன் ஓட்டுநர் <b>படுகாயம்</b> அடைந்தார்"
+      ]
+     },
+     {
+      "title": "மீட்பு",
+      "lines": [
+       "அங்கிருந்த போலீசார் ஓட்டுநரை மீட்டனர்",
+       "காங்கயம் அரசு மருத்துவமனைக்கு அனுப்பினர்"
+      ]
+     },
+     {
+      "title": "போக்குவரத்து",
+      "lines": [
+       "விபத்தால் போக்குவரத்து பாதிக்கப்பட்டது",
+       "வாகனங்களை அப்புறப்படுத்தி போக்குவரத்தை போலீசார் சீர்செய்தனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "காங்கயத்தில் சரக்கு வேன் மீது லாரி மோதியதில் வேன் ஓட்டுநர் படுகாயமடைந்தார். சனிக்கிழமை காலை, காங்கயம் காவல் நிலையம் அருகே உள்ள ரவுண்டானாவில் இந்த விபத்து நடந்தது. கோவை சாலையில் செல்வதற்காகத் திரும்பிய லாரி, அவ்வழியே வந்த சரக்கு வேன் மீது எதிர்பாராத விதமாக மோதியது. படுகாயமடைந்த வேன் ஓட்டுநரை அங்கிருந்த போலீசார் மீட்டு, காங்கயம் அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். இந்த விபத்தால் காங்கயம் காவல் நிலையப் பகுதியில் போக்குவரத்து பாதிக்கப்பட்டது. விபத்துக்குள்ளான வாகனங்களை அப்புறப்படுத்திய போலீசார், போக்குவரத்தைச் சீர்செய்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚚 காங்கயத்தில் சரக்கு வேன் மீது லாரி மோதி விபத்து: ஓட்டுநர் படுகாயம்\n\n📰 முழு விவரம்:\nசனிக்கிழமை காலை காங்கயம் காவல் நிலையம் அருகே உள்ள ரவுண்டானாவில், கோவை சாலையில் செல்வதற்காகத் திரும்பிய லாரி, அவ்வழியே வந்த சரக்கு வேன் மீது எதிர்பாராத விதமாக மோதியது. இதில் சரக்கு வேன் ஓட்டுநர் படுகாயமடைந்தார். அங்கிருந்த போலீசார் அவரை மீட்டு காங்கயம் அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர்.\n🚧 இந்த விபத்தால் காங்கயம் காவல் நிலையப் பகுதியில் போக்குவரத்து பாதிக்கப்பட்டது. விபத்துக்குள்ளான வாகனங்களை அப்புறப்படுத்திய போலீசார், போக்குவரத்தைச் சீர்செய்தனர்.\n\nKangayam lorry hits cargo van, driver injured | Tirupur news\n📍 காங்கயம், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nநண்பர்களுக்கும் பகிருங்கள் 🙏\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kangayam #TirupurNews #திருப்பூர்",
+   "prompts": "A damaged white cargo van and a large lorry stand locked together at a busy roundabout in Kangayam town, Tirupur district, on a Saturday morning in daylight. The lorry's front and side are dented and the van's rear and side panels are crushed, with its doors bent open. The roundabout is a small circular road island with a low paved centre, and the buildings around it include the front wall of a police station with a Tamil Nadu police jeep parked nearby. Two Tamil Nadu police constables in khaki uniform stand at a distance, directing the stopped traffic, while a few onlookers in shirts and sarees watch from the roadside, seen from behind and far off. Two-wheelers and an autorickshaw are queued up on the road, and the sky is bright and clear. Shot at eye level from a slightly high position with a 35 mm lens, wide enough to show the roundabout, the crashed vehicles and the police station. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the crushed front corner of a lorry pressed against the side of a cargo van at a roundabout in Kangayam, Tirupur district. The metal is badly dented and torn, with broken glass and a bent side mirror lying on the tarmac, and the van's sliding side door is pushed inward. Behind the vehicles, a khaki-uniformed Tamil Nadu police constable is partially visible, slightly blurred, as he guides the traffic, and the edge of a police station wall is seen in the background. Daylight, clear weather, Saturday morning. Shot at low eye level with a 35 mm lens, focusing on the damaged vehicle metal with the roundabout road behind it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/காங்கயத்தில்-சரக்கு-வேன்-மீது-லாரி-மோதி-விபத்து",
+   "published": "2026-11-21T19:32:22.913Z",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283341/tirupur360/hd5kqf0hb9tyqlsisnqw.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283344/tirupur360/fu13rr9untovydhikrb3.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293805/tirupur360/lfegp3dksqy79i9vzp8k.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293808/tirupur360/zkdrfbyngtps8nqpgyz4.jpg"
    ]
   },
   {
-   "tamil_headline": "திருப்பரங்குன்றம் தீப ஏற்றம்: உச்சநீதிமன்ற உத்தரவை நிறைவேற்ற யுவசேனா கோரிக்கை",
-   "english_headline": "Yuva Sena urges government to implement Supreme Court order on lamp lighting at Thiruparankundram",
-   "category": "Government & Services",
-   "location": "Tirupur district (Thiruparankundram)",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு நடவடிக்கை",
-    "loc": "திருப்பரங்குன்றம்",
-    "hl1": "உத்தரவை நிறைவேற்ற கோரிக்கை",
-    "hl2": "யுவசேனா வலியுறுத்தல்",
-    "slides": [
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "திருப்பரங்குன்றத்தில் தீபம் ஏற்றுவது தொடர்பான உத்தரவு",
-       "உச்சநீதிமன்றம் பிறப்பித்த உத்தரவை நிறைவேற்ற வேண்டும்",
-       "யுவசேனா வலியுறுத்தியுள்ளது"
-      ]
-     },
-     {
-      "title": "யார் சொன்னது?",
-      "lines": [
-       "யுவசேனா மாநிலத் தலைவர் திருமுருக தினேஷ்",
-       "இந்தியா மதச்சார்பற்ற நாடு என்று அவர் கூறினார்",
-       "அனைத்து மதத்தினரும் ஒற்றுமையாக வாழ்கின்றனர்"
-      ]
-     },
-     {
-      "title": "அரசிடம் கோரிக்கை",
-      "lines": [
-       "உரிய பாதுகாப்பு, வசதிகளை ஏற்படுத்த வேண்டும்",
-       "தீப நிகழ்வை நடத்த அரசு நடவடிக்கை எடுக்க வேண்டும்",
-       "மத மோதல் ஏற்படக்கூடாது என்பதே நோக்கம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பரங்குன்றத்தில் தீபம் ஏற்றுவது தொடர்பான உச்சநீதிமன்ற உத்தரவை நிறைவேற்ற வேண்டும் என யுவசேனா வலியுறுத்துகிறது. யுவசேனா மாநிலத் தலைவர் திருமுருக தினேஷ் இதுகுறித்துத் தெரிவித்துள்ளார். திருப்பரங்குன்றம் தீப விவகாரத்தில் உச்சநீதிமன்றம் உரிய உத்தரவைப் பிறப்பித்துள்ளது. இந்தியா மதச்சார்பற்ற நாடு என்றும், இங்கு மத மோதல்கள் இல்லை என்றும் அவர் கூறினார். அனைத்து மதத்தினரும் ஒற்றுமையாக வாழ்ந்து வருகின்றனர். தீபம் ஏற்றும் நிகழ்வை ஹிந்துக்கள் கொண்டாடும் பண்டிகையாகக் கருதியும், மத ரீதியான மோதல் அல்லது கருத்து வேறுபாடு ஏற்படக்கூடாது என்ற நோக்கிலும் உச்சநீதிமன்றம் இந்த உத்தரவைப் பிறப்பித்துள்ளது. உத்தரவை நிறைவேற்றும் வகையில் உரிய பாதுகாப்பு மற்றும் வசதிகளை ஏற்படுத்தி, இந்த நிகழ்வை நடத்த அரசு நடவடிக்கை எடுக்க வேண்டும் என்று அவர் வலியுறுத்தினார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 திருப்பரங்குன்றம் தீப உத்தரவை நிறைவேற்ற யுவசேனா கோரிக்கை\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றத்தில் தீபம் ஏற்றுவது தொடர்பாக உச்சநீதிமன்றம் பிறப்பித்த உத்தரவை நிறைவேற்ற வேண்டும் என யுவசேனா வலியுறுத்தியுள்ளது. யுவசேனா மாநிலத் தலைவர் திருமுருக தினேஷ் இதுகுறித்துக் கருத்து தெரிவித்தார்.\nஇந்தியா மதச்சார்பற்ற நாடு என்றும், இங்கு மத மோதல்கள் இல்லை என்றும் அவர் கூறினார். தீபம் ஏற்றும் நிகழ்வை ஹிந்துக்கள் கொண்டாடும் பண்டிகையாகக் கருதி, மத ரீதியான மோதல் ஏற்படக்கூடாது என்ற நோக்கில் உச்சநீதிமன்றம் இந்த உத்தரவைப் பிறப்பித்ததாக அவர் தெரிவித்தார்.\nஉத்தரவை நிறைவேற்ற உரிய பாதுகாப்பு மற்றும் வசதிகளை ஏற்படுத்தி, நிகழ்வை நடத்த அரசு நடவடிக்கை எடுக்க வேண்டும் என்று யுவசேனா கோரியுள்ளது.\n\nYuva Sena urges govt to implement SC lamp order at Thiruparankundram | Tirupur news\n📍 திருப்பரங்குன்றம், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Thiruparankundram",
-   "prompts": "A small group of devotees stands at the foot of a rocky hill at Thiruparankundram in Tirupur district, seen from behind as they look up toward a hilltop temple. Near the base stands a tall stone deepathoon, a traditional lamp pillar, with a flame lit at its top, suggesting the lamp-lighting ritual the article discusses. Stone steps climb the dark granite hillside, and the modest temple structure sits on the crest. Plain dhotis, veshtis and sarees mark the devotees, and a few police in khaki stand at a distance near a barrier, reflecting the security the demand calls for. It is early evening with soft golden light fading on the rock, and the scene is calm with no crowd disorder. Camera at eye level, 35 mm, wide enough to show the hill, the lamp pillar and the temple above. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a traditional brass oil lamp (vilakku) with a steady flame resting on the stone base of a deepathoon at the foot of the Thiruparankundram hill. Rough granite steps and rock surface fill the background, softly blurred. A few hands cupping the lamp are seen from behind, and a bit of faded sindoor and marigold petals lie on the stone. Warm flame glow contrasts with the cool grey of the hill in early evening. Camera slightly high, close-up, shallow depth of field, 35 mm. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/yuva-sena-urges-government-to-implement-supreme-court-order/4382615",
-   "published": "2026-11-21T19:52:31+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பரங்குன்றம்', e.g. 'திருப்பரங்குன்றம்: ...' or 'திருப்பரங்குன்றம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283353/tirupur360/gxezqvqdkgsz0t8p0gsl.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283357/tirupur360/tej9j0rgsd1b3c0y7d0h.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சிங்கப்பூர் அருங்காட்சியகத்துக்கு திருப்பூரில் ‘கின்னாரம்’ இசைக்கருவி தயாரிப்பு",
-   "english_headline": "Tirupur artisan makes 'Kinnaram' string instrument for Singapore Tamil Heritage Museum display",
-   "category": "Temples & Events",
-   "location": "Anuppampalayam, Tirupur city, Tirupur district",
+   "tamil_headline": "குண்டடம் அருகே கட்டுப்பாட்டை இழந்த லாரி சாலையில் கவிழ்ந்து விபத்து",
+   "english_headline": "Lorry overturns near Kundadam after reportedly hitting a car; driver injured",
+   "category": "Roads & Transport",
+   "location": "Kundadam, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கலை பண்பாடு",
-    "loc": "அனுப்பர்பாளையம், திருப்பூர்",
-    "hl1": "சிங்கப்பூர் கின்னாரம்",
-    "hl2": "திருப்பூரில் தயாரிப்பு",
-    "slides": [
-     {
-      "title": "என்ன தயாரிப்பு?",
-      "lines": [
-       "ஒற்றை நரம்பிசை கருவி <b>‘கின்னாரம்’</b>",
-       "சிங்கப்பூர் தமிழர் அருங்காட்சியகத்தில் காட்சிக்கு",
-       "திருப்பூர், அனுப்பர்பாளையம் ஆனந்தன் தயாரிப்பு"
-      ]
-     },
-     {
-      "title": "யார் இவர்?",
-      "lines": [
-       "ஆனந்தன், <b>55 வயது</b>",
-       "வெண்கல பாத்திர உற்பத்தியாளர்",
-       "25 ஆண்டுகளாக மரச்சிற்பம் செய்கிறார்"
-      ]
-     },
-     {
-      "title": "பாரம்பரிய",
-      "lines": [
-       "உடுக்கை, கின்னாரம், வங்கப்பறை தயாரிப்பு",
-       "தமிழகத்தின் பல இசைக் கலைஞர்களுக்கு வழங்கல்",
-       "நான்கு அருங்காட்சியகங்களில் இவர் கருவிகள்"
-      ]
-     },
-     {
-      "title": "நான்கு நாட்களில்",
-      "lines": [
-       "<b>4 நாட்களில்</b> கின்னாரம் தயாரித்தார்",
-       "5,000 ஆண்டுகள் பழமையான கருவி",
-       "கடல் கடந்து செல்வது பெருமை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூரில் தயாரான கின்னாரம் இசைக்கருவி சிங்கப்பூர் அருங்காட்சியகத்தில் இடம்பெறுகிறது. அனுப்பர்பாளையத்தைச் சேர்ந்த ஆனந்தன், 55 வயது, இந்தக் கருவியைத் தயாரித்துள்ளார். இவர் வெண்கல பாத்திர உற்பத்தியாளர். 25 ஆண்டுகளாக மரச்சிற்பங்கள் தயாரித்து வருகிறார். தமிழகத்தின் பல்வேறு பகுதிகளைச் சேர்ந்த இசைக் கலைஞர்களுக்கு உடுக்கை, கின்னாரம், வங்கப்பறை போன்ற பாரம்பரிய இசைக்கருவிகளையும் தயாரித்து வழங்கி வருகிறார். கின்னாரம் ஒற்றை நரம்பிசை கருவி. ஒரு வகை சுரைக்காயைப் பயன்படுத்தி இதைத் தயாரிக்கிறார். இந்தக் கருவி 5,000 ஆண்டுகளுக்கு முன்னரே தமிழகத்தில் பயன்பாட்டில் இருந்தது. சென்னை, தர்மபுரி உள்ளிட்ட நான்கு அருங்காட்சியகங்களில் இவர் தயாரித்த கின்னாரம் கருவிகள் காட்சிக்கு உள்ளன. தற்போது சிங்கப்பூர் தமிழர் அருங்காட்சியகத்தில் வைக்க கின்னாரம் தயாரிக்கக் கேட்கப்பட்டது. நான்கு நாட்களில் இதை உருவாக்கினார். திருப்பூரில் தயாரான இசைக்கருவி கடல் கடந்து சிங்கப்பூர் அருங்காட்சியகத்தில் இடம்பெறுவது பெருமை என்கிறார் அவர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎶 திருப்பூரில் தயாரான ‘கின்னாரம்’ சிங்கப்பூர் அருங்காட்சியகத்துக்கு செல்கிறது\n\n📰 முழு விவரம்:\nசிங்கப்பூர் தமிழர் அருங்காட்சியகத்தில் காட்சிப்படுத்துவதற்காக திருப்பூரில் ஒற்றை நரம்பிசை கருவியான ‘கின்னாரம்’ தயாரிக்கப்பட்டுள்ளது.\nஅனுப்பர்பாளையத்தைச் சேர்ந்த ஆனந்தன், 55 வயது, வெண்கல பாத்திர உற்பத்தியாளர். 25 ஆண்டுகளாக மரச்சிற்பங்கள் தயாரித்து வருகிறார்.\nதமிழகத்தின் பல்வேறு பகுதிகளைச் சேர்ந்த இசைக் கலைஞர்களுக்கு உடுக்கை, கின்னாரம், வங்கப்பறை உள்ளிட்ட பாரம்பரிய இசைக்கருவிகளைத் தயாரித்து வழங்கி வருகிறார்.\n🥁 கின்னாரம் ஒரு வகை சுரைக்காயைப் பயன்படுத்தி தயாரிக்கப்படுகிறது.\n🏛️ இந்தக் கருவி 5,000 ஆண்டுகளுக்கு முன்னரே தமிழகத்தில் பயன்பாட்டில் இருந்துள்ளது.\n🖼️ சென்னை, தர்மபுரி உள்ளிட்ட தமிழகத்தின் நான்கு அருங்காட்சியகங்களில் ஆனந்தன் தயாரித்த கின்னாரம் கருவிகள் காட்சிப்படுத்தப்பட்டுள்ளன.\n⏱️ சிங்கப்பூர் அருங்காட்சியகத்துக்காக நான்கு நாட்களில் கின்னாரம் தயாரித்துள்ளார்.\nதிருப்பூரில் தயாரான இசைக்கருவி கடல் கடந்து சிங்கப்பூர் அருங்காட்சியகத்தில் இடம்பெறுவது பெருமை என ஆனந்தன் கூறினார்.\n\nTirupur kinnaram instrument for Singapore museum | Tirupur news\n📍 அனுப்பர்பாளையம், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "In a small wooden-sculpting workshop in Anuppampalayam, Tirupur city, a 55-year-old craftsman named Anandan sits on a low wooden stool and carefully polishes a finished kinnaram, a single-string instrument carved from a dried bottle gourd, held up in both hands. He is seen from behind and slightly to the side, his face turned away from the camera. Around him on the floor and a work bench lie half-carved wooden pieces, chisels, wood shavings, and a few finished drums like udukkai and vangaparai hung on a whitewashed wall. Tirupur's workshop look: plain concrete walls, a tube light overhead, a ceiling fan, and a window letting in daylight. Daylight, no readable text anywhere. Camera at eye level, 35 mm lens, wide enough to show the workshop around him. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the finished kinnaram instrument resting on a wooden workbench in a Tirupur craftsman's workshop. The dried bottle gourd body is smooth and polished to a warm golden-brown, with a single long thin string stretched across it and a small wooden bridge at the base. Beside it lie a carving chisel, a curled wood shaving and a few wooden offcuts, slightly out of focus. In the soft background a stack of drums and bundles of seasoned wood are visible. Daylight from a side window casts gentle shadows. No people in focus, no labels or text. Camera slightly high, 50 mm lens, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/kinnaram-made-in-tiruppur-which-goes-to-the-singapore-museum/4382596",
-   "published": "2026-11-21T19:36:39+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283363/tirupur360/hys7xsrza7igkepwoezu.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283367/tirupur360/wjhnybhc2bo620fqxxcb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் மாவட்டத்தில் ஊரக திறனாய்வு தேர்வு: 2,086 மாணவர்கள் பங்கேற்பு",
-   "english_headline": "Rural aptitude exam held at 11 centres in Tirupur district; 2,086 students appeared, 412 absent",
-   "category": "Education",
-   "location": "Avinashi, Tirupur, Kangeyam, Palladam, Tharapuram, Udumalaipettai centres, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்வி",
-    "loc": "அவிநாசி, திருப்பூர், காங்கயம், பல்லடம்",
-    "hl1": "அவிநாசி: ஊரக திறனாய்வு தேர்வு நடந்தது",
-    "hl2": "2,086 மாணவர்கள் பங்கேற்பு",
-    "slides": [
-     {
-      "title": "தேர்வு விவரம்",
-      "lines": [
-       "திருப்பூர் மாவட்டத்தில் <b>11 மையங்களில்</b> தேர்வு நடந்தது",
-       "9ஆம் வகுப்பு மாணவர்களுக்கான ஊரக திறனாய்வு தேர்வு",
-       "நேற்று நடந்தது"
-      ]
-     },
-     {
-      "title": "பங்கேற்பு",
-      "lines": [
-       "விண்ணப்பித்தவர்கள்: <b>2,498</b> பேர்",
-       "தேர்வு எழுதியவர்கள்: <b>2,086</b> பேர்",
-       "வரவில்லை: <b>412</b> பேர்"
-      ]
-     },
-     {
-      "title": "உதவித்தொகை",
-      "lines": [
-       "தேர்வாகும் ஒவ்வொரு கல்வி மாவட்டத்துக்கும் <b>50</b> மாணவர்கள்",
-       "ஆண்டுக்கு <b>ரூ.1,000</b> வீதம் உதவித்தொகை",
-       "பிளஸ் 2 முடிக்கும் வரை <b>4 ஆண்டுகள்</b> வழங்கப்படும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாவட்டத்தில் 2,086 மாணவர்கள் ஊரக திறனாய்வு தேர்வு எழுதினர். நேற்று 11 மையங்களில் இத்தேர்வு நடைபெற்றது. விண்ணப்பித்த 2,498 பேரில் 412 பேர் தேருக்கு வரவில்லை. அரசு தேர்வுகள் இயக்ககம் சார்பில் ஊரகப் பகுதிப் பள்ளிகளில் படிக்கும் 9ஆம் வகுப்பு மாணவர்களுக்கு இத்தேர்வு நடத்தப்படுகிறது. அவிநாசி, திருப்பூர், காங்கயம், பல்லடம், தாராபுரம், உடுமலை உள்ளிட்ட பகுதிகளில் தேர்வு மையங்கள் அமைக்கப்பட்டன. கே எஸ் சி அரசு மேல்நிலைப்பள்ளியில் அதிகபட்சமாக 413 பேர் தேர்வு எழுதினர். தாராபுரம் என் சி பி மாநகராட்சி ஆண்கள் மேல்நிலைப்பள்ளியில் 173 பேர் தேர்வு எழுதினர். தேர்வில் தேர்ச்சி பெற்று தேர்வு செய்யப்படும் ஒவ்வொரு கல்வி மாவட்டத்தையும் சேர்ந்த 50 மாணவர்களுக்கு ஆண்டுக்கு ரூ.1,000 வீதம் உதவித்தொகை வழங்கப்படும். பிளஸ் 2 முடிக்கும் வரை நான்கு ஆண்டுகளுக்கு இந்த உதவித்தொகை கிடைக்கும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📝 திருப்பூர் மாவட்டத்தில் ஊரக திறனாய்வு தேர்வு: 2,086 மாணவர்கள் பங்கேற்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டத்தில் 11 மையங்களில் நேற்று ஊரக திறனாய்வு தேர்வு நடைபெற்றது. விண்ணப்பித்த 2,498 பேரில் 2,086 மாணவர்கள் தேர்வு எழுதினர். 412 பேர் தேர்வுக்கு வரவில்லை.\nஅரசு தேர்வுகள் இயக்ககம் சார்பில், ஊரகப் பகுதிப் பள்ளிகளில் படிக்கும் 9ஆம் வகுப்பு மாணவர்களுக்கு இத்தேர்வு நடத்தப்படுகிறது. தேர்ச்சி பெற்று தேர்வு செய்யப்படும் ஒவ்வொரு கல்வி மாவட்டத்தையும் சேர்ந்த 50 மாணவர்களுக்கு ஆண்டுக்கு ரூ.1,000 வீதம், பிளஸ் 2 முடிக்கும் வரை நான்கு ஆண்டுகளுக்கு உதவித்தொகை வழங்கப்படும்.\n\n📍 இடம்: அவிநாசி, திருப்பூர், காங்கயம், பல்லடம், தாராபுரம், உடுமலை உள்ளிட்ட 11 மையங்கள்\n🗓️ நாள்: நேற்று (நவம்பர் 20)\n🏫 அதிகபட்சம்: கே.எஸ்.சி. அரசு மேல்நிலைப்பள்ளியில் 413 பேர்; தாராபுரம் என்.சி.பி. மாநகராட்சி ஆண்கள் மேல்நிலைப்பள்ளியில் 173 பேர்\n\nRural aptitude exam Tirupur, 2,086 students | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A row of Class 9 students in Tamil Nadu government school uniform sit at wooden desks inside a bright, airy exam hall of a government higher secondary school in Tiruppur city, Tamil Nadu. Students are seen from behind and slightly to the side, heads bent over question papers and answer sheets, some holding pens, their blue-and-white uniforms and a few with school bags placed beside them. Along the back wall, a teacher in a cotton saree stands quietly as an invigilator, watching the room. The walls are plain whitewashed concrete, ceiling fans turn overhead, and tall windows let in soft morning daylight. The scene shows an ordinary midday-free morning exam session at a rural aptitude test centre, with about a few dozen students visible in the hall. Camera: eye level from the rear corner of the room, 35 mm, wide enough to show the full classroom and its exam setting. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a neatly stacked set of printed question papers and sharpened pencils resting on a wooden school desk in a government school exam hall in Tiruppur district, Tamil Nadu. A student's hand, seen only at the edge of the frame in a school uniform sleeve, rests on the paper, while a small stack of blank answer sheets sits beside it. The desk surface is scratched wood with a few pen marks, and soft daylight from a nearby window falls across the papers, creating gentle shadows. No readable text is visible on the papers. Camera: slightly high angle, 50 mm, shallow depth of field, focusing on the papers and pencils while the background of benches and a blurred classroom wall recedes. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/2086-participants-in-rural-review-examination/4382325",
-   "published": "2026-11-21T17:20:26+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 9",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283387/tirupur360/ulaxsxwyef8scyizrf4g.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283390/tirupur360/mpz2takbivsnfuqaoqiw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூரில் புதிய ஆடை பிராண்டுகளை உருவாக்க மாணவர்களுக்கு வாய்ப்பு",
-   "english_headline": "Valrus Yes India Cane encourages students to build their own apparel brands in Tirupur",
-   "category": "Business & Prices",
-   "location": "Tirupur city, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "தொழில் வாய்ப்பு",
-    "loc": "திருப்பூர்",
-    "hl1": "மாணவர்களுக்கு சொந்த பிராண்ட் வாய்ப்பு",
-    "hl2": "திருப்பூரில் திறன் பயிற்சி",
+    "cat": "சாலை விபத்து",
+    "loc": "குண்டடம்",
+    "hl1": "குண்டடம் அருகே லாரி கவிழ்ந்து விபத்து",
+    "hl2": "ஓட்டுநர் படுகாயம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கிரியேட்டிவ் பிளானட் மாணவிகள் திருப்பூர் வந்தனர்",
-       "தொழில்துறை களப்பயணமாக நேற்று வருகை",
-       "வால்ரஸ் டேவிட் துணி பற்றி வழிகாட்டினார்"
+       "குண்டடம் அருகே கட்டுப்பாட்டை இழந்த லாரி சாலையில் கவிழ்ந்தது",
+       "பல்லடத்தில் இருந்து தென்காசி நோக்கி சணல் மூட்டை",
+       "வெள்ளிக்கிழமை இரவு நடந்த சம்பவம்"
       ]
      },
      {
-      "title": "என்ன கற்றனர்?",
+      "title": "எப்படி நடந்தது?",
       "lines": [
-       "துணி வகைகள், தரம், பயன்பாடுகள் விளக்கப்பட்டன",
-       "விளையாட்டு, அறிவுத்திறன் போட்டிகள் நடத்தப்பட்டன",
-       "மாணவியர் புதிய அனுபவம் பெற்றதாக மகிழ்ச்சி"
+       "கோவையில் இருந்து தாராபுரம் சென்ற காரின் பின்பகுதியில் லாரி",
+       "லாரி நிற்காமல் சென்றதால் கார் பின்தொடர்ந்தது",
+       "சங்கம்பாளையம் பிரிவு அருகே லாரி சாலையில் கவிழ்ந்தது"
       ]
      },
      {
-      "title": "அடுத்தது என்ன?",
+      "title": "பாதிப்பு",
       "lines": [
-       "மாதிரி ஆடைகள் உருவாக்கி விற்க வாய்ப்பு",
-       "பிற மாவட்டங்களிலும் பயிற்சி விரிவுபடுத்த திட்டம்",
-       "250க்கும் அதிகமான பாலியஸ்டர் துணிகள் கிடைக்கும்"
+       "லாரி ஓட்டுநர் படுகாயம் அடைந்தார்",
+       "அப்பகுதி மக்கள் மீட்டு ஆம்புலன்ஸ் மூலம் தாராபுரம் அரசு",
+       "குண்டடம் போலீசார் வழக்குப் பதிவு செய்து விசாரணை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூரில் மாணவர்கள் தங்களுக்கென சொந்த ஆடை பிராண்டைத் தொடங்கும் வாய்ப்பு உருவாகியுள்ளது. வால்ரஸ் யெஸ் இந்தியா கேன் நிறுவனம் இதற்கான முயற்சியை முன்னெடுத்துள்ளது. கிரியேட்டிவ் பிளானட் இன்ஸ்டிடியூட் ஆப் கிராப்ட் அண்ட் டிசைன் நிறுவன ஆடை வடிவமைப்பு மாணவிகள் நேற்று தொழில்துறை களப்பயணமாக திருப்பூர் வந்தனர். நிறுவன இயக்குனர் வால்ரஸ் டேவிட் பல்வேறு துணி வகைகள், தரம், பயன்பாடுகள் மற்றும் ஆடை உற்பத்தி முறைகள் குறித்து விரிவாக வழிகாட்டினார். துணிகள் தொடர்பான விளையாட்டுகளும் அறிவுத்திறன் போட்டிகளும் குழுக்களாக நடத்தப்பட்டன. நிறுவனர் ஆன்டன் ஜெபா விஜய், மாணவர்கள் தங்கள் திறமைகளை அடுத்த கட்டத்துக்கு எடுத்துச் சென்று தனித்துவமான அடையாளத்தை உருவாக்க வேண்டும் என அறிவுறுத்தினார். மாணவர்கள் மாதிரி ஆடைகளை உருவாக்கி விற்று சொந்த ஆடை பிராண்டுகளைத் தொடங்க வாய்ப்பு அளிக்க நிறுவனம் திட்டமிட்டுள்ளது. பிற மாவட்டங்கள் மற்றும் மாநிலங்களிலும் இத்தகைய பயிற்சிகளை விரிவுபடுத்த திட்டம் உள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "👕 திருப்பூரில் மாணவர்களுக்கு சொந்த ஆடை பிராண்ட் தொடங்கும் வாய்ப்பு\n\n📰 முழு விவரம்:\nவால்ரஸ் யெஸ் இந்தியா கேன் நிறுவனம், கிரியேட்டிவ் பிளானட் இன்ஸ்டிடியூட் ஆப் கிராப்ட் அண்ட் டிசைன் ஆடை வடிவமைப்பு மாணவிகளுக்கு நேற்று திருப்பூரில் தொழில்துறை களப்பயணம் நடத்தியது. நிறுவன இயக்குனர் வால்ரஸ் டேவிட் துணி வகைகள், தரம், பயன்பாடுகள், ஆடை உற்பத்தி முறைகள் குறித்து வழிகாட்டினார். துணிகள் தொடர்பான விளையாட்டுகளும் அறிவுத்திறன் போட்டிகளும் நடத்தப்பட்டன. மாணவிகள் புதிய அனுபவம் பெற்றதாக மகிழ்ச்சி தெரிவித்தனர். மாணவர்கள் மாதிரி ஆடைகளை உருவாக்கி விற்று சொந்த ஆடை பிராண்டுகளைத் தொடங்க நிறுவனம் திட்டமிட்டுள்ளது. பிற மாவட்டங்கள், மாநிலங்களிலும் இத்தகைய பயிற்சிகளை விரிவுபடுத்தவும் திட்டம் உள்ளது.\n📍 இடம்: திருப்பூர்\n🏭 நிறுவனம்: வால்ரஸ் - யெஸ் இந்தியா கேன்\n🧵 250க்கும் அதிகமான பாலியஸ்டர் துணிகள் ஒரே இடத்தில் கிடைக்கும்\nℹ️ பங்கேற்க விரும்பும் கல்லூரிகள் வால்ரஸ் - யெஸ் இந்தியா கேன் நிறுவனத்தைத் தொடர்புகொள்ளலாம்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nTirupur students apparel brand opportunity | Tirupur news\n📍 திருப்பூர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A group of young women fashion design students in simple salwar or saree, seen from behind, sit at a long table in a Tirupur garment-company training hall, handling bolts and rolls of colourful knitted fabric while a guide explains them. Around them stand racks of finished garments, bales of cloth and rows of sewing machines in the background, the typical look of a Tirupur knitwear factory floor. Some students stretch a fabric swatch between their hands to test its elasticity, and a few sit in a small group competing in a fabric quiz, with a whiteboard and fabric samples on the table. Daylight comes through large windows, creating soft natural light. The camera is at eye level, about 35 mm, wide enough to show the table, the racks and the hall. No faces are visible, and there is no readable text or signboard. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a pair of hands in the foreground stretching a swatch of soft knitted cotton fabric in a Tirupur garment training room, the fabric tension clearly showing its stretch. Beside it lies a neat stack of folded fabric samples in pastel and bright colours, a tape measure and a small weighing scale used to test fabric weight, with a paper sample sheet and a few stitched sample garments on the table. In the blurred background, rows of sewing machines and bales of cloth stand in soft daylight from a window. The camera is close, about 35 mm, shallow depth of field, eye level. No faces are visible, and there is no readable text, logo or brand name. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/may-tiruppur-s-new-footprint-in-the-global-apparel-market-also-become-the-birthplace-of-brands/4382506",
-   "published": "2026-11-21T18:54:26+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "குண்டடம் அருகே கட்டுப்பாட்டை இழந்த லாரி சாலையில் கவிழ்ந்து விபத்துக்குள்ளானது. தாராபுரம், வீராச்சிமங்கலம் பகுதியைச் சேர்ந்த மூர்த்தி, 40 வயது, தன் குடும்பத்துடன் கோவையில் இருந்து தாராபுரம் நோக்கி காரில் வெள்ளிக்கிழமை இரவு சென்றுகொண்டிருந்தார். பல்லடத்தில் இருந்து தென்காசி நோக்கி சணல் மூட்டை ஏற்றிச் சென்ற லாரி, அவரது காரின் பின்பகுதியில் மோதியதாகக் கூறப்படுகிறது. குண்டடம் காவல் நிலையம் அருகே இந்த மோதல் நடந்ததாகக் கூறப்படுகிறது. லாரி நிற்காமல் சென்றதால், மூர்த்தி தனது காரில் அதைப் பின்தொடர்ந்தார். சங்கம்பாளையம் பிரிவு அருகே சென்றபோது, கட்டுப்பாட்டை இழந்த லாரி சாலையில் கவிழ்ந்தது. இந்த விபத்தில் லாரியை ஓட்டி வந்த சங்கரன்கோவில் பகுதியைச் சேர்ந்த முத்துப்பாண்டி, 54 வயது, படுகாயமடைந்தார். லாரியின் இடிபாடுகளுக்குள் சிக்கிய அவரை, அப்பகுதி மக்கள் மீட்டு ஆம்புலன்ஸ் மூலம் தாராபுரம் அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். இச்சம்பவம் குறித்து குண்டடம் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குண்டடம் அருகே லாரி கவிழ்ந்து விபத்து: ஓட்டுநர் படுகாயம்\n\n📰 முழு விவரம்:\nகட்டுப்பாட்டை இழந்த லாரி சாலையில் கவிழ்ந்து விபத்துக்குள்ளானது. வெள்ளிக்கிழமை இரவு, கோவையில் இருந்து தாராபுரம் நோக்கி சென்ற காரின் பின்பகுதியில் பல்லடத்தில் இருந்து தென்காசி நோக்கி சணல் மூட்டை ஏற்றிச் சென்ற லாரி மோதியதாகக் கூறப்படுகிறது. லாரி நிற்காமல் சென்றதால், கார் ஓட்டுநர் அதைப் பின்தொடர்ந்தார். சங்கம்பாளையம் பிரிவு அருகே லாரி சாலையில் கவிழ்ந்தது.\n🚑 லாரி ஓட்டுநர் முத்துப்பாண்டி, 54 வயது, படுகாயமடைந்தார். அப்பகுதி மக்கள் அவரை மீட்டு ஆம்புலன்ஸ் மூலம் தாராபுரம் அரசு மருத்துவமனைக்கு அனுப்பினர்.\n👮 குண்டடம் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nKundadam lorry overturns on road, driver injured | Tirupur news\n📍 குண்டடம், திருப்பூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kundadam #TirupurNews #திருப்பூர்",
+   "prompts": "A heavy goods lorry lies on its side across a rural road near Kundadam, its load of jute sacks spilling onto the tarmac after an accident on a Friday night. Local residents stand at a distance, some with torches, while a Tirupur district police patrol vehicle and a khaki-uniformed constable are positioned beside the overturned truck. Beyond them, a small private car sits stopped on the road with its rear dented, its driver and passengers seen only from behind and far away. The area is a semi-urban stretch of road with tiled-roof houses, a few coconut trees, and the dim glow of streetlights and headlights from stranded vehicles. The scene is lit by the dark night sky, with the lorry's headlights cutting across the spilled sacks. Shot at eye level, 35 mm, wide enough to show the overturned lorry, the damaged car, the police presence, and the surrounding road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of heaped, torn jute sacks spilling from the back of an overturned lorry onto a dark asphalt road at night, with coarse brown fibres scattered on the tarmac. In the background, a dented rear bumper of a small private car is visible, slightly out of focus, with a blurred police torch beam crossing the scene. The lorry's metal chassis and cracked side panel frame the shot. Night lighting from headlights and a nearby streetlamp gives a warm, harsh glow. Camera positioned low to the ground, 35 mm, shallow depth of field to isolate the jute sacks and damaged vehicle metal, with no readable text or signage in frame. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/குண்டடம்-அருகே-லாரி-கவிழ்ந்து-விபத்து",
+   "published": "2026-11-21T19:32:54.192Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('குண்டடம் அருகே கட்டுப்பாட்டை இழந்த லாரி சாலையில் கவிழ்ந்து வ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283409/tirupur360/z7tmacftjm8v35wzwmsj.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795283413/tirupur360/e9ktzw7qeukdnqchsutv.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293815/tirupur360/k8jybqwvbbalraqqd3bv.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795293818/tirupur360/hi0nmkajvewzfgmxccq4.jpg"
    ]
   }
  ]
