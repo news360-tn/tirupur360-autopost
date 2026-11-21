@@ -23,7 +23,8 @@
    "category": "ஆன்மிகம்",
    "score": 4.54,
    "power_cut": false,
-   "listed_at": "2026-11-21T08:51:53.794641+05:30"
+   "listed_at": "2026-11-21T08:51:53.794641+05:30",
+   "picked_at": "2026-11-21T08:53:26.918643+05:30"
   }
  },
  "rounds": {
@@ -889,8 +890,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-21T09:51:53.794641+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 1 by insights",
+    "ids": [
+     "Cc6a410e"
+    ],
+    "at": "2026-11-21T08:53:26.918628+05:30"
+   },
+   "written": [
+    "Cc6a410e"
+   ]
   }
  },
  "retry": {}
