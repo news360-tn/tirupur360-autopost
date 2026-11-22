@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `22a59ae` | Collection: Bing backup when Google News is busy; dashboard file written only by the posting job |
+| 2026-11-22 | `8bf4400` | facebook RN-205 |
+| 2026-11-22 | `4a6af0b` | posted RN-205 |
 | 2026-11-22 | `382e05e` | Same-day news only, 15-35 a day: every news published today is written (max 35), yesterday's news is never posted, 22:00 round added; Namakkal writer split fix |
 | 2026-11-22 | `38f135d` | stories shared / Instagram pause |
 | 2026-11-22 | `82b027d` | stories shared / Instagram pause |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `c5d2bbc` | stories shared / Instagram pause |
 | 2026-11-22 | `2c0a866` | stories shared / Instagram pause |
 | 2026-11-22 | `99f7429` | stories shared / Instagram pause |
-| 2026-11-22 | `72e4b4a` | stories shared / Instagram pause |
-| 2026-11-22 | `7b0fcb5` | stories shared / Instagram pause |
-| 2026-11-22 | `ace10dd` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
