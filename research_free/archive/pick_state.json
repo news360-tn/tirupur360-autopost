@@ -67,7 +67,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-22T23:14:39.136099+05:30",
-   "picked_at": "2026-11-22T23:17:11.088312+05:30"
+   "picked_at": "2026-11-22T23:17:11.088312+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "Cb3b8a5c": {
    "id": "Cb3b8a5c",
@@ -80,7 +81,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-22T23:14:39.136099+05:30",
-   "picked_at": "2026-11-22T23:17:11.088319+05:30"
+   "picked_at": "2026-11-22T23:17:11.088319+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "Ce399bcf": {
    "id": "Ce399bcf",
@@ -93,7 +95,8 @@
    "score": 5.0,
    "power_cut": false,
    "listed_at": "2026-11-22T23:14:39.136099+05:30",
-   "picked_at": "2026-11-22T23:17:11.088321+05:30"
+   "picked_at": "2026-11-22T23:17:11.088321+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "C9f9ef90": {
    "id": "C9f9ef90",
@@ -106,7 +109,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-22T23:14:39.136099+05:30",
-   "picked_at": "2026-11-22T23:17:11.088322+05:30"
+   "picked_at": "2026-11-22T23:17:11.088322+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   }
  },
  "rounds": {
@@ -729,7 +733,13 @@
     "C9f9ef90",
     "Cb3b8a5c",
     "Ce399bcf"
-   ]
+   ],
+   "refused": {
+    "C9f9ef90": "not written: the day's maximum of 30 news was reached",
+    "Ce399bcf": "not written: the day's maximum of 30 news was reached",
+    "Cb3b8a5c": "not written: the day's maximum of 30 news was reached",
+    "C7e06665": "not written: the day's maximum of 30 news was reached"
+   }
   }
  },
  "retry": {}
