@@ -1,0 +1,266 @@
+writing [N]: தவெகவுக்கு தாவிய காங்கேயம் நகராட்சி தலைவர்.. திமுகவினர் ஷாக்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+writing [N]: போக்குவரத்து நெரிசல்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: எச்சரிக்கை குறியீடு இல்லாத வேகத்தடைகளால் விபத்து
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (25s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  hl1 is 46 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (28s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (5s)
+factcheck by gemini/gemini-3.6-flash: 0 problems
+attempt 1 gemini/gemini-3.6-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (35s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  not grounded: location 'ரோடு' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+ok gemini/gemini-3.6-flash (14s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (24s)
+attempt 2 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+switching away from gemini/gemini-3.6-flash for 10 min
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+ok gemini/gemini-3.6-flash (27s)
+factcheck by gemini/gemini-3.6-flash: 0 problems
+proofread by gemini/gemini-3.6-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (14s)
+attempt 3 gemini/gemini-3.6-flash: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script has numbers without their meaning (4, 3); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.5-flash (17s)
+attempt 2 gemini/gemini-3.5-flash: 1 problems
+  not grounded: location 'சாலை' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (20s)
+attempt 4 gemini/gemini-3.5-flash: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (16s)
+attempt 3 gemini/gemini-3.5-flash: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+ok gemini/gemini-3.5-flash (28s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+switching away from gemini/gemini-3.5-flash for 10 min
+real photo used (1192x818, sharpness 60.4, The photograph depicts an unmarked speed breaker on a road i): https://images.dinamalar.com/data/large_2025/Tamil_News_lrg_438305620261122145218.jpg?im=R
+real photos used for 'Lack of warning signs and white lines on' (Dinamalar)
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-1537","first":"RN-203"}
+posting job started at once
+writing [N]: விபத்துக்கு வித்திடும் மரம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (9s)
+attempt 4 gemini/gemini-3-flash-preview: 1 problems
+  not grounded: location 'சாலை' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (26s)
+attempt 5 gemini/gemini-3.5-flash: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 18 ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 10, ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 1, ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 4, ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 3 ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 1 ('இதையடுத்து, காங்கயம் நகர்மன்றத் தலைவர் பதவி காங்கிரஸ் கட்சிக')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (10s)
+attempt 5 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  not grounded: location 'சாலை' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (12s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (9s)
+attempt 6 gemini/gemini-3-flash-preview: 1 problems
+  not grounded: location 'சாலை' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+ok gemini/gemini-3-flash-preview (11s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (3s)
+factcheck by gemini/gemini-3-flash-preview: 0 problems
+attempt 2 gemini/gemini-3-flash-preview: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+switching away from gemini/gemini-3-flash-preview for 10 min
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+switching away from gemini/gemini-3-flash-preview for 10 min
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (2s)
+attempt 7 groq/qwen/qwen3.8-27b: 3 problems
+  hl1 is 41 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script has 46 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  not grounded: location 'ரோடு' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/openai/gpt-oss-120b (5s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-1
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (2s)
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 47 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+real photo not this news (The image is a generic graphic icon (fullscreen/expand icon), not a real photogr): https://pukaarpetti.dailythanthi.com/images/sidekick-open.png
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 48 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script has 46 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/qwen/qwen3.8-27b (2s)
+proofread rejected (2 problems)
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script has 52 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 95 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 18 ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 10, ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 4, ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி '); 3 ('திருப்பூர் மாவட்டம் காங்கயம் நகராட்சி தலைவர் பதவியை கூட்டணி ')
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+image match: True The photo clearly shows a large, severely withered tree leaning dangerously low over a paved road where residents/bystan
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 46 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2v9kzesta80vz1eq9kyc0` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1285. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+image match: False The image shows a large, living tree with green leaves and smooth gray bark (appearing AI-generated), not a withered or 
+ok anthropic/claude-haiku-5-5
+image match: False The image appears to be an AI-generated rendering rather than an authentic news photograph showing the specified withere
+images made: 2 for 'Danger of accident near Udumalaipettai: '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-1539","first":"RN-204"}
+real photo: 1 watermark / logo mark(s) removed
+real photo used (1192x618, sharpness 70.0, The photo depicts Kangeyam Municipal Chairman Suryaprakash w): https://imagesvs.oneindia.com/ta/img/2026/11/hxtpxyxbaaavcqi-33371795339892.jpg
+real photo used (1192x667, sharpness 69.2, The photograph accurately depicts Kangeyam Municipal Chairma): https://imagesvs.oneindia.com/webp/ta/img/2026/11/hxtpxyxbaaavcqi-33371795339892.jpg
+real photos used for 'Kangeyam Municipal Chairman Suryaprakash' (Oneindia Tamil)
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-1539","first":"RN-205"}
+real photo not this news (The image is a graphic icon of expand arrows, not a real photograph related to a): https://pukaarpetti.dailythanthi.com/images/sidekick-open.png
+image match: True The photo depicts a heavy traffic jam filled with motorcycles, buses, auto-rickshaws, and commuters along a busy commerc
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Heavy traffic jam on Palladam NGR Road a'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-1540","first":"RN-206"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://pukaarpetti.dailythanthi.com/others/news-68705
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/accident-caused-by-speed-limits-without-warning-code/4383056
+manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68706
+manual link added: https://tamil.oneindia.com/news/tiruppur/kangeyam-municipality-chairperson-suryaprakash-quits-dmk-and-joins-tvk-847357.html
+candidate filter: collected=4
+to write: 4 Tirupur district candidates (max 4 stories)
+round: top 4 of 4 candidates
+candidates waiting: 4 Tirupur; time left 79 min
+try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/kangeyam-municipali
+try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru
+real photo from the source (Dinamalar) for 'Lack of warning signs and white lines on'
+auto images: 1 of 1 stories ({})
+posting job started at once
+try (N) manual=True: https://pukaarpetti.dailythanthi.com/others/news-68705
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+real photo from the source (Oneindia Tamil) for 'Kangeyam Municipal Chairman Suryaprakash'
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 74 min
+filed: 4 Tirupur district stories (target 4), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":4,"updated":0} 
+stories: 4
