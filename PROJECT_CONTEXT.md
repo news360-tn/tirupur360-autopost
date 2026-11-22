@@ -83,6 +83,20 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `b6f9bc4` | Facebook: one post every 60 minutes, at most 15 a day per page, most important news first; after the 15 the rest goes to the owner's e-mail at once (share from Instagram) |
+| 2026-11-22 | `bf880ba` | powercut: notices written |
+| 2026-11-22 | `5b275f2` | facebook RN-207 |
+| 2026-11-22 | `6562e1a` | posted RN-207 |
+| 2026-11-22 | `8f8b85b` | stories shared / Instagram pause |
+| 2026-11-22 | `d0de1fc` | facebook RN-218 |
+| 2026-11-22 | `83b280f` | posted RN-218 |
+| 2026-11-22 | `b0cb0c0` | facebook RN-212 |
+| 2026-11-22 | `76b8d0e` | posted RN-212 |
+| 2026-11-22 | `bae11b0` | pick: picked news saved |
+| 2026-11-22 | `59fb6c8` | stories shared / Instagram pause |
+| 2026-11-22 | `6d424db` | stories shared / Instagram pause |
+| 2026-11-22 | `0723406` | pick: picked news saved |
+| 2026-11-22 | `b92b017` | pick: list sent |
 | 2026-11-22 | `3bcbcb4` | Daily plan: 30 of today's published news + yesterday's pending news + urgent news after the 30; news older than yesterday never posted |
 | 2026-11-22 | `00b21c9` | stories shared / Instagram pause |
 | 2026-11-22 | `10dfe07` | stories shared / Instagram pause |
@@ -99,18 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `abf925e` | stories shared / Instagram pause |
 | 2026-11-22 | `0cd92bd` | stories shared / Instagram pause |
 | 2026-11-22 | `c98e05c` | stories shared / Instagram pause |
-| 2026-11-22 | `b561023` | stories shared / Instagram pause |
-| 2026-11-22 | `76f13ab` | stories shared / Instagram pause |
-| 2026-11-22 | `c1fd9de` | stories shared / Instagram pause |
-| 2026-11-22 | `0c76de4` | stories shared / Instagram pause |
-| 2026-11-22 | `e7c9226` | stories shared / Instagram pause |
-| 2026-11-22 | `6a7102d` | stories shared / Instagram pause |
-| 2026-11-22 | `241f2ae` | stories shared / Instagram pause |
-| 2026-11-22 | `233f190` | stories shared / Instagram pause |
-| 2026-11-22 | `8240d00` | stories shared / Instagram pause |
-| 2026-11-22 | `4be616a` | stories shared / Instagram pause |
-| 2026-11-22 | `554ffe8` | stories shared / Instagram pause |
-| 2026-11-22 | `59af388` | stories shared / Instagram pause |
-| 2026-11-22 | `5e78bb4` | stories shared / Instagram pause |
-| 2026-11-22 | `75b871b` | pick: written and posted |
 <!-- recent-changes:end -->
