@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-22T23:30+05:30",
- "posts_measured": 184,
+ "updated": "2026-11-23T02:19+05:30",
+ "posts_measured": 186,
  "topic_weight": {
-  "politics": -0.32,
-  "accident": 1.06,
-  "crime": 1.04,
+  "politics": -0.33,
+  "accident": 1.05,
+  "crime": 1.17,
   "education": -0.5,
-  "jobs": -0.03,
-  "power_cut": -0.16,
+  "jobs": 0.12,
+  "power_cut": 0.03,
   "temple": 0.14,
-  "civic": 0.0,
-  "poultry_agri": -0.45,
-  "weather": -0.25
+  "civic": 0.03,
+  "poultry_agri": -0.46,
+  "weather": -0.5
  },
  "topic_n": {
   "politics": 16,
   "accident": 16,
   "crime": 22,
   "education": 14,
-  "jobs": 4,
+  "jobs": 5,
   "power_cut": 9,
   "temple": 18,
-  "civic": 33,
+  "civic": 34,
   "poultry_agri": 14,
   "weather": 6,
   "sports_culture": 2
@@ -35,17 +35,17 @@
  "top_openings": [
   "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
   "⚡ பல்லடம் துணை மின் நிலையப் பகுதிகளில் நாளை மின் தடை - காலை 10 முதல் மதியம் 3 வர",
-  "🚨 காங்கேயம் நகராட்சித் தலைவர் சூர்யபிரகாஷ் திமுகவில் இருந்து விலகி தவெகவில் இணைந",
-  "🫀 பல்லடம் இளைஞரின் உடல் உறுப்புகள் தானம்: மூளைச்சாவுக்குப் பின் பல உயிர்களுக்கு "
+  "🏛️ பல்லடம் நகர த.வெ.க. செயலாளர் ராமமூர்த்தி நீக்கம்",
+  "🚨 காங்கேயம் நகராட்சித் தலைவர் சூர்யபிரகாஷ் திமுகவில் இருந்து விலகி தவெகவில் இணைந"
  ],
  "avg_watch_s": 7.5,
  "best_topics": [
-  "accident",
   "crime",
+  "accident",
   "temple"
  ],
  "weak_topics": [
   "education",
-  "poultry_agri"
+  "weather"
  ]
 }
