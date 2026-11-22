@@ -92,7 +92,8 @@
    "score": 12.17,
    "power_cut": false,
    "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416410+05:30"
+   "picked_at": "2026-11-23T02:20:50.416410+05:30",
+   "posted": true
   },
   "C9b1d8b1": {
    "id": "C9b1d8b1",
@@ -105,7 +106,8 @@
    "score": 12.17,
    "power_cut": false,
    "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416412+05:30"
+   "picked_at": "2026-11-23T02:20:50.416412+05:30",
+   "posted": true
   },
   "C9657986": {
    "id": "C9657986",
@@ -121,7 +123,8 @@
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A8%E0%AE%95%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%9F%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%A4%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-%E0%AE%AA%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%80%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D"
    ],
    "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416414+05:30"
+   "picked_at": "2026-11-23T02:20:50.416414+05:30",
+   "posted": true
   },
   "C4dc5948": {
    "id": "C4dc5948",
@@ -134,7 +137,8 @@
    "score": 6.03,
    "power_cut": false,
    "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416415+05:30"
+   "picked_at": "2026-11-23T02:20:50.416415+05:30",
+   "posted": true
   },
   "C0bc6415": {
    "id": "C0bc6415",
@@ -147,7 +151,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416417+05:30"
+   "picked_at": "2026-11-23T02:20:50.416417+05:30",
+   "posted": true
   },
   "Cf99a1bf": {
    "id": "Cf99a1bf",
@@ -160,7 +165,8 @@
    "score": 5.0,
    "power_cut": false,
    "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416419+05:30"
+   "picked_at": "2026-11-23T02:20:50.416419+05:30",
+   "posted": true
   },
   "Cab43fc3": {
    "id": "Cab43fc3",
@@ -173,7 +179,8 @@
    "score": 2.67,
    "power_cut": false,
    "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416421+05:30"
+   "picked_at": "2026-11-23T02:20:50.416421+05:30",
+   "refused": "not filed: duplicate after write"
   }
  },
  "rounds": {
@@ -782,7 +789,10 @@
     "C9eeead5",
     "Cab43fc3",
     "Cf99a1bf"
-   ]
+   ],
+   "refused": {
+    "Cab43fc3": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
