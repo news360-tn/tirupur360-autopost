@@ -3,21 +3,500 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/pap-2nd-zonal-irrigation-ended-water/4383614",
-  "manual link added: https://pukaarpetti.dailythanthi.com/electricity/news-68824",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/kerala-meat-waste-in-bags/4383531",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/women-get-into-scuffle-at-avinashi-bus-stand/4383580",
-  "candidate filter: collected=4",
-  "to write: 4 Tirupur district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "daily cap: 30 stories already written today (cap 30) - only main / important news is written now",
-  "archive round: priority scan only (urgent local news, if any)",
-  "candidates waiting: 0 Tirupur; time left 79 min",
-  "candidate loop ended: left 0, tried={'N': 0}, done={'N': 0}, time left 79 min",
-  "filed: 0 Tirupur district stories (target 4), reels only",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/மும்பை-இளைஞரிடம்-ரூ87-லட்சம்-மோசடி-திருப்பூா்-தொழிலதிபா்-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/காற்றாலை-கேபிள்-திருட்டில்-ஈடுபட்ட-இருவா்-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/வெள்ளக்கோவில்-நகராட்சியில்-டெங்கு-தடுப்பு-பணிகள்-தீவிரம்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/karthigai-deepam-70-special-buses-from-tiruppur-to-tiruvannamalai",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/வெள்ளக்கோவிலில்-இஞ்சி-கிலோ-ரூ80-க்கு-விற்பனை",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/arrival-of-1-tonne-of-drumsticks-in-vellakovil",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/kangeyam-municipal-chairperson-quits-dmk-to-join-tvk",
+  "candidate filter: collected=7",
+  "to write: 7 Tirupur district candidates (max 7 stories)",
+  "round: top 7 of 7 candidates",
+  "candidates waiting: 7 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'pollinations': 3})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "NOT filed (N) திமுக-வில் இருந்து விலகி தவெக-வில் இணைந்த காங்கயம்: duplicate after write",
+  "auto images: 1 of 1 stories ({'pollinations': 6})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'pollinations': 9})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'pollinations': 11})",
+  "auto images: 1 of 1 stories ({'pollinations': 13})",
+  "auto images: 1 of 1 stories ({'pollinations': 16})",
+  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 6}, time left 74 min",
+  "filed: 6 Tirupur district stories (target 7), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
  ],
- "llm": [],
- "stories": []
+ "llm": [
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3.5-flash (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
+ ],
+ "stories": [
+  {
+   "tamil_headline": "வெள்ளக்கோவில் வாரச் சந்தையில் இஞ்சி கிலோ ரூ.80: கடந்த வாரத்தை விட ரூ.40 விலை குறைந்தது",
+   "english_headline": "Ginger drops by Rs 40 to sell at Rs 80 per kg at Vellakoil Sunday weekly market",
+   "category": "Business & Prices",
+   "location": "Vellakoil weekly market, Vellakoil, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "காய்கறி விலை",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "வெள்ளக்கோவிலில் இஞ்சி கிலோ ரூ.80",
+    "hl2": "கடந்த வாரத்தை விட ரூ.40",
+    "slides": [
+     {
+      "title": "இஞ்சி விலை சரிவு",
+      "lines": [
+       "வெள்ளக்கோவில் வாரச் சந்தையில் இஞ்சி கிலோ <b>ரூ.80</b>",
+       "கடந்த வாரத்தை விட <b>ரூ.40</b> விலை குறைந்தது",
+       "உள்ளூர் விவசாயிகள் விற்பனைக்கு கொண்டு வந்தனர்"
+      ]
+     },
+     {
+      "title": "முக்கிய காய்கறிகள்",
+      "lines": [
+       "சின்ன வெங்காயம் கிலோ <b>ரூ.150</b>, பூண்டு <b>ரூ.240</b>",
+       "தக்காளி, பெரிய வெங்காயம், கேரட் கிலோ <b>ரூ.60</b>",
+       "அவரைக்காய், பீன்ஸ், பச்சை மிளகாய் கிலோ <b>ரூ.80</b>"
+      ]
+     },
+     {
+      "title": "மற்ற காய்கறிகள்",
+      "lines": [
+       "உருளைக்கிழங்கு கிலோ <b>ரூ.30</b>, முட்டைகோஸ் <b>ரூ.40</b>",
+       "கீரை கட்டு <b>ரூ.20</b>, மல்லி <b>ரூ.30</b>, புதினா <b>ரூ.15</b>",
+       "காலிபிளவர் ஒன்று <b>ரூ.50</b>, சுரைக்காய் <b>ரூ.20</b>"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வெள்ளக்கோவில் வாரச் சந்தையில் இஞ்சி கிலோ 80 ரூபாய்க்கு விற்பனையானது. திருப்பூர் மாவட்டம் வெள்ளக்கோவில் நகராட்சி ஞாயிற்றுக்கிழமை வாரச் சந்தையில், கடந்த வாரத்தை விட இஞ்சி கிலோவுக்கு 40 ரூபாய் விலை குறைந்துள்ளது. வெள்ளக்கோவில் மற்றும் சுற்றுவட்டாரப் பகுதி விவசாயிகள் காய்கறிகளை விற்பனைக்குக் கொண்டு வந்தனர். சந்தையில் சின்ன வெங்காயம் கிலோ 150 ரூபாய், பூண்டு 240 ரூபாய்க்கு விற்பனையானது. அவரைக்காய், பீன்ஸ், பச்சை மிளகாய், பாகற்காய், கத்தரிக்காய் ஆகியவை கிலோ 80 ரூபாய்க்கு விற்பனையாகின. தக்காளி, பெரிய வெங்காயம், கேரட், பீட்ரூட் ஆகியவை கிலோ 60 ரூபாய்க்கு விற்கப்பட்டன. உருளைக்கிழங்கு கிலோ 30 ரூபாய், முட்டைகோஸ் 40 ரூபாய்க்கு விற்கப்பட்டது. கீரை கட்டு 20 ரூபாய், மல்லித்தழை 30 ரூபாய், காலிபிளவர் ஒன்று 50 ரூபாய்க்கு விற்பனையானதாக சந்தை வியாபாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🧅 வெள்ளக்கோவிலில் இஞ்சி கிலோ ரூ.80 - கடந்த வாரத்தை விட ரூ.40 குறைவு!\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டம் வெள்ளக்கோவில் நகராட்சி ஞாயிற்றுக்கிழமை வாரச் சந்தையில் இஞ்சி விலை கடந்த வாரத்தை விட கிலோவுக்கு ரூ.40 குறைந்து ரூ.80-க்கு விற்பனையானது. வெள்ளக்கோவில் மற்றும் சுற்றுவட்டாரப் பகுதி விவசாயிகள் தங்களது விளைபொருள்களைச் சந்தைக்குக் கொண்டு வந்தனர்.\n\n🛒 காய்கறி விலை நிலவரம் (கிலோவில்):\n• சின்ன வெங்காயம்: ரூ.150\n• பூண்டு: ரூ.240\n• அவரை, பீன்ஸ், பச்சை மிளகாய், பாகல், கத்தரி, இஞ்சி: ரூ.80\n• தக்காளி, பெரிய வெங்காயம், கேரட், பீட்ரூட், பீர்க்கன்: ரூ.60\n• புடலை, முள்ளங்கி, முட்டைகோஸ்: ரூ.40\n• உருளைக்கிழங்கு: ரூ.30\n\n🥬 மற்ற பொருள்கள்:\n• கீரை கட்டு: ரூ.20 | மல்லித் தழை: ரூ.30 | புதினா: ரூ.15\n• காலிபிளவர்: ரூ.50 | வாழைப்பூ: ரூ.30 | வாழைத்தண்டு: ரூ.20 | சுரைக்காய்: ரூ.20\n\n📍 இடம்: வெள்ளக்கோவில் வாரச் சந்தை, திருப்பூர் மாவட்டம்\n🗓️ நாள்: 22 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: சந்தை வியாபாரிகள் இந்த விலை நிலவரத்தைத் தெரிவித்துள்ளனர்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nVellakoil Sunday market vegetable prices | Tirupur news\n📍 Vellakoil, Tirupur | 22 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #காய்கறிவிலை #திருப்பூர்",
+   "prompts": "A row of farmers and market vendors sit behind heaps of fresh ginger piled in wide woven baskets and sacks at the Sunday weekly vegetable market in Vellakoil, Tirupur district. Pale brown knobby ginger roots glisten in the morning light, spread on a blue tarpaulin in front of them, with neat stacks of green coriander and mint bundles nearby. The vendors, a mix of men in shirts and veshti and women in cotton sarees, are seen from behind or slightly to the side, bargaining quietly with a few customers. Behind them, the open-air market stalls are crowded with baskets of onions, potatoes and green beans, and a few farmers' tractors and cycles are parked on the dusty ground. The scene is bright daylight, with a clear sky and soft shadows. Shot at eye level on a 35 mm lens, wide enough to show the market stalls and the ginger heap clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large heap of fresh ginger roots spread on a gunny sack in a Tamil Nadu vegetable market, with a weighing scale and a steel tray partly visible at the edge of the frame. The ginger has pale yellow-brown skin with fresh cut ends and a few soil specks, and small baskets of green chillies and small onions sit beside it. A vendor's hand, seen only from the wrist down in a plain shirt sleeve, rests near the pile. The background is softly blurred, showing other stalls and farmers' baskets in morning daylight. Shot from slightly above at close range with a 35 mm lens, focusing on the ginger pile and the scale. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/வெள்ளக்கோவிலில்-இஞ்சி-கிலோ-ரூ80-க்கு-விற்பனை",
+   "published": "2026-11-22T20:29:28.836Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380749/tirupur360/fh48ye2ssny3osvfzvgg.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380799/tirupur360/ztzftkmtc1e7gsztqdwn.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வெள்ளக்கோவில் கொள்முதல் நிலையத்தில் 1 டன் முருங்கைக்காய் விற்பனை",
+   "english_headline": "Farmers sell 1 tonne of drumstick at Vellakovil market",
+   "category": "Business & Prices",
+   "location": "Vellakovil, Tirupur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விவசாயம்",
+    "loc": "வெள்ளக்கோவில், திருப்பூர்",
+    "hl1": "வெள்ளக்கோவில் 1 டன் முருங்கை விற்பனை",
+    "hl2": "கிலோ ரூ.60 முதல் ரூ.80 வரை",
+    "slides": [
+     {
+      "title": "விற்பனை விவரம்",
+      "lines": [
+       "ஞாயிறு கொள்முதல் நிலையத்தில் <b>1 டன்</b> முருங்கை வந்தது",
+       "வெள்ளக்கோவில்-முத்தூர் சாலையில் நடைபெறும் சந்தை"
+      ]
+     },
+     {
+      "title": "விலை விவரம்",
+      "lines": [
+       "மர முருங்கைக்காய் கிலோ <b>ரூ.60</b>",
+       "செடி முருங்கைக்காய் கிலோ <b>ரூ.60</b>",
+       "கரும்பு முருங்கைக்காய் கிலோ <b>ரூ.80</b>"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "வெள்ளக்கோவில் பகுதியில் முருங்கை விவசாயம் பிரதானம்",
+       "வாரந்தோறும் ஞாயிற்றுக்கிழமை தனியார் கொள்முதல் நிலையம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வெள்ளக்கோவில் கொள்முதல் நிலையத்தில் 1 டன் முருங்கைக்காய் விற்பனைக்கு வந்தது. விவசாயிகள் ஞாயிற்றுக்கிழமை அன்று இந்த முருங்கைக்காய்களை கொண்டு வந்தனர். வெள்ளக்கோவில் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் முருங்கை விவசாயம் பிரதானமாக நடைபெறுகிறது. இந்த முருங்கைக்காய்கள் வெள்ளக்கோவில்-முத்தூர் சாலையில் உள்ள தனியார் கொள்முதல் நிலையத்தில் விற்பனை செய்யப்பட்டன. மர முருங்கைக்காய் கிலோ ரூபாய் 60-க்கு விற்பனையானது. செடி முருங்கைக்காய் கிலோ ரூபாய் 60-க்கு விற்பனையானது. கரும்பு முருங்கைக்காய் கிலோ ரூபாய் 80-க்கு விற்பனையானது. இந்த கொள்முதல் நிலையம் வாரந்தோறும் ஞாயிற்றுக்கிழமை செயல்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🥬 வெள்ளக்கோவில் கொள்முதல் நிலையத்தில் 1 டன் முருங்கைக்காய் விற்பனை - கிலோ ரூ.60 முதல் ரூ.80 வரை\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் முருங்கை விவசாயம் பிரதானமாக நடைபெற்று வருகிறது. விவசாயிகள் வாரந்தோறும் ஞாயிற்றுக்கிழமை வெள்ளக்கோவில்-முத்தூர் சாலையில் செயல்படும் தனியார் கொள்முதல் நிலையத்துக்கு முருங்கைக்காய்களை விற்பனைக்கு கொண்டு வருகிறார்கள். இந்த வாரம் ஞாயிற்றுக்கிழமை 1 டன் முருங்கைக்காய்கள் விற்பனைக்கு வந்தன. மர முருங்கைக்காய் கிலோ ரூபாய் 60-க்கு விற்பனையானது. செடி முருங்கைக்காய் கிலோ ரூபாய் 60-க்கு விற்பனையானது. கரும்பு முருங்கைக்காய் கிலோ ரூபாய் 80-க்கு விற்பனையானது.\n\n📍 இடம்: வெள்ளக்கோவில்-முத்தூர் சாலை, திருப்பூர்\n🗓️ நாள்: ஞாயிற்றுக்கிழமை\n💰 விலை: மர/செடி ரூ.60, கரும்பு ரூ.80 (கிலோ)\n\nவிவசாயிகளுக்கு தேவையானால் Share செய்யுங்கள்\n\nVellakovil drumstick market news | Tirupur\n📍 Vellakovil, Tirupur | 22 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakovil #TirupurNews #திருப்பூர்",
+   "prompts": "A large heap of long green drumstick pods is piled on the ground at a private produce purchase centre in Vellakovil, Tirupur district, as farmers gather around it on a Sunday morning. The setting is an open roadside yard beside the Vellakovil-Muthur road, with sacks and woven baskets of harvested pods stacked near a few tall tree-like drumstick plants at the edge of the agricultural belt. Several farmers in shirts and veshti, or women in sarees, stand or squat near the heap, seen from behind or at a distance, some carrying bags. A parked tractor or lorry and a loaded two-wheeler are visible at the roadside. Bright daylight with a clear sky. Camera at eye level, slightly high, 35 mm lens, wide enough to show the whole yard and the pile of pods. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a hanging weighing scale on a wooden pole at a produce purchase centre in Vellakovil, with long green drumstick pods laid in a flat metal tray in front of it. Beside the tray, a few more pods are heaped in a jute sack, and the rough surface and curved shapes of the pods show the difference between the tree and bush varieties sold here. A farmer's hand, seen from the side and slightly blurred, rests near the tray. Behind, the out-of-focus yard shows sacks and a roadside tin shed under daylight. Camera close and slightly low, 35 mm lens with shallow depth of field, focus on the scale and the pods. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/arrival-of-1-tonne-of-drumsticks-in-vellakovil",
+   "published": "2026-11-22T20:29:07.304Z",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380827/tirupur360/zh6mfwoqoypg4kvnykgf.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380838/tirupur360/ooifwk0yhfavw0ibc2iq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கார்த்திகைத் தீபம்: திருப்பூரில் இருந்து 70 சிறப்புப் பேருந்துகள்",
+   "english_headline": "Karthigai Deepam: 70 special buses from Tirupur to Tiruvannamalai from Saturday night till 24 Nov night",
+   "category": "Temples & Events",
+   "location": "Tirupur Central Bus Stand, Tirupur city, Tirupur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சிறப்புப் பேருந்து",
+    "loc": "திருப்பூர்",
+    "hl1": "திருவண்ணாமலைக்கு 70",
+    "hl2": "சனி இரவு முதல் 24 இரவு வரை",
+    "slides": [
+     {
+      "title": "எங்கிருந்து?",
+      "lines": [
+       "திருப்பூர் மத்திய பேருந்து நிலையத்திலிருந்து",
+       "திருவண்ணாமலைக்கு <b>70</b> சிறப்புப் பேருந்துகள்",
+       "கார்த்திகைத் தீபத் திருவிழாவை முன்னிட்டு இயக்கம்"
+      ]
+     },
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "சனிக்கிழமை இரவு முதல் <b>24 நவம்பர்</b> இரவு வரை",
+       "திருவிழா நாளில் மகா தீபம் மலை உச்சியில் ஏற்றம்",
+       "பரணி தீபம் காலை கோயிலில் ஏற்றம்"
+      ]
+     },
+     {
+      "title": "கட்டணம், வழி",
+      "lines": [
+       "ஒருவருக்கு கட்டணம் <b>ரூ.255</b>",
+       "பெருந்துறை, பவானி, சங்ககிரி, சேலம், அரூர் வழியாக",
+       "குழுவாகப் பயணிக்க மத்திய பேருந்து நிலைய முன்பதிவு மையம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூரிலிருந்து திருவண்ணாமலைக்கு 70 சிறப்புப் பேருந்துகள் இயக்கப்படுகின்றன. கார்த்திகை தீபத் திருவிழாவை முன்னிட்டு பக்தர்களின் வசதிக்காக இந்தப் பேருந்துகள் விடப்படுகின்றன. திருவண்ணாமலை அருணாசலேசுவரர் கோயிலில் நவம்பர் 24ஆம் தேதி கார்த்திகை தீபத் திருவிழா நடைபெறுகிறது. அன்று காலை கோயிலில் பரணி தீபமும், மாலையில் மலை உச்சியில் மகா தீபமும் ஏற்றப்படும். சனிக்கிழமை இரவு முதல் நவம்பர் 24ஆம் தேதி இரவு வரை சிறப்புப் பேருந்துகள் இயக்கப்படுகின்றன. திருப்பூர் மத்திய பேருந்து நிலையத்திலிருந்து இந்தப் பேருந்துகள் புறப்படும். பெருந்துறை, பவானி, சங்ககிரி, சேலம், அரூர் வழியாக திருவண்ணாமலையைச் சென்றடையும். ஒருவருக்கான கட்டணம் ரூ.255 என நிர்ணயிக்கப்பட்டுள்ளது. குழுவாகப் பயணம் செய்ய விரும்புவோர் மத்திய பேருந்து நிலையத்தில் உள்ள முன்பதிவு தகவல் மையத்தில் டிக்கெட் முன்பதிவு செய்யலாம் என அறிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 திருவண்ணாமலைக்கு திருப்பூரில் இருந்து 70 சிறப்புப் பேருந்துகள்\n\n📰 முழு விவரம்:\nகார்த்திகை தீபத் திருவிழாவை முன்னிட்டு திருப்பூரில் இருந்து திருவண்ணாமலைக்கு 70 சிறப்புப் பேருந்துகள் இயக்கப்படுகின்றன. திருவண்ணாமலை அருணாசலேசுவரர் கோயிலில் நவம்பர் 24ஆம் தேதி திருவிழா நடைபெறுகிறது. அன்று காலை கோயிலில் பரணி தீபமும், மாலையில் மலை உச்சியில் மகா தீபமும் ஏற்றப்படும். திருப்பூர் மத்திய பேருந்து நிலையத்திலிருந்து பேருந்துகள் புறப்பட்டு பெருந்துறை, பவானி, சங்ககிரி, சேலம், அரூர் வழியாக திருவண்ணாமலை செல்லும்.\n📍 இடம்: திருப்பூர் மத்திய பேருந்து நிலையம்\n🗓️ நாள்: சனிக்கிழமை இரவு முதல் நவம்பர் 24ஆம் தேதி இரவு வரை\n💰 கட்டணம்: ஒருவருக்கு ரூ.255\nℹ️ மக்கள் கவனத்திற்கு: குழுவாகப் பயணிக்க விரும்புவோர் மத்திய பேருந்து நிலைய முன்பதிவு தகவல் மையத்தில் டிக்கெட் முன்பதிவு செய்துகொள்ளலாம்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nThiruvannamalai special buses from Tirupur 70 | Tirupur news\n📍 திருப்பூர் மத்திய பேருந்து நிலையம், திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A row of long-distance state transport buses stands lit up at night in the bay of Tirupur Central Bus Stand, ready to carry Karthigai Deepam devotees to Tiruvannamalai. The bus stand is a busy open concourse with a tiled covered platform, tubelights and sodium lamps glowing overhead, and a few parked buses with their front doors open in the bays. In the foreground, a loose group of devotees in cotton shirts, veshti and sarees with cloth bundles and small cloth bags walks toward the boarding bays, seen from behind and far away, some carrying flower garlands. Other passengers stand in a queue near a booking window, their faces turned away. The sky above is dark night with a few stars, and the lamps create warm pools of light on the wet concrete. Camera at eye level, 35 mm, wide enough to show the full bus bay and the crowd. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a booking window at the reservation and information centre of Tirupur Central Bus Stand, with a wooden counter, a small pile of printed bus tickets and a steel cash tray on the counter, lit by a warm tubelight overhead. Behind the counter, a bus staff member in a shirt is seen only partially, from the side and out of focus, handing a ticket to a passenger whose hand and a cloth bag are visible at the edge of the frame. A small brass lamp or a few marigold flowers rest on the counter, hinting at the festival. Night light from the bus bay glows faintly through the open door behind. Camera slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/karthigai-deepam-70-special-buses-from-tiruppur-to-tiruvannamalai",
+   "published": "2026-11-22T19:55:51.031Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380874/tirupur360/ysz2czrrox66ve0qbuvn.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380881/tirupur360/uzniehu6jrkojed1alpy.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வெள்ளக்கோவில் நகராட்சியில் டெங்கு தடுப்புப் பணிகள் தீவிரம்",
+   "english_headline": "Dengue prevention drive intensified in Vellakoil municipality; anti-mosquito fogging in Uppupalayam East and Indira Nagar",
+   "category": "Health",
+   "location": "Vellakoil municipality, Tirupur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "டெங்கு தடுப்பு",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "வெள்ளக்கோவிலில் டெங்கு பணி தீவிரம்",
+    "hl2": "கொசுப் புகை மருந்து அடிப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடக்கிறது?",
+      "lines": [
+       "வெள்ளக்கோவில் நகராட்சியில் டெங்கு தடுப்புப் பணிகள் தீவிரம்",
+       "துணை ஆணையர் (கலால்) பாலமுருகன் ஆய்வு செய்தார்",
+       "ஞாயிற்றுக்கிழமை நடந்த ஆய்வில் இது தெரியவந்தது"
+      ]
+     },
+     {
+      "title": "எந்தப் பகுதிகள்?",
+      "lines": [
+       "வார்டு 13 உப்புப்பாளையம் கிழக்கு",
+       "வார்டு 5 இந்திரா நகர்",
+       "இரண்டு பகுதிகளிலும் கொசுப் புகை மருந்து அடிப்பு"
+      ]
+     },
+     {
+      "title": "மக்களுக்கு அறிவுரை",
+      "lines": [
+       "குடிநீரை நன்றாக மூடி வைக்க வேண்டும்",
+       "குடிநீரை நன்கு காய்ச்சிப் பருக வேண்டும்",
+       "வீட்டைச் சுற்றியுள்ள பகுதிகளைத் தூய்மையாக வையுங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வெள்ளக்கோவில் நகராட்சியில் டெங்கு தடுப்புப் பணிகள் தீவிரமாக நடைபெறுகின்றன. துணை ஆணையர் (கலால்) பாலமுருகன் ஞாயிற்றுக்கிழமை இந்தப் பணிகளை ஆய்வு செய்தார். வார்டு 13க்கு உட்பட்ட உப்புப்பாளையம் கிழக்கு மற்றும் வார்டு 5 இந்திரா நகர் பகுதிகளில் தீவிர கொசு ஒழிப்புப் பணிகள் நடைபெறுகின்றன. அப்பகுதி முழுவதும் கொசுப் புகை மருந்து அடிக்கும் பணி தீவிரப்படுத்தப்பட்டது. அப்பகுதி மக்களிடம் டெங்கு விழிப்புணர்வு ஏற்படுத்தப்பட்டது. வீடுகளில் சேமித்து வைக்கும் குடிநீரை நன்றாக மூடி வைத்து, கொசு புகாதவாறு பாதுகாக்க வேண்டும். குடிநீரை நன்கு காய்ச்சிப் பருக வேண்டும். வீட்டின் சுற்றுப்புறங்களைத் தூய்மையாக வைத்திருக்க வேண்டும் என மக்களுக்கு அறிவுறுத்தப்பட்டது. ஆய்வின்போது வட்டார மருத்துவ அலுவலர் டாக்டர் ராஜலட்சுமி, நகராட்சி சுகாதார ஆய்வாளர் செல்வராஜ் மற்றும் சுகாதாரப் பணியாளர்கள் உடனிருந்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🦟 வெள்ளக்கோவிலில் டெங்கு தடுப்புப் பணிகள் தீவிரம்\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் நகராட்சிப் பகுதிகளில் டெங்கு காய்ச்சல் தடுப்பு மற்றும் சுகாதாரப் பணிகளை துணை ஆணையர் (கலால்) பாலமுருகன் ஞாயிற்றுக்கிழமை ஆய்வு செய்தார்.\nவார்டு 13 உப்புப்பாளையம் கிழக்கு மற்றும் வார்டு 5 இந்திரா நகர் பகுதிகளில் தீவிர கொசு ஒழிப்புப் பணிகள் நடைபெறுகின்றன. அப்பகுதி முழுவதும் கொசுப் புகை மருந்து அடிக்கும் பணி தீவிரப்படுத்தப்பட்டது.\nபொதுமக்களிடம் டெங்கு விழிப்புணர்வு ஏற்படுத்தப்பட்டது. குடிநீரை நன்றாக மூடி வைக்கவும், நன்கு காய்ச்சிப் பருகவும், வீட்டைச் சுற்றியுள்ள பகுதிகளைத் தூய்மையாக வைத்திருக்கவும் அறிவுறுத்தப்பட்டது.\n\n📍 இடம்: வெள்ளக்கோவில் நகராட்சி, திருப்பூர் மாவட்டம்\n🗓️ நாள்: ஞாயிற்றுக்கிழமை\n🏛️ ஆய்வு செய்தவர்: துணை ஆணையர் (கலால்) பாலமுருகன்\n📞 உடனிருந்தோர்: வட்டார மருத்துவ அலுவலர் டாக்டர் ராஜலட்சுமி, சுகாதார ஆய்வாளர் செல்வராஜ்\n\nVellakoil dengue prevention drive intensified | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
+   "prompts": "A municipal health worker in a blue uniform stands on a narrow residential street in Vellakoil, pushing a white fogging machine whose hose releases a dense cloud of insecticide smoke that drifts between the houses. Behind him, a municipal deputy commissioner and a medical officer in plain clothes walk slowly along the lane, observed by a few residents standing at their doorways. The place is a typical small-town residential street in Vellakoil municipality, Tirupur district, with low concrete houses, tiled roofs, an open drain at the roadside and a few parked two-wheelers. The people are seen from behind or at a distance, the health worker wearing a face mask and gloves. The scene is set in bright Sunday daylight under a clear sky. The camera is at eye level, 35 mm, wide enough to show the full lane and the smoke cloud spreading through it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a fogging machine's nozzle and hose resting on the ground at the edge of a residential lane, with a fine white insecticide mist drifting out into the air. Beside it stands a plastic water storage drum with a tightly fitted lid, the kind used by households to store drinking water, sitting on a concrete doorstep. A corner of a metal water pot is visible in the background. The surface is a damp concrete floor with a few puddles, and blurred legs of municipal workers in uniform can be seen at the edge of the frame. The setting is a small-town residential doorway in Vellakoil, Tirupur district, in daylight. The camera is low and close, 35 mm, shallow depth of field, focusing on the nozzle, the covered drum and the drifting mist. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/வெள்ளக்கோவில்-நகராட்சியில்-டெங்கு-தடுப்பு-பணிகள்-தீவிரம்",
+   "published": "2026-11-22T20:06:56.111Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380893/tirupur360/nfcsvzpiavdwbkhukrrq.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380901/tirupur360/ce8ydcjog0nwk2qsam3s.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "காற்றாலை கேபிள் திருட்டு: இருவர் கைது",
+   "english_headline": "Two arrested for stealing copper cables from wind farms near Dharapuram",
+   "category": "Crime & Safety",
+   "location": "Ponnapuram, Dharapuram, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "தாராபுரம்",
+    "hl1": "தாராபுரத்தில் கேபிள் இருவர் கைது",
+    "hl2": "ரூ.1.25 லட்சம் பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பொன்னபுரம் காற்றாலை நிறுவனங்களில் காப்பர் கம்பி திருட்டு",
+       "ஒரு மாதத்துக்கு முன்பு புகார் அளிக்கப்பட்டது",
+       "குற்றவாளிகளைப் பிடிக்க தனிப்படை அமைக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "எப்படி பிடித்தனர்?",
+      "lines": [
+       "கண்காணிப்பு கேமராக்களை ஆய்வு செய்தனர்",
+       "இரவில் வேனில் சுற்றி கம்பிகளைத் திருடியது தெரிந்தது",
+       "தமிழகம் முழுவதும் சைபர் கிரைம் மூலம் விசாரணை"
+      ]
+     },
+     {
+      "title": "கைது",
+      "lines": [
+       "திருநெல்வேலியைச் சேர்ந்த ஜான்சன் (32 வயது)",
+       "கூடங்குளம், ராதாபுரத்தைச் சேர்ந்த கணேசன் (33 வயது)",
+       "<b>110 கிலோ</b> காப்பர் கம்பிகள் பறிமுதல்"
+      ]
+     },
+     {
+      "title": "பறிமுதல் பொருட்கள்",
+      "lines": [
+       "சுமார் <b>ரூ.1.25 லட்சம்</b> ரொக்கம் பறிமுதல்",
+       "திருட பயன்படுத்திய வேனும் பறிமுதல்",
+       "போலீசார் விசாரணை தொடர்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தாராபுரம் அருகே காற்றாலை கேபிள் திருட்டில் ஈடுபட்ட இருவரை போலீசார் கைது செய்தனர். பொன்னபுரம் பகுதியில் உள்ள தனியார் காற்றாலை நிறுவனங்களில் காப்பர் கம்பிகள் மர்ம நபர்களால் வெட்டி எடுக்கப்படுவதாக ஒரு மாதத்துக்கு முன்பு புகார் அளிக்கப்பட்டது. திருப்பூர் மாவட்ட காவல் கண்காணிப்பாளர் சிருஷ்டி சிங் உத்தரவின்பேரில் குற்றப் பிரிவு தனிப்படை போலீசார் விசாரணை நடத்தினர். கண்காணிப்பு கேமராக்களை ஆய்வு செய்ததில், இரவு நேரத்தில் வேனில் சுற்றித்திரிந்து காப்பர் கம்பிகளைத் திருடிக் கடத்தியது தெரியவந்தது. திருநெல்வேலி மாவட்டத்தைச் சேர்ந்த 32 வயது ஜான்சன், கூடங்குளம், ராதாபுரத்தைச் சேர்ந்த 33 வயது கணேசன் ஆகிய இருவரை போலீசார் கைது செய்தனர். அவர்களிடமிருந்து சுமார் ரூ.1.25 லட்சம் ரொக்கம், 110 கிலோ காப்பர் கம்பிகள், திருடப் பயன்படுத்திய வேன் ஆகியவை பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாராபுரம் அருகே காற்றாலை கேபிள் திருட்டு: இருவர் கைது\n\n📰 முழு விவரம்:\nதாராபுரத்தை அடுத்த பொன்னபுரம் பகுதியில் உள்ள தனியார் காற்றாலை நிறுவனங்களில் காப்பர் கம்பிகள் வெட்டி எடுக்கப்பட்டதாக ஒரு மாதத்துக்கு முன்பு புகார் அளிக்கப்பட்டது. மாவட்ட காவல் கண்காணிப்பாளர் சிருஷ்டி சிங் உத்தரவின்பேரில், குற்றப் பிரிவு தனிப்படை போலீசார் விசாரணை நடத்தினர். கண்காணிப்பு கேமராக்களை ஆய்வு செய்ததில், இரவில் வேனில் சுற்றித்திரிந்து காப்பர் கம்பிகளைத் திருடிக் கடத்தியது தெரியவந்தது. இதையடுத்து இருவர் கைது செய்யப்பட்டனர்.\n👮 நடவடிக்கை: திருநெல்வேலி மாவட்டத்தைச் சேர்ந்த ஜான்சன் (32 வயது), கூடங்குளம், ராதாபுரத்தைச் சேர்ந்த கணேசன் (33 வயது) ஆகியோர் கைது.\n🧾 பறிமுதல்: சுமார் ரூ.1.25 லட்சம் ரொக்கம், 110 கிலோ காப்பர் கம்பிகள், திருட்டுக்குப் பயன்படுத்திய வேன்.\n\nTwo arrested for wind farm copper cable theft near Dharapuram | Tirupur news\n📍 தாராபுரம், திருப்பூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Dharapuram #TirupurNews #திருப்பூர்",
+   "prompts": "Police in khaki stand beside a white van parked on a dusty track at the edge of a wind farm in Ponnapuram, Dharapuram, Tirupur district. Tall white wind turbines rise against a clear daytime sky behind them. Two men, seen from behind and at a distance, are led by constables toward the van, one of them holding a bundle of cloth over his shoulder. The scene shows the arrest of two suspects linked to stolen copper wires, with the van used in the theft visible in the frame. Clothes are shirts and trousers; the police wear khaki uniforms and caps. Shot at eye level on a 35 mm lens, wide enough to show the turbines, the van and the officers, in bright daylight. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on the seized evidence laid out on the bonnet or the ground of a dusty track: heaps of coiled copper cables and wires, bright reddish-brown, roughly 110 kg in a pile, with a bundle of cash notes placed beside them. Behind the table of goods, out of focus, a khaki-uniformed police officer's legs and a parked van are visible, and the base of a wind turbine tower stands in the background. The lighting is bright daylight with long shadows on the dust. Shot from slightly high, eye level to the evidence, on a 35 mm lens, sharp on the copper wire and the cash, with the wind farm and van softly blurred behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/காற்றாலை-கேபிள்-திருட்டில்-ஈடுபட்ட-இருவா்-கைது",
+   "published": "2026-11-22T20:12:59.698Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380910/tirupur360/sphsbok9mcphhjiehs3k.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380918/tirupur360/gho59aons1rjszkkrl1w.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மும்பை இளைஞரிடம் ரூ.87 லட்சம் மோசடி: திருப்பூர் தொழிலதிபர் கைது",
+   "english_headline": "Tirupur businessman arrested over Rs 87 lakh fraud from Mumbai youth",
+   "category": "Crime & Safety",
+   "location": "Tirupur city (Anuppar Palayam, Poyampalayam), Tirupur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மோசடி கைது",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூர் தொழிலதிபர் கைது",
+    "hl2": "ரூ.87 லட்சம் மோசடி வழக்கு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மும்பை தொழிலதிபர் அபய்குமார் சிங் வங்கிக் கணக்கில் இருந்து",
+       "செப். <b>19</b> ஆம் தேதி பணம் மாயமானது",
+       "நவி மும்பை போலீசார் வழக்குப் பதிவு செய்தனர்"
+      ]
+     },
+     {
+      "title": "யார் கைது?",
+      "lines": [
+       "திருப்பூர் பனியன் தொழிலதிபர் சரவணகுமார் கைது",
+       "போயம்பாளையம் பழனிசாமி நகரில் பனியன் நிறுவனம் நடத்துகிறார்",
+       "அனுப்பர்பாளையம் போலீசாரின் உதவியுடன் கைது"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "சனிக்கிழமை மும்பைக்கு விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்",
+       "பணம் சைபர் மோசடியா என விசாரணை தொடர்கிறது",
+       "கமிஷன் பெற்றாரா என்பதும் விசாரிக்கப்படுகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மும்பை இளைஞரிடம் ரூ.87 லட்சம் மோசடி செய்ததாக திருப்பூர் தொழிலதிபர் கைது செய்யப்பட்டுள்ளார். மகாராஷ்டிர மாநிலம் மும்பையைச் சேர்ந்த தொழிலதிபர் அபய்குமார் சிங்கின் வங்கிக் கணக்கில் இருந்து செப்டம்பர் 19ஆம் தேதி ரூ.87 லட்சம் மாயமானது. இது குறித்து அவர் அளித்த புகாரின் பேரில் நவி மும்பை போலீசார் வழக்குப் பதிவு செய்து விசாரித்தனர். விசாரணையில், அபய்குமார் சிங்கின் வங்கிக் கணக்கில் இருந்து திருப்பூரைச் சேர்ந்த பனியன் தொழிலதிபர் சரவணகுமாரின் வங்கிக் கணக்குக்குப் பணப் பரிவர்த்தனை நடைபெற்றது கண்டுபிடிக்கப்பட்டது. மும்பை சைபர் கிரைம் போலீசார் திருப்பூருக்கு வந்து, அனுப்பர்பாளையம் போலீசாரின் உதவியுடன் போயம்பாளையம் பழனிசாமி நகரில் பனியன் நிறுவனம் நடத்தும் சரவணகுமாரைக் கைது செய்தனர். சனிக்கிழமை அவர் விசாரணைக்காக மும்பைக்கு அழைத்துச் செல்லப்பட்டார். ரூ.87 லட்சம் குறித்து தனக்கு எதுவும் தெரியாது என சரவணகுமார் கூறியுள்ளார். இது சைபர் மோசடியா, அல்லது மோசடிக் கும்பலுடன் அவருக்குத் தொடர்பு உள்ளதா, கமிஷன் பெற்று பணத்தை எடுத்துக் கொடுத்தாரா என்பது குறித்து தொடர் விசாரணை நடைபெற்று வருகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மும்பை இளைஞரிடம் ரூ.87 லட்சம் மோசடி: திருப்பூர் தொழிலதிபர் கைது\n\n📰 முழு விவரம்:\nமும்பை தொழிலதிபர் அபய்குமார் சிங்கின் வங்கிக் கணக்கில் இருந்து செப். 19ஆம் தேதி ரூ.87 லட்சம் மாயமானது. நவி மும்பை போலீசார் வழக்குப் பதிவு செய்து விசாரித்தனர். இதில் திருப்பூர் பனியன் தொழிலதிபர் சரவணகுமாரின் வங்கிக் கணக்குக்குப் பணப் பரிவர்த்தனை நடைபெற்றது தெரியவந்தது.\n👮 நடவடிக்கை: மும்பை சைபர் கிரைம் போலீசார் அனுப்பர்பாளையம் போலீசாரின் உதவியுடன் போயம்பாளையம் பழனிசாமி நகரில் சரவணகுமாரைக் கைது செய்தனர். சனிக்கிழமை அவர் மும்பைக்கு அழைத்துச் செல்லப்பட்டார்.\n🔍 விசாரணை: ரூ.87 லட்சம் குறித்து தனக்கு எதுவும் தெரியாது என சரவணகுமார் கூறியுள்ளார். சைபர் மோசடிக் கும்பலுடன் தொடர்பு உள்ளதா, கமிஷன் பெற்று பணத்தை எடுத்துக் கொடுத்தாரா என்பது குறித்து தொடர்ந்து விசாரணை நடைபெற்று வருகிறது.\n\nTirupur businessman arrested Rs 87 lakh fraud | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Anuppapalayam #TirupurNews #திருப்பூர்",
+   "prompts": "A group of Mumbai cyber crime police in plain clothes and local Tamil Nadu police in khaki stand outside a small banian (knitwear) factory in Poyampalayam, Tirupur, as they lead a businessman out to a waiting police vehicle. The narrow street is lined with modest two-storey factory buildings, with bales of cloth stacked near an open shutter and a two-wheeler parked at the kerb. Two officers walk ahead, one carrying a file folder, while a middle-aged man in a plain shirt and trousers is seen only from behind, his face turned away. A few local residents watch from a distance near a tea stall. Daytime, bright natural light, overcast Tirupur sky. Camera at eye level, 35 mm lens, wide enough to show the factory street and the police vehicle. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a table inside a small Tirupur garment factory office where a stack of bank statements, printed transaction records and a closed laptop lie beside a mobile phone and a pile of rolled banian fabric samples. A police officer's khaki sleeve rests at the edge of the frame as he sorts through the papers. Behind the table, out of focus, rows of knitting machines and bales of cloth fill the room. Soft daylight from a window falls across the documents. Camera slightly high, 50 mm lens, shallow depth of field keeping the papers sharp and the background blurred, no readable text or names visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/மும்பை-இளைஞரிடம்-ரூ87-லட்சம்-மோசடி-திருப்பூா்-தொழிலதிபா்-கைது",
+   "published": "2026-11-22T20:06:00.573Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 35 ('மும்பை இளைஞரிடம் ரூ.87 லட்சம் மோசடி செய்தது தொடா்பாக திருப்ப')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380956/tirupur360/dk9pgfznc3rhkdy5evxd.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795380966/tirupur360/ieaqs73mopbh2zf6gxek.jpg"
+   ]
+  }
+ ]
 }
