@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-22T23:14:39.136099+05:30",
+ "last_end": "2026-11-22T23:30:28.575155+05:30",
  "pool": {
   "C7690628": {
    "id": "C7690628",
@@ -705,41 +705,17 @@
   },
   "2026-11-22_23": {
    "window": [
-    "2026-11-22T20:18:27.177203+05:30",
-    "2026-11-22T23:14:39.136099+05:30"
+    "2026-11-22T23:14:39.136099+05:30",
+    "2026-11-22T23:30:28.575155+05:30"
    ],
    "ids": [
-    "C7e06665",
-    "Cb3b8a5c",
-    "Ce399bcf",
-    "C9f9ef90",
     "Cdec645c",
     "C6f00235"
    ],
    "sent": false,
-   "deadline": "2026-11-23T00:14:39.136099+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 4 by insights",
-    "ids": [
-     "C7e06665",
-     "Cb3b8a5c",
-     "Ce399bcf",
-     "C9f9ef90"
-    ],
-    "at": "2026-11-22T23:17:11.088303+05:30"
-   },
-   "written": [
-    "C7e06665",
-    "C9f9ef90",
-    "Cb3b8a5c",
-    "Ce399bcf"
-   ],
-   "refused": {
-    "C9f9ef90": "not written: the day's maximum of 30 news was reached",
-    "Ce399bcf": "not written: the day's maximum of 30 news was reached",
-    "Cb3b8a5c": "not written: the day's maximum of 30 news was reached",
-    "C7e06665": "not written: the day's maximum of 30 news was reached"
-   }
+   "deadline": "2026-11-23T00:30:28.575155+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
