@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-24T00:08:24.954782+05:30",
+ "last_end": "2026-11-24T03:42:33.746831+05:30",
  "pool": {
-  "Cab43fc3": {
-   "id": "Cab43fc3",
-   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/22/kangeyam-municipal-chairperson-quits-dmk-to-join-tvk",
-   "title": "திமுக-வில் இருந்து விலகி தவெக-வில் இணைந்த காங்கயம் நகா்மன்றத் தலைவர்!",
-   "summary": "காங்கயம் நகா்மன்றத் தலைவா் ந.சூரியபிரகாஷ், திமுக-வில் இருந்து விலகி தவெக-வில் இணைந்தாா்..திருப்பூா் மாவட்டம், காங்கயம் நகராட்சியில் கடந்த ஐந்தாண்டுகளாக நகா்மன்றத் தலைவராகப் பதவி வகித்து வருபவா் ந.சூரியபிரகாஷ்.",
-   "source": "தினமணி",
-   "published": "2026-11-22T20:15:29.920Z",
-   "category": "பொது",
-   "score": 2.67,
-   "power_cut": false,
-   "listed_at": "2026-11-23T02:19:01.425798+05:30",
-   "picked_at": "2026-11-23T02:20:50.416421+05:30",
-   "refused": "not filed: duplicate after write"
-  },
   "C71f5ff3": {
    "id": "C71f5ff3",
    "url": "https://tamil.oneindia.com/news/chennai/when-will-the-metro-service-reach-panagal-park-in-t-nagar-2-good-news-from-chennai-metro-847529.html",
@@ -40,26 +26,21 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-23T20:29:45.523152+05:30"
+  },
+  "C87aec21": {
+   "id": "C87aec21",
+   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/23/%E0%AE%87%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-%E0%AE%86%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AE%B0%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%BE%E0%AF%8D",
+   "title": "இன்றைய மின்தடை: ஆலாமரத்தூா்",
+   "summary": "உடுமலையை அடுத்துள்ள ஆலாமரத்தூா் துணை மின் நிலையத்தில் பராமரிப்புப் பணிகள் நடைபெறவுள்ளதால் செவ்வாய்க்கிழமை (நவம்பா் 24) காலை 9 மணி முதல் மாலை 5 மணி வரை கீழ்க்கண்ட பகுதிகளில் மின் விநியோகம் இருக்காது என்று மின்வாரிய செய...",
+   "source": "தினமணி",
+   "published": "2026-11-23T20:24:53.940Z",
+   "category": "மின்தடை",
+   "score": 12.02,
+   "power_cut": true,
+   "listed_at": "2026-11-24T03:42:33.746831+05:30"
   }
  },
  "rounds": {
-  "2026-11-21_16": {
-   "window": [
-    "2026-11-21T12:37:59.498537+05:30",
-    "2026-11-21T16:30:50.100080+05:30"
-   ],
-   "ids": [
-    "C55a2fa8"
-   ],
-   "sent": false,
-   "deadline": "2026-11-21T17:30:50.100080+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 0 by insights",
-    "ids": [],
-    "at": "2026-11-21T16:33:09.778687+05:30"
-   },
-   "written": []
-  },
   "2026-11-21_20": {
    "window": [
     "2026-11-21T16:30:50.100080+05:30",
@@ -627,6 +608,20 @@
     "ids": [],
     "at": "2026-11-24T00:09:36.353605+05:30"
    },
+   "written": []
+  },
+  "2026-11-24_03": {
+   "window": [
+    "2026-11-24T00:08:24.954782+05:30",
+    "2026-11-24T03:42:33.746831+05:30"
+   ],
+   "ids": [
+    "C87aec21",
+    "C48637fa"
+   ],
+   "sent": false,
+   "deadline": "2026-11-24T04:42:33.746831+05:30",
+   "decided": null,
    "written": []
   }
  },
