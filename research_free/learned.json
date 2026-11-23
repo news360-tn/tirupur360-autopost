@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-23T16:30+05:30",
- "posts_measured": 197,
+ "updated": "2026-11-23T20:29+05:30",
+ "posts_measured": 201,
  "topic_weight": {
-  "politics": -0.32,
-  "accident": 1.13,
+  "politics": -0.2,
+  "accident": 0.85,
   "crime": 1.5,
   "education": -0.5,
   "jobs": 0.45,
-  "power_cut": 0.0,
-  "temple": -0.1,
-  "civic": 0.04,
-  "poultry_agri": -0.5,
+  "power_cut": 0.01,
+  "temple": -0.05,
+  "civic": 0.05,
+  "poultry_agri": -0.47,
   "weather": -0.5
  },
  "topic_n": {
-  "politics": 16,
-  "accident": 16,
+  "politics": 17,
+  "accident": 17,
   "crime": 25,
   "education": 14,
   "jobs": 5,
   "power_cut": 9,
   "temple": 20,
   "civic": 34,
-  "poultry_agri": 17,
+  "poultry_agri": 18,
   "weather": 6,
   "sports_culture": 2
  },
@@ -35,8 +35,8 @@
  "top_openings": [
   "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
   "⚡ பல்லடம் துணை மின் நிலையப் பகுதிகளில் நாளை மின் தடை - காலை 10 முதல் மதியம் 3 வர",
-  "🏛️ பல்லடம் நகர த.வெ.க. செயலாளர் ராமமூர்த்தி நீக்கம்",
-  "🫀 பல்லடம் இளைஞரின் உடல் உறுப்புகள் தானம்: மூளைச்சாவுக்குப் பின் பல உயிர்களுக்கு "
+  "🚨 மூலனூரில் மாயமான 17 வயது சிறுமி 2 மணி நேரத்தில் மீட்பு",
+  "🚨 அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் குடுமிப்பிடி சண்டை"
  ],
  "avg_watch_s": 7.7,
  "best_topics": [
@@ -46,6 +46,6 @@
  ],
  "weak_topics": [
   "education",
-  "poultry_agri"
+  "weather"
  ]
 }
