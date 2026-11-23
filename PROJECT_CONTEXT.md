@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-23 | `15f6c51` | Posting: next reel about 5 minutes after the last (5-minute gap kept); a temporary Instagram error waits 10 minutes, then posts (no manual e-mail for it) |
+| 2026-11-23 | `3424264` | stories shared / Instagram pause |
+| 2026-11-23 | `fe29cc0` | stories shared / Instagram pause |
+| 2026-11-23 | `249424f` | stories shared / Instagram pause |
 | 2026-11-23 | `c28022f` | District filter: Tindivanam, Gingee, Chidambaram, Neyveli and nearby towns are other-district news |
 | 2026-11-23 | `6f72016` | pick: written and posted |
 | 2026-11-23 | `27e1b8e` | facebook RN-231 |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `6485589` | posted RN-201 |
 | 2026-11-23 | `01637c2` | stories shared / Instagram pause |
 | 2026-11-23 | `5613439` | Yesterday's pending news (held only by the daily maximum) is offered again; common place words (நகரம், ரோடு, நிலையம் ...) no longer hold a news; Indian number grouping (29,86,950) is understood |
-| 2026-11-23 | `86321f1` | stories shared / Instagram pause |
-| 2026-11-23 | `973b79e` | stories shared / Instagram pause |
-| 2026-11-23 | `773ba6f` | stories shared / Instagram pause |
-| 2026-11-23 | `8c016d0` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
