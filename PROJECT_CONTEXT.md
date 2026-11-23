@@ -83,6 +83,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-23 | `9baa9d5` | Reels only: no Instagram or Facebook stories; wait 5 minutes after an error |
+| 2026-11-23 | `f45f640` | stories shared / Instagram pause |
+| 2026-11-23 | `198a760` | stories shared / Instagram pause |
+| 2026-11-23 | `eac4ec8` | stories shared / Instagram pause |
+| 2026-11-23 | `9d82e70` | stories shared / Instagram pause |
+| 2026-11-23 | `00a1962` | stories shared / Instagram pause |
+| 2026-11-23 | `f84dcf5` | stories shared / Instagram pause |
+| 2026-11-23 | `de8a51d` | stories shared / Instagram pause |
+| 2026-11-23 | `6ea3a32` | stories shared / Instagram pause |
 | 2026-11-23 | `15f6c51` | Posting: next reel about 5 minutes after the last (5-minute gap kept); a temporary Instagram error waits 10 minutes, then posts (no manual e-mail for it) |
 | 2026-11-23 | `3424264` | stories shared / Instagram pause |
 | 2026-11-23 | `fe29cc0` | stories shared / Instagram pause |
@@ -104,13 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `ce41bcb` | pick: picked news saved |
 | 2026-11-23 | `d603b0d` | stories shared / Instagram pause |
 | 2026-11-23 | `b556ef4` | pick: picked news saved |
-| 2026-11-23 | `4affa38` | pick: list sent |
-| 2026-11-23 | `6fd2c2e` | stories shared / Instagram pause |
-| 2026-11-23 | `6d26d5b` | stories shared / Instagram pause |
-| 2026-11-23 | `35d3328` | stories shared / Instagram pause |
-| 2026-11-23 | `f18c9ee` | stories shared / Instagram pause |
-| 2026-11-23 | `abdcac2` | facebook RN-201 |
-| 2026-11-23 | `6485589` | posted RN-201 |
-| 2026-11-23 | `01637c2` | stories shared / Instagram pause |
-| 2026-11-23 | `5613439` | Yesterday's pending news (held only by the daily maximum) is offered again; common place words (நகரம், ரோடு, நிலையம் ...) no longer hold a news; Indian number grouping (29,86,950) is understood |
 <!-- recent-changes:end -->
