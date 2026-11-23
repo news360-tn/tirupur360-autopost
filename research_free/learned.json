@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-23T22:46+05:30",
- "posts_measured": 210,
+ "updated": "2026-11-24T00:08+05:30",
+ "posts_measured": 213,
  "topic_weight": {
-  "politics": -0.31,
-  "accident": 0.62,
+  "politics": -0.3,
+  "accident": 0.41,
   "crime": 1.5,
   "education": -0.5,
   "jobs": 0.46,
-  "power_cut": 0.01,
-  "temple": -0.06,
-  "civic": 0.06,
+  "power_cut": 0.02,
+  "temple": 0.01,
+  "civic": 0.03,
   "poultry_agri": -0.47,
   "weather": -0.5
  },
  "topic_n": {
   "politics": 18,
-  "accident": 18,
+  "accident": 19,
   "crime": 26,
   "education": 14,
   "jobs": 5,
   "power_cut": 9,
   "temple": 22,
-  "civic": 36,
+  "civic": 37,
   "poultry_agri": 18,
   "weather": 7,
   "sports_culture": 2
@@ -34,15 +34,15 @@
  ],
  "top_openings": [
   "🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது",
-  "⚡ பல்லடம் துணை மின் நிலையப் பகுதிகளில் நாளை மின் தடை - காலை 10 முதல் மதியம் 3 வர",
   "🚨 அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் குடுமிப்பிடி சண்டை",
+  "⚡ பல்லடம் துணை மின் நிலையப் பகுதிகளில் நாளை மின் தடை - காலை 10 முதல் மதியம் 3 வர",
   "🚨 மூலனூரில் மாயமான 17 வயது சிறுமி 2 மணி நேரத்தில் மீட்பு"
  ],
  "avg_watch_s": 7.6,
  "best_topics": [
   "crime",
-  "accident",
-  "jobs"
+  "jobs",
+  "accident"
  ],
  "weak_topics": [
   "education",
