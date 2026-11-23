@@ -3,129 +3,368 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/two-young-women-from-north-india-fight-over-the-same-man",
-  "manual link added: https://tamil.oneindia.com/news/chennai/when-will-the-metro-service-reach-panagal-park-in-t-nagar-2-good-news-from-chennai-metro-847529.html",
-  "candidate filter: collected=2",
-  "to write: 2 Tirupur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Tirupur; time left 79 min",
-  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/when-will-the-metro-",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/two-young-women-f",
-  "NOT filed (N) தி நகர் பனகல் பார்க் வரை மெட்ரோ சேவை எப்போது?, மாத: not Tirupur district news (the story's first lines name another place and no Tirupur place)",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/pap-2nd-zonal-irrigation-ended-water/4383614",
+  "manual link added: https://pukaarpetti.dailythanthi.com/electricity/news-68824",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/kerala-meat-waste-in-bags/4383531",
+  "manual link added: https://tamil.oneindia.com/news/chennai/admk-filed-case-in-chennai-high-court-over-tvk-victory-on-dharapuram-maduranthakam-by-election-847583.html",
+  "candidate filter: collected=4",
+  "to write: 4 Tirupur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Tirupur; time left 79 min",
+  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/admk-filed-case-in-c",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/electricity/news-68824",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 1}, time left 76 min",
-  "filed: 1 Tirupur district stories (target 2), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 72 min",
+  "filed: 4 Tirupur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":3}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (27s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1489 (char 1488)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (43s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (23s)",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (47s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok gemini/gemini-3-flash-preview (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் குடுமிப்பிடி சண்டை",
-   "english_headline": "Two young women fight in public at Avinashi bus stand over the same young man",
-   "category": "Crime & Safety",
-   "location": "Avinashi bus stand, Tirupur district",
+   "tamil_headline": "பல்லடம் அருகே நீர்நிலையில் இறைச்சிக்கழிவுகள் கொட்டிய கேரளா வேன்: பொதுமக்கள் புகார்",
+   "english_headline": "Kerala registration van dumps meat waste in water body near Palladam; locals demand action",
+   "category": "Civic Issues",
+   "location": "K. Krishnapuram, Palladam, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொது இடம் சண்டை",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் ஒரே குடுமிப்பிடி சண்டை",
-    "hl2": "பஸ் நிலையத்தில் பரபரப்பு",
+    "cat": "இறைச்சிக்கழிவுகள்",
+    "loc": "கே. கிருஷ்ணாபுரம், பல்லடம்",
+    "hl1": "பல்லடம் அருகே நீர்நிலையில் கழிவுகள்",
+    "hl2": "கேரளா வேனில் வந்த இறைச்சி",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "அவிநாசி பஸ் நிலையத்தில் 2 இளம்பெண்களுக்கு இடையே வாக்குவாதம்",
-       "வாக்குவாதம் முற்றி குடுமிப்பிடி சண்டை",
-       "பொதுமக்கள் முன்னிலையில் சண்டை நடந்தது"
+       "பல்லடம் அருகே <b>கே. கிருஷ்ணாபுரம்</b> பிரிவு",
+       "புளியம்பட்டி சாலையில் உள்ள நீர்நிலை",
+       "மூட்டைகளாக வீசப்படும் இறைச்சிக்கழிவுகள்"
       ]
      },
      {
-      "title": "ஏன் சண்டை?",
+      "title": "கேரளா வேன்",
       "lines": [
-       "2 பேரும் ஒரே வாலிபரைக் காதலித்து வந்தனர்",
-       "நேற்று மாலை அந்த வாலிபருடன் ஒரு பெண் பேசியதை மற்றொரு பெண்",
-       "இதனால் தகராறு முற்றியது"
+       "<b>2 நாட்களுக்கு முன்</b> கழிவுகள் கொட்டப்பட்டன",
+       "கேரள மாநிலப் பதிவு எண் கொண்ட வேன்",
+       "தட்டிக்கேட்ட மக்களை டிரைவர் மிரட்டினார்"
       ]
      },
      {
-      "title": "போலீசார் நடவடிக்கை",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "போலீசார் இளம்பெண்களைப் பிடித்து விசாரணை நடத்தினர்",
-       "2 பேரும் அவிநாசி அருகே தங்கி பின்னலாடை நிறுவனத்தில் வேலை",
-       "வாலிபர் 2 பெண்களையும் சமாதானம் செய்து தனித்தனி பஸ்களில்"
+       "திருப்பூரில் இருந்து வந்ததாக டிரைவர் தகவல்",
+       "நீர்நிலைகள் மாசுபடுவதாக மக்கள் வேதனை",
+       "அதிகாரிகள் கடும் நடவடிக்கை எடுக்க கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் நடுரோட்டில் குடுமிப்பிடி சண்டையிட்டனர். நேற்று மாலை பஸ் நிலையத்தில் வடமாநிலத்தைச் சேர்ந்த 2 இளம்பெண்களுக்கு இடையே திடீரென வாக்குவாதம் ஏற்பட்டது. வாக்குவாதம் முற்றியதில் பொதுமக்கள் முன்னிலையில் அவர்கள் ஒருவரையொருவர் தாக்கிக்கொண்டனர். சண்டையைத் தடுக்க முயன்ற வாலிபரின் பேச்சையும் அவர்கள் கேட்கவில்லை. இதனால் பஸ் நிலையத்தில் சிறிது நேரம் பரபரப்பு நிலவியது. தகவல் அறிந்த போலீசார் இளம்பெண்களைப் பிடித்து விசாரணை நடத்தினர். இருவரும் அவிநாசி அருகே தங்கி பின்னலாடை நிறுவனத்தில் பணியாற்றுவது தெரியவந்தது. இருவரும் ஒரே வாலிபரைக் காதலித்து வந்தனர். ஏற்கனவே செல்போனில் அவர்களுக்கு இடையே தகராறு இருந்துள்ளது. நேற்று மாலை அந்த வாலிபருடன் ஒரு பெண் பேசுவதை மற்றொரு பெண் பார்த்ததால் சண்டை மூண்டது. வாலிபர் 2 பெண்களையும் சமாதானம் செய்து தனித்தனி பஸ்களில் அனுப்பி வைத்தார். அங்கிருந்தவர்கள் எடுத்த வீடியோ சமூக வலைதளங்களில் வேகமாகப் பரவி வைரலாகி வருகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் குடுமிப்பிடி சண்டை\n\n📰 முழு விவரம்:\nநேற்று மாலை அவிநாசி பஸ் நிலையத்தில் நின்றிருந்த வடமாநிலத்தைச் சேர்ந்த 2 இளம்பெண்களுக்கு இடையே திடீர் வாக்குவாதம் ஏற்பட்டது. வாக்குவாதம் முற்றி பொதுமக்கள் முன்னிலையில் அவர்கள் குடுமிப்பிடி சண்டையிட்டனர். சண்டையைத் தடுக்க முயன்ற வாலிபரின் பேச்சையும் அவர்கள் கேட்கவில்லை. பஸ் நிலையத்தில் சிறிது நேரம் பரபரப்பு நிலவியது.\nபோலீசார் இளம்பெண்களைப் பிடித்து விசாரித்தனர். இருவரும் அவிநாசி அருகே தங்கி பின்னலாடை நிறுவனத்தில் பணியாற்றுவது தெரியவந்தது. இருவரும் ஒரே வாலிபரைக் காதலித்து வந்தனர். ஏற்கனவே செல்போனில் தகராறு இருந்தது. நேற்று மாலை அந்த வாலிபருடன் ஒரு பெண் பேசுவதை மற்றொரு பெண் பார்த்ததால் சண்டை மூண்டது.\nவாலிபர் 2 பெண்களையும் சமாதானம் செய்து தனித்தனி பஸ்களில் ஏற்றி அனுப்பினார்.\n📍 இடம்: அவிநாசி பஸ் நிலையம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: நேற்று (நவம்பர் 22) மாலை\n🏭 பின்னணி: திருப்பூர், அவிநாசி, பெருமாநல்லூர், காங்கேயம், பல்லடம் உள்ளிட்ட இடங்களில் பின்னலாடை நிறுவனங்கள் செயல்படுகின்றன. வார விடுமுறை என்பதால் அவிநாசி பஸ் நிலையத்தில் வடமாநில தொழிலாளர்கள் கூட்டம் அதிகம் இருந்தது.\n📱 அங்கிருந்தவர்கள் எடுத்த வீடியோ சமூக வலைதளங்களில் வைரலாகி வருகிறது.\n\nAvinashi bus stand fight two women one man | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "Two young women in simple work clothes are seen from behind, engaged in a physical struggle, pulling each other's hair in the open area of the Avinashi bus stand. A young man in a shirt and trousers stands between them, arms raised, trying to separate them, while a crowd of workers in casual attire surrounds the scene at a safe distance, some holding up mobile phones to record the incident. The background features the concrete platform of the bus stand with a TNSTC town bus parked nearby, its side visible. The atmosphere is chaotic but contained by the onlookers. The light is natural evening daylight, casting long shadows on the paved ground. The camera is positioned at eye level, 35 mm lens, capturing the central conflict and the immediate reaction of the crowd without showing clear facial features, ensuring the focus remains on the action and the public setting. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the paved ground of the Avinashi bus stand, focusing on the feet of the two women and the young man, showing the scuffle in detail. In the immediate foreground, a mobile phone held by an onlooker is visible, screen facing away, capturing the scene. Behind this, the lower half of the two women's bodies is visible, their legs tangled in the struggle. To the side, the wheel of a parked town bus is partially visible, grounding the location. The lighting is consistent with late afternoon, highlighting the texture of the concrete and the fabric of their clothes. The camera angle is slightly high, looking down at the feet and the phone, emphasizing the public nature of the event and the documentation by bystanders, with no readable text or logos visible on any object. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/two-young-women-from-north-india-fight-over-the-same-man",
-   "published": "2026-11-23T06:41:14Z",
+   "reel_script": "பல்லடம் அருகே நீர்நிலையில் இறைச்சிக்கழிவுகள் கொட்டிய கேரளா வேனால் பரபரப்பு ஏற்பட்டுள்ளது. பல்லடம் அடுத்த கே கிருஷ்ணாபுரம் பிரிவு அருகே புளியம்பட்டி செல்லும் சாலையில் ஒரு நீர்நிலைக் குட்டை உள்ளது. இந்த நீர்நிலைக்குள் கோழி இறைச்சிக் கழிவுகள் மற்றும் பிளாஸ்டிக் கவர்கள் மூட்டைகளாகக் கட்டி அடிக்கடி வீசப்படுகின்றன. கடந்த 2 நாட்களுக்கு முன்பு கேரள மாநிலப் பதிவு எண் கொண்ட வேன் ஒன்றில் கழிவுகள் கொண்டு வரப்பட்டன. அந்த வேனில் இருந்தவர்கள் கழிவுகளைக் குட்டைக்குள் கொட்டியபோது அப்பகுதி மக்கள் தட்டிக்கேட்டனர். அதற்கு அந்த வேன் டிரைவர் பொதுமக்களை மிரட்டும் வகையில் பேசியதாகக் கூறப்படுகிறது. திருப்பூர் மாநகராட்சிப் பகுதியில் கொட்ட அனுமதிக்காததால் இங்கு கொண்டு வந்ததாக அவர் தெரிவித்துள்ளார். ஆனால் இந்தக் கழிவுகள் கேரளாவில் இருந்து கொண்டு வரப்பட்டதா என்ற சந்தேகம் மக்களுக்கு எழுந்துள்ளது. நீர்நிலைகளை மாசுபடுத்தும் நபர்கள் மீது அதிகாரிகள் கடும் நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பல்லடம் அருகே நீர்நிலையில் இறைச்சிக்கழிவுகள் வீச்சு: கேரளா வேன் டிரைவர் மிரட்டல்\n\n📰 முழு விவரம்:\nபல்லடம் அடுத்த கே. கிருஷ்ணாபுரம் பிரிவு அருகே புளியம்பட்டி செல்லும் சாலையில் உள்ள நீர்நிலைக்குள் கோழி இறைச்சிக் கழிவுகள் மூட்டைகளாக வீசப்படுகின்றன. கடந்த 2 நாட்களுக்கு முன்பு கேரள மாநிலப் பதிவு எண் கொண்ட வேனில் வந்தவர்கள் கழிவுகளைக் கொட்டியுள்ளனர். இதனைத் தட்டிக்கேட்ட பொதுமக்களை வேன் டிரைவர் மிரட்டியுள்ளார். திருப்பூரில் கொட்ட இடமில்லாததால் இங்கு கொண்டு வந்ததாக அவர் கூறியுள்ளார். நீர்நிலைகள் மாசுபடுவதால் சம்பந்தப்பட்டவர்கள் மீது நடவடிக்கை எடுக்க மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: கே. கிருஷ்ணாபுரம், பல்லடம்\n🗓️ நாள்: 22 நவம்பர் 2026\n👮 நடவடிக்கை: அதிகாரிகள் விசாரணை நடத்த கோரிக்கை\nℹ️ மக்கள் கவனத்திற்கு: நீர்நிலைகளில் கழிவுகளைக் கொட்டுவது சட்டப்படி குற்றம்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nPalladam meat waste dumping in water body | Tirupur news\n📍 K. Krishnapuram, Tirupur | 23 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #CivicIssues #திருப்பூர்",
+   "prompts": "A collection of white gunny bags and plastic covers filled with chicken meat waste lies discarded at the edge of a local water body. The scene is located in K. Krishnapuram near Palladam, on the road leading to Puliyampatti, where a small pond or kuttai is surrounded by dry earth and sparse shrubs. Three local men, dressed in shirts and veshtis, stand on the bank with their backs to the camera, observing the pollution in the water. The bags are piled haphazardly, some partially submerged in the still water. The lighting is bright daylight under a clear sky, typical of the Tirupur district outskirts. The camera is at eye level, using a 35mm lens to capture the scale of the dumping relative to the water source. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed close-up shot focuses on the stained white gunny bags and plastic sacks containing meat waste resting on the muddy bank of the pond. The bags are tied with rough twine, and some are torn, revealing the bulk of the discarded chicken remains inside. The murky water of the pond in K. Krishnapuram laps against the base of the sacks. In the background, the blurred surface of the water body and the dusty ground of the Palladam area are visible. There are no people or vehicles in this tight frame, emphasizing the environmental impact of the civic issue. The shot is taken from a low angle during the day, highlighting the texture of the wet sacks and the stagnant water. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/kerala-meat-waste-in-bags/4383531",
+   "published": "2026-11-22T20:34:23+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795431999/tirupur360/u88oltcfmlmeoldpauaz.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795432035/tirupur360/tf6zvt4uvdp8dsfl6bfq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தாராபுரம் தவெக வெற்றிக்கு எதிராக அதிமுக வழக்கு: சென்னை உயர் நீதிமன்றத்தில் மனு",
+   "english_headline": "AIADMK challenges TVK's victory in Dharapuram and Maduranthakam constituencies in Madras High Court",
+   "category": "Government & Services",
+   "location": "Dharapuram town, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் செய்தி",
+    "loc": "தாராபுரம்",
+    "hl1": "தாராபுரம் தவெக வெற்றிக்கு எதிராக வழக்கு",
+    "hl2": "அதிமுக வேட்பாளர் மனு",
+    "slides": [
+     {
+      "title": "தேர்தல் வழக்கு",
+      "lines": [
+       "தாராபுரம் தொகுதி தவெக வெற்றிக்கு எதிராக <b>அதிமுக</b> வழக்கு",
+       "சென்னை உயர் நீதிமன்றத்தில் மனு தாக்கல்",
+       "தவெக வெற்றி செல்லாது என அறிவிக்கக் கோரிக்கை"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "கடந்த அக்டோபரில் தாராபுரம் தொகுதியில் இடைத்தேர்தல் நடந்தது",
+       "தவெக வேட்பாளர் <b>சத்யபாமா</b> வெற்றி பெற்றார்",
+       "அதிமுக வேட்பாளர் பானுமதி தற்போது வழக்கு தொடர்ந்துள்ளார்"
+      ]
+     },
+     {
+      "title": "முக்கிய விவரங்கள்",
+      "lines": [
+       "மதுராந்தகம் தொகுதி தவெக வெற்றியையும் எதிர்த்து வழக்கு",
+       "தவெக ஆட்சி அமைந்து <b>6 மாதங்கள்</b> கடந்துவிட்டது",
+       "விரைவில் இந்த வழக்கு விசாரணைக்கு வரவுள்ளது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தாராபுரம் தொகுதி த வெ க வெற்றிக்கு எதிராக அ தி மு க வழக்கு தொடர்ந்துள்ளது. தாராபுரம் மற்றும் மதுராந்தகம் சட்டமன்றத் தொகுதிகளில் கடந்த அக்டோபர் மாதம் இடைத்தேர்தல் நடைபெற்றது. இதில் தாராபுரத்தில் த வெ க வேட்பாளர் சத்யபாமா வெற்றி பெற்றார். மதுராந்தகத்தில் மரகதம் குமரவேல் வெற்றி பெற்றார். இந்த வெற்றியை எதிர்த்து அ தி மு க சார்பில் சென்னை உயர் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டுள்ளது. தாராபுரம் அ தி மு க வேட்பாளர் பானுமதி இந்த மனுவைத் தாக்கல் செய்துள்ளார். த வெ க ஆட்சி அமைந்து 6 மாதங்கள் கடந்துள்ள நிலையில் இந்த வழக்கு அக்கட்சிக்கு அதிர்ச்சியை ஏற்படுத்தியுள்ளது. ஏற்கனவே 6 அ தி மு க எம்எல்ஏக்கள் பதவியை ராஜினாமா செய்து த வெ க வில் இணைந்தனர். தற்போது திருச்சி கிழக்கு உள்ளிட்ட 6 தொகுதிகளுக்கு விரைவில் இடைத்தேர்தல் நடைபெறவுள்ளது. தாராபுரம் தொகுதி வழக்கு விரைவில் விசாரணைக்கு வரவுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ தாராபுரம் தவெக வெற்றிக்கு எதிராக அதிமுக வழக்கு - சென்னை உயர் நீதிமன்றத்தில் மனு தாக்கல்\n\n\n📰 முழு விவரம்:\nதாராபுரம் மற்றும் மதுராந்தகம் சட்டமன்றத் தொகுதிகளில் கடந்த அக்டோபர் மாதம் நடைபெற்ற இடைத்தேர்தலில் தவெக வெற்றி பெற்றது. தாராபுரத்தில் தவெக வேட்பாளர் சத்யபாமா மற்றும் மதுராந்தகத்தில் மரகதம் குமரவேல் ஆகியோர் வெற்றி பெற்றனர். இந்த வெற்றியை எதிர்த்து அதிமுக தற்போது சென்னை உயர் நீதிமன்றத்தில் வழக்கு தொடர்ந்துள்ளது. தாராபுரம் அதிமுக வேட்பாளர் பானுமதி இந்த மனுவைத் தாக்கல் செய்துள்ளார். தவெக ஆட்சி அமைந்து 6 மாதங்கள் கடந்துள்ள நிலையில், இந்த வழக்கு அக்கட்சிக்கு அதிர்ச்சியை ஏற்படுத்தியுள்ளது. ஏற்கனவே 6 அதிமுக எம்எல்ஏக்கள் பதவியை ராஜினாமா செய்து தவெகவில் இணைந்தனர். விரைவில் திருச்சி கிழக்கு, கரூர் உள்ளிட்ட 6 தொகுதிகளுக்கு இடைத்தேர்தல் நடைபெறவுள்ளது.\n\n📍 இடம்: தாராபுரம் தொகுதி\n🗓️ நிகழ்வு: தேர்தல் வெற்றிக்கு எதிரான வழக்கு\n⚖️ நீதிமன்றம்: சென்னை உயர் நீதிமன்றம்\n\nDharapuram TVK victory challenged by AIADMK | Tirupur news\n📍 Dharapuram, Tirupur | 23 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Dharapuram #TVK #திருப்பூர்",
+   "prompts": "A group of lawyers in black coats and white shirts stand in a corridor outside a court hall in Dharapuram town, with a file of case papers in one lawyer's hand as the matter goes before the bench. The setting is a plain government building with pillars, a tiled floor and a wooden bench along the wall, in Tirupur district's Dharapuram town. Two or three men in shirts and veshti, seen from behind, wait near the door, and one woman in a cotton saree holds a folder. Outside the window, a few two-wheelers and an autorickshaw pass on a dusty road. It is a bright daytime scene with soft daylight through the windows. Shot at eye level on a 35 mm lens, wide enough to show the corridor, the people and the courtroom doorway, with no visible text, signboards or faces. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official legal case files and bundled papers tied with red tape, resting on a wooden table in a government office in Dharapuram town. The top file is slightly open, showing blank white pages, with a pen and a steel tumbler of water beside it. Behind the table, out of focus, a bench and a pillar of a court hall can be seen, with light falling from a window in the afternoon. The papers are plain with no readable writing, and no logos or labels are visible. Shot close and slightly high at about 50 mm, with a shallow depth of field so the files stand sharp and the background softens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/chennai/admk-filed-case-in-chennai-high-court-over-tvk-victory-on-dharapuram-maduranthakam-by-election-847583.html",
+   "published": "2026-11-23T13:36:50+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 6 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795432115/tirupur360/kpm6fz4uo8cecthnsndr.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795432147/tirupur360/maygazd50jpy0qqwgdk0.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மேல்சேவூர் கிராமத்தில் ஆபத்தான நிலையில் சாய்ந்த மின்கம்பங்கள்",
+   "english_headline": "Leaning high-voltage power poles along main road at Melsevoor village near Gingee pose danger to farmers and residents",
+   "category": "Civic Issues",
+   "location": "Melsevoor village, near Gingee, Villupuram district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மின்கம்பம் ஆபத்து",
+    "loc": "மேல்சேவூர், செஞ்சி",
+    "hl1": "மேல்சேவூரில் சாய்ந்த மின்கம்பங்கள்",
+    "hl2": "காற்றில் முறியும் அபாயம்",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "செஞ்சி அருகே மேல்சேவூர் கிராமம்",
+       "பிரதான சாலையை ஒட்டி உயர் மின் அழுத்த கம்பங்கள்",
+       "ஆபத்தான நிலையில் சாய்ந்து கிடக்கின்றன"
+      ]
+     },
+     {
+      "title": "என்ன ஆபத்து?",
+      "lines": [
+       "காற்று பலமாக வீசும்போது கம்பங்கள் முறிந்து விழும் அபாயம்",
+       "விவசாயிகள், தொழிலாளர்கள், பொதுமக்கள் அச்சத்தில்",
+       "பெரும் விபத்து ஏற்படும் முன் நடவடிக்கை தேவை"
+      ]
+     },
+     {
+      "title": "மக்கள்",
+      "lines": [
+       "சாய்ந்த மின்கம்பங்களை சீரமைக்க வேண்டும்",
+       "தேவையான இடங்களில் புதிய மின்கம்பங்கள் அமைக்க வேண்டும்",
+       "மின் வாரிய அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "செஞ்சி அருகே மேல்சேவூர் கிராமத்தில் மின்கம்பங்கள் ஆபத்தான நிலையில் சாய்ந்து கிடக்கின்றன. பிரதான சாலையை ஒட்டி உயர் மின் அழுத்த மின்கம்பங்கள் சாய்ந்துள்ளன. காற்று பலமாக வீசும்போது இந்த மின்கம்பங்கள் முறிந்து விழும் அபாயம் உள்ளது. இதனால் விவசாயிகள், விவசாயத் தொழிலாளர்கள் மற்றும் பொதுமக்கள் அச்சமடைந்துள்ளனர். பெரும் விபத்து ஏற்படும் முன்பு சாய்ந்த மின்கம்பங்களைச் சீரமைக்க வேண்டும் என அப்பகுதி மக்கள் எதிர்பார்க்கின்றனர். தேவைப்படும் இடங்களில் புதிய மின்கம்பங்கள் அமைக்கவும் கோரிக்கை விடுக்கப்பட்டுள்ளது. மின் வாரிய அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚡ மேல்சேவூரில் சாய்ந்து கிடக்கும் உயர் மின் அழுத்த மின்கம்பங்கள்\n\n📰 முழு விவரம்:\nசெஞ்சி அருகே மேல்சேவூர் கிராமத்தில் பிரதான சாலையை ஒட்டி உயர் மின் அழுத்த மின்கம்பங்கள் ஆபத்தான நிலையில் சாய்ந்து கிடக்கின்றன.\nகாற்று பலமாக வீசும்போது மின்கம்பங்கள் முறிந்து விழும் அபாயம் உள்ளது.\nஇதனால் விவசாயிகள், விவசாயத் தொழிலாளர்கள் மற்றும் பொதுமக்கள் அச்சமடைந்துள்ளனர்.\nபெரும் விபத்து ஏற்படும் முன்பு சாய்ந்த மின்கம்பங்களைச் சீரமைக்கவும், தேவையான இடங்களில் புதிய மின்கம்பங்கள் அமைக்கவும் மின் வாரிய அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் எதிர்பார்க்கின்றனர்.\n📍 இடம்: மேல்சேவூர் கிராமம், செஞ்சி அருகே\n⚠️ ஆபத்து: காற்றில் மின்கம்பங்கள் முறிந்து விழும் அபாயம்\n👮 கோரிக்கை: சாய்ந்த மின்கம்பங்கள் சீரமைப்பு, புதிய மின்கம்பங்கள் அமைப்பு\n\nLeaning power poles Melsevoor Gingee | Villupuram news\n📍 மேல்சேவூர், செஞ்சி | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #Gingee #மின்கம்பம்",
+   "prompts": "A row of concrete high-voltage electricity poles along the edge of a village main road in Melsevoor village near Gingee, several of them leaning dangerously to one side at sharp angles, their wires sagging above the tarred road. Dry paddy fields and palm trees stretch behind the poles under a hazy late-afternoon sky, with a strong wind bending the nearby tree branches. A TNEB lineman in a blue shirt and helmet stands at the base of one leaning pole, examining it from a distance, while two farmers in veshti and shirts walk past on the roadside with a cycle, seen from behind. The road is narrow with a few two-wheelers passing. Camera at eye level, 35 mm, wide enough to show the full line of leaning poles and the open village landscape. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the base of a single concrete electricity pole that is visibly tilted and cracked near the ground at the roadside of a village road in Melsevoor, Gingee. Loose gravel, dry soil and a patch of broken concrete surround the pole, and the high-voltage wires hang tightly from its top in the slanting light. In the soft background, a farmer in a checked lungi and a woman in a cotton saree stand at a distance, seen from behind, looking up at the pole. Dry grass and a bundle of harvested straw lie by the roadside. Daylight, slight breeze visible in the grass, camera at slightly high angle, 35 mm, focusing on the leaning pole and its unstable base. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/electricity/news-68824",
+   "published": "2026-11-22T22:54:01+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795417380/tirupur360/axww4xzhzz7sospuxytg.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795417399/tirupur360/xo7fug1hnmd0conhajyv.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795432174/tirupur360/b8tx9anvscbryfmbtouy.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795432178/tirupur360/kaberbdhcgralbp0q00e.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பி.ஏ.பி. 2வது மண்டல பாசனம்: கடைமடைக்கு தண்ணீர் வந்தது",
+   "english_headline": "PAP second zone irrigation: water reaches the tail-end, Peruthozhuvu canal receives supply",
+   "category": "Weather & Agriculture",
+   "location": "Peruthozhuvu, Tirupur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பாசனம்",
+    "loc": "பெருந்தொழுவு, திருப்பூர் மாவட்டம்",
+    "hl1": "பெருந்தொழுவு: கடைமடைக்கு தண்ணீர்",
+    "hl2": "60 நாட்களுக்கு 3,500",
+    "slides": [
+     {
+      "title": "தண்ணீர் திறப்பு",
+      "lines": [
+       "திருமூர்த்தி மலையில் இருந்து தண்ணீர் திறப்பு",
+       "இரண்டாவது மண்டலத்துக்கு வழங்கப்படுகிறது",
+       "நவம்பர் முதல் வாரத்தில் தொடங்கியது"
+      ]
+     },
+     {
+      "title": "பாசன அளவு",
+      "lines": [
+       "60 நாட்களுக்கு <b>3,500 மில்லியன் கன அடி</b> தண்ணீர்",
+       "இடைவெளிவிட்டு சுற்று முறையில் திறக்கப்படுகிறது",
+       "பிரதான கால்வாய் வழியாக நிலங்களுக்குச் செல்கிறது"
+      ]
+     },
+     {
+      "title": "பெருந்தொழுவு",
+      "lines": [
+       "பெருந்தொழுவு வாய்க்காலில் தண்ணீர் வரத்து தொடங்கியது",
+       "வாய்க்கால் முன்கூட்டியே சுத்தம் செய்யப்பட்டது",
+       "தண்ணீர் சீராகப் பாய்கிறது"
+      ]
+     },
+     {
+      "title": "விவசாயிகள் கருத்து",
+      "lines": [
+       "முன்பு 25 நாட்களில் கடைமடைக்கு தண்ணீர் கிடைத்தது",
+       "தற்போது 60 முதல் 70 நாட்கள் வரை ஆகிறது",
+       "இரண்டாவது மண்டல தண்ணீர் கடைமடை வரை செல்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெருந்தொழுவு பகுதியில் பி ஏ பி தண்ணீர் வந்து சேர்ந்துள்ளது. திருமூர்த்தி மலையில் இருந்து இரண்டாவது மண்டலத்துக்குத் தண்ணீர் திறக்கப்பட்டுள்ளது. நவம்பர் முதல் வாரத்தில் தொடங்கி, 60 நாட்களுக்கு 3,500 மில்லியன் கன அடி தண்ணீர் வழங்கத் திட்டமிடப்பட்டுள்ளது. இடைவெளிவிட்டு சுற்று முறையில் தண்ணீர் திறக்கப்பட்டு வருகிறது. பிரதான கால்வாயில் திறக்கப்பட்ட தண்ணீர், பகிர்மான மற்றும் கிளைக் கால்வாய்கள் வழியாக விவசாய நிலங்களைச் சென்றடைகிறது. இதன் ஒரு பகுதியாக, பெருந்தொழுவு வாய்க்காலிலும் தண்ணீர் வரத்து தொடங்கியுள்ளது. வாய்க்கால் முன்கூட்டியே சுத்தம் செய்யப்பட்டிருந்ததால் தண்ணீர் சீராகப் பாய்கிறது. விவசாயிகள் கூறுகையில், முன்பு 25 நாட்களில் கடைமடைக்குத் தண்ணீர் கிடைத்துவிடும். தற்போது 60 முதல் 70 நாட்கள் வரை ஆகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 பெருந்தொழுவு பி.ஏ.பி. வாய்க்காலுக்கு தண்ணீர் வந்தது\n\n📰 முழு விவரம்:\nபி.ஏ.பி. திட்டத்தின் கீழ் திருமூர்த்தி மலையில் இருந்து இரண்டாவது மண்டலத்துக்குத் தண்ணீர் திறக்கப்பட்டுள்ளது. நவம்பர் முதல் வாரத்தில் தொடங்கி 60 நாட்களுக்கு 3,500 மில்லியன் கன அடி தண்ணீர் வழங்கத் திட்டமிடப்பட்டுள்ளது. இடைவெளிவிட்டு சுற்று முறையில் தண்ணீர் திறக்கப்பட்டு வருகிறது.\nபிரதான கால்வாயில் திறக்கப்பட்ட தண்ணீர், பகிர்மான மற்றும் கிளைக் கால்வாய்கள் வழியாக விவசாய நிலங்களைச் சென்றடைகிறது. இதன் ஒரு பகுதியாக பெருந்தொழுவு வாய்க்காலிலும் தண்ணீர் வரத்து தொடங்கியுள்ளது.\nவாய்க்கால் முன்கூட்டியே சுத்தம் செய்யப்பட்டிருந்ததால் தண்ணீர் சீராகப் பாய்கிறது. முன்பு 25 நாட்களில் கடைமடைக்குத் தண்ணீர் கிடைத்துவிடும்; தற்போது 60 முதல் 70 நாட்கள் வரை ஆகிறது என விவசாயிகள் தெரிவித்தனர்.\n\nPAP second zone water reaches Peruthozhuvu canal | Tirupur news\n📍 பெருந்தொழுவு, திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Peruthozhuvu #PAP #TirupurNews",
+   "prompts": "A wide, calm stretch of the Peruthozhuvu PAP irrigation canal carries fresh water in a steady flow as it reaches the tail-end of the second zone. The concrete-lined channel runs straight between green paddy fields in rural Peruthozhuvu on the outskirts of Tirupur city, with coconut palms and a few distant windmills along the horizon. Two farmers in shirts and veshti stand on the canal bank, seen from behind and far away, watching the water move. Their bicycle leans against a low bund beside the channel. It is bright daylight in November, with soft clear skies and no rain. Shot at eye level, about 35 mm, wide enough to show the canal, the fields and the farmers together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the canal water rushing through a clean concrete irrigation channel, the surface glinting in the morning sun as it flows smoothly past the grass-edged bank. The channel has been freshly cleared of weeds and silt, so the water runs clear and even. In the background, slightly blurred, a farmer in a white shirt and veshti stands at the edge of the canal, seen from behind. Rural Peruthozhuvu fields of green paddy lie beyond the bank. Daylight, dry weather, no people's faces visible. Shot at a low angle, about 35 mm, focused on the water flow and the canal walls. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/pap-2nd-zonal-irrigation-ended-water/4383614",
+   "published": "2026-11-22T21:40:27+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('2வது மண்டல பாசனம்: கடைமடை வந்த தண்ணீர்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795432188/tirupur360/vy77wrbrfckcno0nqy3u.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795432200/tirupur360/iwlpzol3aaymfgoiio9j.jpg"
    ]
   }
  ]
