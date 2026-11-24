@@ -67,7 +67,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-24T23:37:32.016508+05:30",
-   "picked_at": "2026-11-24T23:38:21.188397+05:30"
+   "picked_at": "2026-11-24T23:38:21.188397+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "C6534226": {
    "id": "C6534226",
@@ -81,7 +82,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-24T23:37:32.016508+05:30",
-   "picked_at": "2026-11-24T23:38:21.188401+05:30"
+   "picked_at": "2026-11-24T23:38:21.188401+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "C9185661": {
    "id": "C9185661",
@@ -94,7 +96,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-24T23:37:32.016508+05:30",
-   "picked_at": "2026-11-24T23:38:21.188404+05:30"
+   "picked_at": "2026-11-24T23:38:21.188404+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "C455756e": {
    "id": "C455756e",
@@ -108,7 +111,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-24T23:37:32.016508+05:30",
-   "picked_at": "2026-11-24T23:38:21.188408+05:30"
+   "picked_at": "2026-11-24T23:38:21.188408+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "Ce1b2c9e": {
    "id": "Ce1b2c9e",
@@ -122,7 +126,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-24T23:37:32.016508+05:30",
-   "picked_at": "2026-11-24T23:38:21.188411+05:30"
+   "picked_at": "2026-11-24T23:38:21.188411+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "C72796f6": {
    "id": "C72796f6",
@@ -149,7 +154,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-24T23:37:32.016508+05:30",
-   "picked_at": "2026-11-24T23:38:21.188414+05:30"
+   "picked_at": "2026-11-24T23:38:21.188414+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   }
  },
  "rounds": {
@@ -702,7 +708,15 @@
     "C9185661",
     "Cbd782dc",
     "Ce1b2c9e"
-   ]
+   ],
+   "refused": {
+    "C1feac5c": "not written: the day's maximum of 30 news was reached",
+    "Ce1b2c9e": "not written: the day's maximum of 30 news was reached",
+    "C455756e": "not written: the day's maximum of 30 news was reached",
+    "C9185661": "not written: the day's maximum of 30 news was reached",
+    "C6534226": "not written: the day's maximum of 30 news was reached",
+    "Cbd782dc": "not written: the day's maximum of 30 news was reached"
+   }
   }
  },
  "retry": {}
