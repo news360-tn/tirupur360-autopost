@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-24 | `120b148` | Google News links: when Google refuses the decoder (429), the same headline on Bing (same newspaper) gives the article link - news is no longer dropped |
-| 2026-11-24 | `a65c977` | stories shared / Instagram pause |
-| 2026-11-24 | `ba80122` | stories shared / Instagram pause |
-| 2026-11-24 | `506d870` | stories shared / Instagram pause |
-| 2026-11-24 | `d585be8` | A death-toll update (மேலும் ஒருவர் உயிரிழப்பு / எண்ணிக்கை உயர்வு) is new news, not a duplicate of the first report |
-| 2026-11-24 | `a1d201b` | stories shared / Instagram pause |
-| 2026-11-24 | `3bbb366` | stories shared / Instagram pause |
-| 2026-11-24 | `4958f2d` | pick: written and posted |
-| 2026-11-24 | `a23560f` | pick: picked news saved |
-| 2026-11-24 | `ea22e6e` | pick: list sent |
-| 2026-11-24 | `5a54207` | stories shared / Instagram pause |
-| 2026-11-24 | `f84e08d` | stories shared / Instagram pause |
-| 2026-11-24 | `0b1e72d` | stories shared / Instagram pause |
-| 2026-11-24 | `c16381b` | stories shared / Instagram pause |
-| 2026-11-24 | `535898d` | Auto-fix: busy AI writers do not use up a news's tries; each page runs at its own minutes; try counts reset |
-| 2026-11-24 | `3623c97` | stories shared / Instagram pause |
-| 2026-11-24 | `c558d8f` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
-| 2026-11-24 | `fecd9f5` | autofix: corrected held news |
-| 2026-11-24 | `0a0eb80` | stories shared / Instagram pause |
-| 2026-11-24 | `15a3f0d` | stories shared / Instagram pause |
-| 2026-11-24 | `e53b9a2` | stories shared / Instagram pause |
-| 2026-11-24 | `dbe3712` | stories shared / Instagram pause |
-| 2026-11-24 | `1eb9ad3` | stories shared / Instagram pause |
-| 2026-11-24 | `9705f98` | stories shared / Instagram pause |
-| 2026-11-24 | `656e7a8` | stories shared / Instagram pause |
-| 2026-11-24 | `70c28cb` | stories shared / Instagram pause |
-| 2026-11-24 | `8772355` | stories shared / Instagram pause |
-| 2026-11-24 | `4b6f8a7` | stories shared / Instagram pause |
-| 2026-11-24 | `b165188` | stories shared / Instagram pause |
-| 2026-11-24 | `d7c0798` | stories shared / Instagram pause |
+| 2026-11-24 | `8570441` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
+| 2026-11-24 | `21d93dc` | stories shared / Instagram pause |
+| 2026-11-24 | `6559265` | stories shared / Instagram pause |
+| 2026-11-24 | `ed252ef` | stories shared / Instagram pause |
+| 2026-11-24 | `c2d12ad` | stories shared / Instagram pause |
+| 2026-11-24 | `df1a87d` | stories shared / Instagram pause |
+| 2026-11-24 | `6f581ea` | stories shared / Instagram pause |
+| 2026-11-24 | `a07ee44` | stories shared / Instagram pause |
+| 2026-11-24 | `543afc9` | stories shared / Instagram pause |
+| 2026-11-24 | `f255160` | stories shared / Instagram pause |
+| 2026-11-24 | `18aeaff` | stories shared / Instagram pause |
+| 2026-11-24 | `02cdfe0` | stories shared / Instagram pause |
+| 2026-11-24 | `61880fa` | stories shared / Instagram pause |
+| 2026-11-24 | `37d3ebd` | stories shared / Instagram pause |
+| 2026-11-24 | `3468b74` | stories shared / Instagram pause |
+| 2026-11-24 | `3aa909c` | stories shared / Instagram pause |
+| 2026-11-24 | `aef1588` | stories shared / Instagram pause |
+| 2026-11-24 | `0fc323c` | stories shared / Instagram pause |
+| 2026-11-24 | `3ca0321` | stories shared / Instagram pause |
+| 2026-11-24 | `7dac39a` | stories shared / Instagram pause |
+| 2026-11-24 | `bd75c7d` | stories shared / Instagram pause |
+| 2026-11-24 | `d0f5627` | stories shared / Instagram pause |
+| 2026-11-24 | `ae07ebe` | pick: written and posted |
+| 2026-11-24 | `47b08d1` | pick: picked news saved |
+| 2026-11-24 | `8b5a30e` | pick: list sent |
+| 2026-11-24 | `78d7448` | stories shared / Instagram pause |
+| 2026-11-24 | `ce6e296` | stories shared / Instagram pause |
+| 2026-11-24 | `add9d58` | stories shared / Instagram pause |
+| 2026-11-24 | `0ce90be` | stories shared / Instagram pause |
+| 2026-11-24 | `e9f4b69` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
