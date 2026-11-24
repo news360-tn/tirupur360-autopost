@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `06cfd6a` | E-mail for every posted news again (posted_email each) |
+| 2026-11-24 | `c4bf23a` | stories shared / Instagram pause |
+| 2026-11-24 | `8a4e32c` | stories shared / Instagram pause |
+| 2026-11-24 | `d1ab83b` | pick: written and posted |
+| 2026-11-24 | `1c7dd1f` | pick: picked news saved |
+| 2026-11-24 | `7a97dac` | pick: list sent |
+| 2026-11-24 | `67423d0` | stories shared / Instagram pause |
+| 2026-11-24 | `9352ca6` | stories shared / Instagram pause |
+| 2026-11-24 | `a2f55b9` | stories shared / Instagram pause |
+| 2026-11-24 | `88fdda4` | stories shared / Instagram pause |
+| 2026-11-24 | `ef5cb09` | stories shared / Instagram pause |
 | 2026-11-24 | `c00ae97` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
 | 2026-11-24 | `7a9d718` | stories shared / Instagram pause |
 | 2026-11-24 | `177c1e6` | stories shared / Instagram pause |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `c15970d` | stories shared / Instagram pause |
 | 2026-11-24 | `62a75b4` | pick: written and posted |
 | 2026-11-24 | `d1024e5` | pick: picked news saved |
-| 2026-11-24 | `0395887` | pick: list sent |
-| 2026-11-24 | `410708c` | stories shared / Instagram pause |
-| 2026-11-24 | `9f765de` | stories shared / Instagram pause |
-| 2026-11-24 | `8b2fabf` | stories shared / Instagram pause |
-| 2026-11-24 | `f26052c` | stories shared / Instagram pause |
-| 2026-11-24 | `e951581` | stories shared / Instagram pause |
-| 2026-11-24 | `05c9728` | stories shared / Instagram pause |
-| 2026-11-24 | `c033c52` | stories shared / Instagram pause |
-| 2026-11-24 | `21c828a` | stories shared / Instagram pause |
-| 2026-11-24 | `a90c945` | stories shared / Instagram pause |
-| 2026-11-24 | `3a2d4aa` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
