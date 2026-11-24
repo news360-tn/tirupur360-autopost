@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-24T07:19:57.570625+05:30",
+ "last_end": "2026-11-24T08:27:02.662505+05:30",
  "pool": {
   "C71f5ff3": {
    "id": "C71f5ff3",
@@ -57,53 +57,6 @@
   }
  },
  "rounds": {
-  "2026-11-22_02": {
-   "window": [
-    "2026-11-21T23:15:57.324771+05:30",
-    "2026-11-22T02:09:36.204985+05:30"
-   ],
-   "ids": [
-    "C7690628",
-    "Ce45e6c1",
-    "C2f205d1",
-    "Ce84e67b",
-    "Cfcea0ae",
-    "C9b73fce",
-    "Ce2c2ed3",
-    "Cc4138c5",
-    "Cce42ce9",
-    "C55a2fa8",
-    "C88dec31",
-    "Cb7ddfd9",
-    "Caec14c1"
-   ],
-   "sent": false,
-   "deadline": "2026-11-22T03:09:36.204985+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 12 by insights + 1 power cut",
-    "ids": [
-     "C7690628",
-     "Ce45e6c1",
-     "C2f205d1",
-     "Ce84e67b",
-     "Cfcea0ae",
-     "C9b73fce"
-    ],
-    "at": "2026-11-22T02:11:09.159313+05:30"
-   },
-   "written": [
-    "C2f205d1",
-    "C7690628",
-    "C9b73fce",
-    "Ce45e6c1",
-    "Ce84e67b",
-    "Cfcea0ae"
-   ],
-   "refused": {
-    "Cfcea0ae": "not filed: duplicate after write",
-    "C7690628": "not filed: stale: power-cut notice from 21 Nov with no date"
-   }
-  },
   "2026-11-22_04": {
    "window": [
     "2026-11-22T02:09:36.204985+05:30",
@@ -612,6 +565,19 @@
     "ids": [],
     "at": "2026-11-24T07:21:19.693329+05:30"
    },
+   "written": []
+  },
+  "2026-11-24_08": {
+   "window": [
+    "2026-11-24T07:19:57.570625+05:30",
+    "2026-11-24T08:27:02.662505+05:30"
+   ],
+   "ids": [
+    "C48637fa"
+   ],
+   "sent": false,
+   "deadline": "2026-11-24T09:27:02.662505+05:30",
+   "decided": null,
    "written": []
   }
  },
