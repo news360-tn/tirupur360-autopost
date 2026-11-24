@@ -1,0 +1,72 @@
+11:28:49 hold lifted: RN-73 - not grounded: location 'நிலையம்' is not in the article - the location IS in the article (checked again)
+11:28:52 hold lifted: RN-86 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:28:52 hold lifted: RN-93 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:29:00 3 held news to fix: ['RN-239', 'RN-247', 'RN-251']
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (27s)
+attempt 1 gemini/gemini-3.6-flash: 4 problems
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 10, 12
+  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 27 ('நடப்பு 2026 – 27ம் கல்வியாண்டில் பொதுத்தேர்வு எழுத உள்ள மாணவ'); 14 ('14 முதல் 31ம் தேதிக்குள்ளும், பிளஸ் 2 பொதுத்தேர்வு எழுதுவோரி'); 31 ('14 முதல் 31ம் தேதிக்குள்ளும், பிளஸ் 2 பொதுத்தேர்வு எழுதுவோரி'); 22 ('22 முதல் 31ம் தேதிக்குள்ளும் கல்வி மேலாண்மை தகவல் மையத்தில் '); 31 ('22 முதல் 31ம் தேதிக்குள்ளும் கல்வி மேலாண்மை தகவல் மையத்தில் '); 15 ('15ம் தேதி வரை அவகாசம் நீட்டிக்கப்பட்டது.')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (40s)
+attempt 2 gemini/gemini-3.6-flash: 1 problems
+  numbers not found in the article: 10
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+ok gemini/gemini-3.5-flash (38s)
+attempt 3 gemini/gemini-3.5-flash: 4 problems
+  sentence 1 (one-line story) has 19 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 10, 12
+  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 33 ('மாத கணக்கெடுப்பின்படி, பத்தாம் வகுப்பு பொதுத்தேர்வை 33 ஆயிரம'); 28 ('மாத கணக்கெடுப்பின்படி, பத்தாம் வகுப்பு பொதுத்தேர்வை 33 ஆயிரம')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (42s)
+attempt 4 gemini/gemini-3.5-flash: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  numbers not found in the article: 10, 12
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+11:32:40 RN-239 NOT fixed (try 1 of 2 ): all free models failed: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request 
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok groq/qwen/qwen3.8-27b (7s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+factcheck unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m7a2v9kzesta80vz1eq9kyc0` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 744, Requested 650. Please try again in 23.64s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+attempt 1 groq/qwen/qwen3.8-27b: 1 problems
+  fact-check: could not be run
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+11:33:20 RN-247 NOT fixed (try 1 of 2 ): all free models failed: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+11:33:21 RN-251 NOT fixed (try 1 of 2 ): all free models failed: no free model answered: None
