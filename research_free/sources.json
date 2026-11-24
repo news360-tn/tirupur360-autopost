@@ -1,8 +1,32 @@
 [
-  {
-    "name": "தினமணி திருப்பூர்",
-    "url": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur",
-    "link_regex": "href=\"((?:https://www\\.dinamani\\.com)?/all-editions/edition-coimbatore/tiruppur/\\d{4}/[^\"#?]+)\"",
-    "limit": 40
-  }
+ {
+  "name": "தினமணி திருப்பூர்",
+  "url": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur",
+  "link_regex": "href=\"((?:https://www\\.dinamani\\.com)?/all-editions/edition-coimbatore/tiruppur/\\d{4}/[^\"#?]+)\"",
+  "limit": 40
+ },
+ {
+  "name": "இந்து தமிழ் திருப்பூர்",
+  "url": "https://www.hindutamil.in/topic/tiruppur",
+  "link_regex": "href=\"((?:https://www\\.hindutamil\\.in)?/news/[a-z-]+/[^\"#?]{15,})\"",
+  "limit": 30
+ },
+ {
+  "name": "விகடன் திருப்பூர்",
+  "url": "https://www.vikatan.com/topics/tiruppur",
+  "link_regex": "href=\"(https://www\\.vikatan\\.com/(?!live/|topics/)[a-z-]+/[^\"#?]{20,})\"",
+  "limit": 30
+ },
+ {
+  "name": "பாலிமர் திருப்பூர்",
+  "url": "https://www.polimernews.com/tags/tiruppur",
+  "link_regex": "href=\"((?:https://www\\.polimernews\\.com)?/districtnews/[^\"#?]+)\"",
+  "limit": 30
+ },
+ {
+  "name": "ஒன்இந்தியா திருப்பூர்",
+  "url": "https://tamil.oneindia.com/news/tiruppur/",
+  "link_regex": "href=\"((?:https://tamil\\.oneindia\\.com)?/news/tiruppur/[^\"#?]+\\.html)\"",
+  "limit": 30
+ }
 ]
