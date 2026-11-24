@@ -1,30 +1,31 @@
 {
- "updated": "2026-11-24T20:33+05:30",
- "posts_measured": 229,
+ "updated": "2026-11-24T22:32+05:30",
+ "posts_measured": 235,
  "topic_weight": {
-  "politics": -0.4,
-  "accident": 0.71,
+  "politics": -0.33,
+  "accident": 0.72,
   "crime": 1.5,
   "education": -0.5,
-  "jobs": 0.47,
-  "power_cut": 0.29,
+  "jobs": 0.48,
+  "power_cut": 0.3,
   "temple": -0.04,
   "civic": -0.06,
-  "poultry_agri": -0.48,
-  "weather": -0.5
+  "poultry_agri": -0.5,
+  "weather": -0.5,
+  "sports_culture": 0.28
  },
  "topic_n": {
   "politics": 19,
   "accident": 19,
-  "crime": 27,
-  "education": 14,
+  "crime": 28,
+  "education": 16,
   "jobs": 5,
   "power_cut": 11,
   "temple": 22,
   "civic": 41,
-  "poultry_agri": 19,
+  "poultry_agri": 20,
   "weather": 7,
-  "sports_culture": 2
+  "sports_culture": 3
  },
  "best_hours_ist": [
   12,
@@ -38,7 +39,7 @@
   "⚡ பல்லடம் துணை மின் நிலையப் பகுதிகளில் நாளை மின் தடை - காலை 10 முதல் மதியம் 3 வர",
   "🚨 மூலனூரில் மாயமான 17 வயது சிறுமி 2 மணி நேரத்தில் மீட்பு"
  ],
- "avg_watch_s": 7.6,
+ "avg_watch_s": 7.5,
  "best_topics": [
   "crime",
   "accident",
@@ -46,6 +47,6 @@
  ],
  "weak_topics": [
   "education",
-  "weather"
+  "poultry_agri"
  ]
 }
