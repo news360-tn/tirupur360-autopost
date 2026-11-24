@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-24T08:29:29.905630+05:30",
+ "last_end": "2026-11-24T11:45:23.981774+05:30",
  "pool": {
-  "C71f5ff3": {
-   "id": "C71f5ff3",
-   "url": "https://tamil.oneindia.com/news/chennai/when-will-the-metro-service-reach-panagal-park-in-t-nagar-2-good-news-from-chennai-metro-847529.html",
-   "title": "தி நகர் பனகல் பார்க் வரை மெட்ரோ சேவை எப்போது?, மாதவரம் -சோழிங்கநல்லூர் தடத்திலும் குட்நியூஸ்",
-   "summary": "சென்னை: சென்னை மெட்ரோ இரண்டாம் கட்டத்தில் கலங்கரை விளக்கம் முதல் பூந்தமல்லி வரையிலான வழித்தடத்தில் பணிகள் வேகமெடுத்துள்ளன. இதில் பூந்தமல்லி முதல் வடபழனி வரை ரயில் சேவைகள் நடந்து வருகின்றன.",
-   "source": "ஒன்இந்தியா",
-   "published": "2026-11-23T10:30:40+05:30",
-   "category": "பொது",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-23T12:27:52.044567+05:30",
-   "picked_at": "2026-11-23T12:29:50.784824+05:30",
-   "refused": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
-  },
   "C48637fa": {
    "id": "C48637fa",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/woman-attempts-to-set-herself-ablaze/4384428",
@@ -57,42 +43,6 @@
   }
  },
  "rounds": {
-  "2026-11-22_04": {
-   "window": [
-    "2026-11-22T02:09:36.204985+05:30",
-    "2026-11-22T04:27:22.732027+05:30"
-   ],
-   "ids": [
-    "Ce2c2ed3",
-    "Cc4138c5",
-    "Cce42ce9",
-    "C88dec31",
-    "Cb7ddfd9",
-    "Caec14c1"
-   ],
-   "sent": false,
-   "deadline": "2026-11-22T05:27:22.732027+05:30",
-   "decided": {
-    "how": "automatic: top 7 of 6 by insights",
-    "ids": [
-     "Ce2c2ed3",
-     "Cc4138c5",
-     "Cce42ce9",
-     "C88dec31",
-     "Cb7ddfd9",
-     "Caec14c1"
-    ],
-    "at": "2026-11-22T04:28:05.905077+05:30"
-   },
-   "written": [
-    "C88dec31",
-    "Caec14c1",
-    "Cb7ddfd9",
-    "Cc4138c5",
-    "Cce42ce9",
-    "Ce2c2ed3"
-   ]
-  },
   "2026-11-22_07": {
    "window": [
     "2026-11-22T04:27:22.732027+05:30",
@@ -582,6 +532,19 @@
     "ids": [],
     "at": "2026-11-24T08:38:46.493375+05:30"
    },
+   "written": []
+  },
+  "2026-11-24_11": {
+   "window": [
+    "2026-11-24T08:29:29.905630+05:30",
+    "2026-11-24T11:45:23.981774+05:30"
+   ],
+   "ids": [
+    "C48637fa"
+   ],
+   "sent": false,
+   "deadline": "2026-11-24T12:45:23.981774+05:30",
+   "decided": null,
    "written": []
   }
  },
