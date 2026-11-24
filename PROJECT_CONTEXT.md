@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `d585be8` | A death-toll update (மேலும் ஒருவர் உயிரிழப்பு / எண்ணிக்கை உயர்வு) is new news, not a duplicate of the first report |
+| 2026-11-24 | `a1d201b` | stories shared / Instagram pause |
+| 2026-11-24 | `3bbb366` | stories shared / Instagram pause |
+| 2026-11-24 | `4958f2d` | pick: written and posted |
+| 2026-11-24 | `a23560f` | pick: picked news saved |
+| 2026-11-24 | `ea22e6e` | pick: list sent |
+| 2026-11-24 | `5a54207` | stories shared / Instagram pause |
+| 2026-11-24 | `f84e08d` | stories shared / Instagram pause |
+| 2026-11-24 | `0b1e72d` | stories shared / Instagram pause |
+| 2026-11-24 | `c16381b` | stories shared / Instagram pause |
 | 2026-11-24 | `535898d` | Auto-fix: busy AI writers do not use up a news's tries; each page runs at its own minutes; try counts reset |
 | 2026-11-24 | `3623c97` | stories shared / Instagram pause |
 | 2026-11-24 | `c558d8f` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `8784e63` | stories shared / Instagram pause |
 | 2026-11-24 | `38fcc9e` | stories shared / Instagram pause |
 | 2026-11-24 | `d842671` | stories shared / Instagram pause |
-| 2026-11-24 | `1aec169` | stories shared / Instagram pause |
-| 2026-11-24 | `69e957e` | stories shared / Instagram pause |
-| 2026-11-24 | `a000140` | stories shared / Instagram pause |
-| 2026-11-24 | `9f8c083` | stories shared / Instagram pause |
-| 2026-11-24 | `38848d6` | stories shared / Instagram pause |
-| 2026-11-24 | `cb5a5a9` | stories shared / Instagram pause |
-| 2026-11-24 | `7725878` | stories shared / Instagram pause |
-| 2026-11-24 | `009d044` | stories shared / Instagram pause |
-| 2026-11-24 | `f7394e0` | stories shared / Instagram pause |
-| 2026-11-24 | `b6e41a7` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
 <!-- recent-changes:end -->
