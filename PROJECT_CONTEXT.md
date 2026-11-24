@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-24 | `06cfd6a` | E-mail for every posted news again (posted_email each) |
-| 2026-11-24 | `c4bf23a` | stories shared / Instagram pause |
-| 2026-11-24 | `8a4e32c` | stories shared / Instagram pause |
-| 2026-11-24 | `d1ab83b` | pick: written and posted |
-| 2026-11-24 | `1c7dd1f` | pick: picked news saved |
-| 2026-11-24 | `7a97dac` | pick: list sent |
-| 2026-11-24 | `67423d0` | stories shared / Instagram pause |
-| 2026-11-24 | `9352ca6` | stories shared / Instagram pause |
-| 2026-11-24 | `a2f55b9` | stories shared / Instagram pause |
-| 2026-11-24 | `88fdda4` | stories shared / Instagram pause |
-| 2026-11-24 | `ef5cb09` | stories shared / Instagram pause |
-| 2026-11-24 | `c00ae97` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
-| 2026-11-24 | `7a9d718` | stories shared / Instagram pause |
-| 2026-11-24 | `177c1e6` | stories shared / Instagram pause |
-| 2026-11-24 | `0c7181a` | stories shared / Instagram pause |
-| 2026-11-24 | `f804cbb` | stories shared / Instagram pause |
-| 2026-11-24 | `c3ef933` | stories shared / Instagram pause |
-| 2026-11-24 | `7428a0d` | stories shared / Instagram pause |
-| 2026-11-24 | `a509f1d` | stories shared / Instagram pause |
-| 2026-11-24 | `34c6efe` | stories shared / Instagram pause |
-| 2026-11-24 | `8e6aa15` | stories shared / Instagram pause |
-| 2026-11-24 | `3f4f521` | stories shared / Instagram pause |
-| 2026-11-24 | `ffbb62e` | rasipalan posted |
-| 2026-11-24 | `d437acd` | stories shared / Instagram pause |
-| 2026-11-24 | `c9c1b30` | stories shared / Instagram pause |
-| 2026-11-24 | `bc8d288` | stories shared / Instagram pause |
-| 2026-11-24 | `80c338b` | stories shared / Instagram pause |
-| 2026-11-24 | `c15970d` | stories shared / Instagram pause |
-| 2026-11-24 | `62a75b4` | pick: written and posted |
-| 2026-11-24 | `d1024e5` | pick: picked news saved |
+| 2026-11-24 | `b6e41a7` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
+| 2026-11-24 | `1672302` | stories shared / Instagram pause |
+| 2026-11-24 | `7b887f1` | stories shared / Instagram pause |
+| 2026-11-24 | `2b4e638` | stories shared / Instagram pause |
+| 2026-11-24 | `5f93c17` | stories shared / Instagram pause |
+| 2026-11-24 | `43caef3` | stories shared / Instagram pause |
+| 2026-11-24 | `be39027` | stories shared / Instagram pause |
+| 2026-11-24 | `ff968c6` | stories shared / Instagram pause |
+| 2026-11-24 | `db83d19` | stories shared / Instagram pause |
+| 2026-11-24 | `9375473` | stories shared / Instagram pause |
+| 2026-11-24 | `bb4d6db` | stories shared / Instagram pause |
+| 2026-11-24 | `eb3deb9` | stories shared / Instagram pause |
+| 2026-11-24 | `5ae6b3e` | goldrate posted |
+| 2026-11-24 | `547ff83` | stories shared / Instagram pause |
+| 2026-11-24 | `8fd654a` | stories shared / Instagram pause |
+| 2026-11-24 | `35c9507` | stories shared / Instagram pause |
+| 2026-11-24 | `f8cc49a` | stories shared / Instagram pause |
+| 2026-11-24 | `205077c` | stories shared / Instagram pause |
+| 2026-11-24 | `84f221a` | stories shared / Instagram pause |
+| 2026-11-24 | `42df6a4` | stories shared / Instagram pause |
+| 2026-11-24 | `5a90ce7` | stories shared / Instagram pause |
+| 2026-11-24 | `192fb51` | stories shared / Instagram pause |
+| 2026-11-24 | `90c11a6` | stories shared / Instagram pause |
+| 2026-11-24 | `80c6248` | stories shared / Instagram pause |
+| 2026-11-24 | `7303bf4` | stories shared / Instagram pause |
+| 2026-11-24 | `57b788a` | stories shared / Instagram pause |
+| 2026-11-24 | `c1b337e` | stories shared / Instagram pause |
+| 2026-11-24 | `da6867a` | stories shared / Instagram pause |
+| 2026-11-24 | `cc9e3a1` | stories shared / Instagram pause |
+| 2026-11-24 | `514abdb` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
