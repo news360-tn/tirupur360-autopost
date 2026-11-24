@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-24T08:27+05:30",
+ "updated": "2026-11-24T08:29+05:30",
  "posts_measured": 214,
  "topic_weight": {
-  "politics": -0.28,
-  "accident": 0.42,
+  "politics": -0.29,
+  "accident": 0.58,
   "crime": 1.5,
   "education": -0.5,
-  "jobs": 0.49,
-  "power_cut": 0.04,
-  "temple": 0.03,
-  "civic": 0.05,
+  "jobs": 0.48,
+  "power_cut": 0.03,
+  "temple": 0.01,
+  "civic": 0.04,
   "poultry_agri": -0.46,
   "weather": -0.5
  },
@@ -41,8 +41,8 @@
  "avg_watch_s": 7.7,
  "best_topics": [
   "crime",
-  "jobs",
-  "accident"
+  "accident",
+  "jobs"
  ],
  "weak_topics": [
   "education",
