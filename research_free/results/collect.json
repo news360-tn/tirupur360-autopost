@@ -3,616 +3,183 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/young-men-apologize-for-car-silencer-sound-that-tore-their-ears/4384611",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/garbage-burning-is-a-hunt-for-the-environment/4384489",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/37-improperly-installed-drinking-water-connections-disconnected/4384537",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/mudalipalayam-rock-cut-pollution-case-national-green-tribunal/4384542",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delay-in-housing-subsidy-for-construction-workers/4384501",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/petition-by-hereditary-priests-to-give-land-rights/4384522",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/people-s-grievances-piled-up-in-petitions-to-the-collector/4384619",
-  "candidate filter: collected=7",
-  "to write: 7 Tirupur district candidates (max 7 stories)",
-  "round: top 7 of 7 candidates",
-  "candidates waiting: 7 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/another-hilltop-formed-by-garbage/4384828",
+  "manual link added: https://tamil.oneindia.com/news/tiruppur/heavy-fines-for-vehicles-with-unclear-registration-numbers-at-toll-plazas-847875.html",
+  "candidate filter: collected=2",
+  "to write: 2 Tirupur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Tirupur; time left 79 min",
+  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/heavy-fines-for-veh",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 13})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 15})",
-  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 70 min",
-  "filed: 7 Tirupur district stories (target 7), reels only",
+  "auto images: 1 of 1 stories ({'pollinations': 4})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
+  "filed: 2 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.5-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (6s)",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர்: கட்டுமானத் தொழிலாளர்களுக்கு வீடு கட்டும் ரூ.4 லட்சம் மானியம் வழங்குவதில் தாமதம் - ஆட்சியரிடம் மனு",
-   "english_headline": "Delay in releasing Rs 4 lakh housing subsidy for construction workers in Tirupur; INTUC submits petition to Collector",
-   "category": "Government & Services",
-   "location": "Tirupur city, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வீட்டு மானியம்",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூரில் வீடு கட்டும் மானியத் தாமதம்",
-    "hl2": "ரூ.4 லட்சம் மானியத்தில்",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சினை?",
-      "lines": [
-       "திருப்பூரில் கட்டுமானத் தொழிலாளர் மானியத்தில் தாமதம்",
-       "சொந்த இடத்தில் வீடு கட்ட <b>ரூ.4 லட்சம்</b> மானியத் திட்டம்",
-       "<b>4 கட்டங்களாக</b> மானியத் தொகை வழங்க அறிவிப்பு"
-      ]
-     },
-     {
-      "title": "பயனாளிகள் தவிப்பு",
-      "lines": [
-       "<b>3 கட்டப் பணிகள்</b> முடிந்தும் மானியத் தொகை வரவில்லை",
-       "சிலருக்கு <b>1-ஆம் கட்ட மானியம்</b> மட்டுமே கிடைத்துள்ளது",
-       "3 மாதத்திற்குள் வீடு கட்ட வேண்டும் என்ற விதி உள்ளது"
-      ]
-     },
-     {
-      "title": "ஆட்சியரிடம் மனு",
-      "lines": [
-       "வாரியத்தில் நிதி இருந்தும் தாமதம் என தொழிற்சங்கம் புகார்",
-       "மாவட்ட ஆட்சியர் குறைகேட்புக் கூட்டத்தில் மனு அளிப்பு",
-       "அதிகாரிகளுடன் கலெக்டர் ஆய்வு செய்ய வலியுறுத்தல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாவட்டத்தில் கட்டுமானத் தொழிலாளர்களுக்கு அறிவிக்கப்பட்ட ரூ.4 லட்சம் வீடு கட்டும் மானியம் கிடைப்பதில் கடும் தாமதம் ஏற்பட்டுள்ளது. குறிப்பாக, கட்டுமானத் தொழிலாளர் நலவாரிய உறுப்பினர்கள் சொந்த இடத்தில் கான்கிரீட் வீடு கட்ட இந்த மானியம் வழங்கப்படுகிறது. அதன்படி அஸ்திவாரம், ஜன்னல் நிலை, கூரை அமைத்தல் மற்றும் பணி நிறைவு என 4 கட்டங்களாகத் தொகை வழங்கப்படுகிறது. மேலும் உத்தரவு கிடைத்த 3 மாதங்களுக்குள் வீடு கட்டி முடிக்கப்பட வேண்டும் என்ற விதிமுறைகளும் உள்ளன. ஆனால் 3 கட்டப் பணிகள் முடிந்தும் பல பயனாளிகளுக்கு உரிய மானியத் தொகை விடுவிக்கப்படவில்லை. இதில் சில பயனாளிகளுக்கு முதல் கட்ட மானியம் மட்டுமே வழங்கப்பட்டுள்ளதாகக் கூறப்படுகிறது. இந்நிலையில் திருப்பூரில் வாரியத்தில் போதிய நிதி இருந்தும் தாமதமாவதாக ஐ.என்.டி.யு.சி. தொழிற்சங்கம் குற்றம்சாட்டியுள்ளது. இதையடுத்து பயனாளிகளுக்கு மானியம் வழங்கக் கோரி மக்கள் குறைகேட்புக் கூட்டத்தில் மாவட்ட ஆட்சியரிடம் மனு அளிக்கப்பட்டது. அத்துடன் தொழிலாளர் துறை அதிகாரிகளை அழைத்து கலெக்டர் ஆய்வு செய்து பணிகளை விரைவுபடுத்த வேண்டும் என்றும் தொழிற்சங்கம் கோரிக்கை விடுத்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏠 திருப்பூரில் கட்டுமானத் தொழிலாளர் நலவாரிய வீடு கட்டும் மானியத்தில் தாமதம் - பயனாளிகள் தவிப்பு\n\n📰 முழு விவரம்:\nதமிழக அரசு சார்பில் கட்டுமானத் தொழிலாளர் நலவாரிய உறுப்பினர்கள் சொந்த இடத்தில் கான்கிரீட் வீடு கட்ட ரூ.4 லட்சம் மானியம் வழங்கப்படுகிறது. இந்தத் தொகை அஸ்திவாரம், ஜன்னல், கூரை மற்றும் நிறைவு என 4 கட்டங்களாக வழங்கப்படும். உத்தரவு வந்த 3 மாதங்களுக்குள் வீடு கட்ட வேண்டும் என்ற விதி உள்ள நிலையில், 3 கட்டப் பணிகள் முடிந்தும் மானியம் வரவில்லை என பயனாளிகள் தவிக்கின்றனர். திருப்பூரில் நிதி இருந்தும் தாமதமாவதாகக் கூறி ஐ.என்.டி.யு.சி. தொழிற்சங்கம் கலெக்டரிடம் மனு அளித்துள்ளது.\n\n📍 இடம்: திருப்பூர் மாவட்டம்\n💰 மானியத் தொகை: ரூ.4 லட்சம் (4 கட்டங்களாக)\n⚠️ பிரச்சினை: 3 கட்டப் பணிகள் முடிந்தும் மானியம் விடுவிக்கப்படவில்லை\n👮 நடவடிக்கை: ஆட்சியர் குறைகேட்புக் கூட்டத்தில் மனு அளிப்பு\nℹ️ மக்கள் கவனத்திற்கு: தொழிலாளர் துறை அதிகாரிகளுடன் கலெக்டர் ஆய்வு நடத்த கோரிக்கை வைக்கப்பட்டுள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nTirupur construction workers house subsidy delay | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #Welfare #திருப்பூர்",
-   "prompts": "A group of INTUC union members in shirts and veshtis are seen from behind as they hand over a white petition document to government officials at the Tirupur District Collectorate. The scene takes place inside a large, brightly lit government hall during a public grievance meeting. The officials are seated behind a long wooden table with several files and papers laid out. The union members stand in a small group, gesturing toward the document. The hall has high ceilings and white walls, typical of a Tamil Nadu government office. The camera is at eye level, using a 35mm lens to capture the formal interaction between the workers' representatives and the administration in the middle of the day. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of an unfinished concrete house on the outskirts of Tirupur city, stalled at the window-frame stage of construction. The building shows bare grey cement brick walls with rectangular openings for windows that lack shutters or glass. Thin rusted steel reinforcement rods protrude vertically from the top of the walls, indicating the roof has not yet been poured. On the dusty ground in the foreground, a small pile of construction sand and a few scattered red bricks are visible. In the background, the tops of coconut trees are seen against a clear, bright sky. The camera is at a slightly high angle, 35mm, focusing on the incomplete structure to illustrate the delay in the government housing subsidy during broad daylight. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delay-in-housing-subsidy-for-construction-workers/4384501",
-   "published": "2026-11-23T20:46:34+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash + proofread gemini/gemini-3.5-flash, 3 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795508953/tirupur360/xuw9w8uksisyg97sks3u.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509016/tirupur360/ppu2ngl9nxurnbvg7nhw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் கலெக்டரிடம் மனுக்களாக குவிந்த மக்கள் குறைகள்",
-   "english_headline": "People's grievances pile up as petitions at Tirupur Collector's office",
-   "category": "Government & Services",
-   "location": "Tirupur Collector's office, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மக்கள் குறைகேட்பு",
-    "loc": "திருப்பூர்",
-    "hl1": "கலெக்டரிடம் குவிந்த மனுக்கள்",
-    "hl2": "25 பேர் வீட்டுமனைப் பட்டா",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "திருப்பூர் கலெக்டர் அலுவலகத்தில் நேற்று",
-       "மக்கள் குறைகேட்புக் கூட்டம் நடைபெற்றது",
-       "பல்வேறு கோரிக்கைகளுக்கு மனுக்கள் அளிக்கப்பட்டன"
-      ]
-     },
-     {
-      "title": "முக்கிய மனுக்கள்",
-      "lines": [
-       "பல்லடம் இச்சிப்பட்டி ஊராட்சியின் <b>25 பேர்</b> இலவச",
-       "தொரவலூர் பகவதி அம்மன் கோவில் நிர்வாகிகள் தகரக் கொட்டகை",
-       "தென்னம்பாளையம் மீன் மார்க்கெட்டில் தரமற்ற மீன் விற்பனை"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "கலெக்டர் முத்துக்குமரன் மனுக்களைப் பெற்றார்",
-       "நடவடிக்கைக்காக துறை அலுவலர்களுக்கு அனுப்பினார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் கலெக்டர் அலுவலகத்தில் மக்கள் குறைகள் மனுக்களாகக் குவிந்தன. நேற்று நடைபெற்ற மக்கள் குறைகேட்புக் கூட்டத்தில் பொதுமக்கள் பல்வேறு கோரிக்கைகளுக்காக மனு அளித்தனர். இதையடுத்து, கலெக்டர் முத்துக்குமரன் மனுக்களைப் பெற்று, நடவடிக்கைக்காக அவற்றை சம்பந்தப்பட்ட துறை அலுவலர்களுக்கு அனுப்பி வைத்தார். பல்லடம் தாலுகா, இச்சிப்பட்டி ஊராட்சியைச் சேர்ந்த 25 பேர், வறுமை நிலையில் வாடகை வீடுகளில் வசிப்பதால் இலவச வீட்டுமனைப் பட்டா கேட்டு மனு அளித்தனர். மேலும், தொரவலூர் ஸ்ரீ பகவதி அம்மன் கோவில் நிர்வாகிகளும் மனு அளித்தனர். கோவிலில் உள்ள தகரக் கொட்டகையை அகற்ற வருவாய்த்துறை நோட்டீஸ் அளித்துள்ளது. இதற்கு எதிராக, 90 குடும்பத்தினர் ஐந்து தலைமுறைகளாக இக்கோவிலில் வழிபட்டு வருவதாகவும், வெளியூர் பக்தர்கள் தங்குவதற்காகவே கொட்டகை பயன்படுத்தப்படுவதாகவும் கூறி அதை அகற்றக்கூடாது என்றனர். இந்நிலையில், தென்னம்பாளையம் மீன் மார்க்கெட்டில் தரமற்ற மீன்கள் விற்பனை செய்யப்படுவதாக நல்லூர் சண்முகசுந்தரம் மனு அளித்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📋 கலெக்டரிடம் மனுக்களாக குவிந்த மக்கள் குறைகள்\n\n📰 முழு விவரம்:\nதிருப்பூர் கலெக்டர் அலுவலகத்தில் நேற்று நடைபெற்ற மக்கள் குறைகேட்புக் கூட்டத்தில் பொதுமக்கள் பல்வேறு கோரிக்கைகளுக்காக மனு அளித்தனர். கலெக்டர் முத்துக்குமரன் மனுக்களைப் பெற்று, நடவடிக்கைக்காக சம்பந்தப்பட்ட துறை அலுவலர்களுக்கு அனுப்பி வைத்தார்.\nபல்லடம் தாலுகா, இச்சிப்பட்டி ஊராட்சியைச் சேர்ந்த 25 பேர், வறுமை நிலையில் வாடகை வீடுகளில் வசிப்பதால் இலவச வீட்டுமனைப் பட்டா வழங்கக் கோரி மனு அளித்தனர்.\nதொரவலூர் ஸ்ரீ பகவதி அம்மன் கோவில் நிர்வாகிகள் அளித்த மனுவில், 90 குடும்பத்தினர் ஐந்து தலைமுறைகளாக இக்கோவிலில் வழிபட்டு வருவதாகக் கூறியுள்ளனர். கோவிலில் உள்ள தகரக் கொட்டகையை வணிக பயன்பாட்டுக்காக வைத்திருப்பதாகக் கூறி அகற்ற வருவாய்த்துறை நோட்டீஸ் அளித்துள்ளது. ஆனால் வெளியூர் பக்தர்கள் தங்குவதற்காகவே கொட்டகை பயன்படுத்தப்படுவதாகவும், அதை அகற்றக்கூடாது எனவும் கோரியுள்ளனர்.\nதென்னம்பாளையம் மீன் மார்க்கெட்டில் தரமற்ற மீன்கள் விற்பனை செய்யப்படுவதாக நல்லூர் சண்முகசுந்தரம் மனு அளித்தார்.\n\nTirupur Collector petitions people grievances | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A line of ordinary citizens hands paper petitions across a counter inside the Tirupur District Collector's office during a public grievance day. Seen from behind, a group of about a dozen people - men in shirts and veshti, women in cotton sarees, one elderly man leaning on a walking stick - stands holding folded papers and files. Behind the counter, a government officer in a plain shirt receives the papers, and a stack of petitions already sits in a tall pile on the table. The hall is a typical Tamil Nadu government office with cream-painted walls, ceiling fans, tube lights, wooden benches and a tiled floor. It is daytime, with soft indoor light from the windows. The camera is at eye level, 35 mm, wide enough to show the counter, the queue and the room. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of handwritten and typed petitions tied with a string on a government office desk, with a few folded sheets and a file set beside it. In the soft background, the blurred hands of a village petitioner rest on the edge of the table while an official's sleeve reaches to take a paper. The desk has a wooden surface with a glass top and a steel pen stand, all slightly out of focus. Daylight comes in from a window at the side, giving a calm, official mood. The camera is slightly high, 35 mm macro-like close-up, focused on the petition stack, with the people only partly visible from behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/people-s-grievances-piled-up-in-petitions-to-the-collector/4384619",
-   "published": "2026-11-23T22:15:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509168/tirupur360/dpvglzykucvyzdaypwos.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509193/tirupur360/h1owcbgpwruxmjwonuhx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பரம்பரை பூசாரிகளுக்கு நில உரிமை வழங்க கோரிக்கை",
-   "english_headline": "Hereditary priests seek land rights restoration in Tirupur collectorate grievance meeting",
-   "category": "Government & Services",
-   "location": "Tirupur collectorate, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு மனு",
-    "loc": "திருப்பூர் கலெக்டர் அலுவலகம்",
-    "hl1": "பரம்பரை பூசாரிகள் நில உரிமை கோரிக்கை",
-    "hl2": "இனாம் சட்டத்தில் திருத்தம்",
-    "slides": [
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "சிறு இனாம் ஒழிப்புச் சட்டத்தில் திருத்தம் செய்ய வேண்டும்",
-       "பரம்பரை பூசாரிகளுக்கு மீண்டும் நில உரிமை வழங்க வேண்டும்",
-       "பட்டா உரிமை மறுக்கப்பட்டதாக மனுவில் கூறப்பட்டுள்ளது"
-      ]
-     },
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "திருப்பூர் கலெக்டர் அலுவலகத்தில் குறைகேட்பு கூட்டம்",
-       "இன்று (<b>நவ. 23</b>) நடந்த கூட்டத்தில் மனு அளிக்கப்பட்டது",
-       "மாநில தலைவர் பொன்னுசாமி தலைமையில் நிர்வாகிகள் வந்தனர்"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "<b>18 ஆவணங்களுடன்</b> விரிவான மனு வழங்கப்பட்டது",
-       "மாவட்ட வருவாய் அலுவலரிடம் மனு சமர்ப்பிப்பு",
-       "நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூரில் பரம்பரை பூசாரிகளுக்கு மீண்டும் நில உரிமை வழங்க வேண்டும் என்று கோரிக்கை வைக்கப்பட்டுள்ளது. இன்று நவம்பர் 23ஆம் தேதி திருப்பூர் கலெக்டர் அலுவலகத்தில் நடந்த குறைகேட்பு கூட்டத்தில் இந்த மனு அளிக்கப்பட்டது. தமிழ்நாடு அனைத்து கோவில் பரம்பரை பூசாரிகள் மற்றும் இனாம் பூமி விவசாயிகள் பாதுகாப்பு பேரவையின் மாநிலத் தலைவர் பொன்னுசாமி, செயல் தலைவர் உதயகுமார் உள்ளிட்ட நிர்வாகிகள் இந்த மனுவை வழங்கினர். 1963ஆம் ஆண்டு கொண்டுவரப்பட்ட சிறு இனாம் ஒழிப்பு மற்றும் ரயத்துவாரியாக மாற்றும் சட்டத்தில் உள்ள பொருந்தாத பிரிவுகளால் பட்டா உரிமை மறுக்கப்பட்டதாக மனுவில் கூறப்பட்டுள்ளது. எனவே இனாம் ஒழிப்புச் சட்டத்தில் திருத்தம் செய்து மீண்டும் அமல்படுத்த வேண்டும் என்றும், பட்டா வாய்ப்பு மறுக்கப்பட்ட இனாம்தாரர்களுக்கு நில உரிமை வழங்க நடவடிக்கை எடுக்க வேண்டும் என்றும் கோரிக்கை விடுக்கப்பட்டுள்ளது. இதுதொடர்பாக 18 ஆவணங்களுடன் கூடிய விரிவான மனுவை மாவட்ட வருவாய் அலுவலரிடம் சமர்ப்பித்துள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📜 பரம்பரை பூசாரிகளுக்கு நில உரிமை வழங்க திருப்பூரில் கோரிக்கை\n\n📰 முழு விவரம்:\nசிறு இனாம் ஒழிப்பு மற்றும் ரயத்துவாரியாக மாற்றும் சட்டத்தில் திருத்தம் செய்து, பரம்பரை பூசாரிகளுக்கு மீண்டும் நில உரிமை வழங்க வேண்டும் என கோரிக்கை விடுக்கப்பட்டுள்ளது. 1963ஆம் ஆண்டு கொண்டுவரப்பட்ட சட்டத்தில் உள்ள பொருந்தாத பிரிவுகளால் பட்டா உரிமை மறுக்கப்பட்டதாக மனுவில் கூறப்பட்டுள்ளது. இனாம் ஒழிப்புச் சட்டத்தில் திருத்தம் செய்து மீண்டும் அமல்படுத்த வேண்டும் என்றும், பட்டா வாய்ப்பு மறுக்கப்பட்ட இனாம்தாரர்களுக்கு நில உரிமை வழங்க நடவடிக்கை எடுக்க வேண்டும் என்றும் வலியுறுத்தப்பட்டுள்ளது.\n🏛️ இன்று (நவ. 23) திருப்பூர் கலெக்டர் அலுவலகத்தில் நடந்த குறைகேட்பு கூட்டத்தில் மனு அளிக்கப்பட்டது.\n👥 தமிழ்நாடு அனைத்து கோவில் பரம்பரை பூசாரிகள் மற்றும் இனாம் பூமி விவசாயிகள் பாதுகாப்பு பேரவை நிர்வாகிகள் மனு அளித்தனர்.\n📄 18 ஆவணங்களுடன் கூடிய விரிவான மனு மாவட்ட வருவாய் அலுவலரிடம் சமர்ப்பிக்கப்பட்டுள்ளது.\n\nHereditary priests seek land rights in Tirupur | Tirupur news\n📍 திருப்பூர் கலெக்டர் அலுவலகம், திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A group of hereditary temple priests and inam land farmers, led by their state association office-bearers, stands in a queue at the grievance meeting hall of the Tirupur collectorate, handing a thick file of documents across a wooden desk to a government revenue official. The place is a government office hall in Tirupur city with tube lights, ceiling fans, wooden benches, a row of plastic chairs, and a long table covered with files and papers. Several men in white shirts and veshti, a few in trousers and shirts, and women in cotton sarees are seen from behind or at a distance, some holding folders and bundles of papers. The revenue official sits behind the desk in a shirt, partly visible, and a few government staff move in the background. The time is late morning with daylight coming through high windows, the air calm and indoors. Camera at eye level, slightly high, 35 mm, wide enough to show the full hall and the desk with the papers. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a thick bundle of 18 documents tied with a string or held in a plastic file, lying on a wooden table at the collectorate grievance meeting. The papers are stacked and loosely fanned, with a pen and a few loose sheets beside them, and a pair of hands in a white shirt sleeve resting on the edge of the pile. The background is a blurred government office desk with files, a glass of water and other papers, in soft daylight from a window. No readable text on the pages, no faces visible. The mood is quiet and formal, showing the weight of the official petition. Camera close and slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/petition-by-hereditary-priests-to-give-land-rights/4384522",
-   "published": "2026-11-23T20:52:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509200/tirupur360/emsume3sddobeko3ov1q.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509204/tirupur360/bmdkrwiyqxfp4dtwrr7v.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "முதலிபாளையம் பாறைக்குழி மாசு: தேசிய பசுமை தீர்ப்பாயம் வழக்குப் பதிவு",
-   "english_headline": "Mudalipalayam quarry pollution: National Green Tribunal registers suo motu case over groundwater contamination",
-   "category": "Civic Issues",
-   "location": "Mudalipalayam, Tirupur city, Tirupur district",
+   "tamil_headline": "சுங்கச்சாவடிகளில் தெளிவாகத் தெரியாத பதிவு எண் கொண்ட வாகனங்களுக்கு பல மடங்கு அபராதம்",
+   "english_headline": "Vehicles with unclear number plates may face 4 to 8 times toll fine at toll plazas, central government plans",
+   "category": "Roads & Transport",
+   "location": "Tamil Nadu (toll plazas in the state), Tirupur district",
    "importance": "High",
-   "scope": "district",
+   "scope": "",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுற்றுச்சூழல் வழக்கு",
-    "loc": "முதலிபாளையம், திருப்பூர்",
-    "hl1": "முதலிபாளையம் பாறைக்குழி மாசு வழக்கு",
-    "hl2": "தேசிய பசுமை தீர்ப்பாயம்",
+    "cat": "சுங்கச்சாவடி அபராதம்",
+    "loc": "தமிழ்நாடு",
+    "hl1": "தமிழ்நாடு: பதிவு எண் மடங்கு அபராதம்",
+    "hl2": "4 முதல் 8 மடங்கு வரை",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன விதிமுறை?",
       "lines": [
-       "முதலிபாளையம் பாறைக்குழியில் குப்பை, தொழிற்சாலைக் கழிவுகள்",
-       "நிலத்தடி நீர் மாசுபட்டதாகப் புகார்",
-       "தேசிய பசுமைத் தீர்ப்பாயம் தாமாக வழக்குப் பதிவு செய்தது"
+       "பதிவு எண்ணை மறைப்பது, மாற்றுவது குற்றம்",
+       "தெளிவாகப் படிக்க முடியாத நம்பர் பிளேட்டுக்கு அபராதம்",
+       "சுங்கக் கட்டணத்தை விட <b>4 முதல் 8 மடங்கு</b> வரை அபராதம்"
       ]
      },
      {
-      "title": "யார் நோட்டீஸ்?",
+      "title": "தனியாங்கி",
       "lines": [
-       "திருப்பூர் கலெக்டர், மாசுக்கட்டுப்பாட்டு வாரியங்களுக்கு",
-       "நிலத்தடி நீர் வாரியம், சென்னை குடிநீர் வாரியத்துக்கும்",
-       "மொத்தம் <b>6</b> தரப்பினருக்கு நோட்டீஸ்"
+       "பரனூர், ஸ்ரீபெரும்புதூர், சென்ன சமுத்திரம் சுங்கச்சாவடிகள்",
+       "அவற்றுக்குப் பதில் தனியாங்கி சுங்கச்சாவடி அறிமுகம்",
+       "கேமரா மூலம் தானாகக் கட்டணம் வசூலிக்கப்படுகிறது"
       ]
      },
      {
-      "title": "அடுத்த விசாரணை",
+      "title": "ஃபாஸ்டேக்",
       "lines": [
-       "வழக்கு <b>ஜனவரி 22</b> ஆம் தேதி விசாரணைக்கு வருகிறது",
-       "அதற்கு முந்தைய நாள் பதில்கள் தாக்கல் செய்ய உத்தரவு",
-       "அம்மாபாளையம் பாறைக்குழியிலும் குப்பை கொட்டும் பிரச்னை"
+       "FASTag-ஐ விண்டோஸ் திரையில் சரியாகப் பொருத்துங்கள்",
+       "போதுமான பணம் இருப்பில் வைத்திருங்கள்",
+       "பணம் இல்லை என்றால் இருமடங்கு கட்டணத்துக்கு மின்னணு நோட்டீஸ்"
+      ]
+     },
+     {
+      "title": "அபராதம்",
+      "lines": [
+       "<b>72 மணி நேரத்தில்</b> பணம் செலுத்தாவிட்டால் இருமடங்கு கட்டணம்",
+       "NOC, உரிமை மாற்றம், தகுதிச் சான்று சேவைகளுக்குக் கட்டுப்பாடு",
+       "தரப்படுத்தப்பட்ட உயர் பாதுகாப்பு நம்பர் பிளேட்டை மட்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "முதலிபாளையம் பாறைக்குழி மாசு வழக்கை தேசிய பசுமைத் தீர்ப்பாயம் தாமாக முன்வந்து பதிவு செய்துள்ளது. பல ஆண்டுகளாக இங்கு குப்பை மற்றும் தொழிற்சாலைக் கழிவுகள் கொட்டப்பட்டதால் நிலத்தடி நீர் மாசுபட்டதாகப் புகார் எழுந்தது. முதலிபாளையம், நல்லூர் சுற்றுச்சூழல் பாதுகாப்புக் குழுவினர் சென்னை உயர் நீதிமன்றத்தில் வழக்கு தொடர்ந்தனர். மத்திய மாசுக்கட்டுப்பாட்டு வாரியம் இப்பகுதியை சந்தேகத்திற்குரிய மாசுபட்ட தளம் என அறிவித்தது. இந்த வழக்கைச் சென்னை தென் மண்டல அமருக்கு பசுமைத் தீர்ப்பாயம் மாற்றியுள்ளது. திருப்பூர் கலெக்டர் உள்ளிட்ட ஆறு தரப்பினருக்கு நோட்டீஸ் அனுப்ப உத்தரவிடப்பட்டுள்ளது. வழக்கு அடுத்த ஆண்டு ஜனவரி 22ஆம் தேதி விசாரணைக்கு வருகிறது. அதற்கு முந்தைய நாள் அனைவரும் பதில்களைத் தாக்கல் செய்ய வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 முதலிபாளையம் பாறைக்குழி மாசு: தேசிய பசுமை தீர்ப்பாயம் தாமாக வழக்குப் பதிவு\n\n📰 முழு விவரம்:\nமுதலிபாளையம் பாறைக்குழியில் பல ஆண்டுகளாக குப்பை, தொழிற்சாலைக் கழிவுகள் கொட்டப்பட்டதால் நிலத்தடி நீர் மாசுபட்டதாகப் புகார் எழுந்தது. முதலிபாளையம், நல்லூர் சுற்றுச்சூழல் பாதுகாப்புக் குழுவினர் சென்னை உயர் நீதிமன்றத்தில் வழக்கு தொடர்ந்தனர். மத்திய மாசுக்கட்டுப்பாட்டு வாரியம் இப்பகுதியை 2025ஆம் ஆண்டு விதிகளின்படி 'சந்தேகத்திற்குரிய மாசுபட்ட தளம்' என அறிவித்தது.\n⚖️ வழக்கை சென்னை தென் மண்டல அமர்வுக்கு மாற்றியுள்ளது தேசிய பசுமைத் தீர்ப்பாயம்.\n📨 திருப்பூர் கலெக்டர், தமிழ்நாடு மாசுக்கட்டுப்பாட்டு வாரியம், மத்திய மாசுக்கட்டுப்பாட்டு வாரியத்தின் சென்னை மண்டல அலுவலகம், மத்திய சுற்றுச்சூழல் அமைச்சகத்தின் சென்னை மண்டல அலுவலகம், மத்திய நிலத்தடி நீர் வாரியம், சென்னை குடிநீர் வழங்கல் மற்றும் கழிவுநீர் அகற்று வாரியம் ஆகிய ஆறு தரப்பினருக்கும் நோட்டீஸ் அனுப்ப உத்தரவு.\n🗓️ அடுத்த விசாரணை: ஜனவரி 22 (அடுத்த ஆண்டு). அதற்கு முந்தைய நாள் அனைத்து பிரதிவாதிகளும் பதில்களைத் தாக்கல் செய்ய வேண்டும்.\n🗑️ அம்மாபாளையம் பாறைக்குழியிலும் குப்பை கொட்டும் பிரச்னை எழுந்துள்ளது.\n🗣️ முதலிபாளையம் சுற்றுச்சூழல் பாதுகாப்புக் குழு ஒருங்கிணைப்பாளர் வேலுசாமி: இதை ஒரு பகுதியின் பிரச்னையாகப் பார்க்காமல், மாவட்டம் முழுவதற்குமான பிரச்னையாகக் கருத வேண்டும். நொய்யல் ஆறு உள்ளிட்ட பொது இடங்களில் சாயக்கழிவு, தொழிற்சாலைக் கழிவுகள் வெளியேற்றப்படுவதைத் தடுக்க தொழில்துறையினரும் உள்ளாட்சி அமைப்புகளும் கூடுதல் கவனம் செலுத்த வேண்டும்.\n\nMudalipalayam quarry pollution NGT case | Tirupur news\n📍 முதலிபாளையம், திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Mudalipalayam #TirupurNews #திருப்பூர்",
-   "prompts": "A heap of mixed garbage and industrial waste spills over the rim of an abandoned rock quarry pit at Mudalipalayam on the outskirts of Tiruppur city, Tamil Nadu. Dark, stagnant water sits at the bottom of the pit, its surface dull and oily, with plastic sheets, bags and rusted drums dumped along the cut stone walls of the quarry. Beyond the pit, a few low concrete houses and coconut trees mark the edge of the village. Two villagers stand at the rim of the pit, seen from behind, one holding a plastic water pot, while a small group of men in shirts and veshti stands a few metres away, looking down at the waste. A parked tractor with a tipper and a handful of corporation workers in plain shirts are visible at a distance by the dumped heap. Daylight, slightly overcast, flat light across the pit. Camera at eye level, 35 mm, wide enough to show the quarry walls, the waste heap and the village behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the dumped waste at the edge of the Mudalipalayam quarry pit: a pile of black plastic sacks, torn cloth bales, broken cement sacks and an overflowing heap of wet garbage is pushed over the lip of the rock pit, with dyed, discoloured runoff streaking down the grey cut stone wall into dark standing water below. A thin film of coloured sludge floats on the surface, with a few rusted metal drums half-sunk in the muck. Dry red earth and scattered stones surround the heap, and a few crows sit on the pile. Daylight, no people in the frame except a pair of rubber sandals and a plastic water pot at the bottom edge, suggesting nearby residents. Camera slightly high, looking down into the pit, 35 mm, sharp focus on the waste and the polluted water, showing the scale of the dumped material. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/mudalipalayam-rock-cut-pollution-case-national-green-tribunal/4384542",
-   "published": "2026-11-23T21:06:24+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 83 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); numbers not found in the article: 6",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509212/tirupur360/tffzdufxamxiyru0h3sa.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509217/tirupur360/te4wmjipxhyprzyjwn0q.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் மாநகராட்சியில் 37 முறைகேடான குடிநீர் இணைப்புகள் துண்டிப்பு",
-   "english_headline": "37 illegal drinking water connections cut in Tirupur Corporation after inspection in all four zones",
-   "category": "Civic Issues",
-   "location": "Tirupur Corporation, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குடிநீர் இணைப்பு",
-    "loc": "திருப்பூர் மாநகராட்சி",
-    "hl1": "திருப்பூர் 37 இணைப்பு துண்டிப்பு",
-    "hl2": "முறைகேடான குடிநீர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "முறைகேடான <b>37</b> குடிநீர் இணைப்புகள் துண்டிப்பு",
-       "நான்கு வணிக பயன்பாட்டு இணைப்புகளும் அடங்கும்",
-       "நேற்று நான்கு மண்டலங்களிலும் ஆய்வு"
-      ]
-     },
-     {
-      "title": "மண்டல வாரி விவரம்",
-      "lines": [
-       "முதல் மண்டலம்: <b>5</b> இணைப்புகள்",
-       "இரண்டாவது மண்டலம்: <b>3</b> இணைப்புகள்",
-       "மூன்றாவது மண்டலம்: <b>17</b> இணைப்புகள்"
-      ]
-     },
-     {
-      "title": "ஏன் நடவடிக்கை?",
-      "lines": [
-       "முறைகேட்டால் பல இடங்களில் குடிநீர் பற்றாக்குறை",
-       "தொடர்ந்து புகார்கள் வந்ததால் ஆய்வு",
-       "கமிஷனர் அமித் உத்தரவின்பேரில் நடவடிக்கை"
-      ]
-     },
-     {
-      "title": "இனி என்ன?",
-      "lines": [
-       "மாநகராட்சி பகுதியில் தொடர்ந்து ஆய்வு",
-       "முறைகேடாக இணைப்பு பெறுவோர் மீது நடவடிக்கை",
-       "அபராதம் உள்ளிட்ட நடவடிக்கைகளும் உண்டு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் மாநகராட்சியில் முறைகேடாகப் பெறப்பட்ட 37 குடிநீர் இணைப்புகள் துண்டிக்கப்பட்டன. நேற்று நான்கு மண்டலங்களிலும் அதிகாரிகள் ஆய்வு மேற்கொண்டனர். வீடுகள், தொழில் நிறுவனங்கள் உள்ளிட்ட இடங்களில் முறைகேடான இணைப்புகள் கண்டறியப்பட்டன. அவற்றில் நான்கு வணிக பயன்பாட்டு இணைப்புகளும் அடங்கும். முதல் மண்டலத்தில் 5 இணைப்புகளும், இரண்டாவது மண்டலத்தில் 3 இணைப்புகளும் துண்டிக்கப்பட்டன. மூன்றாவது மண்டலத்தில் 17 இணைப்புகளும், நான்காவது மண்டலத்தில் 12 இணைப்புகளும் துண்டிக்கப்பட்டன. பல இடங்களில் குடிநீர் பற்றாக்குறை ஏற்படுவதாகத் தொடர்ந்து புகார்கள் வந்ததால் இந்த ஆய்வு நடத்தப்பட்டது. மாநகராட்சி கமிஷனர் அமித் உத்தரவின்பேரில் இந்த நடவடிக்கை எடுக்கப்பட்டது. மாநகராட்சி பகுதியில் தொடர்ந்து ஆய்வு மேற்கொள்ளப்படும். முறைகேடாக குடிநீர் இணைப்பு பெறுவோர் மீது கடும் நடவடிக்கை எடுக்கப்படும். அபராதம் உள்ளிட்ட நடவடிக்கைகளும் மேற்கொள்ளப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 திருப்பூர் மாநகராட்சியில் 37 முறைகேடான குடிநீர் இணைப்புகள் துண்டிப்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சியில் நேற்று நான்கு மண்டலங்களிலும் அதிகாரிகள் ஆய்வு செய்தனர். வீடுகள், தொழில் நிறுவனங்கள் உள்ளிட்ட இடங்களில் முறைகேடான குடிநீர் இணைப்புகள் கண்டறியப்பட்டு, நான்கு வணிக பயன்பாட்டு இணைப்புகள் உட்பட மொத்தம் 37 இணைப்புகள் துண்டிக்கப்பட்டன. பல இடங்களில் குடிநீர் பற்றாக்குறை ஏற்படுவதாகத் தொடர்ந்து புகார்கள் வந்ததால் மாநகராட்சி கமிஷனர் அமித் உத்தரவின்பேரில் இந்த ஆய்வு நடத்தப்பட்டது.\n🔢 மண்டல வாரி விவரம்: முதல் மண்டலம் 5, இரண்டாவது மண்டலம் 3, மூன்றாவது மண்டலம் 17, நான்காவது மண்டலம் 12 இணைப்புகள்.\n👮 நடவடிக்கை: மாநகராட்சி பகுதியில் தொடர்ந்து ஆய்வு மேற்கொள்ளப்படும். முறைகேடாக குடிநீர் இணைப்பு பெறுவோர் மீது கடும் நடவடிக்கை மற்றும் அபராதம் விதிக்கப்படும்.\n\nTirupur Corporation drinking water illegal connections cut | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Tirupur",
-   "prompts": "A Tirupur Corporation inspection team of officials and workers in khaki and shirts stands beside a roadside corporation drinking water pipeline on a residential street in Tirupur city, seen from behind and at a distance, as one worker uses a cutting tool on a small pipe connection branching from the main line into a house. Behind them are two-storey concrete houses with water tanks on the roofs, a few two-wheelers parked along the road, and a corporation water tanker or blue metal stand-post nearby. Other residents watch from doorways, dressed in a cotton shirt and a saree, slightly blurred. The scene is in daylight, with clear sky and a dusty tarmac road. Shot at eye level, 35 mm, wide enough to show the street and the rows of houses. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a cut-off drinking water pipe connection on a Tirupur street: a short length of grey PVC pipe with its valve and clamp removed, dangling from the corporation main line at the kerb, with wet soil and a small puddle beside it. A pair of pipe-cutting tools and a plastic water-pot lie on the pavement next to the cut pipe. Behind it, out of focus, a concrete house wall and an overhead water tank. Daylight, dry weather, shot at slightly high angle, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/37-improperly-installed-drinking-water-connections-disconnected/4384537",
-   "published": "2026-11-23T20:58:23+05:30",
+   "reel_script": "தமிழ்நாட்டில் பதிவு எண்ணைத் தெளிவாகக் காட்டாத வாகனங்களுக்கு பல மடங்கு அபராதம் விதிக்கப்படலாம். சுங்கக் கட்டணத்தைத் தவிர்க்க பதிவு எண்ணை மறைப்பது, மாற்றுவது அல்லது சேதப்படுத்திய நம்பர் பிளேட்டைப் பயன்படுத்துவது குற்றமாகக் கருதப்படும். தெளிவாகப் படிக்க முடியாத நம்பர் பிளேட் கொண்ட வாகனங்கள் கண்டறியப்பட்டால், வழக்கமான சுங்கக் கட்டணத்தைவிட 4 முதல் 8 மடங்கு வரை அபராதம் விதிக்கப்படலாம் என்று கூறப்படுகிறது. இதற்கான புதிய விதிமுறைகளை மத்திய அரசு தயாரித்து வருவதாகத் தகவல் வெளியாகியுள்ளது. தமிழ்நாட்டில் பரனூர், ஸ்ரீபெரும்புதூர், காரைப்பேட்டை-வாலாஜாபேட்டை பிரிவில் உள்ள சென்ன சமுத்திரம் ஆகிய மூன்று சுங்கச்சாவடிகள் அகற்றப்பட்டு, அவற்றுக்குப் பதில் தனியாங்கி சுங்கச்சாவடி அறிமுகம் செய்யப்பட்டுள்ளது. இங்கு கேமரா மூலம் வாகனங்களிடம் தானாகக் கட்டணம் வசூலிக்கப்படுகிறது. ஃபாஸ்டேக்கை விண்டோஸ் திரையில் சரியாகப் பொருத்தி, போதுமான பணம் இருப்பில் வைத்திருங்கள். பணம் இல்லாவிட்டால் அல்லது செல்லாத ஃபாஸ்டேக் இருந்தால், இருமடங்கு தொகைக்கு மின்னணு நோட்டீஸ் அனுப்பப்படும். 72 மணி நேரத்தில் பணம் செலுத்தாவிட்டால் இருமடங்கு கட்டணம் வசூலிக்கப்படும். பணம் செலுத்தாவிட்டால் என் ஓ சி, உரிமை மாற்றம், தகுதிச் சான்று போன்ற வாகனச் சேவைகளில் கட்டுப்பாடுகள் விதிக்கப்படலாம். மின்னணு அபராத அறிவிப்புகளை பார்வையிட, தேசிய தகவல் மையத்தின் பரிவாகன் தளத்தை நாடுங்கள். வாகனத்தில் தரப்படுத்தப்பட்ட உயர் பாதுகாப்பு பதிவு எண் பலகையை மட்டும் பயன்படுத்துங்கள். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பதிவு எண் தெரியாத வாகனங்களுக்கு சுங்கச்சாவடியில் 4 முதல் 8 மடங்கு அபராதம்?\n\n📰 முழு விவரம்:\nசுங்கக் கட்டணத்தைத் தவிர்க்க பதிவு எண்ணை மறைப்பது, மாற்றுவது, சேதப்படுத்திய நம்பர் பிளேட் பயன்படுத்துவதைத் தடுக்க மத்திய அரசு அதிக அபராதம் விதிக்கத் திட்டமிட்டுள்ளது.\nதெளிவாகப் படிக்க முடியாத நம்பர் பிளேட் கொண்ட வாகனங்களுக்கு வழக்கமான கட்டணத்தைவிட 4 முதல் 8 மடங்கு வரை அபராதம் விதிக்கப்படலாம் என்று கூறப்படுகிறது.\nதமிழ்நாட்டில் பரனூர், ஸ்ரீபெரும்புதூர், சென்ன சமுத்திரம் ஆகிய மூன்று சுங்கச்சாவடிகள் அகற்றப்பட்டு, தனியாங்கி சுங்கச்சாவடி அறிமுகம் செய்யப்பட்டுள்ளது. இங்கு கேமரா மூலம் கட்டணம் தானாக வசூலிக்கப்படுகிறது.\n🏷️ ஃபாஸ்டேக்கை சரியாகப் பொருத்தி, போதுமான பணம் இருப்பில் வைத்திருங்கள். இல்லையென்றால் இருமடங்கு கட்டணத்துக்கு மின்னணு நோட்டீஸ் அனுப்பப்படும்.\n⏳ 72 மணி நேரத்திற்குள் பணம் செலுத்தாவிட்டால் இருமடங்கு கட்டணம் வசூலிக்கப்படும். பணம் செலுத்தாவிட்டால் NOC, உரிமை மாற்றம், தகுதிச் சான்று, தேசிய பெர்மிட் சேவைகளில் கட்டுப்பாடுகள் வரலாம்.\n🔎 மின்னணு அறிவிப்புகளை nhfeenotice.parivahan.gov.in தளத்தில் பார்த்து பணம் செலுத்துங்கள்.\n🔢 தரப்படுத்தப்பட்ட உயர் பாதுகாப்பு பதிவு எண் பலகையை மட்டும் பயன்படுத்துங்கள்.\n\nToll plaza fine 4 to 8 times unclear number plate | Tirupur news\n📍 தமிழ்நாடு | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #சுங்கச்சாவடி",
+   "prompts": "A row of vehicles, including a car and a lorry, passes through an automatic barrier-free toll lane at a highway toll plaza in Tamil Nadu, Tirupur district. An overhead camera gantry with lenses and sensors hangs above the lanes, watching each vehicle as it approaches. The road is a wide concrete highway with lane markings, a toll booth canopy and a few plain concrete structures at the roadside, with rows of coconut trees and dry scrub beyond the plaza. Drivers are seen only as silhouettes behind windscreens, and nobody is visible at close range. The vehicles are a silver car and a white lorry, their rear number plates facing the camera with no readable letters. It is bright daytime with clear sky and soft sunlight. The camera is at eye level, about 35 mm, wide enough to show the gantry, the lanes and the vehicles together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the rear number plate of a car at a toll plaza lane in Tamil Nadu, Tirupur district. The plate is slightly dusty and partly covered by a dark plastic sheet, showing that the registration is hidden from the camera. A FASTag sticker is visible on the windscreen just above it, blurred in the background. Behind the car, the concrete toll lane, yellow lane lines and the metal barrier arm of the plaza are visible, with a low concrete divider and dry roadside grass. The mood is quiet, with harsh midday sunlight. The camera is slightly low, about 85 mm, shallow focus, close enough that the covered plate is the main subject. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/tiruppur/heavy-fines-for-vehicles-with-unclear-registration-numbers-at-toll-plazas-847875.html",
+   "published": "2026-11-24T14:33:47+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509250/tirupur360/n3h7ldptojrkj7y9c8hy.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509254/tirupur360/wiumt5xjnlbes9qagbq7.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795518038/tirupur360/qh7d9yr2gkua800i27pq.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795518050/tirupur360/ihejoqruqw9q6bl0ftq6.jpg"
    ]
   },
   {
-   "tamil_headline": "கொடுவாயில் குப்பைக்கு தீ: நச்சுப் புகையால் மக்கள் பாதிப்பு",
-   "english_headline": "Garbage burnt in Koduvai due to lack of scientific disposal; toxic smoke worries residents",
+   "tamil_headline": "பல்லடம் ஆறுமுத்தாம்பாளையத்தில் குப்பை மலைக்குன்று உருவாகிறது",
+   "english_headline": "Garbage hill forming in Arumuthampalayam panchayat near Palladam; residents demand waste segregation depots",
    "category": "Civic Issues",
-   "location": "Koduvai, Ponggalur, Tirupur district",
+   "location": "Arumuthampalayam panchayat, Palladam union, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதாரம்",
-    "loc": "கொடுவாய், பொங்கலூர்",
-    "hl1": "கொடுவாயில் குப்பைக்கு தீவைப்பு",
-    "hl2": "நச்சுப் புகையால் மக்கள்",
+    "cat": "குப்பை பிரச்சினை",
+    "loc": "ஆறுமுத்தாம்பாளையம், பல்லடம்",
+    "hl1": "ஆறுமுத்தாம்பாளையத்தில் மலைக்குன்று",
+    "hl2": "அறிவொளி நகரில்",
     "slides": [
      {
       "title": "என்ன நடக்கிறது?",
       "lines": [
-       "கொடுவாயில் குப்பைகள் நாளுக்கு நாள் அதிகரிக்கின்றன",
-       "குப்பைகள் குவிந்து கிடக்கின்றன",
-       "ஊராட்சி நிர்வாகம் திணறி வருகிறது"
+       "ஆறுமுத்தாம்பாளையம் ஊராட்சியில் குப்பையால் மலைக்குன்று",
+       "அறிவொளி நகர் பகுதியில் திறந்தவெளியில் குப்பை கொட்டப்படுகிறது",
+       "குப்பைக் குவியலின் பரப்பளவு நாளுக்கு நாள் அதிகரிக்கிறது"
       ]
      },
      {
-      "title": "ஏன் தீ",
+      "title": "ஏன் ஆபத்து?",
       "lines": [
-       "குப்பையைத் தரம் பிரித்து அகற்ற வசதி இல்லை",
-       "துப்புரவுப் பணியாளர்கள் வேறு வழியின்றி தீ வைக்கின்றனர்",
-       "பிளாஸ்டிக் கழிவுகள் அதிகம் உள்ளன"
+       "சுகாதாரப் பாதிப்பு ஏற்படும் அபாயம் உள்ளது",
+       "50 ஆயிரத்துக்கும் மேற்பட்ட மக்கள் வசிக்கும் ஊராட்சி இது",
+       "அதிக தொழில் நிறுவனங்கள் இருப்பதால் குப்பை அதிகம் சேர்கிறது"
       ]
      },
      {
-      "title": "ஆபத்து என்ன?",
+      "title": "பொதுமக்கள்",
       "lines": [
-       "எரியும் பிளாஸ்டிக்கால் நச்சுப் புகை வெளியாகிறது",
-       "சுவாசக் கோளாறுகள் ஏற்படும் அபாயம் உள்ளது",
-       "குடியிருப்புகளுக்கு அருகில் புகை பரவுகிறது"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "அறிவியல் முறையில் குப்பை அகற்ற அடிப்படை வசதி வேண்டும்",
-       "கொடுவாயை குப்பையில்லா நகரமாக மாற்ற வேண்டும்",
-       "தமிழக அரசு சிறப்பு கவனம் செலுத்த வேண்டும்"
+       "குப்பையைத் தரம் பிரிக்கும் கிடங்குகள் அமைக்க வேண்டும்",
+       "நிரந்தரத் தீர்வு வேண்டும் என மக்கள் வலியுறுத்துகின்றனர்",
+       "இல்லையெனில் தூய்மை கிராமம் திட்டம் கேள்விக்குறியாகும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கொடுவாயில் குப்பைகளுக்கு தீ வைக்கப்படுவதால் நச்சுப் புகை பரவி மக்கள் அச்சத்தில் உள்ளனர். கொடுவாய் பகுதி வளர்ச்சியடைந்து வரும் நிலையில் குப்பைகளின் அளவு நாளுக்கு நாள் அதிகரித்து வருகிறது. குப்பைகளை முறையாகக் கையாள போதிய கட்டமைப்பு இல்லாததால் ஊராட்சி நிர்வாகம் திணறி வருகிறது. திரும்பிய பக்கமெல்லாம் குப்பைகள் குவிந்து கிடக்கின்றன. குப்பைகளை அறிவியல் முறையில் தரம் பிரித்து அகற்ற வசதி இல்லாததால் துப்புரவுப் பணியாளர்கள் வேறு வழியின்றி தீ வைத்து எரிக்கின்றனர். குப்பையில் அதிகளவில் உள்ள பிளாஸ்டிக் கழிவுகள் எரியும்போது வெளியாகும் நச்சுப் புகை சுவாசக் கோளாறுகளை ஏற்படுத்தும் அபாயம் உள்ளது. குடியிருப்புகளுக்கு மத்தியில் குப்பைக்கு தீ வைப்பதால் மக்கள் புகையைச் சுவாசித்து நோயாளிகளாக வாழ வேண்டிய நிலை ஏற்பட்டுள்ளதாக பொதுமக்கள் கூறுகின்றனர். தமிழக அரசு சிறப்பு கவனம் செலுத்தி அடிப்படை வசதிகளை ஏற்படுத்த வேண்டும் என அவர்கள் கோரியுள்ளனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பொங்கலூர் ஒன்றியம் கொடுவாயில் குப்பைக்கு தீவைப்பு: நச்சுப் புகையால் மக்கள் அச்சம்\n\n📰 முழு விவரம்:\nகொடுவாய் பகுதியில் குப்பைகளின் அளவு நாளுக்கு நாள் அதிகரித்து வருகிறது. குப்பைகளை முறையாகக் கையாள போதிய கட்டமைப்பு இல்லாததால் ஊராட்சி நிர்வாகம் திணறி வருகிறது. குப்பைகளை அறிவியல் முறையில் தரம் பிரித்து அகற்ற வசதி இல்லாததால் துப்புரவுப் பணியாளர்கள் தீ வைத்து எரிக்கின்றனர். பிளாஸ்டிக் கழிவுகள் எரியும்போது வெளியாகும் நச்சுப் புகை சுவாசக் கோளாறுகளை ஏற்படுத்தும் அபாயம் உள்ளது. குடியிருப்புகளுக்கு மத்தியில் குப்பைக்கு தீ வைப்பதால் மக்கள் பாதிக்கப்படுவதாகப் பொதுமக்கள் கூறுகின்றனர்.\n📍 இடம்: கொடுவாய், பொங்கலூர், திருப்பூர் மாவட்டம்\n🏘️ பாதிப்பு: குடியிருப்புகள் அருகே நச்சுப் புகை பரவல்\nℹ️ மக்கள் கோரிக்கை: அறிவியல் முறையில் குப்பை அகற்ற அடிப்படை வசதிகளை ஏற்படுத்தவும், கொடுவாயை குப்பையில்லா நகரமாக மாற்றவும் தமிழக அரசு சிறப்பு கவனம் செலுத்த வேண்டும்.\nஇதை உங்கள் பகுதி மக்களுடன் Share செய்யுங்கள்.\n\nKoduvai garbage burning toxic smoke | Tirupur news\n📍 கொடுவாய், பொங்கலூர், திருப்பூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Ponggalur #TirupurNews #திருப்பூர்",
-   "prompts": "Along a roadside in Koduvai, a sanitation worker in a shirt and trousers stands beside a heap of mixed household garbage that is burning, with a thick grey-black smoke plume rising into the air. Behind the fire, a row of modest village houses and a few residents, seen from a distance and from behind, walk past with cloths over their faces. The Tirupur district village setting has a dusty unpaved road edge, a few coconut palms, and scattered plastic bags. Daylight, slightly hazy from the smoke. Camera at eye level, 35 mm, wide enough to show the burning heap, the houses, and the smoke spreading across the street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a roadside garbage heap in Koduvai, with plastic bags, torn plastic sheets and bottles half-melted and blackened by flames, a smouldering orange-red edge at the base and dark smoke curling upward. Scattered trash spills onto a dusty village road, and the blurred edge of a broom and a metal pitchfork lean against the pile. Daylight, smoke drifting diagonally across the frame. Camera slightly high, 35 mm, focused on the burning plastic waste so the toxic, polluting smoke is the clear subject. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/garbage-burning-is-a-hunt-for-the-environment/4384489",
-   "published": "2026-11-23T20:42:42+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('குப்பைக்கு தீவைப்பு சுற்றுச்சூழலுக்கு வேட்டு') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509262/tirupur360/lbgygfv8ixpjaag5chbe.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509269/tirupur360/pjgaushom6fsm3jhjlb9.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பல்லடத்தில் கார் சைலன்சர் ஒலி: மன்னிப்பு கேட்ட வாலிபர்கள்",
-   "english_headline": "Palladam: youths who fitted loud car silencer apologise after police warning",
-   "category": "Crime & Safety",
-   "location": "Kalivelampatti area, Palladam, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போலீஸ் நடவடிக்கை",
-    "loc": "பல்லடம்",
-    "hl1": "பல்லடத்தில் அதிக ஒலி கார்கள் பறிமுதல்",
-    "hl2": "இளைஞர்கள் மன்னிப்பு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "காளிவேலம்பட்டி பகுதியில் <b>நவம்பர் 22</b> அன்று திடீர்",
-       "விதிமீறி அதிக ஒலி எழுப்பும் சைலன்சர் காரணம்",
-       "பொதுமக்கள் அச்சமடைந்தனர்"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "கார்கள் பறிமுதல் செய்யப்பட்டன",
-       "காரில் சென்ற <b>3 வாலிபர்கள்</b> ஸ்டேஷனுக்கு",
-       "விசாரணையில் பல்லடத்தை சேர்ந்த பட்டதாரிகள் என தெரிந்தது"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "இன்ஸ்பெக்டர் மாதையன் எச்சரித்து அறிவுரை வழங்கினார்",
-       "இளைஞர்கள் தவற்றை உணர்ந்து மன்னிப்பு கேட்டனர்",
-       "வழக்குப்பதிவு செய்யாமல் திருந்த வாய்ப்பளிக்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பல்லடம் காளிவேலம்பட்டி பகுதியில் அதிக ஒலி எழுப்பும் கார் சைலன்சரால் பொதுமக்கள் அச்சமடைந்தனர். நவம்பர் 22ஆம் தேதி திடீரென வெடிச்சத்தம் கேட்டது. அவ்வழியாகச் சென்ற காரில் விதிமுறைகளை மீறி அதிக ஒலி எழுப்பும் சைலன்சர் பொருத்தப்பட்டிருந்தது காரணமாகத் தெரிந்தது. போலீசார் கார்களைப் பறிமுதல் செய்து, காரில் சென்ற மூன்று வாலிபர்களை ஸ்டேஷனுக்கு அழைத்துச் சென்றனர். விசாரணையில் அவர்கள் பல்லடத்தைச் சேர்ந்த பட்டதாரிகள் என்பது தெரிந்தது. இன்ஸ்பெக்டர் மாதையன் இளைஞர்களை எச்சரித்து, இதுபோன்ற செயல்களால் பொதுமக்களுக்கு ஏற்படும் பாதிப்புகள் குறித்து அறிவுரை வழங்கினார். இளைஞர்கள் தங்கள் தவறை உணர்ந்து மன்னிப்பு கேட்டனர். அவர்களில் ஒருவர், நண்பர்களின் விருப்பப்படி புதிய சைலன்சர் பொருத்தியதாகவும், அதை ஸ்டைல் என நினைத்ததாகவும் கூறினார். வயதானோர், குழந்தைகள், நோயாளிகள் பயந்திருக்கலாம் என்றும் அவர் மன்னிப்பு கேட்டார். வழக்குப்பதிவு செய்யாமல் திருந்த வாய்ப்பளித்த போலீசாருக்கு நன்றி தெரிவித்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பல்லடத்தில் அதிக ஒலி சைலன்சர் கார்கள் பறிமுதல், வாலிபர்கள் மன்னிப்பு\n\n📰 முழு விவரம்:\nபல்லடம் காளிவேலம்பட்டி பகுதியில் நவம்பர் 22ஆம் தேதி திடீர் வெடிச்சத்தம் கேட்டு பொதுமக்கள் அச்சமடைந்தனர். விதிமுறைகளை மீறி அதிக ஒலி எழுப்பும் சைலன்சர் பொருத்தப்பட்ட கார் காரணமாகத் தெரிந்தது.\n👮 நடவடிக்கை: போலீசார் கார்களைப் பறிமுதல் செய்து, காரில் சென்ற 3 வாலிபர்களை ஸ்டேஷனுக்கு அழைத்துச் சென்றனர்.\nவிசாரணையில் அவர்கள் பல்லடத்தைச் சேர்ந்த பட்டதாரிகள் என தெரிந்தது. இன்ஸ்பெக்டர் மாதையன் அவர்களை எச்சரித்து, பொதுமக்களுக்கு ஏற்படும் பாதிப்புகள் குறித்து அறிவுரை வழங்கினார்.\nஇளைஞர்கள் தங்கள் தவறை உணர்ந்து மன்னிப்பு கேட்டனர். வழக்குப்பதிவு செய்யாமல் திருந்த வாய்ப்பளித்த போலீசாருக்கு நன்றி தெரிவித்தனர்.\n\nPalladam car silencer noise, youths apologise | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
-   "prompts": "A Tamil Nadu police constable in khaki stands beside a seized car parked outside a police station in Palladam, its rear end showing a large aftermarket exhaust silencer pipe. Three young men in shirts and trousers stand a few steps away, seen from behind, heads slightly bowed. The setting is a small police station compound in Palladam town with a plain concrete wall, a few two-wheelers parked nearby and a town bus passing on the road beyond. It is daylight with soft, even light. Shot at eye level with a 35 mm lens, wide enough to show the car, the officers and the station gate. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a large chrome-finished aftermarket car exhaust silencer, its wide tail pipe fixed to the underside of a car's rear bumper on a Tamil Nadu police yard. Beside it, a seized car's rear bumper and dusty tyre are partly visible, with the boots of a police constable in khaki at the edge of the frame. The background is a plain concrete ground in Palladam with a low wall and a parked two-wheeler. Daylight, neutral tones. Tight shot at slightly high angle with a 50 mm lens, emphasising the oversized silencer as the cause of the noise. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/young-men-apologize-for-car-silencer-sound-that-tore-their-ears/4384611",
-   "published": "2026-11-23T22:03:03+05:30",
+   "reel_script": "பல்லடம் ஒன்றியத்தில் ஆறுமுத்தாம்பாளையம் ஊராட்சியில் குப்பையால் மலைக்குன்று உருவாகி வருகிறது. ஊராட்சியின் அறிவொளி நகர் பகுதியில் திறந்தவெளியில் குப்பைகள் கொட்டப்பட்டு வருகின்றன. நாளுக்கு நாள் குப்பைக் குவியலின் பரப்பளவு அதிகரித்து வருகிறது. இதனால் சுகாதாரப் பாதிப்பு ஏற்படும் அபாயம் உள்ளது. ஒரு லட்சத்துக்கும் மேற்பட்ட மக்கள் தொகை கொண்ட கரைப்புதூர் ஊராட்சியிலும் ஏற்கனவே குப்பையால் மலைக்குன்று உருவாகி பல ஆண்டுகளாக நீடிக்கிறது. 50 ஆயிரத்துக்கும் மேற்பட்ட மக்கள் வசிக்கும் ஆறுமுத்தாம்பாளையம் ஊராட்சியில் ஏராளமான தொழில் நிறுவனங்கள் செயல்படுவதால் குப்பைகள் அதிகளவில் சேர்கின்றன. அதிக வருவாய் கொண்ட பெரிய ஊராட்சிகளில்கூட குப்பையை அகற்ற நிரந்தரத் தீர்வு காணப்படவில்லை என பொதுமக்கள் கவலை தெரிவிக்கின்றனர். குப்பைகளைத் தரம் பிரிக்கும் கிடங்குகள் அமைக்க வேண்டும் என பொதுமக்கள் வலியுறுத்துகின்றனர். இல்லையெனில் மாவட்ட நிர்வாகத்தின் தூய்மை கிராமம் திட்டத்தின் நோக்கம் கேள்விக்குறியாகும் என மக்கள் தெரிவிக்கின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗑️ பல்லடம் ஆறுமுத்தாம்பாளையத்தில் குப்பை மலைக்குன்று உருவாகிறது\n\n📰 முழு விவரம்:\nபல்லடம் ஒன்றியத்துக்கு உட்பட்ட ஆறுமுத்தாம்பாளையம் ஊராட்சியில் குப்பைகளால் மலைக்குன்று உருவாகி வருகிறது. அறிவொளி நகர் பகுதியில் திறந்தவெளியில் குப்பைகள் கொட்டப்படுகின்றன. நாளுக்கு நாள் குப்பைக் குவியலின் பரப்பளவு அதிகரித்து வருவதால் சுகாதாரப் பாதிப்பு ஏற்படும் அபாயம் உள்ளது.\nஒரு லட்சத்துக்கும் மேற்பட்ட மக்கள் தொகை கொண்ட கரைப்புதூர் ஊராட்சியிலும் குப்பையால் உருவான மலைக்குன்று பல ஆண்டுகளாக நீடிக்கிறது. 50 ஆயிரத்துக்கும் மேற்பட்ட மக்கள் வசிக்கும் ஆறுமுத்தாம்பாளையம் ஊராட்சியில் ஏராளமான தொழில் நிறுவனங்கள் செயல்படுவதால் குப்பைகள் அதிகளவில் சேகரமாகின்றன.\nஅதிக வருவாய் கொண்ட பெரிய ஊராட்சிகளில்கூட குப்பை அகற்றலுக்கு நிரந்தரத் தீர்வு காணப்படவில்லை என பொதுமக்கள் கவலை தெரிவிக்கின்றனர். அதிக குப்பை சேகரமாகும் ஊராட்சிகளில் குப்பையைத் தரம் பிரிக்கும் கிடங்குகள் அமைக்க வேண்டும் என பொதுமக்கள் வலியுறுத்துகின்றனர். இல்லையெனில் மாவட்ட நிர்வாகத்தின் தூய்மை கிராமம் திட்டத்தின் நோக்கம் கேள்விக்குறியாகும் என்றும் அவர்கள் கூறுகின்றனர்.\nஇதற்கிடையே, பருவாய், பணிக்கம்பட்டி கிராமங்களைத் தூய்மையான கிராமங்களாக மாற்ற மாவட்ட நிர்வாகம் முயற்சி மேற்கொண்டு வருகிறது.\n\nGarbage hill forming in Arumuthampalayam, Palladam | Tirupur news\n📍 ஆறுமுத்தாம்பாளையம், பல்லடம் ஒன்றியம், திருப்பூர் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #குப்பை #TirupurNews",
+   "prompts": "A growing mound of mixed household and factory garbage rises on open ground at the edge of Arumuthampalayam panchayat near Palladam in Tirupur district, Tamil Nadu. Plastic bags, torn cloth and heaped refuse spill across a dusty patch of land beside a row of low houses and small industrial sheds. Two panchayat sanitary workers in dark shirts and veshti stand at the foot of the heap, seen from behind and far away, with a tractor trolley parked nearby. Bare-leg village roads and a few distant two-wheelers lead off into the distance. Daylight, slightly hazy, dry dusty air. Camera at eye level, 35 mm lens, wide enough to show the heap against the village skyline. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the edge of a large open garbage heap on the outskirts of a Tamil Nadu panchayat village near Palladam. Plastic packets, crushed bottles, wet food waste and bundles of cloth scraps are piled high on bare earth, with a few stray dogs and crows picking at the refuse. Behind the heap, a low compound wall and a dusty track lead toward a row of village houses. Bright daylight, dry and dusty, with a faint haze of smoke from the pile. Camera slightly high, close enough to show the texture and layers of waste, 35 mm lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/another-hilltop-formed-by-garbage/4384828",
+   "published": "2026-11-24T15:00:16+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509275/tirupur360/oqj9utinlxhiuzj9cwgt.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795509279/tirupur360/z7kgl7erocfo87zz5wl9.jpg"
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795518073/tirupur360/y092ucfbx0eofksbv9xr.jpg",
+    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795518084/tirupur360/sbtnha5ze7lgi7lrh8ey.jpg"
    ]
   }
  ]
