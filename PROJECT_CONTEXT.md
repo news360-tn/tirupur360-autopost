@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `3623c97` | stories shared / Instagram pause |
+| 2026-11-24 | `c558d8f` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
+| 2026-11-24 | `fecd9f5` | autofix: corrected held news |
+| 2026-11-24 | `0a0eb80` | stories shared / Instagram pause |
+| 2026-11-24 | `15a3f0d` | stories shared / Instagram pause |
+| 2026-11-24 | `e53b9a2` | stories shared / Instagram pause |
+| 2026-11-24 | `dbe3712` | stories shared / Instagram pause |
+| 2026-11-24 | `1eb9ad3` | stories shared / Instagram pause |
+| 2026-11-24 | `9705f98` | stories shared / Instagram pause |
+| 2026-11-24 | `656e7a8` | stories shared / Instagram pause |
+| 2026-11-24 | `70c28cb` | stories shared / Instagram pause |
+| 2026-11-24 | `8772355` | stories shared / Instagram pause |
+| 2026-11-24 | `4b6f8a7` | stories shared / Instagram pause |
+| 2026-11-24 | `b165188` | stories shared / Instagram pause |
+| 2026-11-24 | `d7c0798` | stories shared / Instagram pause |
+| 2026-11-24 | `b12aab3` | stories shared / Instagram pause |
+| 2026-11-24 | `8784e63` | stories shared / Instagram pause |
+| 2026-11-24 | `38fcc9e` | stories shared / Instagram pause |
+| 2026-11-24 | `d842671` | stories shared / Instagram pause |
+| 2026-11-24 | `1aec169` | stories shared / Instagram pause |
+| 2026-11-24 | `69e957e` | stories shared / Instagram pause |
+| 2026-11-24 | `a000140` | stories shared / Instagram pause |
+| 2026-11-24 | `9f8c083` | stories shared / Instagram pause |
+| 2026-11-24 | `38848d6` | stories shared / Instagram pause |
+| 2026-11-24 | `cb5a5a9` | stories shared / Instagram pause |
+| 2026-11-24 | `7725878` | stories shared / Instagram pause |
+| 2026-11-24 | `009d044` | stories shared / Instagram pause |
+| 2026-11-24 | `f7394e0` | stories shared / Instagram pause |
 | 2026-11-24 | `b6e41a7` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
 | 2026-11-24 | `1672302` | stories shared / Instagram pause |
-| 2026-11-24 | `7b887f1` | stories shared / Instagram pause |
-| 2026-11-24 | `2b4e638` | stories shared / Instagram pause |
-| 2026-11-24 | `5f93c17` | stories shared / Instagram pause |
-| 2026-11-24 | `43caef3` | stories shared / Instagram pause |
-| 2026-11-24 | `be39027` | stories shared / Instagram pause |
-| 2026-11-24 | `ff968c6` | stories shared / Instagram pause |
-| 2026-11-24 | `db83d19` | stories shared / Instagram pause |
-| 2026-11-24 | `9375473` | stories shared / Instagram pause |
-| 2026-11-24 | `bb4d6db` | stories shared / Instagram pause |
-| 2026-11-24 | `eb3deb9` | stories shared / Instagram pause |
-| 2026-11-24 | `5ae6b3e` | goldrate posted |
-| 2026-11-24 | `547ff83` | stories shared / Instagram pause |
-| 2026-11-24 | `8fd654a` | stories shared / Instagram pause |
-| 2026-11-24 | `35c9507` | stories shared / Instagram pause |
-| 2026-11-24 | `f8cc49a` | stories shared / Instagram pause |
-| 2026-11-24 | `205077c` | stories shared / Instagram pause |
-| 2026-11-24 | `84f221a` | stories shared / Instagram pause |
-| 2026-11-24 | `42df6a4` | stories shared / Instagram pause |
-| 2026-11-24 | `5a90ce7` | stories shared / Instagram pause |
-| 2026-11-24 | `192fb51` | stories shared / Instagram pause |
-| 2026-11-24 | `90c11a6` | stories shared / Instagram pause |
-| 2026-11-24 | `80c6248` | stories shared / Instagram pause |
-| 2026-11-24 | `7303bf4` | stories shared / Instagram pause |
-| 2026-11-24 | `57b788a` | stories shared / Instagram pause |
-| 2026-11-24 | `c1b337e` | stories shared / Instagram pause |
-| 2026-11-24 | `da6867a` | stories shared / Instagram pause |
-| 2026-11-24 | `cc9e3a1` | stories shared / Instagram pause |
-| 2026-11-24 | `514abdb` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
