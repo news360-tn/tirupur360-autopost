@@ -266,7 +266,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T01:36:56.966842+05:30",
-   "picked_at": "2026-11-26T01:38:47.545403+05:30"
+   "picked_at": "2026-11-26T01:38:47.545403+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C41ab7c6": {
    "id": "C41ab7c6",
@@ -280,7 +281,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T01:36:56.966842+05:30",
-   "picked_at": "2026-11-26T01:38:47.545411+05:30"
+   "picked_at": "2026-11-26T01:38:47.545411+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Ce86db28": {
    "id": "Ce86db28",
@@ -294,7 +296,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T01:36:56.966842+05:30",
-   "picked_at": "2026-11-26T01:38:47.545413+05:30"
+   "picked_at": "2026-11-26T01:38:47.545413+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Cc26d5b3": {
    "id": "Cc26d5b3",
@@ -308,7 +311,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T01:36:56.966842+05:30",
-   "picked_at": "2026-11-26T01:38:47.545414+05:30"
+   "picked_at": "2026-11-26T01:38:47.545414+05:30",
+   "posted": true
   },
   "C361e68f": {
    "id": "C361e68f",
@@ -322,7 +326,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T01:36:56.966842+05:30",
-   "picked_at": "2026-11-26T01:38:47.545415+05:30"
+   "picked_at": "2026-11-26T01:38:47.545415+05:30",
+   "posted": true
   },
   "Cc62af89": {
    "id": "Cc62af89",
@@ -336,7 +341,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T01:36:56.966842+05:30",
-   "picked_at": "2026-11-26T01:38:47.545416+05:30"
+   "picked_at": "2026-11-26T01:38:47.545416+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -970,7 +976,12 @@
     "Cc26d5b3",
     "Cc62af89",
     "Ce86db28"
-   ]
+   ],
+   "refused": {
+    "Ce86db28": "not filed: all free models failed: no usable answer from the models",
+    "C41ab7c6": "not filed: all free models failed: no usable answer from the models",
+    "Caad9786": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
