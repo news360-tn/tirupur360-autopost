@@ -152,7 +152,8 @@
    "category": "கல்வி",
    "score": 6.5,
    "power_cut": false,
-   "listed_at": "2026-11-25T16:31:02.577511+05:30"
+   "listed_at": "2026-11-25T16:31:02.577511+05:30",
+   "picked_at": "2026-11-25T16:35:02.821769+05:30"
   }
  },
  "rounds": {
@@ -682,8 +683,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-25T17:31:02.577511+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 1 by insights",
+    "ids": [
+     "Cbba89ad"
+    ],
+    "at": "2026-11-25T16:35:02.821755+05:30"
+   },
+   "written": [
+    "Cbba89ad"
+   ]
   }
  },
  "retry": {}
