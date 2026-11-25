@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `f4bcc1b` | R2: accept the Account ID pasted as a link or with spaces; clear message when it is another value |
+| 2026-11-25 | `5e3990c` | stories shared / Instagram pause |
+| 2026-11-25 | `364c53a` | stories shared / Instagram pause |
+| 2026-11-25 | `a5c7728` | stories shared / Instagram pause |
+| 2026-11-25 | `4503b76` | stories shared / Instagram pause |
+| 2026-11-25 | `ca13964` | stories shared / Instagram pause |
+| 2026-11-25 | `e5754b5` | stories shared / Instagram pause |
+| 2026-11-25 | `662d765` | stories shared / Instagram pause |
+| 2026-11-25 | `cba5b75` | pick: written and posted |
+| 2026-11-25 | `edce690` | pick: picked news saved |
+| 2026-11-25 | `73feb98` | pick: list sent |
 | 2026-11-25 | `0088235` | YouTube: public Shorts, 20 a day, 40-minute gap, 7am-10pm IST (same as Namakkal and Coimbatore); starts once the page's YT secrets are saved |
 | 2026-11-25 | `5add924` | stories shared / Instagram pause |
 | 2026-11-25 | `bcca75d` | R2 check: manual workflow that uploads a test file and reads it back |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `0609515` | stories shared / Instagram pause |
 | 2026-11-25 | `3091809` | stories shared / Instagram pause |
 | 2026-11-25 | `121d6dd` | stories shared / Instagram pause |
-| 2026-11-25 | `4da01ca` | stories shared / Instagram pause |
-| 2026-11-25 | `449896f` | stories shared / Instagram pause |
-| 2026-11-25 | `8691844` | stories shared / Instagram pause |
-| 2026-11-25 | `6b21ff5` | pick: written and posted |
-| 2026-11-25 | `8475431` | pick: picked news saved |
-| 2026-11-25 | `bcb87a1` | pick: list sent |
-| 2026-11-25 | `5ac3794` | stories shared / Instagram pause |
-| 2026-11-25 | `d4c0327` | stories shared / Instagram pause |
-| 2026-11-25 | `7a4304d` | stories shared / Instagram pause |
-| 2026-11-25 | `d910953` | stories shared / Instagram pause |
-| 2026-11-25 | `8109218` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
