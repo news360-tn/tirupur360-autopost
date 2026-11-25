@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-24 | `ce2d380` | Facebook post text without the outside article link (less reach); the link stays in the first comment, the paper name and date stay |
-| 2026-11-24 | `ea934aa` | stories shared / Instagram pause |
-| 2026-11-24 | `997080c` | stories shared / Instagram pause |
-| 2026-11-24 | `6ce4cae` | stories shared / Instagram pause |
-| 2026-11-24 | `2f06bee` | stories shared / Instagram pause |
-| 2026-11-24 | `82d4a5e` | stories shared / Instagram pause |
-| 2026-11-24 | `b7b8bcb` | pick: written and posted |
-| 2026-11-24 | `49e16e7` | pick: picked news saved |
-| 2026-11-24 | `29d8023` | pick: picked news saved |
-| 2026-11-24 | `cdc1b52` | pick: list sent |
-| 2026-11-24 | `9c3c9a7` | stories shared / Instagram pause |
-| 2026-11-24 | `d287512` | autofix: corrected held news |
-| 2026-11-24 | `f623c06` | pick: written and posted |
-| 2026-11-24 | `6d0802e` | stories shared / Instagram pause |
-| 2026-11-24 | `a3cbfe2` | facebook RN-276 |
-| 2026-11-24 | `6cfdd7e` | posted RN-276 |
-| 2026-11-24 | `035542d` | stories shared / Instagram pause |
-| 2026-11-24 | `d6cc2c9` | stories shared / Instagram pause |
-| 2026-11-24 | `fe9efd7` | facebook RN-275 |
-| 2026-11-24 | `e059deb` | posted RN-275 |
-| 2026-11-24 | `b14233a` | stories shared / Instagram pause |
-| 2026-11-24 | `80539b3` | stories shared / Instagram pause |
-| 2026-11-24 | `c9c8f15` | facebook RN-277 |
-| 2026-11-24 | `f7a1a1c` | posted RN-277 |
-| 2026-11-24 | `b728e9c` | facebook RN-278 |
-| 2026-11-24 | `62efef9` | posted RN-278 |
-| 2026-11-24 | `fcaed9b` | stories shared / Instagram pause |
-| 2026-11-24 | `51d7071` | facebook RN-274 |
-| 2026-11-24 | `aab9f04` | posted RN-274 |
-| 2026-11-24 | `a19806f` | pick: picked news saved |
+| 2026-11-25 | `36a6e44` | Rasipalan: each page keeps the day's 12 rasi texts; when every AI writer is busy, a page uses the text another 360 page wrote that day |
+| 2026-11-25 | `65c22db` | stories shared / Instagram pause |
+| 2026-11-25 | `d8aa936` | stories shared / Instagram pause |
+| 2026-11-25 | `98bc8ed` | autofix: corrected held news |
+| 2026-11-25 | `0609515` | stories shared / Instagram pause |
+| 2026-11-25 | `3091809` | stories shared / Instagram pause |
+| 2026-11-25 | `121d6dd` | stories shared / Instagram pause |
+| 2026-11-25 | `4da01ca` | stories shared / Instagram pause |
+| 2026-11-25 | `449896f` | stories shared / Instagram pause |
+| 2026-11-25 | `8691844` | stories shared / Instagram pause |
+| 2026-11-25 | `6b21ff5` | pick: written and posted |
+| 2026-11-25 | `8475431` | pick: picked news saved |
+| 2026-11-25 | `bcb87a1` | pick: list sent |
+| 2026-11-25 | `5ac3794` | stories shared / Instagram pause |
+| 2026-11-25 | `d4c0327` | stories shared / Instagram pause |
+| 2026-11-25 | `7a4304d` | stories shared / Instagram pause |
+| 2026-11-25 | `d910953` | stories shared / Instagram pause |
+| 2026-11-25 | `8109218` | stories shared / Instagram pause |
+| 2026-11-25 | `a11225c` | goldrate posted |
+| 2026-11-25 | `aea9ab2` | stories shared / Instagram pause |
+| 2026-11-25 | `4884a06` | stories shared / Instagram pause |
+| 2026-11-25 | `447a284` | stories shared / Instagram pause |
+| 2026-11-25 | `cf1c792` | stories shared / Instagram pause |
+| 2026-11-25 | `2c738f1` | stories shared / Instagram pause |
+| 2026-11-25 | `6c35b09` | stories shared / Instagram pause |
+| 2026-11-25 | `fed80a7` | stories shared / Instagram pause |
+| 2026-11-25 | `ce3b197` | stories shared / Instagram pause |
+| 2026-11-25 | `8c916e3` | stories shared / Instagram pause |
+| 2026-11-25 | `4fa7fd4` | pick: written and posted |
+| 2026-11-25 | `d16c099` | pick: picked news saved |
 <!-- recent-changes:end -->
