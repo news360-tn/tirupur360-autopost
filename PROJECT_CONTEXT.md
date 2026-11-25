@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-25 | `ed61f74` | YouTube: first comment (the Instagram source comment) and topic playlists after each upload - start once the channel login has the youtube.force-ssl permission; skipped quietly until then |
-| 2026-11-25 | `d50d44f` | stories shared / Instagram pause |
-| 2026-11-25 | `3706dca` | Platform text: Facebook news caption short (headline + 3 lines + source) with the Tamil district tag; YouTube title ~70 chars with an English search word, 3 hashtags first, Subscribe line, Tamil language |
-| 2026-11-25 | `5e9ab76` | stories shared / Instagram pause |
-| 2026-11-25 | `c95b59f` | goldrate posted |
-| 2026-11-25 | `b498e31` | pick: written and posted |
-| 2026-11-25 | `fc2e3ce` | YouTube: the Instagram source comment (source + link) at the top of each Short's description |
-| 2026-11-25 | `03544d4` | After a posting error wait 10 minutes before the next try (Instagram, Facebook, YouTube); YouTube and Facebook 20 a day; rasipalan and gold rate on YouTube too, first, outside the 20 |
-| 2026-11-25 | `899330c` | stories shared / Instagram pause |
-| 2026-11-25 | `aeb4e9b` | pick: picked news saved |
-| 2026-11-25 | `faf1af8` | Posting order: power cut / shutdown first, then High, then the topic this page's insights rank best, then oldest first |
-| 2026-11-25 | `7641441` | pick: picked news saved |
-| 2026-11-25 | `712f3e1` | pick: list sent |
-| 2026-11-25 | `afe9069` | Night stop 00:00-04:00 IST (was 05:00); at most 35 news a day per page on Instagram; YouTube up to 35 a day from 04:00, following Instagram; insights test uses today's date |
-| 2026-11-25 | `ad5ffd5` | stories shared / Instagram pause |
-| 2026-11-25 | `09edc2b` | One e-mail per news with its Instagram, Facebook and YouTube links (sent when all three are done or after 45 minutes; max 60 a day for all pages); YouTube follows Instagram: 5-minute gap, 05:00-24:00 IST, up to 30 a day |
-| 2026-11-25 | `f07cb4e` | stories shared / Instagram pause |
-| 2026-11-25 | `fa0d5f5` | Per-post e-mail for every post, at most 60 a day for all 7 pages together (one Gmail account); later posts are in the daily summary |
-| 2026-11-25 | `1187f30` | stories shared / Instagram pause |
-| 2026-11-25 | `6ba6305` | stories shared / Instagram pause |
-| 2026-11-25 | `38fd3a0` | stories shared / Instagram pause |
-| 2026-11-25 | `d009487` | stories shared / Instagram pause |
-| 2026-11-25 | `daf2b42` | stories shared / Instagram pause |
-| 2026-11-25 | `2c06038` | stories shared / Instagram pause |
-| 2026-11-25 | `2ce1dc8` | stories shared / Instagram pause |
-| 2026-11-25 | `8eab76e` | stories shared / Instagram pause |
-| 2026-11-25 | `74e3bbc` | R2: one folder per page (the repository name) in every job, so the 24-hour clean-up finds every file |
-| 2026-11-25 | `64be304` | stories shared / Instagram pause |
-| 2026-11-25 | `cd783b4` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
-| 2026-11-25 | `287a5dd` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
+| 2026-11-25 | `f45bbdb` | YouTube: upload only when the login's channel is this page's (verify_channel on Erode, Karur, Salem, Tiruppur, Trichy - their Shorts went to the Namakkal channel) |
+| 2026-11-25 | `1466516` | stories shared / Instagram pause |
+| 2026-11-25 | `9d361c8` | stories shared / Instagram pause |
+| 2026-11-25 | `e779e57` | stories shared / Instagram pause |
+| 2026-11-25 | `1b3fefe` | stories shared / Instagram pause |
+| 2026-11-25 | `fc8e03e` | stories shared / Instagram pause |
+| 2026-11-25 | `e47b806` | stories shared / Instagram pause |
+| 2026-11-25 | `f2441aa` | stories shared / Instagram pause |
+| 2026-11-25 | `33094f7` | stories shared / Instagram pause |
+| 2026-11-25 | `ce1bb7e` | stories shared / Instagram pause |
+| 2026-11-25 | `e1dabde` | stories shared / Instagram pause |
+| 2026-11-25 | `0a003e9` | stories shared / Instagram pause |
+| 2026-11-25 | `74f299c` | stories shared / Instagram pause |
+| 2026-11-25 | `3cdd187` | stories shared / Instagram pause |
+| 2026-11-25 | `80c2f31` | stories shared / Instagram pause |
+| 2026-11-25 | `06315a7` | stories shared / Instagram pause |
+| 2026-11-25 | `7462f13` | stories shared / Instagram pause |
+| 2026-11-25 | `a675051` | stories shared / Instagram pause |
+| 2026-11-25 | `41116bc` | stories shared / Instagram pause |
+| 2026-11-25 | `6b01d3f` | stories shared / Instagram pause |
+| 2026-11-25 | `6c3264f` | stories shared / Instagram pause |
+| 2026-11-25 | `c88c67a` | stories shared / Instagram pause |
+| 2026-11-25 | `7a158ab` | stories shared / Instagram pause |
+| 2026-11-25 | `feb2310` | stories shared / Instagram pause |
+| 2026-11-25 | `f6aee4e` | stories shared / Instagram pause |
+| 2026-11-25 | `61fbe88` | stories shared / Instagram pause |
+| 2026-11-25 | `652bce6` | stories shared / Instagram pause |
+| 2026-11-25 | `bb083ae` | stories shared / Instagram pause |
+| 2026-11-25 | `b04c8d0` | stories shared / Instagram pause |
+| 2026-11-25 | `46f2b1a` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
