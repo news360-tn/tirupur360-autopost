@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T05:07:44.844266+05:30",
+ "last_end": "2026-11-25T06:27:45.677640+05:30",
  "pool": {
   "C5344c75": {
    "id": "C5344c75",
@@ -141,38 +141,22 @@
    "listed_at": "2026-11-25T02:21:10.586740+05:30",
    "picked_at": "2026-11-25T02:22:21.179268+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
+  },
+  "Cbf61fd2": {
+   "id": "Cbf61fd2",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/polyester-fabric--start-local-production-micro-small-manufacturer-expects/4385191",
+   "title": "‘பாலியெஸ்டர் பேப்ரிக்’! உள்ளூரில் உற்பத்தி துவக்க வேண்டும்: குறு, சிறு உற்பத்தியாளர் எதிர்பார்ப்பு",
+   "summary": "திருப்பூர்: பின்னலாடை உற்பத்தியை நவீனப்படுத்தும் வகையில், பாலியஸ்டர் ‘பேப்ரிக்’ உற்பத்தி மற்றும் விற்பனை திருப்பூரில் மேம்பட வேண்டுமென, குறு, சிறு உற்பத்தியாளர்கள் எதிர்பார்க்கின்றனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-24T20:22:02+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "late_listed": true,
+   "listed_at": "2026-11-25T06:27:45.677640+05:30"
   }
  },
  "rounds": {
-  "2026-11-23_12": {
-   "window": [
-    "2026-11-23T08:28:10.959329+05:30",
-    "2026-11-23T12:27:52.044567+05:30"
-   ],
-   "ids": [
-    "Cc3695e8",
-    "C71f5ff3",
-    "Cdec645c",
-    "C6f00235"
-   ],
-   "sent": false,
-   "deadline": "2026-11-23T13:27:52.044567+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 2 by insights",
-    "ids": [
-     "Cc3695e8",
-     "C71f5ff3"
-    ],
-    "at": "2026-11-23T12:29:50.784811+05:30"
-   },
-   "written": [
-    "C71f5ff3",
-    "Cc3695e8"
-   ],
-   "refused": {
-    "C71f5ff3": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
-   }
-  },
   "2026-11-23_16": {
    "window": [
     "2026-11-23T12:27:52.044567+05:30",
@@ -737,6 +721,21 @@
     "ids": [],
     "at": "2026-11-25T05:08:21.109555+05:30"
    },
+   "written": []
+  },
+  "2026-11-25_06": {
+   "window": [
+    "2026-11-25T05:07:44.844266+05:30",
+    "2026-11-25T06:27:45.677640+05:30"
+   ],
+   "ids": [
+    "Cbf61fd2",
+    "C72796f6",
+    "Cfa0953a"
+   ],
+   "sent": false,
+   "deadline": "2026-11-25T07:27:45.677640+05:30",
+   "decided": null,
    "written": []
   }
  },
