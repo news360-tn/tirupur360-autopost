@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `287a5dd` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
+| 2026-11-25 | `cb73ec6` | stories shared / Instagram pause |
+| 2026-11-25 | `4ba9a5a` | stories shared / Instagram pause |
+| 2026-11-25 | `0c31037` | powercut: notices written |
+| 2026-11-25 | `5303738` | stories shared / Instagram pause |
 | 2026-11-25 | `3fbbcef` | Watchdog: ignore the shared rasipalan text files (rasis_*.json) - they stopped the watchdog on every run |
 | 2026-11-25 | `d343c53` | stories shared / Instagram pause |
 | 2026-11-25 | `dbeeea5` | powercut: notices written |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `73feb98` | pick: list sent |
 | 2026-11-25 | `0088235` | YouTube: public Shorts, 20 a day, 40-minute gap, 7am-10pm IST (same as Namakkal and Coimbatore); starts once the page's YT secrets are saved |
 | 2026-11-25 | `5add924` | stories shared / Instagram pause |
-| 2026-11-25 | `bcca75d` | R2 check: manual workflow that uploads a test file and reads it back |
-| 2026-11-25 | `5dbd447` | stories shared / Instagram pause |
-| 2026-11-25 | `523490f` | stories shared / Instagram pause |
-| 2026-11-25 | `7000438` | stories shared / Instagram pause |
-| 2026-11-25 | `da2c471` | Cloudflare R2 (one shared bucket news360-media) replaces Cloudinary: R2 first, then Cloudinary, then the repo; nothing changes until the R2 secrets are saved; manual-post test uses today's date |
 <!-- recent-changes:end -->
