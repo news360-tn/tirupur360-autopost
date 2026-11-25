@@ -265,7 +265,8 @@
    "score": 10.95,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-26T01:36:56.966842+05:30"
+   "listed_at": "2026-11-26T01:36:56.966842+05:30",
+   "picked_at": "2026-11-26T01:38:47.545403+05:30"
   },
   "C41ab7c6": {
    "id": "C41ab7c6",
@@ -278,7 +279,8 @@
    "score": 10.5,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-26T01:36:56.966842+05:30"
+   "listed_at": "2026-11-26T01:36:56.966842+05:30",
+   "picked_at": "2026-11-26T01:38:47.545411+05:30"
   },
   "Ce86db28": {
    "id": "Ce86db28",
@@ -291,7 +293,8 @@
    "score": 7.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-26T01:36:56.966842+05:30"
+   "listed_at": "2026-11-26T01:36:56.966842+05:30",
+   "picked_at": "2026-11-26T01:38:47.545413+05:30"
   },
   "Cc26d5b3": {
    "id": "Cc26d5b3",
@@ -304,7 +307,8 @@
    "score": 3.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-26T01:36:56.966842+05:30"
+   "listed_at": "2026-11-26T01:36:56.966842+05:30",
+   "picked_at": "2026-11-26T01:38:47.545414+05:30"
   },
   "C361e68f": {
    "id": "C361e68f",
@@ -317,7 +321,8 @@
    "score": 3.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-26T01:36:56.966842+05:30"
+   "listed_at": "2026-11-26T01:36:56.966842+05:30",
+   "picked_at": "2026-11-26T01:38:47.545415+05:30"
   },
   "Cc62af89": {
    "id": "Cc62af89",
@@ -330,7 +335,8 @@
    "score": 3.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-26T01:36:56.966842+05:30"
+   "listed_at": "2026-11-26T01:36:56.966842+05:30",
+   "picked_at": "2026-11-26T01:38:47.545416+05:30"
   }
  },
  "rounds": {
@@ -945,8 +951,26 @@
    ],
    "sent": false,
    "deadline": "2026-11-26T02:36:56.966842+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 6 by insights",
+    "ids": [
+     "Caad9786",
+     "C41ab7c6",
+     "Ce86db28",
+     "Cc26d5b3",
+     "C361e68f",
+     "Cc62af89"
+    ],
+    "at": "2026-11-26T01:38:47.545394+05:30"
+   },
+   "written": [
+    "C361e68f",
+    "C41ab7c6",
+    "Caad9786",
+    "Cc26d5b3",
+    "Cc62af89",
+    "Ce86db28"
+   ]
   }
  },
  "retry": {}
