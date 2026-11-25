@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `3706dca` | Platform text: Facebook news caption short (headline + 3 lines + source) with the Tamil district tag; YouTube title ~70 chars with an English search word, 3 hashtags first, Subscribe line, Tamil language |
+| 2026-11-25 | `5e9ab76` | stories shared / Instagram pause |
+| 2026-11-25 | `c95b59f` | goldrate posted |
+| 2026-11-25 | `b498e31` | pick: written and posted |
 | 2026-11-25 | `fc2e3ce` | YouTube: the Instagram source comment (source + link) at the top of each Short's description |
 | 2026-11-25 | `03544d4` | After a posting error wait 10 minutes before the next try (Instagram, Facebook, YouTube); YouTube and Facebook 20 a day; rasipalan and gold rate on YouTube too, first, outside the 20 |
 | 2026-11-25 | `899330c` | stories shared / Instagram pause |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `287a5dd` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
 | 2026-11-25 | `cb73ec6` | stories shared / Instagram pause |
 | 2026-11-25 | `4ba9a5a` | stories shared / Instagram pause |
-| 2026-11-25 | `0c31037` | powercut: notices written |
-| 2026-11-25 | `5303738` | stories shared / Instagram pause |
-| 2026-11-25 | `3fbbcef` | Watchdog: ignore the shared rasipalan text files (rasis_*.json) - they stopped the watchdog on every run |
-| 2026-11-25 | `d343c53` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
