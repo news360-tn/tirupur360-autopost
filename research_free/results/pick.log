@@ -1,33 +1,15 @@
-01:36:56 round 2026-11-26_01: news published 25 Nov 23:01 -> 26 Nov 01:36 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-01:36:56 insights 2026-11-26T01:36+05:30 (250 reels): topic weights {'politics': -0.23, 'accident': 0.66, 'crime': 1.5, 'education': -0.5, 'jobs': 0.44, 'power_cut': 0.28, 'temple': -0.1, 'civic': -0.05, 'poultry_agri': -0.48, 'weather': -0.5, 'sports_culture': 0.08}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-01:38:11 open search 'திருப்பூர்' (from_google): 3 links from our outlets
-01:38:11 75 links on the two papers' Tirupur pages
-01:38:44 skipped: published before this window=32, not Tirupur district=12, already posted=7, only a headline=3, power cut - posted automatically=2, feature / tips / recipe, not a Tirupur event=1, same event already posted=1, state-wide / other district=1
-01:38:45 list: 6 new + 0 earlier news not posted yet
-01:38:45    1. [குற்றம்] குடிநீர் உறிஞ்ச பயன்பட்ட மோட்டார்கள் பறிமுதல் (தினமலர்)
-01:38:45    2. [மழை / வானிலை] மாவட்டத்தில் மழை விவசாயிகள் மகிழ்ச்சி (தினமலர்)
-01:38:45    3. [குற்றம்] ரேஷன் அரிசி கடத்தல் பொதுமக்கள் புகார் (தினமலர்)
-01:38:45    4. [பொது] ஆட்சி மொழி பயிலரங்கு பங்கேற்பு சான்றிதழ் (தினமலர்)
-01:38:45    5. [பொது] அமைச்சருடன் ஏற்றுமதியாளர் சந்திப்பு அடுத்தகட்ட வளர்ச்சி குறித்து ஆலோசன (தினமலர்)
-01:38:45    6. [பொது] மாவட்ட தி.மு.க. ஆலோசனை (தினமலர்)
-01:38:45 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-26_01
-01:38:47 round 2026-11-26_01 (at least 3, up to 3 more of well-watched topics): 6 news to choose from (0 from earlier rounds), ranked by this page's insights
-01:38:47   PICK   1.  10.8 [civic -0.05 page] குடிநீர் உறிஞ்ச பயன்பட்ட மோட்டார்கள் பறிமுதல்
-01:38:47   PICK   2.   9.0 [weather -0.50 page] மாவட்டத்தில் மழை விவசாயிகள் மகிழ்ச்சி
-01:38:47   PICK   3.   7.0 [other +0.00 pattern] ரேஷன் அரிசி கடத்தல் பொதுமக்கள் புகார்
-01:38:47   PICK   4.   3.0 [other +0.00 pattern] ஆட்சி மொழி பயிலரங்கு பங்கேற்பு சான்றிதழ்
-01:38:47   PICK   5.   3.0 [other +0.00 pattern] அமைச்சருடன் ஏற்றுமதியாளர் சந்திப்பு அடுத்தகட்ட வளர்ச்சி குறி
-01:38:47   PICK   6.   3.0 [other +0.00 pattern] மாவட்ட தி.மு.க. ஆலோசனை
-01:38:47 decided: automatic: top 3 of 6 by insights -> 6 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/motors-used-to-suck-water-seized/4386329 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/farmers-in-the-district-are-happy-with-the-rain/4386337 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/public-complaint-of-ration-rice-smuggling/4386336 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/official-language-workshop-participation-certificate/4386331 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/exporter-meets-minister-discusses-next-phase-of-development/4386330 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/district-dmk-consultation/4386384
-01:40:21 3 picked news refused by the writer - not offered again
-01:40:21 3 listed news now in the Sheet
-01:40:32 instagram duplicate check tirupur: 50 recent posts read
-01:40:32 verify 2026-11-26_01: 0 of 6 picked news posted, 5 skipped on purpose, 1 waiting for their posting start
-01:40:32    WAITING Cc62af89: waiting RN-290: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - மாவட்ட தி.மு.க. ஆலோசனை
-01:40:32    SKIPPED C361e68f: skipped RN-288: held: fact-check problems - fact-check: could not be run - அமைச்சருடன் ஏற்றுமதியாளர் சந்திப்பு அடுத்தகட்ட வளர்ச்சி குறி
-01:40:32    SKIPPED C41ab7c6: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - மாவட்டத்தில் மழை விவசாயிகள் மகிழ்ச்சி
-01:40:32    SKIPPED Caad9786: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - குடிநீர் உறிஞ்ச பயன்பட்ட மோட்டார்கள் பறிமுதல்
-01:40:32    SKIPPED Cc26d5b3: skipped RN-289: held: fact-check problems - fact-check: could not be run - ஆட்சி மொழி பயிலரங்கு பங்கேற்பு சான்றிதழ்
-01:40:32    SKIPPED Ce86db28: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - ரேஷன் அரிசி கடத்தல் பொதுமக்கள் புகார்
+04:28:35 round 2026-11-26_04: news published 26 Nov 01:36 -> 26 Nov 04:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+04:28:35 insights 2026-11-26T04:28+05:30 (250 reels): topic weights {'politics': -0.21, 'accident': 0.66, 'crime': 1.5, 'education': -0.5, 'jobs': 0.44, 'power_cut': 0.28, 'temple': -0.1, 'civic': -0.05, 'poultry_agri': -0.48, 'weather': -0.5, 'sports_culture': 0.08}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+04:29:06 open search 'திருப்பூர்' (from_google): 0 links from our outlets
+04:29:06 68 links on the two papers' Tirupur pages
+04:29:22 skipped: published before this window=31, already posted=6, not Tirupur district=4, state-wide / other district=2, only a headline=2, feature / tips / recipe, not a Tirupur event=1, same event already posted=1
+04:29:22 list: 7 new + 0 earlier news not posted yet
+04:29:22    1. [குற்றம்] பள்ளி மாணவி பாலியல் வன்கொடுமை: பனியன் நிறுவனத் தொழிலாளி கைது (தினமணி)
+04:29:22    2. [விபத்து] தேனீக்கள் கொட்டியதில் பெண் விவசாயி உயிரிழப்பு (தினமணி)
+04:29:22    3. [பொது] குடிநீா்க் குழாயில் மின் மோட்டாா் பொருத்தினால் இணைப்பு துண்டிப்பு (தினமணி)
+04:29:22    4. [ஆன்மிகம்] கோயில் பாதுகாப்புப் படைக்கு முன்னாள் படை வீரா்கள் விண்ணப்பிக்கலாம் (தினமணி)
+04:29:22    5. [பொது] குட்டகம் மொக்கணீஸ்வரா் கோயிலில் 1,008 தீப வழிபாடு (தினமணி)
+04:29:22    6. [குற்றம்] தீக்குளிக்க முயன்ற இந்து முன்னணி நிா்வாகி மீது வழக்குப் பதிவு (தினமணி)
+04:29:22    7. [பொது] தமிழ் வளா்ச்சித் துறை சாா்பில் ஆட்சிமொழிப் பயிலரங்கம் (தினமணி)
+04:29:22 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-26_04
