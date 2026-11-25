@@ -83,6 +83,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `fa0d5f5` | Per-post e-mail for every post, at most 60 a day for all 7 pages together (one Gmail account); later posts are in the daily summary |
+| 2026-11-25 | `1187f30` | stories shared / Instagram pause |
+| 2026-11-25 | `6ba6305` | stories shared / Instagram pause |
+| 2026-11-25 | `38fd3a0` | stories shared / Instagram pause |
+| 2026-11-25 | `d009487` | stories shared / Instagram pause |
+| 2026-11-25 | `daf2b42` | stories shared / Instagram pause |
+| 2026-11-25 | `2c06038` | stories shared / Instagram pause |
+| 2026-11-25 | `2ce1dc8` | stories shared / Instagram pause |
+| 2026-11-25 | `8eab76e` | stories shared / Instagram pause |
 | 2026-11-25 | `74e3bbc` | R2: one folder per page (the repository name) in every job, so the 24-hour clean-up finds every file |
 | 2026-11-25 | `64be304` | stories shared / Instagram pause |
 | 2026-11-25 | `cd783b4` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
@@ -104,13 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `6ac795d` | stories shared / Instagram pause |
 | 2026-11-25 | `a6a0fe4` | stories shared / Instagram pause |
 | 2026-11-25 | `f4bcc1b` | R2: accept the Account ID pasted as a link or with spaces; clear message when it is another value |
-| 2026-11-25 | `5e3990c` | stories shared / Instagram pause |
-| 2026-11-25 | `364c53a` | stories shared / Instagram pause |
-| 2026-11-25 | `a5c7728` | stories shared / Instagram pause |
-| 2026-11-25 | `4503b76` | stories shared / Instagram pause |
-| 2026-11-25 | `ca13964` | stories shared / Instagram pause |
-| 2026-11-25 | `e5754b5` | stories shared / Instagram pause |
-| 2026-11-25 | `662d765` | stories shared / Instagram pause |
-| 2026-11-25 | `cba5b75` | pick: written and posted |
-| 2026-11-25 | `edce690` | pick: picked news saved |
 <!-- recent-changes:end -->
