@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `ed61f74` | YouTube: first comment (the Instagram source comment) and topic playlists after each upload - start once the channel login has the youtube.force-ssl permission; skipped quietly until then |
+| 2026-11-25 | `d50d44f` | stories shared / Instagram pause |
 | 2026-11-25 | `3706dca` | Platform text: Facebook news caption short (headline + 3 lines + source) with the Tamil district tag; YouTube title ~70 chars with an English search word, 3 hashtags first, Subscribe line, Tamil language |
 | 2026-11-25 | `5e9ab76` | stories shared / Instagram pause |
 | 2026-11-25 | `c95b59f` | goldrate posted |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `64be304` | stories shared / Instagram pause |
 | 2026-11-25 | `cd783b4` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
 | 2026-11-25 | `287a5dd` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
-| 2026-11-25 | `cb73ec6` | stories shared / Instagram pause |
-| 2026-11-25 | `4ba9a5a` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
