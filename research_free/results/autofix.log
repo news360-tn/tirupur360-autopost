@@ -1,7 +1,7 @@
-23:36:45 hold lifted: RN-73 - not grounded: location 'நிலையம்' is not in the article - the location IS in the article (checked again)
-23:36:46 hold lifted: RN-86 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-23:36:47 hold lifted: RN-93 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-23:36:52 6 held news to fix: ['RN-239', 'RN-247', 'RN-251', 'RN-259', 'RN-270', 'RN-272']
+11:14:23 hold lifted: RN-73 - not grounded: location 'நிலையம்' is not in the article - the location IS in the article (checked again)
+11:14:26 hold lifted: RN-86 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:14:27 hold lifted: RN-93 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:14:35 4 held news to fix: ['RN-251', 'RN-259', 'RN-270', 'RN-272']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
@@ -14,28 +14,91 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (4s)
-attempt 1 groq/qwen/qwen3.8-27b: 5 problems
-  hl1 is 50 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  numbers not found in the article: 10
-  slides_spec.loc 'திருப்பூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 14 ('14 முதல் 31ம் தேதிக்குள்ளும், பிளஸ் 2 பொதுத்தேர்வு எழுதுவோரி'); 31 ('14 முதல் 31ம் தேதிக்குள்ளும், பிளஸ் 2 பொதுத்தேர்வு எழுதுவோரி'); 22 ('22 முதல் 31ம் தேதிக்குள்ளும் கல்வி மேலாண்மை தகவல் மையத்தில் '); 31 ('22 முதல் 31ம் தேதிக்குள்ளும் கல்வி மேலாண்மை தகவல் மையத்தில் ')
+ok groq/openai/gpt-oss-120b (6s)
+attempt 1 groq/openai/gpt-oss-120b: 17 problems
+  slide 3 must have 2-3 lines
+  sentence 1 (one-line story) has 22 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 17, 22
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் த»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் து»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் த»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் து»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ரத்தூா், இ»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் ம»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் மி»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் த»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் து»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ரத்தூா், இ»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ரத்தூா், உ»
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
-23:37:38 RN-239 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate 
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 2 groq/qwen/qwen3.8-27b: 52 problems
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் ப»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் ப»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் பக»
+  stray Tamil sign '்' after 'ா' in «றியாளா் எஸ»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் த»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் து»
+  stray Tamil sign '்' after 'ா' in «்ப நகா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «ன்புதூா், »
+  stray Tamil sign '்' after 'ா' in «்புதூா், க»
+  stray Tamil sign 'ா' after 'ூ' in «ம்புதூா் ப»
+  stray Tamil sign '்' after 'ா' in «்புதூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «ன்புதூா், »
+  stray Tamil sign '்' after 'ா' in «்புதூா், ம»
+  stray Tamil sign 'ா' after 'ூ' in « மூலனூா் ப»
+  stray Tamil sign '்' after 'ா' in «மூலனூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «டிபுதூா், »
+  stray Tamil sign '்' after 'ா' in «ிபுதூா், வ»
+  stray Tamil sign 'ா' after 'ூ' in « பழையூா், »
+  stray Tamil sign '்' after 'ா' in «பழையூா், அ»
+  stray Tamil sign 'ா' after 'ூ' in «ன்புதூா் ப»
+  stray Tamil sign '்' after 'ா' in «்புதூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «யக்கனூா், »
+  stray Tamil sign '்' after 'ா' in «க்கனூா், ஆ»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் ப»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் ப»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் பக»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா் த»
+  stray Tamil sign '்' after 'ா' in «ரத்தூா் து»
+  stray Tamil sign '்' after 'ா' in «றியாளா் எஸ»
+  stray Tamil sign '்' after 'ா' in «்ப நகா், ல»
+  stray Tamil sign 'ா' after 'ூ' in «ன்புதூா், »
+  stray Tamil sign '்' after 'ா' in «்புதூா், க»
+  stray Tamil sign 'ா' after 'ூ' in «ம்புதூா், »
+  stray Tamil sign '்' after 'ா' in «்புதூா், எ»
+  stray Tamil sign 'ா' after 'ூ' in «ன்புதூா், »
+  stray Tamil sign '்' after 'ா' in «்புதூா், ம»
+  stray Tamil sign 'ா' after 'ூ' in « மூலனூா், »
+  stray Tamil sign '்' after 'ா' in «மூலனூா், வ»
+  stray Tamil sign 'ா' after 'ூ' in «டிபுதூா், »
+  stray Tamil sign '்' after 'ா' in «ிபுதூா், வ»
+  stray Tamil sign 'ா' after 'ூ' in « பழையூா், »
+  stray Tamil sign '்' after 'ா' in «பழையூா், அ»
+  stray Tamil sign 'ா' after 'ூ' in «ன்புதூா், »
+  stray Tamil sign '்' after 'ா' in «்புதூா், ச»
+  stray Tamil sign 'ா' after 'ூ' in «யக்கனூா், »
+  stray Tamil sign '்' after 'ா' in «க்கனூா், ஆ»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ரத்தூா், இ»
+  stray Tamil sign 'ா' after 'ூ' in «மரத்தூா், »
+  stray Tamil sign '்' after 'ா' in «ரத்தூா், உ»
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+11:15:03 RN-251 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
