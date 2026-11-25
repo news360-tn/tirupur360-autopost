@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T16:31:02.577511+05:30",
+ "last_end": "2026-11-25T17:02:59.810868+05:30",
  "pool": {
   "C5344c75": {
    "id": "C5344c75",
@@ -141,48 +141,9 @@
    "listed_at": "2026-11-25T02:21:10.586740+05:30",
    "picked_at": "2026-11-25T02:22:21.179268+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "Cbba89ad": {
-   "id": "Cbba89ad",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/school-students-awareness-on-waste-to-art/4385728",
-   "title": "கழிவில் கலைப்பொருள் தயாரிப்பு பள்ளி மாணவர்கள் விழிப்புணர்வு",
-   "summary": "உடுமலை: கழிவுகளை கலைப்பொருளாக மாற்றி பயன்படுத்த முடியும் என, குடிமங்கலம் அரசு மேல்நிலைப்பள்ளி மாணவ, மாணவியர் கருத்தரங்கம் வாயிலாக விழிப்புணர்வு ஏற்படுத்தினர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T16:20:15+05:30",
-   "category": "கல்வி",
-   "score": 6.5,
-   "power_cut": false,
-   "listed_at": "2026-11-25T16:31:02.577511+05:30",
-   "picked_at": "2026-11-25T16:35:02.821769+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-24_03": {
-   "window": [
-    "2026-11-24T00:08:24.954782+05:30",
-    "2026-11-24T03:42:33.746831+05:30"
-   ],
-   "ids": [
-    "C87aec21",
-    "C48637fa"
-   ],
-   "sent": false,
-   "deadline": "2026-11-24T04:42:33.746831+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 1 by insights + 1 power cut",
-    "ids": [
-     "C87aec21"
-    ],
-    "at": "2026-11-24T03:43:56.586386+05:30"
-   },
-   "written": [
-    "C87aec21"
-   ],
-   "refused": {
-    "C87aec21": "not filed: duplicate after write"
-   }
-  },
   "2026-11-24_04": {
    "window": [
     "2026-11-24T03:42:33.746831+05:30",
@@ -694,6 +655,20 @@
    "written": [
     "Cbba89ad"
    ]
+  },
+  "2026-11-25_17": {
+   "window": [
+    "2026-11-25T16:31:02.577511+05:30",
+    "2026-11-25T17:02:59.810868+05:30"
+   ],
+   "ids": [
+    "C72796f6",
+    "Cfa0953a"
+   ],
+   "sent": false,
+   "deadline": "2026-11-25T18:02:59.810868+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
