@@ -3,108 +3,108 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/polyester-fabric--start-local-production-micro-small-manufacturer-expects/4385191",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/school-students-awareness-on-waste-to-art/4385728",
   "candidate filter: collected=1",
   "to write: 1 Tirupur district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
+  "real photo from the source (Dinamalar) for 'Gudimangalam school students create art '",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 78 min",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
   "filed: 1 Tirupur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.5-flash (16s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok gemini/gemini-3.6-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok gemini/gemini-3.6-flash (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (42s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (29s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூரில் பாலியெஸ்டர் துணி உற்பத்தி தொடங்க வேண்டும்: உற்பத்தியாளர்கள் எதிர்பார்ப்பு",
-   "english_headline": "Small garment manufacturers in Tirupur demand local polyester fabric production to compete with North India",
-   "category": "Business & Prices",
-   "location": "Tirupur city, Tirupur district",
+   "tamil_headline": "குடிமங்கலம் அரசுப் பள்ளியில் 'கழிவிலும் கலைப்பொருட்கள்' விழிப்புணர்வு கண்காட்சி",
+   "english_headline": "Gudimangalam school students create art from waste materials as part of Eco-Club awareness initiative",
+   "category": "Education",
+   "location": "Gudimangalam, Tirupur district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தொழில் செய்தி",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூரில் பாலியெஸ்டர் உற்பத்தி தேவை",
-    "hl2": "குறு உற்பத்தியாளர்கள்",
+    "cat": "விழிப்புணர்வு",
+    "loc": "குடிமங்கலம், உடுமலை",
+    "hl1": "குடிமங்கலத்தில் கழிவில் கலைப்பொருட்கள்",
+    "hl2": "பள்ளி மாணவர்கள் அசத்தல்",
     "slides": [
      {
-      "title": "நிலைமை என்ன?",
+      "title": "விழிப்புணர்வு",
       "lines": [
-       "திருப்பூரில் பாலியெஸ்டர் துணி உற்பத்தி குறைவு",
-       "வடமாநிலங்களில் கடந்த <b>3 ஆண்டுகளில்</b> உற்பத்தி அதிகரிப்பு",
-       "லூதியானாவில் குளிர்கால ஆடைகள் அதிக உற்பத்தி"
+       "<b>குடிமங்கலம்</b> அரசு மேல்நிலைப்பள்ளி",
+       "பசுமைப்பள்ளி திட்டத்தின் கீழ் விழிப்புணர்வு",
+       "கழிவுப் பொருட்களை மறுசுழற்சி செய்ய பயிற்சி"
       ]
      },
      {
-      "title": "என்ன பாதிப்பு?",
+      "title": "மாணவர் படைப்புகள்",
       "lines": [
-       "வடமாநிலங்களில் மாதம் <b>10 புதிய டிசைன்கள்</b> உற்பத்தி",
-       "திருப்பூரில் பாலியெஸ்டர் துணி விலை அதிகம்",
-       "வடமாநிலங்களை நம்பி ஆடை தயாரிக்கும் சூழல்"
+       "<b>கழிவிலும் கலைப்பொருட்கள்</b> தலைப்பில் காட்சி",
+       "பிளாஸ்டிக் பாட்டில்களில் <b>அழகிய பூந்தொட்டிகள்</b>",
+       "பழைய பருத்தித் துணியில் <b>கைக்குட்டை, பைகள்</b>"
       ]
      },
      {
-      "title": "என்ன தேவை?",
+      "title": "முக்கிய நோக்கம்",
       "lines": [
-       "சூரத், லூதியானா போல திருப்பூரிலும் சாயமிடும் தொழில் தேவை",
-       "செயற்கை நூலிழை உற்பத்தி தொழில்நுட்பத்துக்கு மாற வேண்டும்",
-       "பாலியெஸ்டர் துணி உற்பத்தி வேகமெடுக்க கோரிக்கை"
-      ]
-     },
-     {
-      "title": "யார் நடவடிக்கை?",
-      "lines": [
-       "தமிழ்நாடு பின்னலாடை வாரியம் நடவடிக்கை எடுக்க எதிர்பார்ப்பு",
-       "தொழில் அமைப்புகளின் கூட்டுக்குழு முயற்சிக்க கோரிக்கை"
+       "தேவையற்ற பொருட்களை பயனுள்ளதாக மாற்றுதல்",
+       "<b>பிளாஸ்டிக் பயன்பாட்டை</b> குறைக்கும் முயற்சி",
+       "தலைமையாசிரியர் பழனிசாமி, ஜோதிமணி ஏற்பாடு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூரில் பாலியெஸ்டர் துணி உற்பத்தியை உள்ளூரிலேயே தொடங்க வேண்டும் என்று குறு உற்பத்தியாளர்கள் வலியுறுத்தியுள்ளனர். திருப்பூரில் பின்னலாடைத் தொழிலை நவீனப்படுத்த இந்த நடவடிக்கை அவசியம் எனத் தொழில்துறையினர் கூறுகின்றனர். கடந்த 3 ஆண்டுகளாக வடமாநிலங்களில் பாலியெஸ்டர் பின்னலாடை உற்பத்தி பெருமளவில் வளர்ச்சி அடைந்துள்ளது. வடமாநில உற்பத்தியாளர்கள் மாதம் 10 புதிய டிசைன்களில் துணிகளை உற்பத்தி செய்கின்றனர். திருப்பூரில் பாலியெஸ்டர் துணி உற்பத்தி குறைவாக இருப்பதால் அதன் விலை அதிகமாக உள்ளது. இதனால் வடமாநிலங்களில் இருந்து துணிகளை வாங்கும் நிலை நிலவுகிறது. சூரத் மற்றும் லூதியானா நகரங்களில் பாலியெஸ்டர் துணிகளுக்குச் சாயமிடுவதில் சிறப்பு கவனம் செலுத்துகின்றனர். திருப்பூரிலும் செயற்கை நூலிழை உற்பத்தி மற்றும் சாயமிடும் தொழில்நுட்பத்துக்கு மாற வேண்டியது அவசியமாகும். தமிழ்நாடு பின்னலாடை வாரியம் மற்றும் தொழில் அமைப்புகள் இணைந்து இதற்கான நடவடிக்கைகளைத் தொடங்க வேண்டும் என எதிர்பார்ப்பு எழுந்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧵 திருப்பூரில் பாலியெஸ்டர் துணி உற்பத்தியைத் தொடங்க குறு உற்பத்தியாளர்கள் எதிர்பார்ப்பு\n\n📰 முழு விவரம்:\nதிருப்பூரில் பின்னலாடை தொழிலை நவீனப்படுத்தும் வகையில், பாலியெஸ்டர் துணி உற்பத்தி மற்றும் விற்பனையை மேம்படுத்த வேண்டும் என குறு, சிறு உற்பத்தியாளர்கள் எதிர்பார்க்கின்றனர். கடந்த 3 ஆண்டுகளாக வடமாநிலங்களில் பாலியெஸ்டர் பின்னலாடை உற்பத்தி வேகமாக வளர்ச்சி அடைந்துள்ளது. வடமாநிலங்களில் மாதம் 10 புதிய டிசைன்களில் துணிகள் தயாரிக்கப்படுகின்றன. திருப்பூரில் பாலியெஸ்டர் உற்பத்தி குறைவாக உள்ளதால் விலை அதிகமாக இருக்கிறது. சூரத், லூதியானா நகரங்களைப் போல திருப்பூரிலும் செயற்கை நூலிழை உற்பத்தி மற்றும் சாயமிடும் தொழில்நுட்பங்கள் அறிமுகமாக வேண்டும் எனத் தொழில்துறையினர் வலியுறுத்தியுள்ளனர்.\n\n📍 இடம்: திருப்பூர் நகரம், திருப்பூர் மாவட்டம்\n🏭 கோரிக்கை: பாலியெஸ்டர் துணி உற்பத்தி மற்றும் சாயமிடும் தொழில்நுட்பத்தை திருப்பூரில் தொடங்குவது\n🤝 அமைப்புகள்: தமிழ்நாடு பின்னலாடை வாரியம் மற்றும் தொழில் அமைப்புகளின் கூட்டுக்குழு\nℹ️ மக்கள் கவனத்திற்கு: ஆடை உற்பத்தியாளர்கள் புதிய தொழில்நுட்பங்களுக்கு மாற தொழில்துறையினர் அழைப்பு\n\nபின்னலாடை தொழிலாளர்களுக்கு Share செய்யுங்கள்\n\nTirupur polyester fabric production demand | Tirupur news\n📍 Tirupur city, Tirupur | 25 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurCity #TirupurNews #திருப்பூர்",
-   "prompts": "A group of small garment manufacturers stands in a circle inside a large knitwear factory, engaged in a serious discussion about production methods. The location is a typical Tirupur garment unit with high ceilings and rows of industrial sewing machines visible in the background. The men, dressed in casual shirts and trousers, are seen from behind and the side, gesturing towards a table where samples of fabric are laid out. On the table, there are distinct piles of white cotton yarn and grey polyester fabric, highlighting the contrast between the two materials. The lighting is bright, natural daylight streaming through large factory windows, illuminating the dust motes in the air. The camera is positioned at eye level, 35 mm lens, capturing the interaction and the industrial setting without focusing on individual faces, ensuring the scene conveys the business context of the knitwear industry in Tirupur. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a table inside a garment factory where samples of different fabrics are arranged for inspection. In the foreground, a roll of white cotton yarn sits next to a folded piece of grey polyester fabric, emphasizing the material difference discussed by manufacturers. Behind the table, the blurred background shows rows of sewing machines and bales of cloth, characteristic of Tirupur's knitwear industry. The lighting is soft and even, typical of an indoor industrial workspace during the day. The camera is slightly high, looking down at the objects, using a 35 mm lens to keep the focus sharp on the fabric textures while the machinery in the background remains out of focus. This detail shot highlights the specific materials at the heart of the manufacturers' demand for local polyester production. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/polyester-fabric--start-local-production-micro-small-manufacturer-expects/4385191",
-   "published": "2026-11-24T20:22:02+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "குடிமங்கலம் அரசுப் பள்ளியில் மாணவர்கள் கழிவுப்பொருட்களில் இருந்து அழகிய கலைப்பொருட்களை உருவாக்கினர். உடுமலை அருகே உள்ள குடிமங்கலம் அரசு மேல்நிலைப்பள்ளியில் பசுமைப்பள்ளி திட்டத்தின் கீழ் விழிப்புணர்வு அளிக்கப்பட்டது. கழிவுகளை மறுசுழற்சி செய்து பயன்படக்கூடிய பொருட்களாக மாற்றும் பயிற்சி மாணவர்களுக்கு வழங்கப்பட்டது. இதன் தொடர்ச்சியாக கழிவிலும் கலைப்பொருட்கள் என்ற தலைப்பில் மாணவர்கள் தயாரித்த பொருட்கள் காட்சிப்படுத்தப்பட்டன. பிளாஸ்டிக் பாட்டில்களைக் கொண்டு அழகிய பூந்தொட்டிகளை மாணவர்கள் உருவாக்கினர். பழைய பருத்தித் துணிகளில் இருந்து கைக்குட்டைகள் மற்றும் துணிப்பைகளையும் தயாரித்தனர். இதன் மூலம் பிளாஸ்டிக் பயன்பாட்டைக் குறைப்பது மற்றும் சுற்றுச்சூழல் பாதுகாப்பின் அவசியத்தை மாணவர்கள் உணர்ந்தனர். இந்த விழிப்புணர்வு நிகழ்ச்சியை தலைமையாசிரியர் பழனிசாமி மற்றும் பசுமைப்படை ஒருங்கிணைப்பாளர் ஜோதிமணி ஆகியோர் ஒருங்கிணைத்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎨 குடிமங்கலம் அரசுப் பள்ளியில் கழிவுகளில் கலைப்பொருள்: மாணவர்கள் விழிப்புணர்வு காட்சி\n\n📰 முழு விவரம்:\nஉடுமலை அருகே உள்ள குடிமங்கலம் அரசு மேல்நிலைப்பள்ளியில் பசுமைப்பள்ளி திட்டத்தின் கீழ் சுற்றுச்சூழல் விழிப்புணர்வு வழங்கப்பட்டு வருகிறது. இதன் ஒரு பகுதியாக பயன்படுத்தப்பட்டு வீசி எறியப்பட்ட பொருட்களை மறுசுழற்சி செய்து கலைப்பொருட்கள் தயாரிக்கும் பயிற்சி மாணவர்களுக்கு அளிக்கப்பட்டது. மாணவர்கள் 'கழிவிலும் கலைப்பொருட்கள்' என்ற தலைப்பில் பிளாஸ்டிக் பாட்டில்களில் பூந்தொட்டிகள், பழைய பருத்தித் துணிகளில் கைக்குட்டைகள் மற்றும் துணிப்பைகளைத் தயாரித்துக் காட்சிப்படுத்தினர். இதன் மூலம் பிளாஸ்டிக் பயன்பாட்டைக் குறைத்தல் மற்றும் மறுசுழற்சியின் முக்கியத்துவத்தை மாணவர்கள் அறிந்து கொண்டனர். நிகழ்ச்சி ஏற்பாடுகளைத் தலைமையாசிரியர் பழனிசாமி, பசுமைப்படை ஒருங்கிணைப்பாளர் ஜோதிமணி ஆகியோர் செய்திருந்தனர்.\n\n📍 இடம்: குடிமங்கலம் அரசு மேல்நிலைப்பள்ளி, உடுமலை\n🌱 திட்டம்: பசுமைப்பள்ளி திட்டம்\n🎨 கண்காட்சி: கழிவிலும் கலைப்பொருட்கள்\nℹ️ மக்கள் கவனத்திற்கு: பிளாஸ்டிக் பயன்பாட்டைக் குறைத்து மறுசுழற்சி பொருட்களைப் பயன்படுத்த விழிப்புணர்வு ஏற்படுத்தப்பட்டது.\n\nமாணவர்களின் இந்த நல்முயற்சிக்கு வாழ்த்து தெரிவிக்க Share செய்யுங்கள்.\n\nGudimangalam school students create art from waste materials | Tirupur news\n📍 குடிமங்கலம், திருப்பூர் மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #Education #திருப்பூர்",
+   "prompts": "School students wearing Tamil Nadu government school uniforms stand around wooden tables, displaying handcrafted art items made from recycled waste materials inside Gudimangalam Government Higher Secondary School, Tirupur. The school corridor has painted plaster walls and wide windows letting in bright daytime sunlight. A group of four students, viewed from behind to avoid recognizable faces, arrange their crafts including flower pots made from cut plastic bottles and hand-stitched cloth bags made from old fabric scraps. Wooden tables are filled with painted plastic bottle planters holding small green saplings alongside folded cotton handkerchiefs. The daytime lighting is bright and clear inside the school grounds. Captured at eye level using a 35 mm lens, the medium-wide frame showcases the students actively participating in their eco-awareness display. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view focuses on handcrafted flower pots made from repurposed plastic bottles and folded cloth bags resting on a wooden table inside Gudimangalam Government Higher Secondary School. The plastic bottles are trimmed, painted in vibrant shades, and filled with soil and small green leaf plants. Next to them lie hand-stitched cloth tote bags and neatly folded cotton handkerchiefs crafted from old cotton fabrics by the students. In the blurred background, the sleeve of a student's light blue school uniform is partially visible while holding one of the planters, with no face visible. Daylight illuminates the texture of the recycled cotton fabric and the glossy surface of the painted plastic planters. Shot with a 35 mm camera at eye level with a shallow depth of field focusing sharply on the recycled craft objects. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/school-students-awareness-on-waste-to-art/4385728",
+   "published": "2026-11-25T16:20:15+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 5 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795568378/tirupur360/jkuquvqcgg8gnpxnjbyy.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795568385/tirupur360/tq7pj5cn8vcxry9epkzv.jpg"
-   ]
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261125/50b5a312adb523a8.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261125/c1a19de9e345f3e0.jpg"
+   ],
+   "real_photo": "Dinamalar"
   }
  ]
 }
