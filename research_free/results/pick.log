@@ -1,64 +1,21 @@
-20:27:24 round 2026-11-25_20: news published 25 Nov 17:02 -> 25 Nov 20:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-20:27:24 insights 2026-11-25T20:27+05:30 (247 reels): topic weights {'politics': -0.35, 'accident': 0.65, 'crime': 1.5, 'education': -0.5, 'jobs': 0.43, 'power_cut': 0.27, 'temple': -0.05, 'civic': -0.05, 'poultry_agri': -0.48, 'weather': -0.5, 'sports_culture': 0.17}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் குடுமிப்பிடி சண்டை']
-20:31:31 open search 'திருப்பூர்' (from_google): 10 links from our outlets
-20:31:31 122 links on the two papers' Tirupur pages
-20:33:03 skipped: not Tirupur district=54, published before this window=32, already posted=12, same event already posted=3, not Tamil=3, power cut - posted automatically=2, only a headline=2, state-wide / other district=1, shop offer / advertisement=1
-20:33:03 list: 9 new + 1 earlier news not posted yet
-20:33:03    1. [குற்றம்] இடத்தில் குப்பை கொட்டிய வாகனம் பறிமுதல்: அபராதம் விதிப்பு (தினமலர்)
-20:33:03    2. [மழை / வானிலை] வஞ்சிபாளையம் ரோட்டில் மழைநீர் தேக்கத்துக்கு விடிவு (தினமலர்)
-20:33:03    3. [மாநகராட்சி] பசுமையை சுமையாக நினைக்கும் மாநகராட்சி: நொய்யல் கரையில் காட்டிய அக்கறைய (தினமலர்)
-20:33:03    4. [பொது] ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லிக்கு மத்திய அரசு தடை விழிப்புணர்வு  (தினமலர்)
-20:33:03    5. [பொது] அடிப்படை வசதிகளின்றி பொதுமக்கள் தவிப்பு:ரெட்டிபாளையத்தில் தொடரும் அவலம (தினமலர்)
-20:33:03    6. [பொது] ராபி பருவ பயிர்களுக்கு பயிர்க்காப்பீடு: குடிமங்கலம் வேளாண் துறை அறிவுற (தினமலர்)
-20:33:03    7. [பொது] பி.ஏ.பி., பாசன திட்டத்தை மறு சீரமைக்க குழு அமைப்பு! ஆய்வு செய்து அறிக் (தினமலர்)
-20:33:03    8. [பொது] காஸ் நுகர்வோர் குறை தீர் கூட்டம் (தினமலர்)
-20:33:03    9. [பொது] நாளை மறுதினம் (27ம் தேதி) மாவட்ட அளவிலான விவசாயிகள் குறை தீர் கூட்டம் (தினமலர்)
-20:33:03   10. [பொது] சாதனை பெண் குழந்தைகள் விருதுக்கு விண்ணப்பிக்கலாம் (தினமலர்) (earlier)
-20:33:03 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-25_20
-20:33:05    not picked automatically (ceremony / award / awareness event (low views)): சாதனை பெண் குழந்தைகள் விருதுக்கு விண்ணப்பிக்கலாம்
-20:33:05 round 2026-11-25_20 (at least 5, up to 3 more of well-watched topics): 9 news to choose from (0 from earlier rounds), ranked by this page's insights
-20:33:05   PICK   1.  10.8 [civic -0.05 page] இடத்தில் குப்பை கொட்டிய வாகனம் பறிமுதல்: அபராதம் விதிப்பு
-20:33:05   PICK   2.   9.8 [civic -0.05 page] பசுமையை சுமையாக நினைக்கும் மாநகராட்சி: நொய்யல் கரையில் காட்ட
-20:33:05   PICK   3.   9.0 [weather -0.50 page] வஞ்சிபாளையம் ரோட்டில் மழைநீர் தேக்கத்துக்கு விடிவு
-20:33:05   PICK   4.   8.0 [other +0.00 pattern] அடிப்படை வசதிகளின்றி பொதுமக்கள் தவிப்பு:ரெட்டிபாளையத்தில் தொ
-20:33:05   PICK   5.   7.1 [poultry_agri -0.48 page] ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லிக்கு மத்திய அரசு தடை விழி
-20:33:05   PICK   6.   6.0 [other +0.00 pattern] ராபி பருவ பயிர்களுக்கு பயிர்க்காப்பீடு: குடிமங்கலம் வேளாண் த
-20:33:05   PICK   7.   3.0 [other +0.00 pattern] பி.ஏ.பி., பாசன திட்டத்தை மறு சீரமைக்க குழு அமைப்பு! ஆய்வு செ
-20:33:05   PICK   8.   3.0 [other +0.00 pattern] காஸ் நுகர்வோர் குறை தீர் கூட்டம்
-20:33:05   PICK   9.   1.1 [poultry_agri -0.48 page] நாளை மறுதினம் (27ம் தேதி) மாவட்ட அளவிலான விவசாயிகள் குறை தீர
-20:33:05 decided: automatic: top 5 of 9 by insights -> 9 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/vehicle-littering-seized-fined/4386078 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/the-witness-is-the-concern-shown-by-the-corporation-on-the-banks-of-the-noyyal-which-thinks-of-green-as-a-burden-/4385945 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rainwater-logging-on-vanchipalayam-road/4386029 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/basic-lack-of-facilities-tragedy-at-reddipalayam/4385816 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/central-government-ban-on-paraquat-dichloride-herbicide-calls-on-farmers-to-raise-awareness/4386075 https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/crop-insurance-for-rabi-crops-kudimangalam-agriculture-department-instructions/4386005 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/committee-formed-to-revamp-bap-irrigation-project/4385760 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/gaz-consumer-grievance-redressal-meeting/4385818 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tomorrow-district-level-farmers-grievance-redressal-meeting/4385817
-20:36:01 7 picked news refused by the writer - not offered again
-20:36:01 2 listed news now in the Sheet
-20:36:13 instagram duplicate check tirupur: 50 recent posts read
-20:36:15 verify 2026-11-25_20: 0 of 9 picked news posted, 8 skipped on purpose, 0 waiting for their posting start
-20:36:15    SKIPPED C10d312f: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - பசுமையை சுமையாக நினைக்கும் மாநகராட்சி: நொய்யல் கரையில் காட்ட
-20:36:15    SKIPPED C1447fad: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - இடத்தில் குப்பை கொட்டிய வாகனம் பறிமுதல்: அபராதம் விதிப்பு
-20:36:15    SKIPPED C2c577af: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - வஞ்சிபாளையம் ரோட்டில் மழைநீர் தேக்கத்துக்கு விடிவு
-20:36:15    SKIPPED C549e759: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - நாளை மறுதினம் (27ம் தேதி) மாவட்ட அளவிலான விவசாயிகள் குறை தீர
-20:36:15    SKIPPED C9023279: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லிக்கு மத்திய அரசு தடை விழி
-20:36:15    SKIPPED Cd4c42cc: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - அடிப்படை வசதிகளின்றி பொதுமக்கள் தவிப்பு:ரெட்டிபாளையத்தில் தொ
-20:36:15    SKIPPED Cd586398: skipped RN-285: held: fact-check problems - numbers not found in the article: 377152 - பி.ஏ.பி., பாசன திட்டத்தை மறு சீரமைக்க குழு அமைப்பு! ஆய்வு செ
-20:36:15    SKIPPED Cfb654c3: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - ராபி பருவ பயிர்களுக்கு பயிர்க்காப்பீடு: குடிமங்கலம் வேளாண் த
-20:36:15    NOT POSTED C11a66f9: queued RN-284 (Queued) - காஸ் நுகர்வோர் குறை தீர் கூட்டம்
-20:41:21 instagram duplicate check tirupur: 50 recent posts read
-20:41:23 verify 2026-11-25_20: 0 of 9 picked news posted, 8 skipped on purpose, 0 waiting for their posting start
-20:41:23    SKIPPED C10d312f: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - பசுமையை சுமையாக நினைக்கும் மாநகராட்சி: நொய்யல் கரையில் காட்ட
-20:41:23    SKIPPED C1447fad: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - இடத்தில் குப்பை கொட்டிய வாகனம் பறிமுதல்: அபராதம் விதிப்பு
-20:41:23    SKIPPED C2c577af: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - வஞ்சிபாளையம் ரோட்டில் மழைநீர் தேக்கத்துக்கு விடிவு
-20:41:23    SKIPPED C549e759: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - நாளை மறுதினம் (27ம் தேதி) மாவட்ட அளவிலான விவசாயிகள் குறை தீர
-20:41:23    SKIPPED C9023279: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லிக்கு மத்திய அரசு தடை விழி
-20:41:23    SKIPPED Cd4c42cc: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - அடிப்படை வசதிகளின்றி பொதுமக்கள் தவிப்பு:ரெட்டிபாளையத்தில் தொ
-20:41:23    SKIPPED Cd586398: skipped RN-285: held: fact-check problems - numbers not found in the article: 377152 - பி.ஏ.பி., பாசன திட்டத்தை மறு சீரமைக்க குழு அமைப்பு! ஆய்வு செ
-20:41:23    SKIPPED Cfb654c3: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - ராபி பருவ பயிர்களுக்கு பயிர்க்காப்பீடு: குடிமங்கலம் வேளாண் த
-20:41:23    NOT POSTED C11a66f9: queued RN-284 (Queued) - காஸ் நுகர்வோர் குறை தீர் கூட்டம்
-20:46:31 verify 2026-11-25_20: 1 of 9 picked news posted, 8 skipped on purpose, 0 waiting for their posting start
-20:46:31    SKIPPED C10d312f: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - பசுமையை சுமையாக நினைக்கும் மாநகராட்சி: நொய்யல் கரையில் காட்ட
-20:46:31    SKIPPED C1447fad: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - இடத்தில் குப்பை கொட்டிய வாகனம் பறிமுதல்: அபராதம் விதிப்பு
-20:46:31    SKIPPED C2c577af: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - வஞ்சிபாளையம் ரோட்டில் மழைநீர் தேக்கத்துக்கு விடிவு
-20:46:31    SKIPPED C549e759: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - நாளை மறுதினம் (27ம் தேதி) மாவட்ட அளவிலான விவசாயிகள் குறை தீர
-20:46:31    SKIPPED C9023279: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லிக்கு மத்திய அரசு தடை விழி
-20:46:31    SKIPPED Cd4c42cc: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - அடிப்படை வசதிகளின்றி பொதுமக்கள் தவிப்பு:ரெட்டிபாளையத்தில் தொ
-20:46:31    SKIPPED Cd586398: skipped RN-285: held: fact-check problems - numbers not found in the article: 377152 - பி.ஏ.பி., பாசன திட்டத்தை மறு சீரமைக்க குழு அமைப்பு! ஆய்வு செ
-20:46:31    SKIPPED Cfb654c3: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - ராபி பருவ பயிர்களுக்கு பயிர்க்காப்பீடு: குடிமங்கலம் வேளாண் த
+23:01:25 round 2026-11-25_23: news published 25 Nov 20:27 -> 25 Nov 23:01 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+23:01:25 insights 2026-11-25T23:01+05:30 (248 reels): topic weights {'politics': -0.19, 'accident': 0.66, 'crime': 1.5, 'education': -0.5, 'jobs': 0.44, 'power_cut': 0.28, 'temple': -0.05, 'civic': -0.04, 'poultry_agri': -0.47, 'weather': -0.5, 'sports_culture': 0.1}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+23:03:10 open search 'திருப்பூர்' (from_google): 4 links from our outlets
+23:03:10 91 links on the two papers' Tirupur pages
+23:04:28 skipped: published before this window=32, not Tirupur district=23, already posted=11, same event already posted=2, power cut - posted automatically=2, only a headline=2, feature / tips / recipe, not a Tirupur event=1, state-wide / other district=1
+23:04:28 list: 13 new + 0 earlier news not posted yet
+23:04:28    1. [விபத்து] தேனீக்கள் கொட்டியதால் மூதாட்டி பரிதாப பலி (தினமலர்)
+23:04:28    2. [மழை / வானிலை] ரயில்வே நுழைவு பாலத்தில் மழைநீர் தேக்கம் (தினமலர்)
+23:04:28    3. [பொது] எஸ்.பி., விசாரணை (தினமலர்)
+23:04:28    4. [பொது] கால்வாய் வசதியில்லாத அவலம்: நகராட்சி அலுவலகம் முற்றுகை (தினமலர்)
+23:04:28    5. [பொது] டெங்கு காய்ச்சல் பாதிப்பு சிறப்ப முகாம் நடத்த கோரிக்கை (தினமலர்)
+23:04:28    6. [பொது] 45 மாணவ, மாணவியருக்கு ரூ. 2.53 கோடி கடன் அனுமதி (தினமலர்)
+23:04:28    7. [பொது] சர்வாலய தீபஜோதி திருவிழா: சிவனடியார்கள் பக்தி பரவசம் (தினமலர்)
+23:04:28    8. [ஆன்மிகம்] கோவில் திருப்பணி கள ஆய்வு கோரிக்கை (தினமலர்)
+23:04:28    9. [பொது] ரேவதி மருத்துவமனையில் ‘ஜி.இ., அல்லியா கேத் லேப்’: நோய் கண்டறிவதில் 100 (தினமலர்)
+23:04:28   10. [பொது] ‘பக்தியுடன் இறைவனை காதலிப்பதே மோட்சத்துக்கான வழி’ (தினமலர்)
+23:04:28   11. [பொது] 84 வயது மூதாட்டி கண், உடல் தானம் (தினமலர்)
+23:04:28   12. [பொது] கைவிடப்பட்ட குவாரிகள் ஆய்வுக்குழு அமைக்க பரிந்துரை (தினமலர்)
+23:04:28   13. [பொது] சிறப்பு கிராம சபா எப்போது? விவசாய சங்கத்தினர் கேள்வி (தினமலர்)
+23:04:28 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-25_23
