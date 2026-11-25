@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `0088235` | YouTube: public Shorts, 20 a day, 40-minute gap, 7am-10pm IST (same as Namakkal and Coimbatore); starts once the page's YT secrets are saved |
+| 2026-11-25 | `5add924` | stories shared / Instagram pause |
 | 2026-11-25 | `bcca75d` | R2 check: manual workflow that uploads a test file and reads it back |
 | 2026-11-25 | `5dbd447` | stories shared / Instagram pause |
 | 2026-11-25 | `523490f` | stories shared / Instagram pause |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `7a4304d` | stories shared / Instagram pause |
 | 2026-11-25 | `d910953` | stories shared / Instagram pause |
 | 2026-11-25 | `8109218` | stories shared / Instagram pause |
-| 2026-11-25 | `a11225c` | goldrate posted |
-| 2026-11-25 | `aea9ab2` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
