@@ -309,7 +309,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:28:35.140217+05:30"
+   "listed_at": "2026-11-26T04:28:35.140217+05:30",
+   "picked_at": "2026-11-26T04:29:25.062017+05:30"
   },
   "C879d510": {
    "id": "C879d510",
@@ -321,7 +322,8 @@
    "category": "விபத்து",
    "score": 10.66,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:28:35.140217+05:30"
+   "listed_at": "2026-11-26T04:28:35.140217+05:30",
+   "picked_at": "2026-11-26T04:29:25.062019+05:30"
   },
   "Cbe1ab00": {
    "id": "Cbe1ab00",
@@ -333,7 +335,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:28:35.140217+05:30"
+   "listed_at": "2026-11-26T04:28:35.140217+05:30",
+   "picked_at": "2026-11-26T04:29:25.062021+05:30"
   },
   "Cf9a0738": {
    "id": "Cf9a0738",
@@ -345,7 +348,8 @@
    "category": "ஆன்மிகம்",
    "score": 5.9,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:28:35.140217+05:30"
+   "listed_at": "2026-11-26T04:28:35.140217+05:30",
+   "picked_at": "2026-11-26T04:29:25.062022+05:30"
   },
   "C9c9a57b": {
    "id": "C9c9a57b",
@@ -360,7 +364,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/25/%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AE%AE%E0%AF%8D-%E0%AE%AE%E0%AF%8A%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%A3%E0%AF%80%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AE%BF%E0%AE%B2%E0%AF%8D-1008-%E0%AE%A4%E0%AF%80%E0%AE%AA-%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%81"
    ],
-   "listed_at": "2026-11-26T04:28:35.140217+05:30"
+   "listed_at": "2026-11-26T04:28:35.140217+05:30",
+   "picked_at": "2026-11-26T04:29:25.062023+05:30"
   },
   "C01c0759": {
    "id": "C01c0759",
@@ -372,7 +377,8 @@
    "category": "குற்றம்",
    "score": 4.0,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:28:35.140217+05:30"
+   "listed_at": "2026-11-26T04:28:35.140217+05:30",
+   "picked_at": "2026-11-26T04:29:25.062024+05:30"
   },
   "Cb162a23": {
    "id": "Cb162a23",
@@ -384,7 +390,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:28:35.140217+05:30"
+   "listed_at": "2026-11-26T04:28:35.140217+05:30",
+   "picked_at": "2026-11-26T04:29:25.062025+05:30"
   }
  },
  "rounds": {
@@ -1024,8 +1031,28 @@
    ],
    "sent": false,
    "deadline": "2026-11-26T05:28:35.140217+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 7 of 7 by insights",
+    "ids": [
+     "C59edfa2",
+     "C879d510",
+     "Cbe1ab00",
+     "Cf9a0738",
+     "C9c9a57b",
+     "C01c0759",
+     "Cb162a23"
+    ],
+    "at": "2026-11-26T04:29:25.062007+05:30"
+   },
+   "written": [
+    "C01c0759",
+    "C59edfa2",
+    "C879d510",
+    "C9c9a57b",
+    "Cb162a23",
+    "Cbe1ab00",
+    "Cf9a0738"
+   ]
   }
  },
  "retry": {}
