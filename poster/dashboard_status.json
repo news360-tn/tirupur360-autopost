@@ -1,18 +1,33 @@
 {
- "updated": "2026-11-26T22:31:10+00:00",
+ "updated": "2026-11-26T22:42:28+00:00",
  "day": "2026-11-27",
- "ready": 15,
+ "ready": 13,
  "pages": {
   "tirupur": {
    "label": "திருப்பூர் 360",
    "instagram": {
-    "posted": [],
+    "posted": [
+     {
+      "id": "RN-324",
+      "head": "வாவிபாளையத்தில் அறிவிக்கப்படாத மின் வெட்டு: பொதுமக்கள் சாலை மறியல்",
+      "link": "https://www.instagram.com/reel/DgOMXtYyC0m/",
+      "at": "2026-11-26T22:37:39+00:00",
+      "kind": "reel"
+     },
+     {
+      "id": "RN-329",
+      "head": "அவிநாசியில் சாக்கடை அடைப்பால் வீடுகளுக்குள் கழிவு நீர் புகுகிறது",
+      "link": "https://www.instagram.com/reel/DgOMn5PTqqD/",
+      "at": "2026-11-26T22:39:31+00:00",
+      "kind": "reel"
+     }
+    ],
     "paused": "",
     "quota": ""
    },
    "facebook": {
     "posted": 0,
-    "waiting": 0,
+    "waiting": 2,
     "share": [
      {
       "id": "RN-312",
@@ -29,7 +44,20 @@
     ],
     "paused": "Facebook limited this page - paused until 2026-11-27T17:57 UTC"
    },
-   "manual_post": [],
+   "manual_post": [
+    {
+     "id": "RN-311",
+     "why": "ready for more than 3 hours and still not posted",
+     "sent": "2026-11-26T22:36:02+00:00",
+     "video": true
+    },
+    {
+     "id": "RN-314",
+     "why": "ready for more than 3 hours and still not posted",
+     "sent": "2026-11-26T22:36:28+00:00",
+     "video": true
+    }
+   ],
    "daily": {
     "gold": {
      "posted": false,
