@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-26T08:26:16.226427+05:30",
+ "last_end": "2026-11-26T09:46:35.351547+05:30",
  "pool": {
   "C1447fad": {
    "id": "C1447fad",
@@ -369,21 +369,6 @@
    "picked_at": "2026-11-26T04:29:25.062024+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
   },
-  "C51617c0": {
-   "id": "C51617c0",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/road-repair-works-bring-relief-to-motorists/4386030",
-   "title": "சாலைப் பள்ளம் சீரமைப்பு: வாகன ஓட்டிகள் நிம்மதி",
-   "summary": "திருப்பூர்: திருப்பூர் நகரின் பிரதான சாலைகள், நெடுஞ்சாலைத் துறை சார்பில் தார் போட்டு புதுப்பிக்கப்பட்டு வருகின்றன. இந்நிலையில், புதுப்பிக்கப்பட்ட சில சாலைகள் சில மாதங்களிலேயே சேதமடைந்து, வாகன ஓட்டிகளுக்கு அச்சுறுத்தலா...",
-   "source": "தினமலர்",
-   "published": "2026-11-25T18:54:29+05:30",
-   "category": "சாலை",
-   "score": 7.06,
-   "power_cut": false,
-   "late_listed": true,
-   "listed_at": "2026-11-26T08:26:16.226427+05:30",
-   "picked_at": "2026-11-26T08:27:10.815067+05:30",
-   "posted": true
-  },
   "Cab74bf5": {
    "id": "Cab74bf5",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/beware-of-fever-medical-department-warns-public/4386166",
@@ -401,31 +386,6 @@
   }
  },
  "rounds": {
-  "2026-11-24_16": {
-   "window": [
-    "2026-11-24T13:54:24.974431+05:30",
-    "2026-11-24T16:27:40.016610+05:30"
-   ],
-   "ids": [
-    "C9ff984a",
-    "Cff93685",
-    "C48637fa"
-   ],
-   "sent": false,
-   "deadline": "2026-11-24T17:27:40.016610+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 2 by insights",
-    "ids": [
-     "C9ff984a",
-     "Cff93685"
-    ],
-    "at": "2026-11-24T16:29:27.535141+05:30"
-   },
-   "written": [
-    "C9ff984a",
-    "Cff93685"
-   ]
-  },
   "2026-11-24_18": {
    "window": [
     "2026-11-24T16:27:40.016610+05:30",
@@ -1012,6 +972,17 @@
    "refused": {
     "Cab74bf5": "not filed: all free models failed: no usable answer from the models"
    }
+  },
+  "2026-11-26_09": {
+   "window": [
+    "2026-11-26T08:26:16.226427+05:30",
+    "2026-11-26T09:46:35.351547+05:30"
+   ],
+   "ids": [],
+   "sent": false,
+   "deadline": "2026-11-26T10:46:35.351547+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
