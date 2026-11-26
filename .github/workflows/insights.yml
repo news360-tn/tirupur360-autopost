@@ -8,6 +8,8 @@ permissions:
 env:
   BRIDGE_URL: ${{ secrets.BRIDGE_URL }}
   BRIDGE_KEY: ${{ secrets.BRIDGE_KEY }}
+  FB_PAGE_ID_TIRUPUR: ${{ secrets.FB_PAGE_ID_TIRUPUR }}
+  FB_TOKEN_TIRUPUR: ${{ secrets.FB_TOKEN_TIRUPUR }}
 jobs:
   insights:
     runs-on: ubuntu-24.04
