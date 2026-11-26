@@ -1,0 +1,503 @@
+writing [N]: பள்ளி மாணவி பாலியல் வன்கொடுமை: பனியன் நிறுவனத் தொழிலாளி கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+writing [N]: தேனீக்கள் கொட்டியதில் பெண் விவசாயி உயிரிழப்பு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (11s)
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 1098
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+ok gemini/gemini-3-flash-preview (15s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 14 ('இச்சம்பவம் குறித்து சேவூா் போலீஸாா் வழக்குப் பதிவு செய்து வி')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: திருமூர்த்திமலையில் 13 மி.மீ., மழை
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (10s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (7s)
+attempt 2 groq/openai/gpt-oss-120b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+ok groq/qwen/qwen3.8-27b (5s)
+attempt 3 groq/qwen/qwen3.8-27b: 1 problems
+  reel_script has 57 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok gemini/gemini-3-flash-preview (50s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/openai/gpt-oss-120b (4s)
+factcheck by groq/openai/gpt-oss-120b: 3 problems
+  Caption adds a specific date (25 November 2026) not mentioned in the article
+  Slide 2 line "உடல்நலக் குறைவால் மருத்துவமனையில் அனுமதி" is ungrammatical and does not match the article’s statement that parents took the girl to the hospital
+  Reel script omits the perpetrator’s name (Ilaiyaparthi), a key fact present in the article
+attempt 2 gemini/gemini-3-flash-preview: 3 problems
+  fact-check: Caption adds a specific date (25 November 2026) not mentioned in the article
+  fact-check: Slide 2 line "உடல்நலக் குறைவால் மருத்துவமனையில் அனுமதி" is ungrammatical and does not match the article’s statement that parents took the girl to the hospital
+  fact-check: Reel script omits the perpetrator’s name (Ilaiyaparthi), a key fact present in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-1
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-1
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  slides must have 3 or 4 items
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  hl2 longer than 28 characters
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (3s)
+factcheck by groq/openai/gpt-oss-120b: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for mo
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for mo
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The slides_spec 'முன்பும் நடந்தது' slide says 'அது 14ஆம் தேதி நடந்த சம்பவம்', which is accurate, but the 'தோட்டம் அருகே புதர்களில் கவனமாக இருங்கள்' advice line is an invented safety recommendation not present in the article
+  The caption's closing advice 'தோட்டம், புதர் பகுதிகளில் வேலை செய்யும்போது கவனமாக இருங்கள்' is an invented recommendation not present in the article
+  The slides_spec 'விபத்து எச்சரிக்கை' category and hl2 'தோட்டத்தில் வேலை' are editorial framing not stated in the article
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The slides_spec 'முன்பும் நடந்தது' slide says 'அது 14ஆம் தேதி நடந்த சம்பவம்', which is accurate, but the 'தோட்டம் அருகே புதர்களில் கவனமாக இருங்கள்' advice line is an invented safety recommendation not present in the article
+  fact-check: The caption's closing advice 'தோட்டம், புதர் பகுதிகளில் வேலை செய்யும்போது கவனமாக இருங்கள்' is an invented recommendation not present in the article
+  fact-check: The slides_spec 'விபத்து எச்சரிக்கை' category and hl2 'தோட்டத்தில் வேலை' are editorial framing not stated in the article
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The caption says the arrest was on Wednesday in the body, but the article says the arrest was made on Wednesday, which matches; however the caption adds a claim that the girl is a 'அரசுப் பள்ளி மாணவி' — this matches the article. Main issue: the caption's 'தொடர்புக்கு' line gives Kongu Nagar police station as a contact, which is not stated in the article.
+  The caption adds the claim that the victim was 'அரசுப் பள்ளி' student and the reel says she was 'பாதிக்கப்பட்ட மாணவி, 15 வயது சிறுமி' — consistent with article, but the caption's 'வீட்டின் அருகே வசிக்கும் ... பழகி வந்ததாகக் கூறப்படுகிறது' is accurate.
+  The reel_script states the arrest was made 'புதன்கிழமை' by police, consistent with the article.
+  The reel_script does not mention that the victim was treated at the hospital as a 'உடல்நலக் குறைவு' first from the parents' action — it does, so no omission there.
+  The caption's call to action 'இதுபோன்ற சம்பவங்களை உடனே காவல்துறைக்குத் தெரிவியுங்கள்' is an added instruction not in the article, and the contact line naming the police station as the contact point is an invented detail.
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The caption says the arrest was on Wednesday in the body, but the article says the arrest was made on Wednesday, which matches; however the caption adds a claim that the girl is a 'அரசுப் பள்ளி மாணவி' — this matches the article. Main issue: the caption's 'தொடர்புக்கு' line gives Kongu Nagar police station as a contact, which is not stated in the article.
+  fact-check: The caption adds the claim that the victim was 'அரசுப் பள்ளி' student and the reel says she was 'பாதிக்கப்பட்ட மாணவி, 15 வயது சிறுமி' — consistent with article, but the caption's 'வீட்டின் அருகே வசிக்கும் ... பழகி வந்ததாகக் கூறப்படுகிறது' is accurate.
+  fact-check: The reel_script states the arrest was made 'புதன்கிழமை' by police, consistent with the article.
+  fact-check: The reel_script does not mention that the victim was treated at the hospital as a 'உடல்நலக் குறைவு' first from the parents' action — it does, so no omission there.
+  fact-check: The caption's call to action 'இதுபோன்ற சம்பவங்களை உடனே காவல்துறைக்குத் தெரிவியுங்கள்' is an added instruction not in the article, and the contact line naming the police station as the contact point is an invented detail.
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+proofread skipped: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01m7a2v9kzesta80vz1eq9kyc0` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6106, Requested 3801. Please try again in 14.3025s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script and caption say the bee attack happened 'on Wednesday' (புதன்கிழமை), which matches the article, so this is fine; however the reel_script and slides say Murugesh died on 'the 14th' without the month/context stated in the article, which is consistent with the article only as 'கடந்த 14-ஆம் தேதி' (last 14th); the slide and reel present it as a fact of the same kind, acceptable.
+  The slides_spec hl2 line 'தோட்டத்தில் வேலை செய்தபோது' and the slide line 'படுகாயமடைந்தவரை கோவையில் உள்ள தனியார் மருத்துவமனைக்கு' are incomplete, fragmentary phrases that lack a verb and have no clear meaning on their own, so they are ungrammatical as slide text.
+  The slides_spec line 'குமாரபாளையத்தில் முருகேஷ் என்பவர் <b>14ஆம் தேதி</b> தேனீ' is cut off mid-sentence and contains raw HTML markup, so it does not form a clear sentence.
+  The slide line 'அதே சேவூர் பகுதியில் இரண்டாவது உயிரிழப்பு' says the second death was in the same Sevur area, which is a claim not stated that way in the article (the article says Kumarapalayam, near Sevur), mixing the location of two different incidents into one claim.
+  The slide 'கவனமாக இருங்கள்' (be careful) is an advisory not present in the article, an invented detail.
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script and caption say the bee attack happened 'on Wednesday' (புதன்கிழமை), which matches the article, so this is fine; however the reel_script and slides say Murugesh died on 'the 14th' without the month/context stated in the article, which is consistent with the article only as 'கடந்த 14-ஆம் தேதி' (last 14th); the slide and reel present it as a fact of the same kind, acceptable.
+  fact-check: The slides_spec hl2 line 'தோட்டத்தில் வேலை செய்தபோது' and the slide line 'படுகாயமடைந்தவரை கோவையில் உள்ள தனியார் மருத்துவமனைக்கு' are incomplete, fragmentary phrases that lack a verb and have no clear meaning on their own, so they are ungrammatical as slide text.
+  fact-check: The slides_spec line 'குமாரபாளையத்தில் முருகேஷ் என்பவர் <b>14ஆம் தேதி</b> தேனீ' is cut off mid-sentence and contains raw HTML markup, so it does not form a clear sentence.
+  fact-check: The slide line 'அதே சேவூர் பகுதியில் இரண்டாவது உயிரிழப்பு' says the second death was in the same Sevur area, which is a claim not stated that way in the article (the article says Kumarapalayam, near Sevur), mixing the location of two different incidents into one claim.
+  fact-check: The slide 'கவனமாக இருங்கள்' (be careful) is an advisory not present in the article, an invented detail.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script says the girl 'became a victim of sexual assault' and the headline/slide say 'மாணவி பாலியல் வன்கொடுமை' — consistent, but the reel_script states as fact that the accused 'was arrested' while the article says it was the police who arrested him; this is consistent, so no issue there.
+  The reel_script states the investigation found Ilayabharathi 'sexually assaulted' the girl as established fact, whereas the article attributes the relationship and assault partly to what 'is said' (கூறப்படுகிறது); the reel_script does say 'கூறப்படுகிறது' only for the acquaintance, so the assault is presented without attribution — minor but a deviation from the article.
+  slides_spec slide 2 title 'எப்படித்' is ungrammatical/meaningless as a slide heading in Tamil (incomplete word).
+  slides_spec slide 2 line 'பெற்றோர் திருப்பூர் அரசு மருத்துவக் கல்லூரி' is a fragment with no clear meaning; the article says parents took her to the hospital, but the line does not state this clearly.
+  slides_spec slide 1 line 'பாலியல் வன்கொடுமை செய்ததாகப் புகார்' merges a complaint with the assault claim, and the article says the parents filed the complaint, which the slide does not state as the complaint's source.
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script says the girl 'became a victim of sexual assault' and the headline/slide say 'மாணவி பாலியல் வன்கொடுமை' — consistent, but the reel_script states as fact that the accused 'was arrested' while the article says it was the police who arrested him; this is consistent, so no issue there.
+  fact-check: The reel_script states the investigation found Ilayabharathi 'sexually assaulted' the girl as established fact, whereas the article attributes the relationship and assault partly to what 'is said' (கூறப்படுகிறது); the reel_script does say 'கூறப்படுகிறது' only for the acquaintance, so the assault is presented without attribution — minor but a deviation from the article.
+  fact-check: slides_spec slide 2 title 'எப்படித்' is ungrammatical/meaningless as a slide heading in Tamil (incomplete word).
+  fact-check: slides_spec slide 2 line 'பெற்றோர் திருப்பூர் அரசு மருத்துவக் கல்லூரி' is a fragment with no clear meaning; the article says parents took her to the hospital, but the line does not state this clearly.
+  fact-check: slides_spec slide 1 line 'பாலியல் வன்கொடுமை செய்ததாகப் புகார்' merges a complaint with the assault claim, and the article says the parents filed the complaint, which the slide does not state as the complaint's source.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+real photo: no picture on the source page -> AI pictures
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+images made: 2 for 'Udumalaipettai sees north-east monsoon r'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1844","first":"RN-296"}
+posting job started at once
+real photo skipped (photo uploaded 2026-11-14 (older than the news)): https://media.dinamani.com/dinamani/2026-11-14/3zpfxwhp/%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%
+real photo skipped (photo uploaded 2026-11-14 (older than the news)): https://media.dinamani.com/dinamani/2026-11-14/3zpfxwhp/கைது.jfif?w=1200&h=675&auto=format
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Tirupur: Factory worker arrested for sex'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1845","first":"RN-297"}
+real photo skipped (photo uploaded 2026-04-26 (older than the news)): https://media.dinamani.com/dinamani/2026-04-26/ywd6xu2b/%E0%AE%AA%E0%AF%88%E0%AE%95%E0%AF%
+real photo skipped (photo uploaded 2026-04-26 (older than the news)): https://media.dinamani.com/dinamani/2026-04-26/ywd6xu2b/பைக்-மோதி-ஒடிஸா-மாநிலத்தை-சோ்ந்தவ
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Woman farmer dies after bee attack near '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1845","first":"RN-298"}
+writing [N]: தீக்குளிக்க முயன்ற இந்து முன்னணி நிா்வாகி மீது வழக்குப் பதிவ
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 49 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  slide 2 line 1 longer than 60 characters
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  reel_script says 'சதீஷ்வரன் (34 வயது)' — age is in the article as (34), so this is fine; no issue there
+  reel_script says 'தீக்குளிக்கப் போவதாகக் கூறினார்' and the caption says he 'தீக்குளிக்க முயன்றதாகக் கூறப்படுகிறது', but the reel_script states he 'இந்த முடிவை எடுத்ததாகக் கூறப்படுகிறது' — the reason he was distressed is stated as condemnation of the lamp not being lit, which matches the article; no separate problem
+  reel_script omits that the police registered a case against him only after he was stopped — the article's core result is that police stopped him from setting himself on fire and then booked a case; the reel_script does convey this, so no omission
+  slides_spec 'ஏன் இந்த முடிவு?' line 'திருப்பரங்குன்றம் மலை தூணில் தீபம் ஏற்றப்படாததால் மன' is truncated and ungrammatical (ends mid-word 'மன'), so the Tamil text has no clear meaning
+  slides_spec 'போலீசார் அவர் மீது வழக்குப் பதிவு செய்து விசாரணை' is cut off mid-sentence and lacks a clear complete meaning
+  caption states 'அவர் தீக்குளிக்க முயன்றதாகக் கூறப்படுகிறது' tying the Thiruparankundram lamp grievance to the attempt, while reel_script says he 'கூறப்படுகிறது' distressed; the caption's English line 'Vellakoil self-immolation attempt' is consistent, so no problem
+  reel_script says 'அவர் மீது வழக்குப் பதிவு செய்துள்ளனர்' in the opening sentence while the article says police booked a case and are investigating — consistent, no problem
+claude rewrite 2 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: reel_script says 'சதீஷ்வரன் (34 வயது)' — age is in the article as (34), so this is fine; no issue there
+  fact-check: reel_script says 'தீக்குளிக்கப் போவதாகக் கூறினார்' and the caption says he 'தீக்குளிக்க முயன்றதாகக் கூறப்படுகிறது', but the reel_script states he 'இந்த முடிவை எடுத்ததாகக் கூறப்படுகிறது' — the reason he was distressed is stated as condemnation of the lamp not being lit, which matches the article; no separate problem
+  fact-check: reel_script omits that the police registered a case against him only after he was stopped — the article's core result is that police stopped him from setting himself on fire and then booked a case; the reel_script does convey this, so no omission
+  fact-check: slides_spec 'ஏன் இந்த முடிவு?' line 'திருப்பரங்குன்றம் மலை தூணில் தீபம் ஏற்றப்படாததால் மன' is truncated and ungrammatical (ends mid-word 'மன'), so the Tamil text has no clear meaning
+  fact-check: slides_spec 'போலீசார் அவர் மீது வழக்குப் பதிவு செய்து விசாரணை' is cut off mid-sentence and lacks a clear complete meaning
+  fact-check: caption states 'அவர் தீக்குளிக்க முயன்றதாகக் கூறப்படுகிறது' tying the Thiruparankundram lamp grievance to the attempt, while reel_script says he 'கூறப்படுகிறது' distressed; the caption's English line 'Vellakoil self-immolation attempt' is consistent, so no problem
+  fact-check: reel_script says 'அவர் மீது வழக்குப் பதிவு செய்துள்ளனர்' in the opening sentence while the article says police booked a case and are investigating — consistent, no problem
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 49 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+hl1 shortened at a natural break: 'வெள்ளக்கோவிலில் தீக்குளிக்க முயன்றவர் மீது வழக்கு' -> 'வெள்ளக்கோவிலில் தீக்குளிக்க மீது வழக்கு'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+real photo skipped (photo uploaded 2026-11-10 (older than the news)): https://media.dinamani.com/dinamani/2026-11-10/dixz3fgw/%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AF%
+real photo skipped (photo uploaded 2026-11-10 (older than the news)): https://media.dinamani.com/dinamani/2026-11-10/dixz3fgw/வழக்கு?w=1200&h=675&auto=format%2C
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Hindu Munnani functionary booked after a'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1846","first":"RN-299"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+source dinamalar list: 15 items
+source google 'திருப்பூர்': 36 items
+source bing 'திருப்பூர்': 12 items
+source google 'அவிநாசி': 7 items
+source bing 'அவிநாசி': 12 items
+source google 'பல்லடம்': 8 items
+source bing 'பல்லடம்': 12 items
+source google 'உடுமலை': 9 items
+source bing 'உடுமலை': 12 items
+source google 'உடுமலைப்பேட்டை': 0 items
+source bing 'உடுமலைப்பேட்டை': 12 items
+source google 'தாராபுரம்': 8 items
+source bing 'தாராபுரம்': 11 items
+source google 'காங்கேயம்': 3 items
+source bing 'காங்கேயம்': 11 items
+source google 'வெள்ளகோவில்': 2 items
+source bing 'வெள்ளகோவில்': 6 items
+source google 'மடத்துக்குளம்': 1 items
+source bing 'மடத்துக்குளம்': 10 items
+source google 'குண்டடம்': 0 items
+source bing 'குண்டடம்': 5 items
+source google 'ஊத்துக்குளி': 2 items
+source bing 'ஊத்துக்குளி': 9 items
+source google 'மூலனூர்': 0 items
+source bing 'மூலனூர்': 7 items
+source google 'பொங்கலூர்': 1 items
+source bing 'பொங்கலூர்': 9 items
+source google 'குடிமங்கலம்': 3 items
+source bing 'குடிமங்கலம்': 9 items
+source google 'சேவூர்': 4 items
+source bing 'சேவூர்': 7 items
+source google 'குன்னத்தூர்': 0 items
+source bing 'குன்னத்தூர்': 7 items
+source google 'முத்தூர்': 1 items
+source bing 'முத்தூர்': 12 items
+source google 'திருப்பூர் மாவட்டம்': 54 items
+source bing 'திருப்பூர் மாவட்டம்': 12 items
+source google 'திருப்பூர் மின்தடை': 20 items
+source bing 'திருப்பூர் மின்தடை': 12 items
+source google 'பல்லடம் மின்தடை': 1 items
+source bing 'பல்லடம் மின்தடை': 1 items
+source google 'உடுமலை மின்தடை': 0 items
+source bing 'உடுமலை மின்தடை': 6 items
+source google 'அவிநாசி மின்தடை': 8 items
+source bing 'அவிநாசி மின்தடை': 7 items
+source google 'திருப்பூர் ஆட்சியர் அறிவிப்பு': 2 items
+source bing 'திருப்பூர் ஆட்சியர் அறிவிப்பு': 7 items
+source google 'திருப்பூர் மாவட்ட நிர்வாகம்': 5 items
+source bing 'திருப்பூர் மாவட்ட நிர்வாகம்': 10 items
+source google 'திருப்பூர் வேலைவாய்ப்பு முகாம்': 4 items
+source bing 'திருப்பூர் வேலைவாய்ப்பு முகாம்': 2 items
+source google 'திருப்பூர் ஆட்சேர்ப்பு': 4 items
+source bing 'திருப்பூர் ஆட்சேர்ப்பு': 3 items
+source google 'திருப்பூர் சிறப்பு முகாம்': 4 items
+source bing 'திருப்பூர் சிறப்பு முகாம்': 6 items
+source google 'திருப்பூர் குறைதீர் கூட்டம்': 1 items
+source bing 'திருப்பூர் குறைதீர் கூட்டம்': 2 items
+source google 'நல்லூர்': 4 items
+source bing 'நல்லூர்': 12 items
+source google 'அனுப்பர்பாளையம்': 0 items
+source bing 'அனுப்பர்பாளையம்': 4 items
+source google 'கொங்கு நகர்': 1 items
+source bing 'கொங்கு நகர்': 4 items
+source google 'நெருப்பெரிச்சல்': 0 items
+source bing 'நெருப்பெரிச்சல்': 2 items
+source google 'காதர்பேட்டை': 1 items
+source bing 'காதர்பேட்டை': 5 items
+source google '15 வேலம்பாளையம்': 0 items
+source bing '15 வேலம்பாளையம்': 2 items
+source google 'உடுமலைப்பேட்டை மின்தடை': 0 items
+source bing 'உடுமலைப்பேட்டை மின்தடை': 9 items
+source google 'தாராபுரம் மின்தடை': 0 items
+source bing 'தாராபுரம் மின்தடை': 3 items
+source google 'காங்கேயம் மின்தடை': 0 items
+source bing 'காங்கேயம் மின்தடை': 0 items
+source google 'வெள்ளகோவில் மின்தடை': 0 items
+source bing 'வெள்ளகோவில் மின்தடை': 0 items
+source google 'மடத்துக்குளம் மின்தடை': 0 items
+source bing 'மடத்துக்குளம் மின்தடை': 4 items
+source google 'குண்டடம் மின்தடை': 0 items
+source bing 'குண்டடம் மின்தடை': 0 items
+source google 'ஊத்துக்குளி மின்தடை': 0 items
+source bing 'ஊத்துக்குளி மின்தடை': 0 items
+source google 'மூலனூர் மின்தடை': 0 items
+source bing 'மூலனூர் மின்தடை': 4 items
+source google 'பொங்கலூர் மின்தடை': 0 items
+source bing 'பொங்கலூர் மின்தடை': 1 items
+source google 'குடிமங்கலம் மின்தடை': 0 items
+source bing 'குடிமங்கலம் மின்தடை': 2 items
+source google 'சேவூர் மின்தடை': 0 items
+source bing 'சேவூர் மின்தடை': 0 items
+source google 'திருப்பூர் மின்தடை நாளை': 11 items
+source bing 'திருப்பூர் மின்தடை நாளை': 10 items
+source google 'திருப்பூர் மின்தடை பகுதிகள்': 12 items
+source bing 'திருப்பூர் மின்தடை பகுதிகள்': 9 items
+source google 'திருப்பூர் மின் நிறுத்தம்': 3 items
+source bing 'திருப்பூர் மின் நிறுத்தம்': 5 items
+source google தினமலர் 'திருப்பூர்': 100 items
+source bing தினமலர் 'திருப்பூர்': 12 items
+source google தினமலர் 'பல்லடம்': 76 items
+source bing தினமலர் 'பல்லடம்': 12 items
+source google தினமணி 'திருப்பூர்': 30 items
+source bing தினமணி 'திருப்பூர்': 12 items
+source google தினமணி 'பல்லடம்': 6 items
+source bing தினமணி 'பல்லடம்': 12 items
+source google தினகரன் 'திருப்பூர்': 100 items
+source bing தினகரன் 'திருப்பூர்': 9 items
+source google தினகரன் 'பல்லடம்': 0 items
+source bing தினகரன் 'பல்லடம்': 0 items
+source google ஒன்இந்தியா 'திருப்பூர்': 100 items
+source bing ஒன்இந்தியா 'திருப்பூர்': 12 items
+source google ஒன்இந்தியா 'பல்லடம்': 0 items
+source bing ஒன்இந்தியா 'பல்லடம்': 10 items
+source google தினத்தந்தி 'திருப்பூர்': 17 items
+source bing தினத்தந்தி 'திருப்பூர்': 11 items
+source google தினத்தந்தி 'பல்லடம்': 0 items
+source bing தினத்தந்தி 'பல்லடம்': 1 items
+source google மாலைமலர் 'திருப்பூர்': 7 items
+source bing மாலைமலர் 'திருப்பூர்': 12 items
+source google மாலைமலர் 'பல்லடம்': 0 items
+source bing மாலைமலர் 'பல்லடம்': 1 items
+source google தந்தி டிவி 'திருப்பூர்': 2 items
+source bing தந்தி டிவி 'திருப்பூர்': 6 items
+source google தந்தி டிவி 'பல்லடம்': 0 items
+source bing தந்தி டிவி 'பல்லடம்': 1 items
+source google இந்து தமிழ் 'திருப்பூர்': 65 items
+source bing இந்து தமிழ் 'திருப்பூர்': 12 items
+source google இந்து தமிழ் 'பல்லடம்': 0 items
+source bing இந்து தமிழ் 'பல்லடம்': 0 items
+source google பாலிமர் 'திருப்பூர்': 2 items
+source bing பாலிமர் 'திருப்பூர்': 5 items
+source google பாலிமர் 'பல்லடம்': 0 items
+source bing பாலிமர் 'பல்லடம்': 0 items
+source google மாலை முரசு 'திருப்பூர்': 2 items
+source bing மாலை முரசு 'திருப்பூர்': 1 items
+source google மாலை முரசு 'பல்லடம்': 1 items
+source bing மாலை முரசு 'பல்லடம்': 0 items
+source google நியூஸ்18 தமிழ் 'திருப்பூர்': 100 items
+source bing நியூஸ்18 தமிழ் 'திருப்பூர்': 12 items
+source google நியூஸ்18 தமிழ் 'பல்லடம்': 0 items
+source bing நியூஸ்18 தமிழ் 'பல்லடம்': 2 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'திருப்பூர்': 6 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'திருப்பூர்': 11 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'பல்லடம்': 0 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'பல்லடம்': 0 items
+source தினமணி திருப்பூர்: 9 items
+source இந்து தமிழ் திருப்பூர்: 9 items
+source விகடன் திருப்பூர்: 14 items
+source பாலிமர் திருப்பூர்: 4 items
+source ஒன்இந்தியா திருப்பூர்: 14 items
+Tamil outlets only: kept 1158 of 1360 items
+all sources: 1158 items -> 786 different news
+candidate filter: not written=428, not Tirupur district news (state-wide / =245, already filed=46, collected=26, old=26, not written=14, checked earlier=1
+to write: 26 Tirupur district candidates (max 3 stories)
+round: top 3 of 26 candidates + 7 power cut(s)
+candidates waiting: 26 Tirupur; time left 53 min
+try (N) manual=False: பள்ளி மாணவி பாலியல் வன்கொடுமை: பனியன் நிறுவனத் தொழிலாளி கைது
+try (N) manual=False: நாளைய மின்தடை: பொங்கலூா்
+try (N) manual=False: பெண் கலெக்டருக்கு ஆபாச மெசேஜ் அனுப்பிய விவகாரம் கைது நடவடிக்
+skip (N) too old (2026-10-24T21:02:40.239Z): நாளைய மின்தடை: பூளவாடி
+try (N) manual=False: நகராட்சி நிர்வாக துறையில் டெண்டர் முறைகேடு வழக்கு; கே.என்.நே
+skip (N) no Tirupur place in article: பெண் கலெக்டருக்கு ஆபாச மெசேஜ் அனுப்பிய விவகாரம் கை
+try (N) manual=False: நாளைய மின்தடை (19ம் தேதி)
+skip (N) no Tirupur place in article: நகராட்சி நிர்வாக துறையில் டெண்டர் முறைகேடு வழக்கு;
+try (N) manual=False: தேனீக்கள் கொட்டியதில் பெண் விவசாயி உயிரிழப்பு
+skip (N) too old (2026-11-19T04:29:02+05:30): நாளைய மின்தடை (19ம் தேதி)
+try (N) manual=False: உடுமலை அருகே கால்வாயில் தள்ளி பெண் கொலை
+skip (N) too old (2026-11-18T21:52:24.843Z): உடுமலை அருகே கால்வாயில் தள்ளி பெண் கொலை
+try (N) manual=False: குண்டடம் பகுதியில் மின்மோட்டாா் கேபிள் வயா்களை திருடிய 3 போ்
+skip (N) too old (2026-11-16T21:57:41.292Z): குண்டடம் பகுதியில் மின்மோட்டாா் கேபிள் வயா்களை திர
+try (N) manual=False: மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் மீட்பு
+skip (N) too old (2026-11-16T20:58:02+05:30): மோட்டார் – கேபிள் திருட்டு 3 பேர் கைது: பொருட்கள் 
+try (N) manual=False: கைது
+skip (N) only a headline, 11 words of text: கைது [https://www.dinamalar.com/photos/social-media-cards/370236]
+try (N) manual=False: பெண் கொலை வழக்கில் இளைஞருக்கு 'ஆயுள்'
+skip (N) too old (2026-11-25T22:31:03+05:30): பெண் கொலை வழக்கில் இளைஞருக்கு ஆயுள்
+try (N) manual=False: கிரிக்கெட் மட்டையால் அடித்து தங்கை கொலை அண்ணன் கைது
+skip (N) too old (2026-11-25T22:30:56+05:30): கிரிக்கெட் மட்டையால் அடித்து தங்கை கொலை அண்ணன் கைத
+try (N) manual=False: பல்லடத்தில் பெண் தீக்குளிப்பு: கணவா் உள்பட 3 போ் கைது
+skip (N) similar to a filed story: பல்லடத்தில் பெண் தீக்குளிப்பு: கணவா் உள்பட 3 போ் 
+try (N) manual=False: நாளைய (நவ. 26)மின்தடை
+skip (N) no Tirupur place in article: நாளைய (நவ. 26)மின்தடை
+try (N) manual=False: தமிழ்நாட்டின் பல்வேறு இடங்களில் நாளை(26.11.2026) மின்தடை அறி
+skip (N) could not open: தமிழ்நாட்டின் பல்வேறு இடங்களில் நாளை(26.11.2026) ம [https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaWlTdnd] 403 Client Error: Forbidden for url: https://tamil.news18.com/photogallery/tamil
+try (N) manual=False: மின் நிறுத்த நேரம் மாற்றியதற்கு வரவேற்பு! தொழில் துறையினர் ச
+skip (N) too old (2026-11-17T19:34:02+05:30): மின் நிறுத்த நேரம் மாற்றியதற்கு வரவேற்பு! தொழில் த
+try (N) manual=False: இன்று மின் நிறுத்தம் (21 ம் தேதி)
+skip (N) too old (2026-11-20T18:52:37+05:30): இன்று மின் நிறுத்தம் (21 ம் தேதி)
+try (N) manual=False: நாளை மறுநாள் ( நவ. 24 ) மின்தடை: காலை 10:00 – -மதியம் 3:00 ம
+skip (N) too old (2026-11-22T15:57:02+05:30): நாளை மறுநாள் ( நவ. 24 ) மின்தடை: காலை 10:00 – -மதி
+try (N) manual=False: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய கட்டுப்பா
+skip (N) no Tirupur place in article: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய
+try (N) manual=False: டூவீலர் விபத்தில் தொழிலாளி பலி
+skip (N) no Tirupur place in article: டூவீலர் விபத்தில் தொழிலாளி பலி
+try (N) manual=False: திருமூர்த்திமலையில் 13 மி.மீ., மழை
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+try (N) manual=False: குடிநீர் உறிஞ்ச பயன்பட்ட மோட்டார்கள் பறிமுதல்
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+try (N) manual=False: வேகத்தடை இல்லாததால் விபத்து ஏற்படும் அபாயம்
+try (N) manual=False: தீக்குளிக்க முயன்ற இந்து முன்னணி நிா்வாகி மீது வழக்குப் பதிவ
+skip (N) too old (2026-11-25T21:46:40+05:30): குடிநீர் உறிஞ்ச பயன்பட்ட மோட்டார்கள் பறிமுதல்
+try (N) manual=False: நடுவானில் பெல்ட்டால் கழுத்தை நெரித்த பயணி.. கண்ணாடியை உடைத்த
+skip (N) no Tirupur place in article: வேகத்தடை இல்லாததால் விபத்து ஏற்படும் அபாயம்
+try (N) manual=False: மகள்களுக்கு கூடுதல் மதிப்பெண் வழங்க ஐ.பி.எஸ்., அதிகாரி ரூ.2 
+skip (N) no Tirupur place in article: நடுவானில் பெல்ட்டால் கழுத்தை நெரித்த பயணி.. கண்ணாட
+skip (N) no Tirupur place in article: மகள்களுக்கு கூடுதல் மதிப்பெண் வழங்க ஐ.பி.எஸ்., அதி
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+candidate loop ended: left 0, tried={'N': 26}, done={'N': 4}, time left 49 min
+filed: 4 Tirupur district stories (target 3), reels only
+queue: 1 news waiting to be written
+All News sheet: {"ok":true,"added":46,"updated":14}
+All News sheet: {"ok":true,"added":54,"updated":6}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":54,"updated":6}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":59,"updated":1}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":24,"updated":4} 
+stories: 4
