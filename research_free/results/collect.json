@@ -3,29 +3,105 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/tiruppur/from-tirupur-to-chittoor-eastman-exports-to-set-up-its-first-factory-in-andhra-pradesh-at-a-cost-of-848305.html",
+  "manual link added: https://www.dinakaran.com/news/tvk-mla-second-collector-camp-inquiry-officer-srishti-singh",
   "candidate filter: collected=1",
   "to write: 1 Tirupur district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Tirupur; time left 79 min",
-  "try (N) manual=True: https://tamil.oneindia.com/news/tiruppur/from-tirupur-to-chi",
-  "NOT filed (N) திருப்பூர் டூ சித்தூர்.. ஆந்திராவில் ரூ.266 கோடியி: all free models failed: no usable answer from the models",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 79 min",
-  "filed: 0 Tirupur district stories (target 1), reels only",
+  "try (N) manual=True: https://www.dinakaran.com/news/tvk-mla-second-collector-camp",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "posting job started at once",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 74 min",
+  "filed: 1 Tirupur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "ok gemini/gemini-3-flash-preview (45s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (24s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7"
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
- "stories": []
+ "stories": [
+  {
+   "tamil_headline": "தவெக எம்எல்ஏ மீதான புகார்: திருப்பூர் எஸ்பி சிருஷ்டி சிங் 2வது நாளாக விசாரணை!",
+   "english_headline": "TVK MLA harassment case: Tirupur SP Srishti Singh conducts 2nd day of investigation with Kallakurichi Collector",
+   "category": "Crime & Safety",
+   "location": "Kallakurichi town, Kallakurichi district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விசாரணை",
+    "loc": "கள்ளக்குறிச்சி",
+    "hl1": "கள்ளக்குறிச்சி: தவெக எம்எல்ஏ மீது புகார்",
+    "hl2": "திருப்பூர் எஸ்பி விசாரணை",
+    "slides": [
+     {
+      "title": "என்ன புகார்?",
+      "lines": [
+       "பெண் ஆட்சியருக்கு ஆபாச மெசேஜ் அனுப்பிய புகார்",
+       "தவெக எம்எல்ஏ மீது <b>5 பிரிவுகளில்</b> வழக்கு",
+       "திருப்பூர் எஸ்பி சிருஷ்டி சிங் விசாரணை அதிகாரி"
+      ]
+     },
+     {
+      "title": "விசாரணை தீவிரம்",
+      "lines": [
+       "நேற்று <b>1 மணி நேரத்திற்கும்</b> மேலாக விசாரணை",
+       "ஆட்சியரின் முகாம் அலுவலகத்தில் வாக்குமூலம்",
+       "அரசு அதிகாரிகளிடமும் எஸ்பி விசாரணை நடத்தினார்"
+      ]
+     },
+     {
+      "title": "2வது நாள்",
+      "lines": [
+       "இன்று மீண்டும் ஆட்சியரிடம் விசாரணை",
+       "ஆட்சியரின் கணவரிடமும் விசாரணை நடத்தத் திட்டம்",
+       "கள்ளக்குறிச்சியில் பெரும் பரபரப்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கள்ளக்குறிச்சி த வெ க சட்டமன்ற உறுப்பினர் மீதான புகார் குறித்து திருப்பூர் மாவட்ட எஸ்பி சிருஷ்டி சிங் இரண்டாவது நாளாக விசாரணை நடத்தி வருகிறார். பெண் மாவட்ட ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பியதாக எழுந்த புகாரில், எம்எல்ஏ அருள் விக்னேஷ் மீது 5 பிரிவுகளின் கீழ் வழக்கு பதிவு செய்யப்பட்டுள்ளது. இந்த வழக்கின் விசாரணை அதிகாரியாக திருப்பூர் மாவட்ட காவல் கண்காணிப்பாளர் சிருஷ்டி சிங் நியமிக்கப்பட்டுள்ளார். நேற்று தனது விசாரணையைத் தொடங்கிய அவர், கள்ளக்குறிச்சி மாவட்ட ஆட்சியரின் முகாம் அலுவலகத்தில் ஒரு மணி நேரத்திற்கும் மேலாக விசாரணை நடத்தினார். தொடர்ந்து பல்வேறு அரசு அதிகாரிகளிடமும் வாக்குமூலம் பெறப்பட்டது. இன்று காலை மாவட்ட செய்தி மக்கள் தொடர்பு அலுவலரிடம் விசாரணை நடத்திய எஸ்பி, மீண்டும் ஆட்சியர் அலுவலகத்திற்கு வருகை தந்துள்ளார். ஆட்சியர் அளித்த புகாரில் உள்ள தகவல்கள் குறித்து கூடுதல் கேள்விகள் எழுப்பப்பட உள்ளன. மேலும் ஆட்சியரின் கணவரிடமும் விசாரணை நடத்த காவல்துறை திட்டமிட்டுள்ளது. இந்தச் சம்பவம் கள்ளக்குறிச்சியில் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தவெக எம்எல்ஏ மீதான புகார்: திருப்பூர் எஸ்பி சிருஷ்டி சிங் 2வது நாளாக விசாரணை!\n\n📰 முழு விவரம்:\nகள்ளக்குறிச்சி தவெக சட்டமன்ற உறுப்பினர் அருள் விக்னேஷ், பெண் மாவட்ட ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பியதாகப் புகார் எழுந்தது. இது தொடர்பாக 5 பிரிவுகளின் கீழ் வழக்கு பதிவு செய்யப்பட்டுள்ளது. இந்த வழக்கின் விசாரணை அதிகாரியாகத் திருப்பூர் மாவட்ட எஸ்பி சிருஷ்டி சிங் நியமிக்கப்பட்டுள்ளார்.\n\nநேற்று தனது விசாரணையைத் தொடங்கிய எஸ்பி, ஆட்சியரின் முகாம் அலுவலகத்தில் ஒரு மணி நேரத்திற்கும் மேலாக விசாரணை நடத்தி வாக்குமூலம் பெற்றார். தொடர்ந்து இன்று காலை மாவட்ட செய்தி மக்கள் தொடர்பு அலுவலரிடம் விசாரணை நடத்தப்பட்டது. தற்போது 2வது நாளாக ஆட்சியரின் முகாம் அலுவலகத்திற்கு வருகை தந்துள்ள எஸ்பி, கூடுதல் தகவல்கள் குறித்து மீண்டும் விசாரணை நடத்தி வருகிறார். மேலும் ஆட்சியரின் கணவரிடமும் விசாரணை நடத்தக் காவல்துறை திட்டமிட்டுள்ளது.\n\n📍 இடம்: கள்ளக்குறிச்சி\n🗓️ நாள்: 26 நவம்பர் 2026\n👮 நடவடிக்கை: திருப்பூர் எஸ்பி தலைமையில் தீவிர விசாரணை\n\nTVK MLA Arul Vignesh case investigation | Tirupur SP Srishti Singh\n📍 Kallakurichi, Tirupur | 26 Nov 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kallakurichi #TVK #TirupurNews #திருப்பூர்",
+   "prompts": "A Tirupur police superintendent in khaki conducts a formal interview with the female district collector inside the Kallakurichi district collector's camp office, reviewing case documents. The setting is a modest government office building with a simple façade, temporary awnings and a modest sign that is not readable. From behind, the police officer stands beside a wooden table while the collector sits opposite, both facing each other; the officer holds a pen, the collector holds a folder. A stack of sealed case files lies on the table, indicating the ongoing investigation. The scene occurs in the morning, bright daylight, with clear sky. Shot at eye level with a 35 mm lens, wide enough to capture the office interior and both figures. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of the investigation table shows a sealed case file marked with a government seal, a pen, and a handwritten note (text not readable). The police superintendent’s khaki sleeve and badge are partially visible, as is the collector’s hand reaching for the folder. The wooden tabletop, a few scattered documents, and a modest office chair frame the detail. The lighting is natural morning light spilling through a nearby window, casting soft shadows. Captured from a slightly high angle with a 35 mm lens to emphasize the objects that signify the police inquiry. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/tvk-mla-second-collector-camp-inquiry-officer-srishti-singh",
+   "published": "2026-11-26T12:31:48+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 19 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption needs 5 hashtags (Instagram max), has 6",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261126/b2d9839a95a4908d.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261126/8392c8920eca61af.jpg"
+   ]
+  }
+ ]
 }
