@@ -1,40 +1,9 @@
-01:17:33 round 2026-11-27_01: news published 27 Nov 00:05 -> 27 Nov 01:17 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-01:17:33 insights 2026-11-27T01:17+05:30 (275 reels): topic weights {'politics': -0.28, 'accident': 0.73, 'crime': 1.5, 'education': -0.5, 'jobs': 0.47, 'power_cut': 0.3, 'temple': -0.15, 'civic': 0.03, 'poultry_agri': -0.46, 'weather': -0.47, 'sports_culture': -0.05}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-01:18:19 open search 'திருப்பூர்' (from_google): 1 links from our outlets
-01:18:19 78 links on the two papers' Tirupur pages
-01:18:54 skipped: published before this window=31, not Tirupur district=17, already posted=11, only a headline=2, same event already posted=1, power cut - posted automatically=1
-01:18:54 list: 8 new + 1 earlier news not posted yet
-01:18:54    1. [குற்றம்] பெண்ணுக்கு பாலியல் தொல்லை: தொழிலாளிக்கு ஓராண்டு சிறை (தினமணி)
-01:18:54    2. [குற்றம்] தாராபுரத்தில் ரூ.10 லட்சம் மதிப்பிலான கண்வலிக் கிழங்குகள் திருட்டு (தினமணி)
-01:18:54    3. [விபத்து] கிணற்றில் தவறி விழுந்த முதியவா் உயிரிழப்பு (தினமணி)
-01:18:54    4. [பொது] அவிநாசியில் சாக்கடை அடைப்பு: வீடுகளுக்குள் புகும் கழிவு நீா் (தினமணி)
-01:18:54    5. [கல்வி] வெள்ளக்கோவில் அரசுப் பள்ளியில் சட்ட விழிப்புணா்வு முகாம் (தினமணி)
-01:18:54    6. [கல்வி] அரசு பள்ளி, கல்லூரிகளில் சுகாதாரம் பேணிக்காக்க முதல்வருக்கு கடிதம் (தினமலர்)
-01:18:54    7. [பொது] திருப்பூரில் ஜொலிக்கும் இயற்கை வைர தோடுகள் நாளை கண்காட்சி துவக்கம் (தினமலர்)
-01:18:54    8. [பொது] ஐக்கிய விவசாயிகள் முன்னணியினா் ஆா்ப்பாட்டம் (தினமணி)
-01:18:54    9. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
-01:18:54 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_01
-01:18:57    not picked automatically (ceremony / award / awareness event (low views)): வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம்
-01:18:57 round 2026-11-27_01 (at least 3, up to 3 more of well-watched topics): 8 news to choose from (0 from earlier rounds), ranked by this page's insights
-01:18:57   PICK   1.  17.0 [crime +1.50 page] பெண்ணுக்கு பாலியல் தொல்லை: தொழிலாளிக்கு ஓராண்டு சிறை
-01:18:57   PICK   2.  17.0 [crime +1.50 page] தாராபுரத்தில் ரூ.10 லட்சம் மதிப்பிலான கண்வலிக் கிழங்குகள் தி
-01:18:57   PICK   3.  13.9 [accident +0.73 page] கிணற்றில் தவறி விழுந்த முதியவா் உயிரிழப்பு
-01:18:57   PICK   4.   9.0 [other +0.00 pattern] அவிநாசியில் சாக்கடை அடைப்பு: வீடுகளுக்குள் புகும் கழிவு நீா்
-01:18:57   PICK   5.   6.4 [temple -0.15 page] வெள்ளக்கோவில் அரசுப் பள்ளியில் சட்ட விழிப்புணா்வு முகாம்
-01:18:57   PICK   6.   5.0 [education -0.50 page] அரசு பள்ளி, கல்லூரிகளில் சுகாதாரம் பேணிக்காக்க முதல்வருக்கு 
-01:18:57   PICK   7.   3.0 [other +0.00 pattern] திருப்பூரில் ஜொலிக்கும் இயற்கை வைர தோடுகள் நாளை கண்காட்சி து
-01:18:57   PICK   8.   1.2 [poultry_agri -0.46 page] ஐக்கிய விவசாயிகள் முன்னணியினா் ஆா்ப்பாட்டம்
-01:18:57 decided: automatic: top 3 of 8 by insights -> 8 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/பெண்ணுக்கு-பாலியல்-தொல்லைதொழிலாளிக்கு-ஓராண்டு-சிறை https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/kanvali-tubers-worth-rs-10-lakh-stolen-in-dharapuram https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/கிணற்றில்-தவறி-விழுந்த-முதியவா்-உயிரிழப்பு-11 https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/drainage-blockage-in-avinashisewage-water-enters-homes https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/வெள்ளக்கோவில்-அரசுப்-பள்ளியில்-சட்ட-விழிப்புணா்வு-முகாம் https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/letter-to-the-chief-minister-for-maintaining-hygiene-in-government-schools-and-colleges/4387308 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/shining-natural-diamond-fields-tomorrow-exhibition-inaugurated-in-tiruppur/4387251 https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/ஐக்கிய-விவசாயிகள்-முன்னணியினா்-ஆா்ப்பாட்டம்-4
-01:22:55 8 listed news now in the Sheet
-01:23:05 instagram duplicate check tirupur: 50 recent posts read
-01:23:06 verify 2026-11-27_01: 0 of 8 picked news posted, 1 skipped on purpose, 7 waiting for their posting start
-01:23:06    WAITING C0029e7b: waiting RN-330: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - கிணற்றில் தவறி விழுந்த முதியவா் உயிரிழப்பு
-01:23:06    WAITING C5080ed6: waiting RN-328: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - வெள்ளக்கோவில் அரசுப் பள்ளியில் சட்ட விழிப்புணா்வு முகாம்
-01:23:06    WAITING C6641012: waiting RN-325: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - திருப்பூரில் ஜொலிக்கும் இயற்கை வைர தோடுகள் நாளை கண்காட்சி து
-01:23:06    WAITING C6d6b61f: waiting RN-327: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - அரசு பள்ளி, கல்லூரிகளில் சுகாதாரம் பேணிக்காக்க முதல்வருக்கு 
-01:23:06    WAITING C9d9559d: waiting RN-329: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - அவிநாசியில் சாக்கடை அடைப்பு: வீடுகளுக்குள் புகும் கழிவு நீா்
-01:23:06    WAITING Cd27d460: waiting RN-331: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - தாராபுரத்தில் ரூ.10 லட்சம் மதிப்பிலான கண்வலிக் கிழங்குகள் தி
-01:23:06    WAITING Cf4b5142: waiting RN-332: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - பெண்ணுக்கு பாலியல் தொல்லை: தொழிலாளிக்கு ஓராண்டு சிறை
-01:23:06    SKIPPED Cffe2f43: skipped RN-326: held: fact-check problems - however, the reel_script says 'காவல் கண்காணிப்பாளர்பாலசுப்பிரமணியம்' which inserts an invented role 'காவல் கண்காணிப் - ஐக்கிய விவசாயிகள் முன்னணியினா் ஆா்ப்பாட்டம்
+04:27:08 round 2026-11-27_04: news published 27 Nov 01:17 -> 27 Nov 04:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+04:27:08 insights 2026-11-27T04:27+05:30 (275 reels): topic weights {'politics': -0.28, 'accident': 0.74, 'crime': 1.5, 'education': -0.5, 'jobs': 0.47, 'power_cut': 0.3, 'temple': -0.14, 'civic': 0.03, 'poultry_agri': -0.46, 'weather': -0.48, 'sports_culture': -0.05}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+04:27:39 open search 'திருப்பூர்' (from_google): 0 links from our outlets
+04:27:39 73 links on the two papers' Tirupur pages
+04:28:22 skipped: published before this window=31, already posted=16, not Tirupur district=12, only a headline=2, same event already posted=1, power cut - posted automatically=1
+04:28:23 list: 0 new + 1 earlier news not posted yet
+04:28:23    1. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
+04:28:23 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_04
