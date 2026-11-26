@@ -395,7 +395,8 @@
    "score": 6.06,
    "power_cut": false,
    "listed_at": "2026-11-26T12:26:49.588780+05:30",
-   "picked_at": "2026-11-26T12:28:26.392073+05:30"
+   "picked_at": "2026-11-26T12:28:26.392073+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   }
  },
  "rounds": {
@@ -983,7 +984,10 @@
    },
    "written": [
     "C8432d39"
-   ]
+   ],
+   "refused": {
+    "C8432d39": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
