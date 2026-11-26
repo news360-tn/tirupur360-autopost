@@ -1,136 +1,15 @@
-22:42:35 round 2026-11-26_22: news published 26 Nov 20:28 -> 26 Nov 22:42 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-22:42:35 insights 2026-11-26T22:42+05:30 (268 reels): topic weights {'politics': -0.29, 'accident': 0.72, 'crime': 1.5, 'education': -0.5, 'jobs': 0.46, 'power_cut': 0.29, 'temple': -0.28, 'civic': 0.02, 'poultry_agri': -0.47, 'weather': -0.29, 'sports_culture': -0.05}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-22:43:35 open search 'திருப்பூர்' (from_google): 4 links from our outlets
-22:43:35 75 links on the two papers' Tirupur pages
-22:44:06 skipped: published before this window=33, not Tirupur district=12, already posted=11, only a headline=2, same event already posted=1, state-wide / other district=1
-22:44:06 list: 8 new + 1 earlier news not posted yet
-22:44:06    1. [குற்றம்] தீபாவளி பலகார சீட்டு மோசடி அரிசி வியாபாரி சிக்கினார் (தினமலர்)
-22:44:06    2. [குடிநீர்] முறைகேடான குடிநீர் இணைப்பு சாட்டை சுழல மக்கள் எதிர்பார்ப்பு (தினமலர்)
-22:44:06    3. [பொது] கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு (தினமலர்)
-22:44:06    4. [பொது] கூலி குறைப்பை கண்டித்து விசைத்தறியாளர் ஆர்ப்பாட்டம் டிச.4ல் நடத்த திட் (தினமலர்)
-22:44:06    5. [பொது] அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம் (தினமலர்)
-22:44:06    6. [பொது] விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு (தினமலர்)
-22:44:06    7. [பொது] டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரிய அதிகாரிக (தினமலர்)
-22:44:06    8. [பொது] திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் சுப்ரீம் ம (தினமலர்)
-22:44:06    9. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
-22:44:06 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-26_22
-22:44:08    not picked automatically (ceremony / award / awareness event (low views)): வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம்
-22:44:08 round 2026-11-26_22 (at least 3, up to 3 more of well-watched topics): 8 news to choose from (0 from earlier rounds), ranked by this page's insights
-22:44:08   PICK   1.  17.0 [crime +1.50 page] தீபாவளி பலகார சீட்டு மோசடி அரிசி வியாபாரி சிக்கினார்
-22:44:08   PICK   2.   9.1 [civic +0.02 page] முறைகேடான குடிநீர் இணைப்பு சாட்டை சுழல மக்கள் எதிர்பார்ப்பு
-22:44:08   PICK   3.   8.0 [other +0.00 pattern] கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-22:44:08   PICK   4.   7.0 [other +0.00 pattern] கூலி குறைப்பை கண்டித்து விசைத்தறியாளர் ஆர்ப்பாட்டம் டிச.4ல் 
-22:44:08   PICK   5.   5.0 [education -0.50 page] அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-22:44:08   PICK   6.   4.1 [poultry_agri -0.47 page] விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-22:44:08   PICK   7.   3.0 [other +0.00 pattern] டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-22:44:08   PICK   8.   3.0 [other +0.00 pattern] திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-22:44:08 decided: automatic: top 3 of 8 by insights -> 8 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/diwali-ticket-scam-rice-dealer-caught/4387216 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/people-expect-faulty-drinking-water-supply-to-go-haywire/4387217 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/public-expectation-of-toilet-use/4387234 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/powerloom-workers-protest-against-wage-cuts-planned-for-dec-4/4387218 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/constitution-day-lecture-for-students/4387215 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/failure-to-sell-wood-affects-farmers/4387235 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/power-board-officials-appeal-to-protect-transformers-as-public-property/4387233 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tiruppur-41-days-of-annadhanam-for-devotees-at-ayyappa-temple-supreme-mobiles-spiritual-work/4387250
-22:47:44 8 listed news now in the Sheet
-22:47:52 instagram duplicate check tirupur: 50 recent posts read
-22:47:55 verify 2026-11-26_22: 0 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-22:47:55    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-22:47:55    NOT POSTED C4df4824: queued RN-318 (Queued) - தீபாவளி பலகார சீட்டு மோசடி அரிசி வியாபாரி சிக்கினார்
-22:47:55    NOT POSTED C6a4eb06: queued RN-316 (Queued) - கூலி குறைப்பை கண்டித்து விசைத்தறியாளர் ஆர்ப்பாட்டம் டிச.4ல் 
-22:47:55    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-22:47:55    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-22:47:55    NOT POSTED Ca102793: queued RN-317 (Queued) - முறைகேடான குடிநீர் இணைப்பு சாட்டை சுழல மக்கள் எதிர்பார்ப்பு
-22:47:55    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-22:47:55    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-22:53:02 instagram duplicate check tirupur: 50 recent posts read
-22:53:07 verify 2026-11-26_22: 0 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-22:53:07    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-22:53:07    NOT POSTED C4df4824: queued RN-318 (Queued) - தீபாவளி பலகார சீட்டு மோசடி அரிசி வியாபாரி சிக்கினார்
-22:53:07    NOT POSTED C6a4eb06: queued RN-316 (Queued) - கூலி குறைப்பை கண்டித்து விசைத்தறியாளர் ஆர்ப்பாட்டம் டிச.4ல் 
-22:53:07    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-22:53:07    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-22:53:07    NOT POSTED Ca102793: queued RN-317 (Queued) - முறைகேடான குடிநீர் இணைப்பு சாட்டை சுழல மக்கள் எதிர்பார்ப்பு
-22:53:07    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-22:53:07    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-22:58:15 instagram duplicate check tirupur: 50 recent posts read
-22:58:16 verify 2026-11-26_22: 2 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-22:58:16    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-22:58:16    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-22:58:16    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-22:58:16    NOT POSTED Ca102793: queued RN-317 (Queued) - முறைகேடான குடிநீர் இணைப்பு சாட்டை சுழல மக்கள் எதிர்பார்ப்பு
-22:58:16    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-22:58:16    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:03:24 instagram duplicate check tirupur: 50 recent posts read
-23:03:25 verify 2026-11-26_22: 2 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:03:25    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-23:03:25    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:03:25    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:03:25    NOT POSTED Ca102793: queued RN-317 (Queued) - முறைகேடான குடிநீர் இணைப்பு சாட்டை சுழல மக்கள் எதிர்பார்ப்பு
-23:03:25    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:03:25    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:08:33 instagram duplicate check tirupur: 50 recent posts read
-23:08:35 verify 2026-11-26_22: 2 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:08:35    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-23:08:35    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:08:35    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:08:35    NOT POSTED Ca102793: queued RN-317 (Queued) - முறைகேடான குடிநீர் இணைப்பு சாட்டை சுழல மக்கள் எதிர்பார்ப்பு
-23:08:35    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:08:35    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:13:41 instagram duplicate check tirupur: 50 recent posts read
-23:13:44 verify 2026-11-26_22: 3 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:13:44    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-23:13:44    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:13:44    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:13:44    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:13:44    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:18:50 instagram duplicate check tirupur: 50 recent posts read
-23:18:52 verify 2026-11-26_22: 3 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:18:52    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-23:18:52    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:18:52    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:18:52    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:18:52    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:23:58 instagram duplicate check tirupur: 50 recent posts read
-23:24:00 verify 2026-11-26_22: 3 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:24:00    NOT POSTED C4dc1231: queued RN-313 (Queued) - திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம் 
-23:24:00    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:24:00    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:24:00    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:24:00    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:29:06 instagram duplicate check tirupur: 50 recent posts read
-23:29:07 verify 2026-11-26_22: 4 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:29:07    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:29:07    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:29:07    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:29:07    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:34:13 instagram duplicate check tirupur: 50 recent posts read
-23:34:15 verify 2026-11-26_22: 4 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:34:15    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:34:15    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:34:15    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:34:15    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:39:22 instagram duplicate check tirupur: 50 recent posts read
-23:39:23 verify 2026-11-26_22: 4 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:39:23    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:39:23    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:39:23    NOT POSTED Ca29e366: queued RN-312 (Queued) - டிரான்ஸ்பார்மர்களை பொது சொத்தாக பாதுகாக்க வேண்டும்! மின்வாரி
-23:39:23    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:44:29 instagram duplicate check tirupur: 50 recent posts read
-23:44:31 verify 2026-11-26_22: 5 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:44:31    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:44:31    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:44:31    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:49:38 instagram duplicate check tirupur: 50 recent posts read
-23:49:39 verify 2026-11-26_22: 5 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:49:39    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:49:39    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:49:39    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:54:46 instagram duplicate check tirupur: 50 recent posts read
-23:54:48 verify 2026-11-26_22: 5 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:54:48    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:54:48    NOT POSTED C754e2e4: queued RN-315 (Queued) - கழிப்பிடம் பயன்பாடு பொதுமக்கள் எதிர்பார்ப்பு
-23:54:48    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-23:59:54 instagram duplicate check tirupur: 50 recent posts read
-23:59:54 verify 2026-11-26_22: 6 of 8 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-23:59:54    NOT POSTED C6ee709e: queued RN-314 (Queued) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-23:59:54    NOT POSTED Cae8fbd2: queued RN-311 (Queued) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
-00:05:01 instagram duplicate check tirupur: 50 recent posts read
-00:05:01 verify 2026-11-26_22: 6 of 8 picked news posted, 0 skipped on purpose, 2 waiting for their posting start
-00:05:01    WAITING C6ee709e: waiting RN-314: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - அரசியலமைப்பு தினம் மாணவர்களுக்கு விளக்கம்
-00:05:01    WAITING Cae8fbd2: waiting RN-311: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - விறகு விற்பனை மந்தம் விவசாயிகள் பாதிப்பு
+00:05:46 round 2026-11-27_00: news published 26 Nov 22:42 -> 27 Nov 00:05 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+00:05:46 insights 2026-11-27T00:05+05:30 (274 reels): topic weights {'politics': -0.28, 'accident': 0.73, 'crime': 1.5, 'education': -0.5, 'jobs': 0.47, 'power_cut': 0.3, 'temple': -0.15, 'civic': 0.03, 'poultry_agri': -0.46, 'weather': -0.43, 'sports_culture': -0.04}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+00:06:36 open search 'திருப்பூர்' (from_google): 4 links from our outlets
+00:06:36 67 links on the two papers' Tirupur pages
+00:07:31 skipped: published before this window=34, already posted=13, not Tirupur district=4, same event already posted=2, only a headline=2, state-wide / other district=1
+00:07:31 list: 6 new + 1 earlier news not posted yet
+00:07:31    1. [மின்தடை] அடுக்குமாடி குடியிருப்பில் அடிக்கடி மின்வெட்டு மெழுகுவர்த்தி ஏந்தி மக் (தினமலர்)
+00:07:31    2. [குற்றம்] குடிநீர் திருட்டு ரூ.30 லட்சம் ‘பைன்’ (தினமலர்)
+00:07:31    3. [பொது] வீடு கட்ட மானியம் ஒதுக்கவில்லை: தனி மனிதனாக போராடிய தொழிலாளி (தினமலர்)
+00:07:31    4. [பொது] கல்வியறி போட்டிவென்றவருக்கு பரிசு (தினமலர்)
+00:07:31    5. [பொது] இந்திய அரசியலமைப்பு சட்டம் உரிமைகளைக் காக்கும் கேடயம்: நீதிபதி இளந்திர (தினமலர்)
+00:07:31    6. [பொது] அரசியல் சாசன தினம்: பா.ஜ. கொண்டாட்டம் (தினமலர்)
+00:07:31    7. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
+00:07:31 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_00
