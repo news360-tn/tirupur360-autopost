@@ -381,7 +381,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T08:26:16.226427+05:30",
-   "picked_at": "2026-11-26T08:27:10.815067+05:30"
+   "picked_at": "2026-11-26T08:27:10.815067+05:30",
+   "posted": true
   },
   "Cab74bf5": {
    "id": "Cab74bf5",
@@ -395,7 +396,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-26T08:26:16.226427+05:30",
-   "picked_at": "2026-11-26T08:27:10.815070+05:30"
+   "picked_at": "2026-11-26T08:27:10.815070+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   }
  },
  "rounds": {
@@ -1006,7 +1008,10 @@
    "written": [
     "C51617c0",
     "Cab74bf5"
-   ]
+   ],
+   "refused": {
+    "Cab74bf5": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
