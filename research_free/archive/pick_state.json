@@ -79,7 +79,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219718+05:30"
   },
   "Cd27d460": {
    "id": "Cd27d460",
@@ -91,7 +92,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219720+05:30"
   },
   "C0029e7b": {
    "id": "C0029e7b",
@@ -106,7 +108,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/%E0%AE%95%E0%AE%BF%E0%AE%A3%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A4%E0%AE%B5%E0%AE%B1%E0%AE%BF-%E0%AE%B5%E0%AE%BF%E0%AE%B4%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%B5%E0%AE%BE%E0%AF%8D-%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-11"
    ],
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219722+05:30"
   },
   "C9d9559d": {
    "id": "C9d9559d",
@@ -118,7 +121,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219723+05:30"
   },
   "C5080ed6": {
    "id": "C5080ed6",
@@ -130,7 +134,8 @@
    "category": "கல்வி",
    "score": 6.85,
    "power_cut": false,
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219724+05:30"
   },
   "C6d6b61f": {
    "id": "C6d6b61f",
@@ -143,7 +148,8 @@
    "score": 6.5,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219725+05:30"
   },
   "C6641012": {
    "id": "C6641012",
@@ -156,7 +162,8 @@
    "score": 3.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219727+05:30"
   },
   "Cffe2f43": {
    "id": "Cffe2f43",
@@ -168,7 +175,8 @@
    "category": "பொது",
    "score": 2.54,
    "power_cut": false,
-   "listed_at": "2026-11-27T01:17:33.412833+05:30"
+   "listed_at": "2026-11-27T01:17:33.412833+05:30",
+   "picked_at": "2026-11-27T01:18:57.219728+05:30"
   }
  },
  "rounds": {
@@ -722,8 +730,30 @@
    ],
    "sent": false,
    "deadline": "2026-11-27T02:17:33.412833+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 8 by insights",
+    "ids": [
+     "Cf4b5142",
+     "Cd27d460",
+     "C0029e7b",
+     "C9d9559d",
+     "C5080ed6",
+     "C6d6b61f",
+     "C6641012",
+     "Cffe2f43"
+    ],
+    "at": "2026-11-27T01:18:57.219709+05:30"
+   },
+   "written": [
+    "C0029e7b",
+    "C5080ed6",
+    "C6641012",
+    "C6d6b61f",
+    "C9d9559d",
+    "Cd27d460",
+    "Cf4b5142",
+    "Cffe2f43"
+   ]
   }
  },
  "retry": {}
