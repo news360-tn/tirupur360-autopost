@@ -394,7 +394,8 @@
    "category": "சாலை",
    "score": 6.06,
    "power_cut": false,
-   "listed_at": "2026-11-26T12:26:49.588780+05:30"
+   "listed_at": "2026-11-26T12:26:49.588780+05:30",
+   "picked_at": "2026-11-26T12:28:26.392073+05:30"
   }
  },
  "rounds": {
@@ -973,8 +974,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-26T13:26:49.588780+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 1 by insights",
+    "ids": [
+     "C8432d39"
+    ],
+    "at": "2026-11-26T12:28:26.392061+05:30"
+   },
+   "written": [
+    "C8432d39"
+   ]
   }
  },
  "retry": {}
