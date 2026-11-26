@@ -1,30 +1,30 @@
 {
- "updated": "2026-11-26T20:28+05:30",
- "posts_measured": 261,
+ "updated": "2026-11-26T22:42+05:30",
+ "posts_measured": 268,
  "topic_weight": {
-  "politics": -0.4,
-  "accident": 0.57,
+  "politics": -0.29,
+  "accident": 0.72,
   "crime": 1.5,
   "education": -0.5,
-  "jobs": 0.47,
-  "power_cut": 0.3,
-  "temple": -0.12,
+  "jobs": 0.46,
+  "power_cut": 0.29,
+  "temple": -0.28,
   "civic": 0.02,
-  "poultry_agri": -0.46,
-  "weather": -0.5,
-  "sports_culture": -0.04
+  "poultry_agri": -0.47,
+  "weather": -0.29,
+  "sports_culture": -0.05
  },
  "topic_n": {
   "politics": 21,
   "accident": 20,
   "crime": 30,
-  "education": 18,
+  "education": 19,
   "jobs": 5,
   "power_cut": 11,
-  "temple": 27,
-  "civic": 42,
+  "temple": 28,
+  "civic": 43,
   "poultry_agri": 23,
-  "weather": 9,
+  "weather": 10,
   "sports_culture": 3
  },
  "best_hours_ist": [
@@ -39,7 +39,7 @@
   "🚨 அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் குடுமிப்பிடி சண்டை",
   "🚨 மூலனூரில் மாயமான 17 வயது சிறுமி 2 மணி நேரத்தில் மீட்பு"
  ],
- "avg_watch_s": 7.7,
+ "avg_watch_s": 7.6,
  "best_topics": [
   "crime",
   "accident",
@@ -47,6 +47,6 @@
  ],
  "weak_topics": [
   "education",
-  "weather"
+  "poultry_agri"
  ]
 }
