@@ -52,7 +52,8 @@
    "score": 10.5,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-27T04:44:03.246386+05:30"
+   "listed_at": "2026-11-27T04:44:03.246386+05:30",
+   "picked_at": "2026-11-27T04:44:48.935216+05:30"
   }
  },
  "rounds": {
@@ -624,8 +625,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-27T05:44:03.246386+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 7 of 1 by insights",
+    "ids": [
+     "C2aa9e44"
+    ],
+    "at": "2026-11-27T04:44:48.935208+05:30"
+   },
+   "written": [
+    "C2aa9e44"
+   ]
   }
  },
  "retry": {}
