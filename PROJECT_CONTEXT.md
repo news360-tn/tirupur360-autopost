@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-26 | `b7184e7` | Website gets each story's kind of news (safe note like the source comment) |
-| 2026-11-26 | `b4b29ac` | stories shared / Instagram pause |
-| 2026-11-26 | `c6e7002` | stories shared / Instagram pause |
-| 2026-11-26 | `582cd7d` | autofix: corrected held news |
-| 2026-11-26 | `5af228b` | stories shared / Instagram pause |
-| 2026-11-26 | `9e479e4` | stories shared / Instagram pause |
-| 2026-11-26 | `7c14a65` | powercut: notices written |
-| 2026-11-26 | `224b018` | stories shared / Instagram pause |
-| 2026-11-26 | `3e98bfd` | stories shared / Instagram pause |
-| 2026-11-26 | `6153ec1` | stories shared / Instagram pause |
-| 2026-11-26 | `4c143dc` | stories shared / Instagram pause |
-| 2026-11-26 | `d205c5d` | stories shared / Instagram pause |
-| 2026-11-26 | `5b3e74d` | stories shared / Instagram pause |
-| 2026-11-26 | `7620c27` | stories shared / Instagram pause |
-| 2026-11-26 | `708844b` | stories shared / Instagram pause |
-| 2026-11-26 | `365b1b7` | stories shared / Instagram pause |
-| 2026-11-26 | `fc1d22f` | stories shared / Instagram pause |
-| 2026-11-26 | `324bd5e` | stories shared / Instagram pause |
-| 2026-11-26 | `660db7b` | stories shared / Instagram pause |
-| 2026-11-26 | `8151f6b` | stories shared / Instagram pause |
-| 2026-11-26 | `e02eac0` | stories shared / Instagram pause |
-| 2026-11-26 | `cbe6aef` | stories shared / Instagram pause |
-| 2026-11-26 | `5b5123d` | stories shared / Instagram pause |
-| 2026-11-26 | `3ec758e` | stories shared / Instagram pause |
-| 2026-11-26 | `8b2f14f` | stories shared / Instagram pause |
-| 2026-11-26 | `de9e411` | stories shared / Instagram pause |
-| 2026-11-26 | `e8c2a80` | stories shared / Instagram pause |
-| 2026-11-26 | `fa277b5` | stories shared / Instagram pause |
-| 2026-11-26 | `1257939` | stories shared / Instagram pause |
-| 2026-11-26 | `9c05be2` | stories shared / Instagram pause |
+| 2026-11-26 | `2718426` | stories shared / Instagram pause |
+| 2026-11-26 | `78e4f56` | stories shared / Instagram pause |
+| 2026-11-26 | `c0ab612` | stories shared / Instagram pause |
+| 2026-11-26 | `b05e5ae` | stories shared / Instagram pause |
+| 2026-11-26 | `1f63263` | stories shared / Instagram pause |
+| 2026-11-26 | `3d11a3a` | stories shared / Instagram pause |
+| 2026-11-26 | `51ead3c` | stories shared / Instagram pause |
+| 2026-11-26 | `4e2da87` | stories shared / Instagram pause |
+| 2026-11-26 | `fe50ad4` | stories shared / Instagram pause |
+| 2026-11-26 | `f02cc73` | stories shared / Instagram pause |
+| 2026-11-26 | `7902b27` | stories shared / Instagram pause |
+| 2026-11-26 | `f8f9671` | stories shared / Instagram pause |
+| 2026-11-26 | `f0ad303` | stories shared / Instagram pause |
+| 2026-11-26 | `bb59170` | stories shared / Instagram pause |
+| 2026-11-26 | `f1868c4` | stories shared / Instagram pause |
+| 2026-11-26 | `959ed36` | pick: written and posted |
+| 2026-11-26 | `68a2a7a` | pick: list sent |
+| 2026-11-26 | `57c24ad` | facebook RN-295 |
+| 2026-11-26 | `f632480` | posted RN-295 |
+| 2026-11-26 | `11a8b96` | pick: written and posted |
+| 2026-11-26 | `acb5bd8` | stories shared / Instagram pause |
+| 2026-11-26 | `3737c4c` | pick: picked news saved |
+| 2026-11-26 | `b44a18b` | stories shared / Instagram pause |
+| 2026-11-26 | `f646aec` | stories shared / Instagram pause |
+| 2026-11-26 | `400e7b9` | pick: picked news saved |
+| 2026-11-26 | `b3ac692` | pick: list sent |
+| 2026-11-26 | `4ba24ed` | stories shared / Instagram pause |
+| 2026-11-26 | `a3dfdc3` | stories shared / Instagram pause |
+| 2026-11-26 | `1e19719` | stories shared / Instagram pause |
+| 2026-11-26 | `cf31f9d` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
