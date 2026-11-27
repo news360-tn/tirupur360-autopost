@@ -1,49 +1,52 @@
-00:26:38 round 2026-11-28_00: news published 27 Nov 22:25 -> 28 Nov 00:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-00:26:38    + news published since 27 Nov 00:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-00:26:38 insights 2026-11-28T00:26+05:30 (304 reels): topic weights {'politics': -0.33, 'accident': 0.89, 'crime': 1.5, 'education': -0.5, 'jobs': 0.11, 'power_cut': 0.18, 'temple': -0.11, 'civic': 0.14, 'poultry_agri': -0.5, 'weather': -0.35, 'sports_culture': -0.18}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-00:27:30 open search 'திருப்பூர்' (from_google): 11 links from our outlets
-00:27:30 town searches (அவிநாசி, பல்லடம், உடுமலை, தாராபுரம், காங்கேயம், மடத்துக்குளம் (+Google), ஊத்துக்குளி (+Google)): 6 links from our outlets
-00:27:30 search links: 14 Google links decoded, 0 not decoded, 79 known from an earlier round, 0 left for the next round, 11 of another district by their headline (not opened)
-00:27:30 90 links on the two papers' Tirupur pages
-00:34:14 skipped: published before this window=41, already posted=14, not Tirupur district=13, could not open (HTTPSConnectionPool(host='www.dinamalar.com', port)=5, checked in an earlier round=3, only a headline=2, state-wide / other district=1, power cut - posted automatically=1
-00:34:14    drop [state-wide / other district] வித்ய விகாஸ் மாணவிக்கு தமிழக முதல்வர் பாராட்டு | dinamalar.com/news/tamil-nad...tulates-student-of-vidya-vikas/4387968
-00:34:14    drop [could not open (HTTPSConnectionPool(host='www]  | dinamalar.com/news/tamil-nad...-security-police-outpost-siege/4387910
-00:34:14    drop [not Tirupur district] இன்று கன மழை பெய்யும் | dinamalar.com/news/tamil-nad...there-will-be-heavy-rain-today/4387979
-00:34:14    drop [already posted] சராசரியை காட்டிலும் 143.89 மி.மீ. மழை குறைவு | dinamalar.com/news/tamil-nad...-mm-less-than-average-rainfall/4387819
-00:34:14    drop [could not open (HTTPSConnectionPool(host='www] பனியன் வர்த்தகத்தில் ரூ.18 லட்சம் பாக்கி கலெக்டர் கார் முன்  | dinamalar.com/news/tamil-nad...ollector-s-car-in-banyan-trade/4387770
-00:34:14    drop [could not open (HTTPSConnectionPool(host='www] திறக்கப்படாத சுகாதார நிலைய கட்டடம்: மக்கள் வேதனை | dinamalar.com/news/tamil-nad...-centre-building-people-suffer/4387599
-00:34:14    drop [not Tirupur district] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று ச | tamil.oneindia.com/news/erod...italised-due-to-ill-health-848835.html
-00:34:14    drop [not Tirupur district] தொகுதி மறுவரையறை மசோதாவை குறுக்கு வழியில் ஒன்றிய பாஜ அரசு நி | dinakaran.com/news/delimitation_bill_manickamtagore
-00:34:14    drop [not Tirupur district] த.வெ.க. எம்.எல்.ஏ. அருள் விக்னேஷ் கைது: காவல்துறை அளித்த விள | dailythanthi.com/amp/story/n...ing-the-arrest-of-tvk-mla-arul-vignesh
-00:34:14    drop [not Tirupur district] ‘மானியம் கிடைக்க நடவடிக்கை எடுங்க’ | dinamalar.com/news/tamil-nad...re/take-steps-to-get-subsidies/4387823
-00:34:14    drop [not Tirupur district] தவெக எம்எல்ஏ அருள் விக்னேஷ் கைது! எம்எல்ஏ பதவி பறிபோகுமா? மக | tamil.oneindia.com/news/chen...ter-arrest-pr-act-explains-848811.html
-00:34:14    drop [not Tirupur district] ஐகோர்ட், மகளிர் ஆணையம் சீற்றத்தால் அருள் விக்னேஷ் கைது; சொல் | dinamalar.com/news/tamil-nad...mens-commission-outrage-stalin/4387765
-00:34:14    drop [not Tirupur district] தீபத்தூண் விவகாரத்தில் பிடிவாதம் விட்டு, கோர்ட் உத்தரவை மதிய | dinamalar.com/news/tamil-nad...issue-of-fire-annamalai-advice/4387632
-00:34:14    drop [not Tirupur district] பஞ்சாபில் கோசாலைகளுக்கு ரூ.100 கோடி உடனடி ஒதுக்கீடு | dinamalar.com/news/india-tam...ocation-for-goshalas-in-punjab/4387542
-00:34:14    drop [not Tirupur district] பைக் மோதி முதியவர் சாவு | dinamalar.com/news/tamil-nad...n-dies-after-being-hit-by-bike/4387458
-00:34:14 list: 7 new + 1 earlier news not posted yet
-00:34:14    1. [குற்றம்] ஜாமினில் வந்த வாலிபர் மீண்டும் ‘போக்சோ’வில் கைது (தினமலர்) (published 27 Nov 20:47, found only now)
-00:34:14    2. [பொது] குடிநீரை காய்ச்சி பருக ‘அட்வைஸ்’ (தினமலர்) (published 27 Nov 20:44, found only now)
-00:34:14    3. [பொது] ஒரு மாதமாக தண்ணீர் வீண் ஊராட்சி நிர்வாகம் ‘அசட்டை’ (தினமலர்) (published 27 Nov 20:44, found only now)
-00:34:14    4. [பொது] ‘நேச்சுரல் டைமண்ட் இயர்ரிங்ஸ்’ கண்காட்சிக்கு அமோக வரவேற்பு (தினமலர்)
-00:34:14    5. [பொது] ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம் (தினமலர்) (published 27 Nov 21:35, found only now)
-00:34:14    6. [பொது] பிராண்டட் வி.ஆர்.எப். ஏ.சி.க்கு ஸ்ரீ மகாலட்சுமி ஏ.சி. சிஸ்டம்ஸ் (தினமலர்)
-00:34:14    7. [பொது] மக்களுக்கு இனிப்பு வழங்கி ஹிந்து முன்னணி மகிழ்ச்சி (தினமலர்)
-00:34:14    8. [பொது] மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு (தினமலர்) (earlier)
-00:34:14 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_00
-00:34:16    not picked automatically (ceremony / shopping feature - only when the owner ticks it): மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு
-00:34:16 round 2026-11-28_00 (at least 1, up to 3 more of well-watched topics): 7 news to choose from (0 from earlier rounds), ranked by this page's insights
-00:34:16   PICK   1.  17.0 [crime +1.50 page] ஜாமினில் வந்த வாலிபர் மீண்டும் ‘போக்சோ’வில் கைது
-00:34:16          2.  10.0 [other +0.00 pattern] குடிநீரை காய்ச்சி பருக ‘அட்வைஸ்’
-00:34:16          3.   9.0 [other +0.00 pattern] ஒரு மாதமாக தண்ணீர் வீண் ஊராட்சி நிர்வாகம் ‘அசட்டை’
-00:34:16          4.   6.0 [other +0.00 pattern] ‘நேச்சுரல் டைமண்ட் இயர்ரிங்ஸ்’ கண்காட்சிக்கு அமோக வரவேற்பு
-00:34:16          5.   4.0 [other +0.00 pattern] ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம்
-00:34:16          6.   3.0 [other +0.00 pattern] பிராண்டட் வி.ஆர்.எப். ஏ.சி.க்கு ஸ்ரீ மகாலட்சுமி ஏ.சி. சிஸ்டம
-00:34:16          7.   3.0 [other +0.00 pattern] மக்களுக்கு இனிப்பு வழங்கி ஹிந்து முன்னணி மகிழ்ச்சி
-00:34:16 decided: automatic: top 1 of 7 by insights -> 1 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/young-man-out-on-bail-back-in-pocso-arrested/4387913
-00:37:02 1 listed news now in the Sheet
-00:37:12 instagram duplicate check tirupur: 50 recent posts read
-00:37:12 verify 2026-11-28_00: 0 of 1 picked news posted, 0 skipped on purpose, 1 waiting for their posting start
-00:37:12    WAITING C03e97fc: waiting RN-347: night: only urgent news posts outside 06:00-22:00 IST (owner 27 Nov) - ஜாமினில் வந்த வாலிபர் மீண்டும் ‘போக்சோ’வில் கைது
+02:28:04 round 2026-11-28_02: news published 28 Nov 00:26 -> 28 Nov 02:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+02:28:04    + news published since 27 Nov 02:28 that no earlier round found (listed / indexed late) - never one already listed or posted
+02:28:04 insights 2026-11-28T02:28+05:30 (304 reels): topic weights {'politics': -0.33, 'accident': 0.89, 'crime': 1.5, 'education': -0.5, 'jobs': 0.11, 'power_cut': 0.18, 'temple': -0.11, 'civic': 0.14, 'poultry_agri': -0.5, 'weather': -0.37, 'sports_culture': -0.11}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+02:38:30 from_google dinamalar.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google dinamani.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google dinamalar.com 'பல்லடம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google dinamani.com 'பல்லடம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google dinamalar.com 'உடுமலை' failed: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?
+02:38:30 from_google dinamani.com 'உடுமலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google tamil.oneindia.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google dinakaran.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google dailythanthi.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google maalaimalar.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google hindutamil.in 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 from_google polimernews.com 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 open search from_google 'திருப்பூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 open search 'திருப்பூர்' (from_bing): 4 links from our outlets
+02:38:30 town search from_google 'அவிநாசி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 town search from_google 'பல்லடம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+02:38:30 town searches (அவிநாசி (+Google), பல்லடம் (+Google), உடுமலை, தாராபுரம், காங்கேயம், மடத்துக்குளம், ஊத்துக்குளி): 6 links from our outlets
+02:38:30 search links: 0 Google links decoded, 0 not decoded, 0 known from an earlier round, 0 left for the next round, 18 of another district by their headline (not opened)
+02:38:30 92 links on the two papers' Tirupur pages
+02:39:17 skipped: published before this window=41, already posted=10, not Tirupur district=9, checked in an earlier round=8, only a headline=2, state-wide / other district=1, shop offer / advertisement=1, same event already posted=1
+02:39:17    drop [already posted] தேசிய கார் ஆடியோ போட்டி சன் கார் இன்டீரியர்ஸ் சாதனை | dinamalar.com/news/tamil-nad...ition-sun-car-interiors-record/4387969
+02:39:17    drop [same event already posted] அமராவதி பாசன வாய்க்கால்களில் கழிவு நீா் வெளியேற்றம்: தொழிற்ச | dinamani.com/all-editions/ed...lsdemand-for-action-against-industries
+02:39:17    drop [not Tirupur district] திருப்பரங்குன்றம் மலையில் தீபம் ஏற்ற உச்ச நீதிமன்றம் உத்தரவு | dinamani.com/all-editions/ed...ndu-organizations-welcome-the-decision
+02:39:17    drop [not Tirupur district] Tamil News Paper | Tamil News Today | Latest Tamil News | தம | dinamani.com
+02:39:17    drop [not Tirupur district] சிறையிலேயே இருங்க.. கைதான தவெக எம்எல்ஏவிற்கு 14 நாள் நீதிமன் | tamil.oneindia.com/news/tami...d-after-sending-message-to-848849.html
+02:39:17    drop [not Tirupur district] அருள் விக்னேஷ் வழக்கில் வாதாட State PP ஜான் சத்யனுக்கு நோ? வ | tamil.oneindia.com/news/chen...te-instead-of-john-sathyan-848573.html
+02:39:17    drop [not Tirupur district] “ஒருவழியாக, அது நடந்துவிட்டது..” - கள்ளக்குறிச்சி எம்.எல்.ஏ. | dailythanthi.com/news/tamiln...-mp-records-arrest-of-kallakurichi-mla
+02:39:17    drop [not Tirupur district] அ.தி.மு.க., நடத்தும் ஆர்ப்பாட்டத்தில் வேலுமணி, சண்முகத்துக்க | dinamalar.com/news/tamil-nad...ni-shanmugam-at-aiadmk-protest/4387703
+02:39:17 list: 11 new + 7 earlier news not posted yet
+02:39:17    1. [குற்றம்] கொள்ளை வழக்கு: தலைமறைவாக இருந்த இளைஞா் கைது (தினமணி)
+02:39:17    2. [குற்றம்] ஜி.எச். செக்யூரிட்டி மீது தாக்குதல் போலீஸ் அவுட் போஸ்ட் முற்றுகை (தினமலர்)
+02:39:17    3. [பொது] குப்பை கொட்டியவர்களுக்கு ரூ.7.41 லட்சம் அபராதம் (தினமலர் + தினமணி) (published 27 Nov 19:40, found only now)
+02:39:17    4. [குற்றம்] பள்ளி மாணவிகளிடம் ஆபாச செய்கை: போக்ஸோவில் இளைஞா் கைது (தினமணி)
+02:39:17    5. [பொது] கொசுப்புழு உற்பத்தி: 2 வணிக நிறுவனங்களுக்கு அபராதம் (தினமணி)
+02:39:17    6. [பொது] வாக்காளர் பட்டியல் திருத்தம் விழிப்புணர்வு ஊர்வலம் (தினமலர்) (published 27 Nov 19:46, found only now)
+02:39:17    7. [பொது] வாக்காளா் சிறப்பு முகாம் கட்டுரைப் போட்டி: வெற்றிபெற்றவா்களுக்கு சான்ற (தினமணி)
+02:39:17    8. [பொது] மாவட்ட அளவிலான போட்டிக்கு தோ்வான மாணவா்களுக்கு சான்றிதழ் (தினமணி)
+02:39:17    9. [பொது] மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொதுமக்கள் கோ (தினமணி)
+02:39:17   10. [பொது] நகர தூய்மை பணியாளர்கள் நியமனத்தில் புதிய நடைமுறை ! திடக்கழிவு மேலாண்மை (தினமலர்)
+02:39:17   11. [பொது] வீட்டு மனைப்பட்டா விவகாரம் கலெக்டர் ஆபீசில் திரண்ட மக்கள் (தினமலர்) (published 27 Nov 20:14, found only now)
+02:39:17   12. [பொது] குடிநீரை காய்ச்சி பருக ‘அட்வைஸ்’ (தினமலர்) (earlier)
+02:39:17   13. [பொது] ஒரு மாதமாக தண்ணீர் வீண் ஊராட்சி நிர்வாகம் ‘அசட்டை’ (தினமலர்) (earlier)
+02:39:17   14. [பொது] ‘நேச்சுரல் டைமண்ட் இயர்ரிங்ஸ்’ கண்காட்சிக்கு அமோக வரவேற்பு (தினமலர்) (earlier)
+02:39:17   15. [பொது] மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு (தினமலர்) (earlier)
+02:39:17   16. [பொது] ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம் (தினமலர்) (earlier)
+02:39:17   17. [பொது] பிராண்டட் வி.ஆர்.எப். ஏ.சி.க்கு ஸ்ரீ மகாலட்சுமி ஏ.சி. சிஸ்டம்ஸ் (தினமலர்) (earlier)
+02:39:17   18. [பொது] மக்களுக்கு இனிப்பு வழங்கி ஹிந்து முன்னணி மகிழ்ச்சி (தினமலர்) (earlier)
+02:39:17 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_02
