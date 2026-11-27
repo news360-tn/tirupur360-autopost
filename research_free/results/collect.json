@@ -3,186 +3,416 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/ramraj-cotton-provides-financial-assistance-to-a-police-department-athlete",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/apologizing-without-respecting-the-law-is-an-act-of-deceiving-the-court-kadeswara-c-subramaniam",
-  "manual link added: https://www.dinamalar.com/news/business-general-news/tiruppur-industry-welcomes-supreme-court-verdict-on-no-tax-on-textile-production-for-dyeing-processing-industry/4387311",
-  "candidate filter: collected=3",
-  "to write: 3 Tirupur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/business-general-news/tiruppu",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "NOT filed (N) சட்டத்தை மதிக்காமல் மன்னிப்பு கேட்பது நீதிமன்றத்தை: not Tirupur district news (the story's first lines name another place and no Tirupur place)",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/unopened-health-centre-building-people-suffer/4387599",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/attempt-to-set-fire-to-rs-18-lakh-pending-collector-s-car-in-banyan-trade/4387770",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/14389-mm-less-than-average-rainfall/4387819",
+  "manual link added: https://www.dinakaran.com/ladies/vastralaya-world-of-beautiful-garments",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/copra-auction-at-mall/4387629",
+  "candidate filter: collected=5",
+  "to write: 5 Tirupur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinakaran.com/ladies/vastralaya-world-of-beautif",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "NOT filed (N) காவல் துறை விளையாட்டு வீரருக்கு ராம்ராஜ் காட்டன் ந: not Tirupur district news (the story's first lines name another place and no Tirupur place)",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 1}, time left 76 min",
-  "filed: 1 Tirupur district stories (target 3), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 72 min",
+  "filed: 5 Tirupur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (22s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (35s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (14s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (45s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "not available on this plan: groq/openai/gpt-oss-120b",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சாயமிடும் நிறுவனங்களுக்கு ஜவுளி வரி கிடையாது: உச்ச நீதிமன்ற தீர்ப்புக்கு திருப்பூர் தொழில் துறை வரவேற்பு",
-   "english_headline": "Supreme Court rules no textile tax for dyeing and processing units; Tirupur industry welcomes the verdict",
+   "tamil_headline": "நங்கநல்லூரில் ரேகாவின் ஸ்ரீ காமாட்சி வஸ்த்ராலயா: அனைவருக்கும் ஏற்ற விலையில் ஆடைகள்",
+   "english_headline": "Sri Kamatchi Vastralaya in Nanganallur sells clothes for the whole family at fair prices, plus temple vastrams",
    "category": "Business & Prices",
+   "location": "Nanganallur, Chennai",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வணிகம்",
+    "loc": "நங்கநல்லூர்",
+    "hl1": "நங்கநல்லூரில் நியாய விலை ஆடைக் கடை",
+    "hl2": "குடும்பம் முழுவதற்கும் ஒரே",
+    "slides": [
+     {
+      "title": "எந்தக் கடை?",
+      "lines": [
+       "ரேகா நடத்தும் ஸ்ரீ காமாட்சி வஸ்த்ராலயா",
+       "நங்கநல்லூரில் அமைந்துள்ளது",
+       "ஆடவர், மகளிர், குழந்தைகள் அனைவருக்கும் ஆடைகள்"
+      ]
+     },
+     {
+      "title": "என்ன கிடைக்கும்?",
+      "lines": [
+       "அன்றாடப் பயன்பாட்டு ஆடைகள் முதல் விழா ஆடைகள் வரை",
+       "திருமணம், விசேஷ நிகழ்ச்சிகளுக்கான ஆடைகள்",
+       "ஆலய தெய்வங்களுக்கான வஸ்திரங்களும் விற்பனையில்"
+      ]
+     },
+     {
+      "title": "விலை எப்படி?",
+      "lines": [
+       "தரமான ஆடைகள் நியாயமான, மலிவான விலையில்",
+       "அனைவரும் வாங்கக்கூடிய விலை",
+       "தரத்துக்கும் அழகுக்கும் முக்கியத்துவம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "நங்கநல்லூரில் குடும்பம் முழுவதற்கும் ஒரே இடத்தில் ஆடைகள் கிடைக்கின்றன. ரேகா நடத்தும் ஸ்ரீ காமாட்சி வஸ்த்ராலயாவில் ஆடவர், மகளிர், குழந்தைகள் அனைவருக்கும் ஏற்ற ஆடை ரகங்கள் விற்பனையில் உள்ளன. அன்றாடப் பயன்பாட்டு ஆடைகள் முதல் விழாக்காலங்கள், திருமணங்கள் மற்றும் விசேஷ நிகழ்ச்சிகளுக்குத் தேவையான ஆடைகள் வரை அனைத்தும் இங்கு கிடைக்கின்றன. ஒவ்வொருவரின் ரசனை, வயது, தேவைக்கு ஏற்ப ஆடைகளைத் தேர்வு செய்யலாம். ஆலயங்களில் உள்ள தெய்வங்களுக்கு அணியக்கூடிய வஸ்திரங்களும் இங்கு விற்பனைக்கு உள்ளன. உயர்ந்த தரமான ஆடைகளை நியாயமான, மலிவான விலையில் வழங்குவதே கடையின் முக்கிய நோக்கம் என ரேகா தெரிவித்தார். பொதுமக்கள் கடைக்கு வந்து தேவையான ஆடைகளை வாங்கலாம். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "👗 நங்கநல்லூரில் குடும்பம் முழுவதற்கும் நியாய விலையில் ஆடைகள்\n\n📰 முழு விவரம்:\nநங்கநல்லூரில் ரேகா நடத்தும் ஸ்ரீ காமாட்சி வஸ்த்ராலயாவில் ஆடவர், மகளிர், குழந்தைகள் அனைவருக்கும் ஏற்ற ஆடைகள் ஒரே இடத்தில் கிடைக்கின்றன. அன்றாடப் பயன்பாட்டு ஆடைகள் முதல் விழாக்காலங்கள், திருமணங்கள் மற்றும் விசேஷ நிகழ்ச்சிகளுக்கான ஆடைகள் வரை பல்வேறு ரகங்களில் வைக்கப்பட்டுள்ளன.\n🛕 ஆலயங்களில் உள்ள தெய்வங்களுக்கு அணியக்கூடிய வஸ்திரங்களும் விற்பனைக்கு உள்ளன.\n💰 தரமான ஆடைகளை நியாயமான, மலிவான விலையில் வழங்குவதே கடையின் முக்கிய நோக்கம்.\n\n📍 இடம்: நங்கநல்லூர், சென்னை\n\nNanganallur clothes shop for whole family at fair prices | Tirupur news\n📍 நங்கநல்லூர், சென்னை\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #வணிகம்",
+   "prompts": "A shopkeeper in a sari stands behind a counter inside a busy Tamil clothing shop in Nanganallur, Chennai, folding garments while a family of customers browses. The shop is packed with shelves and racks of colourful clothes: men's shirts and veshtis, women's sarees and salwars, and children's dresses hanging in rows from floor to ceiling. Customers are seen from behind, a mother and two small children near a rack, a man in a shirt looking at fabric. Some bright temple-style cloths in gold and red are draped over a display stand. Daylight from the front entrance falls across the floor, and the view is at eye level in a wide 35 mm frame that shows the whole shop interior. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of folded temple vastrams: gold-bordered silk cloths in red, yellow and green, laid neatly on a wooden shelf of a Tamil clothing shop in Nanganallur, Chennai. Beside them, a row of folded men's veshtis and women's sarees in bright colours is visible, with a fabric roll resting at the edge. The cloth textures, zari borders and folds are sharp in soft daylight from the shop entrance, with a blurred shopkeeper's hand straightening a fabric at the edge of the frame. Shot slightly from above at about 35 mm, close enough to show the fine gold zari thread and the fair-priced, neatly arranged stock. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/ladies/vastralaya-world-of-beautiful-garments",
+   "published": "2026-11-27T17:20:41+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 78 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/e878b453b153d309.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/d2c1084c2ba88017.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர் மாவட்டத்தில் மழை சராசரியை விட 143.89 மி.மீ. குறைவு",
+   "english_headline": "Tirupur district rainfall 143.89 mm below average up to October 2026",
+   "category": "Weather & Agriculture",
    "location": "Tirupur city, Tirupur district",
    "importance": "High",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தொழில் துறை",
-    "loc": "திருப்பூர்",
-    "hl1": "சாய ஆலைகளுக்கு ஜவுளி வரி கிடையாது",
-    "hl2": "உச்ச நீதிமன்றம் அதிரடி",
+    "cat": "மழை குறைவு",
+    "loc": "திருப்பூர் நகரம்",
+    "hl1": "திருப்பூரில் மழை 143.89 மி.மீ. குறைவு",
+    "hl2": "விவசாயிகள் குறைகேட்பு",
     "slides": [
      {
-      "title": "முக்கிய தீர்ப்பு",
+      "title": "மழை நிலவரம்",
       "lines": [
-       "சாயமிடுதல், வெளுப்பேற்றுதல் நிறுவனங்களுக்கு <b>ஜவுளி",
-       "உச்ச நீதிமன்றத்தின் தீர்ப்பைத் திருப்பூர் தொழில் துறை",
-       "ஜாப் ஒர்க் நிறுவனங்களுக்குப் பெரிய நிம்மதி"
+       "நடப்பாண்டு அக். மாதம் வரை <b>143.89 மி.மீ.</b> மழை குறைவு",
+       "இயல்பான மழை <b>534.07 மி.மீ.</b>, பெய்தது குறைவு",
+       "ஆண்டு இயல்பு மழை அளவு <b>660.64 மி.மீ.</b>"
       ]
      },
      {
-      "title": "வழக்கின் பின்னணி",
+      "title": "விவசாயிகள் கூட்டம்",
       "lines": [
-       "தனியார் நிறுவனத்திற்கு <b>ரூ.2.68 லட்சம்</b> வரி விதிக்க உத்தரவு",
-       "அலகாபாத் உயர் நீதிமன்றம் இந்த உத்தரவை ரத்து செய்தது",
-       "இதை உச்ச நீதிமன்றமும் தற்போது உறுதி செய்துள்ளது"
+       "திருப்பூர் மாவட்ட விவசாயிகள் குறைகேட்பு கூட்டம்",
+       "கலெக்டர் அலுவலக கூட்ட அரங்கில் நடைபெற்றது",
+       "கலெக்டர் முத்துக்குமரன் தகவல் தெரிவித்தார்"
       ]
      },
      {
-      "title": "நீதிமன்றம் கூறியது",
+      "title": "இருப்பில் உள்ள",
       "lines": [
-       "ஒப்பந்த அடிப்படையில் பணி செய்வது உற்பத்தி ஆகாது",
-       "துணிகளைப் பதப்படுத்தித் தருவது ஒரு சேவை மட்டுமே",
-       "சட்டப்பூர்வ அடிப்படை இல்லாமல் வரி வசூலிக்க முடியாது"
-      ]
-     },
-     {
-      "title": "திருப்பூர்",
-      "lines": [
-       "ஜாப் ஒர்க் நிறுவனங்களுக்குத் தெளிவான விளக்கம் கிடைத்துள்ளது",
-       "உற்பத்தியாளர்களிடமே துணிகள் திருப்பி வழங்கப்படுகின்றன",
-       "இந்தத் தீர்ப்பு மிகவும் வரவேற்கத்தக்கது"
+       "நெல் <b>7.41 டன்</b>, தானிய பயிறு <b>44.08 டன்</b>",
+       "பயிறு வகைகள் <b>18.60</b>, எண்ணெய் வித்துகள் <b>3.50 டன்</b>",
+       "யூரியா <b>2,831 டன்</b>, டி.ஏ.பி. <b>1,877</b>, காம்ப்ளக்ஸ் <b>5,166</b>"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சாயமிடும் நிறுவனங்களுக்கு ஜவுளி வரி விதிக்க முடியாது என உச்ச நீதிமன்றம் தீர்ப்பளித்துள்ளது. இந்தத் தீர்ப்பைத் திருப்பூர் ஜவுளித் தொழில் துறையினர் வரவேற்றுள்ளனர். துணிகளுக்குச் சாயமிடுதல் மற்றும் வெளுப்பேற்றுதல் போன்ற பணிகளைச் செய்யும் நிறுவனங்களுக்கு ஜவுளி வரி விதிக்கக் கோரி வழக்கு தொடரப்பட்டது. ஒரு தனியார் நிறுவனத்திற்கு 2 லட்சத்து 68 ஆயிரம் ரூபாய் ஜவுளி வரி விதிக்க வருமான வரி மதிப்பீட்டு அதிகாரி உத்தரவிட்டார். இந்த உத்தரவை அலகாபாத் உயர் நீதிமன்றம் ரத்து செய்த நிலையில், உச்ச நீதிமன்றமும் அதை உறுதி செய்துள்ளது. ஒப்பந்த அடிப்படையில் சாயமிடுதல் மற்றும் பதப்படுத்துதல் பணிகளை மேற்கொள்வது உற்பத்தி நடவடிக்கை ஆகாது என்று நீதிமன்றம் கூறியுள்ளது. வேறொரு சட்டத்தில் உள்ள வரையறையைத் தன்னிச்சையாகப் பயன்படுத்த முடியாது என்றும் நீதிபதிகள் தெரிவித்தனர். திருப்பூரில் ஜாப் ஒர்க் முறையில் துணிகளைப் பதப்படுத்தி மீண்டும் உற்பத்தியாளர்களிடமே வழங்கி விடுகிறோம். ஆடை உற்பத்தியாளர்கள் தான் விலையை நிர்ணயித்து விற்பனை செய்கிறார்கள். எனவே ஜாப் ஒர்க் நிறுவனங்களுக்கு வரி விதிப்பது சரியாக இருக்காது என்று திருப்பூர் சங்க நிர்வாகிகள் தெரிவித்துள்ளனர். இந்தத் தீர்ப்பு மூலம் ஜாப் ஒர்க் நிறுவனங்களுக்குத் தெளிவான சட்ட விளக்கம் கிடைத்துள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ சாயமிடும் நிறுவனங்களுக்கு ஜவுளி வரி கிடையாது - உச்ச நீதிமன்ற தீர்ப்புக்கு திருப்பூர் தொழில் துறை வரவேற்பு\n\n📰 முழு விவரம்:\nதுணிகளுக்குச் சாயமிடுதல், வெளுப்பேற்றுதல் மற்றும் பதப்படுத்துதல் போன்ற ஜாப் ஒர்க் பணிகளைச் செய்யும் நிறுவனங்களுக்கு ஜவுளி வரி விதிக்க முடியாது என உச்ச நீதிமன்றம் அதிரடி தீர்ப்பு வழங்கியுள்ளது. ஒரு தனியார் நிறுவனத்திற்கு 2 லட்சத்து 68 ஆயிரம் ரூபாய் ஜவுளி வரி விதிக்கப்பட்டதை எதிர்த்துத் தொடரப்பட்ட வழக்கில் இந்தத் தீர்ப்பு கிடைத்துள்ளது.\n✅ ஒப்பந்த அடிப்படையில் பணிகளைச் செய்து, துணிகளை மீண்டும் உற்பத்தியாளர்களிடமே வழங்குவது உற்பத்தி நடவடிக்கை ஆகாது என நீதிமன்றம் தெளிவுபடுத்தியுள்ளது.\n🤝 இந்தத் தீர்ப்பைத் திருப்பூர் சாய ஆலை உற்பத்தியாளர்கள் சங்கம் மற்றும் பிரிண்டர்ஸ் அசோசியேஷன் நிர்வாகிகள் வரவேற்றுள்ளனர். இதன் மூலம் ஜாப் ஒர்க் நிறுவனங்களுக்குத் தெளிவான சட்ட விளக்கம் கிடைத்துள்ளதாக அவர்கள் தெரிவித்துள்ளனர்.\n\nTirupur dyeing units textile tax SC verdict | Tirupur news\n📍 திருப்பூர் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Business #TirupurNews #திருப்பூர்",
-   "prompts": "Inside a Tirupur dyeing and processing unit, workers in shirts and trousers handle rolls of freshly dyed knitted cloth beside large steel dyeing vats and drums, moving the processed fabric off a conveyor onto a trolley. The factory floor is a plain concrete hall with tall ceilings, rows of machines and bales of undyed cloth stacked along one wall, typical of the job-work units around Tirupur city. Some workers are seen from behind and far away, their faces not visible, and no signboards or readable text appear in the frame. The hall is lit by daylight from high windows and a few tube lights. The camera sits at eye level with a 35 mm wide view, showing the steam-filled space, the vats and the stacks of finished cloth that the job-work units return to garment manufacturers. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked rolls of bleached and dyed knitted fabric on a wooden pallet inside a Tirupur processing unit, the fabric in bright, uniform colours with a soft sheen, with a steel dyeing drum blurred in the background. Hands of a worker in a plain shirt rest on the top roll, with no face visible. The rolls are neatly wrapped and ready for return to the garment manufacturer, a job-work arrangement where the processing unit earns a wage and holds no ownership of the cloth. Daylight comes in from a side window, and the scene shows the processed goods rather than any legible labels or company names. The camera is slightly high, using a 35 mm close framing. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/business-general-news/tiruppur-industry-welcomes-supreme-court-verdict-on-no-tax-on-textile-production-for-dyeing-processing-industry/4387311",
-   "published": "2026-11-26T23:06:38+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பூர்', e.g. 'திருப்பூர்: ...' or 'திருப்பூர்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 4 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூர் மாவட்டத்தில் இந்த ஆண்டு அக்டோபர் மாதம் வரை மழை சராசரியை விட 143.89 மில்லிமீட்டர் குறைவாகப் பெய்துள்ளது. மாவட்டத்தின் இயல்பான ஆண்டு மழை அளவு 660.64 மில்லிமீட்டர் ஆகும். 2026ஆம் ஆண்டு அக்டோபர் மாதம் முடிய சராசரியாக 534.07 மில்லிமீட்டர் மழை பெய்திருக்க வேண்டும். ஆனால் அந்த அளவை விட குறைவாகவே மழை பெய்துள்ளது. திருப்பூர் மாவட்ட விவசாயிகள் குறைகேட்பு கூட்டம் இன்று நவம்பர் 27ஆம் தேதி கலெக்டர் அலுவலக கூட்ட அரங்கில் நடைபெற்றது. கலெக்டர் முத்துக்குமரன் இந்தத் தகவல்களைத் தெரிவித்தார். மாவட்டத்தில் பயிர் சாகுபடிக்குத் தேவையான விதைகள் போதிய அளவு இருப்பில் உள்ளதாக அவர் கூறினார். நெல் 7.41 டன், தானிய பயிறு 44.08 டன், பயிறு வகைகள் 18.60, எண்ணெய் வித்துகள் 3.50 டன் இருப்பில் உள்ளன. யூரியா 2,831 டன், டி ஏ பி 1,877, காம்ப்ளக்ஸ் 5,166, சூப்பர் பாஸ்பேட் 664 டன் இருப்பில் உள்ளன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌧️ திருப்பூர் மாவட்டத்தில் மழை சராசரியை விட 143.89 மி.மீ. குறைவு\n\n📰 முழு விவரம்:\nநடப்பாண்டு அக்டோபர் மாதம் வரை திருப்பூர் மாவட்டத்தில் சராசரியை விட 143.89 மி.மீ. மழை குறைவாகப் பெய்துள்ளது.\nமாவட்டத்தின் இயல்பான ஆண்டு மழை அளவு 660.64 மி.மீ. ஆகும். 2026 அக்டோபர் மாதம் முடிய சராசரியாக 534.07 மி.மீ. மழை பெய்திருக்க வேண்டும்.\nஇன்று (நவ. 27) கலெக்டர் அலுவலக கூட்ட அரங்கில் விவசாயிகள் குறைகேட்பு கூட்டம் நடைபெற்றது. கலெக்டர் முத்துக்குமரன் தகவல்களைத் தெரிவித்தார்.\n🌾 இருப்பில் உள்ள விதைகள்: நெல் 7.41 டன், தானிய பயிறு 44.08 டன், பயிறு வகைகள் 18.60, எண்ணெய் வித்துகள் 3.50 டன்.\n🧪 உரங்கள் இருப்பு: யூரியா 2,831 டன், டி.ஏ.பி. 1,877, காம்ப்ளக்ஸ் 5,166, சூப்பர் பாஸ்பேட் 664 டன்.\n\nTirupur rainfall 143.89 mm below average | Tirupur news\n📍 திருப்பூர் நகரம், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A district farmers' grievance meeting is under way in the conference hall of the Tirupur Collector's office. Rows of farmers in shirts, veshti and sarees sit on chairs seen from behind and from the side, while officials sit at a long wooden table at the front of the hall with a microphone and a few files. The hall is a government building in Tirupur city with tubelight ceiling fans, plain white walls and a wooden podium. The mood is serious as the Collector speaks about the district's rainfall shortfall. Daylight comes through tall windows, and the photo is taken at eye level from the back of the hall with a 35 mm lens wide enough to show the whole room and the people in it. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked fertiliser and seed bags in a dry, dusty government godown on the outskirts of Tirupur, the kind used for district farm input stocks. In the foreground, several large sacks of urea and complex fertiliser are piled on a concrete floor, with a few paddy seed sacks and pulse bags behind them. Dry, cracked farmland with brown stubble is visible through an open shutter in the background, showing the effect of the poor rain. The light is pale midday sunlight, and the camera sits slightly above eye level with a 35 mm lens, with no readable text or labels visible on any bags. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/14389-mm-less-than-average-rainfall/4387819",
+   "published": "2026-11-27T19:46:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (1,877, 5,166); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/bf22fd15f3feeea5.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/bea8be4ebe55cfdf.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/ce475384f29d191a.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/daf0284574c32174.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "உடுமலை விற்பனை கூடத்தில் கொப்பரை ஏலம்",
+   "english_headline": "Cotton auction held at Udumalaipettai regulated market",
+   "category": "Business & Prices",
+   "location": "Udumalaipettai town, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கொப்பரை ஏலம்",
+    "loc": "உடுமலை",
+    "hl1": "உடுமலை கொப்பரை ஏலம் நடைபெற்றது",
+    "hl2": "கிலோ ரூ.150.11 விலை",
+    "slides": [
+     {
+      "title": "ஏலம் நடந்த இடம்",
+      "lines": [
+       "உடுமலை ஒழுங்கு விற்பனைக்கூடத்தில்",
+       "நவம்பர் 26ஆம் தேதி ஏலம் நடந்தது",
+       "வாரந்தோறும் வியாழக்கிழமை நடைபெறும்"
+      ]
+     },
+     {
+      "title": "விவசாயிகள்",
+      "lines": [
+       "41 விவசாயிகள் பங்கேற்றனர்",
+       "557 மூட்டை கொப்பரை கொண்டு வந்தனர்",
+       "11 வியாபாரிகள் ஏலத்தில் இணைந்தனர்"
+      ]
+     },
+     {
+      "title": "விலை விவரம்",
+      "lines": [
+       "முதல் தரம் ரூ.150.11 வரை விற்பனை",
+       "இரண்டாம் தரம் ரூ.128.11 வரை விற்பனை",
+       "இணையதளத்தில் விலை நிர்ணயம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "உடுமலை விற்பனைக்கூடத்தில் கொப்பரை கிலோ ரூ.150.11க்கு விற்பனையானது. நவம்பர் 26ஆம் தேதி நடைபெற்ற இந்த ஏலத்தில் 41 விவசாயிகள் பங்கேற்றனர். அவர்கள் 557 மூட்டை கொப்பரையை விற்பனைக்கு கொண்டு வந்தனர். 11 வியாபாரிகள் இந்த ஏலத்தில் பங்கேற்றனர். முதல் தர கொப்பரை ரூ.130 முதல் ரூ.150.11 வரை விற்பனையானது. இரண்டாம் தர கொப்பரை ரூ.100.87 முதல் ரூ.128.11 வரை விற்பனையானது. இணையதளத்தில் விலை நிர்ணயம் செய்யப்பட்டு ஏலம் முடிவடைந்தது. திருப்பூர் விற்பனை குழு முதுநிலை செயலாளர் சண்முக சுந்தரம் இதனை தெரிவித்தார். ஒழுங்கு விற்பனைக்கூட கண்காணிப்பாளர் பொறுப்பு அருண்குமார் விவரங்களை வழங்கினார். இ–நாம் திட்டத்தின் கீழ் வாரந்தோறும் வியாழக்கிழமைகளில் இந்த ஏலம் நடந்து வருகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📉 உடுமலை விற்பனைக்கூடத்தில் கொப்பரை கிலோ ரூ.150.11க்கு விற்பனையானது\n\n📰 முழு விவரம்:\nஉடுமலை ஒழுங்கு முறை விற்பனைக்கூடத்தில் நவம்பர் 26ஆம் தேதி கொப்பரை ஏலம் நடைபெற்றது. 41 விவசாயிகள் 557 மூட்டை கொப்பரையை விற்பனைக்கு கொண்டு வந்தனர். 11 வியாபாரிகள் ஏலத்தில் பங்கேற்றனர். முதல் தர கொப்பரை ரூ.130 முதல் ரூ.150.11 வரை விற்பனையானது. இரண்டாம் தர கொப்பரை ரூ.100.87 முதல் ரூ.128.11 வரை விற்பனையானது. இணையதளத்தில் விலை நிர்ணயம் செய்யப்பட்டு ஏலம் முடிவடைந்தது. திருப்பூர் விற்பனை குழு முதுநிலை செயலாளர் சண்முக சுந்தரம் மற்றும் கண்காணிப்பாளர் பொறுப்பு அருண்குமார் விவரங்களை தெரிவித்தனர்.\n\n📍 இடம்: உடுமலை ஒழுங்கு முறை விற்பனைக்கூடம்\n🗓️ நாள்: நவம்பர் 26\n📊 விலை: முதல் தரம் ரூ.150.11, இரண்டாம் தரம் ரூ.128.11\nℹ️ மக்கள் கவனத்திற்கு: வாரந்தோறும் வியாழக்கிழமைகளில் ஏலம் நடக்கிறது\n\nவிவசாயிகளுக்கு பயனுள்ள செய்தி - Share செய்யுங்கள்\n\nUdumalaipettai cotton auction news | Tirupur news\n📍 Udumalaipettai, Tirupur | Nov 26\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "A wide view of the Udumalaipettai regulated market yard on an auction day, where farmers and traders gather around rows of jute sacks heaped with dried coconut copra. The yard is an open-sided shed with a tiled roof and concrete floor in a small town of Tirupur district, Tamil Nadu. Around forty farmers in shirts, veshti or lungis and women in cotton sarees stand near the sacks, while about eleven traders in shirts and trousers move between the piles, some holding mobile phones to check online bids. Hundreds of sacks of copra are stacked in neat rows, with a few scales and a wooden table where a sales committee official sits with papers. Daylight comes through the open sides of the shed, the air is warm and dry. The camera is at eye level, shot with a 35 mm lens from the back of the crowd, wide enough to show the whole yard and the stacks of copra. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of freshly graded dried coconut copra spread on a jute sack at the Udumalaipettai regulated market, the main object of the auction. White-brown copra halves and pieces are piled in a heap beside an open sack, with a traditional spring-balance weighing scale nearby on a wooden platform. Behind the pile, out of focus, a trader in a shirt and a farmer in a veshti stand near the stacked sacks in the auction shed. The light is natural daylight from the open sides of the shed. The camera is slightly high, 35 mm, focused on the copra and the scale, with the stacked sacks blurred in the background to suggest the scale of the auction. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/copra-auction-at-mall/4387629",
+   "published": "2026-11-27T17:26:03+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/c7c037a9f4fae09a.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/1881beb6447a187d.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பனியன் பாக்கி ரூ.18 லட்சம்: கலெக்டர் கார் முன் தீக்குளிக்க முயன்ற உரிமையாளர்",
+   "english_headline": "Garment owner unpaid Rs 18 lakh tries self-immolation in front of Collector's car in Tirupur",
+   "category": "Crime & Safety",
+   "location": "Tirupur Collectorate, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பனியன் பாக்கி",
+    "loc": "திருப்பூர் கலெக்டர் அலுவலகம்",
+    "hl1": "பனியன் பாக்கியால் தீக்குளிக்க முயற்சி",
+    "hl2": "ரூ.18 லட்சம் நிலுவை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர் கலெக்டர் அலுவலகத்தில் பரபரப்பு",
+       "கலெக்டர் கார் முன் தீக்குளிக்க முயன்றார் பனியன்",
+       "<b>ரூ.18 லட்சம்</b> வராததால் மனமுடைந்தார்"
+      ]
+     },
+     {
+      "title": "யார்? எப்படி?",
+      "lines": [
+       "திருமுருகன்பூண்டி, அண்ணா நகரைச் சேர்ந்த ரவிச்சந்திரன், 35",
+       "ராயபுரம் நிறுவனம் <b>ரூ.16 லட்சம்</b> ஆர்டர் நிலுவை",
+       "போலீசார் பேசியும் தீர்வு ஏற்படவில்லை"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "மனைவி, இரு குழந்தைகளுடன் அலுவலகம் வந்தார்",
+       "போலீசார் தடுத்து ஆட்டோவில் மருத்துவமனைக்கு அனுப்பினர்",
+       "வீரபாண்டி போலீசார் விசாரணை நடத்துகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் கலெக்டர் அலுவலகத்தில் கலெக்டர் கார் முன் ஒருவர் தீக்குளிக்க முயன்றார். பனியன் உற்பத்தி நிறுவனம் நடத்தும் ரவிச்சந்திரன் (35 வயது), வர்த்தகப் பாக்கியால் மனமுடைந்து இந்தச் செயலில் ஈடுபட்டார். திருமுருகன்பூண்டி, அண்ணா நகரைச் சேர்ந்த அவர், ராயபுரத்தைச் சேர்ந்த ஒரு நிறுவனத்துக்குப் பனியன் உற்பத்திக்கான ஆர்டர்களை வழங்கியிருந்தார். அந்த ஆர்டர்களின் மதிப்பு 16 லட்சம் ரூபாய். நிறுவனம் நீண்ட நாட்களாகப் பணம் தராமல் காலம் தாழ்த்தி வந்தது. ரவிச்சந்திரன் திருமுருகன்பூண்டி போலீசில் புகார் அளித்தார். போலீசார் இரு தரப்பையும் அழைத்துப் பேசி, நிலுவைத் தொகையைச் செலுத்துமாறு அறிவுறுத்தினர். ஆனால், எந்தத் தீரும் ஏற்படவில்லை. இதனால் மனமுடைந்த ரவிச்சந்திரன், நேற்று காலை மனைவி, இரு குழந்தைகளுடன் கலெக்டர் அலுவலகம் வந்தார். அலுவலக வாயிலில் நின்றிருந்த கலெக்டர் காருக்கு முன் அவர் மண்ணெண்ணெய் ஊற்றிக்கொண்டு தீக்குளிக்க முயன்றார். போலீசார் அனைவரையும் தடுத்து, அவரை ஒரு ஆட்டோவில் திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பி வைத்தனர். வீரபாண்டி போலீசார் இது குறித்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் கலெக்டர் கார் முன் தீக்குளிக்க முயன்ற பனியன் உரிமையாளர்\n\n📰 முழு விவரம்:\nதிருமுருகன்பூண்டி, அண்ணா நகரைச் சேர்ந்த பனியன் உற்பத்தி நிறுவன உரிமையாளர் ரவிச்சந்திரன் (35 வயது), நிலுவைத் தொகை கிடைக்காததால் மனமுடைந்தார்.\nராயபுரம் நிறுவனம் அவருக்கு வழங்கிய ரூ.16 லட்சம் மதிப்புள்ள ஆர்டர்களுக்கான தொகையை நீண்ட நாட்களாகத் தராமல் இருந்தது. மொத்த நிலுவைப் பாக்கி ரூ.18 லட்சம் என்று குறிப்பிடப்பட்டுள்ளது.\nஇது குறித்துத் திருமுருகன்பூண்டி போலீசில் புகார் அளிக்கப்பட்டது. போலீசார் இரு தரப்பையும் அழைத்துப் பேசி, நிலுவைத் தொகையைச் செலுத்துமாறு அறிவுறுத்தினர்; ஆனால் தீர்வு ஏற்படவில்லை.\nஇதையடுத்து ரவிச்சந்திரன் தன் மனைவி, இரு குழந்தைகளுடன் கலெக்டர் அலுவலகம் வந்தார். அலுவலக வாயிலில் நின்றிருந்த கலெக்டர் கார் முன், உடலில் மண்ணெண்ணெய் ஊற்றித் தீக்குளிக்க முயன்றார்.\nபோலீசார் அனைவரையும் தடுத்து, அவரை ஆட்டோவில் திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பினர். வீரபாண்டி போலீசார் விசாரிக்கின்றனர்.\n\n📍 இடம்: திருப்பூர் கலெக்டர் அலுவலகம், திருப்பூர் மாவட்டம்\n👮 நடவடிக்கை: போலீசார் தடுத்து மருத்துவமனைக்கு அனுப்பினர்; வீரபாண்டி போலீசார் விசாரணை\n\nTirupur Collectorate man tries self-immolation over Rs 18 lakh unpaid dues | Tirupur news\n📍 திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A tense scene outside the Tirupur District Collectorate entrance in the morning, with a government office gate and a dark official car parked near the steps. Police in khaki stand in a cordon between a group of onlookers and the car, pushing back people with their arms out, while a few people in shirts and sarees and two small children stand at a distance behind the barrier, seen from behind. A pair of police in khaki hold back the crowd and an autorickshaw waits at the gate, its door open, to take someone away. Concrete government buildings, a flagpole and the entrance arch of the Collectorate fill the frame. Clear daylight, eye level, wide 35 mm framing so the office gate and the Collector's car are clearly visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the ground at the foot of a government office entrance steps in Tirupur, showing a small empty plastic can of kerosene lying on the concrete beside a tyre of a parked official car. Dark damp patches of spilt liquid on the pavement, a few scattered dry leaves, and the lower part of a khaki police boot stepping in at the edge of the frame. Blurred figures of onlookers far behind. Morning light, daylight outdoors, shot from low eye level with a 35 mm lens, shallow focus on the can. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/attempt-to-set-fire-to-rs-18-lakh-pending-collector-s-car-in-banyan-trade/4387770",
+   "published": "2026-11-27T19:08:26+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/00c7833d62606558.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/148bcc49bcedf73f.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "உடுமலை: புதிய சுகாதார நிலைய கட்டடம் திறக்கப்படாததால் மக்கள் வேதனை",
+   "english_headline": "Udumalaipettai: new health centre building lies unopened while residents of Ramachandrapuram face risk in the old damaged building",
+   "category": "Health",
+   "location": "Ramachandrapuram, Anikadavu panchayat, Kundadam union, Udumalaipettai, Tirupur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சுகாதாரம்",
+    "loc": "ராமச்சந்திராபுரம், உடுமலை",
+    "hl1": "ராமச்சந்திராபுரம் கட்டடம் திறக்கவில்லை",
+    "hl2": "ரூ.1.50 கோடியில் கட்டி",
+    "slides": [
+     {
+      "title": "என்ன பிரச்னை?",
+      "lines": [
+       "ராமச்சந்திராபுரம் ஆரம்ப சுகாதார நிலையம் பழைய கட்டடத்தில்",
+       "பழைய கட்டடம் பழுதடைந்து, கான்கிரீட் உதிர்ந்து விரிசல்",
+       "மழைக்காலத்தில் அச்சத்துடன் சிகிச்சை பெற வேண்டிய நிலை"
+      ]
+     },
+     {
+      "title": "யார் பாதிப்பு?",
+      "lines": [
+       "அனிக்கடவு ஊராட்சி, சுற்றுப்பகுதியின் 10க்கும் அதிகமான கிராம",
+       "கர்ப்பிணிகள், தாய்மார்கள், தடுப்பூசி பெற வருவோர்",
+       "போதிய இடவசதி இல்லாமல் நெருக்கடி"
+      ]
+     },
+     {
+      "title": "புதிய கட்டடம்",
+      "lines": [
+       "15வது நிதிக்குழு சுகாதார மானியத்தில் <b>ரூ.1.50 கோடி</b> ஒதுக்கீடு",
+       "கட்டட பணிகள் முடிந்து பல மாதங்களாகியும் திறக்கவில்லை",
+       "பயன்பாட்டுக்கு கொண்டு வர மக்கள் கோரிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "உடுமலை அருகே ராமச்சந்திராபுரம் ஆரம்ப சுகாதார நிலையம் பழைய பழுதடைந்த கட்டடத்தில் செயல்பட்டு வருகிறது. குடிமங்கலம் ஒன்றியம், அனிக்கடவு ஊராட்சியில் உள்ள இந்த நிலையத்தை 10க்கும் அதிகமான கிராம மக்கள் நம்பியுள்ளனர். கர்ப்பிணிகள் மற்றும் தாய்மார்களுக்கான திட்டங்களால் தடுப்பூசி பெற வருவோர் எண்ணிக்கை அதிகரித்துள்ளது. சித்த மருத்துவப் பிரிவும் இதே வளாகத்தில் செயல்படுகிறது. பழைய கட்டடத்தின் கான்கிரீட் பூச்சு பல இடங்களில் உதிர்ந்து விரிசல் விட்டுள்ளது. போதிய இடவசதி இல்லாமல் நோயாளிகள் நெருக்கடியில் சிகிச்சை பெற வேண்டியுள்ளது. கட்டடம் வலுவிழந்துள்ளதால் நோயாளிகள் மற்றும் பணியாளர்களின் பாதுகாப்பு கேள்விக்குறியாக உள்ளதாக அப்பகுதி மக்கள் தொடர்ந்து புகார் தெரிவித்து வருகின்றனர். இதையடுத்து புதிய கட்டடம் கட்ட 15வது நிதிக்குழு சுகாதார மானியத்தில் ரூ.1.50 கோடி அரசால் ஒதுக்கீடு செய்யப்பட்டது. கட்டட பணிகள் நிறைவடைந்து பல மாதங்களாகியும் புதிய கட்டடம் இதுவரை பயன்பாட்டுக்கு திறக்கப்படவில்லை. சுகாதாரத்துறையினர் புதிய கட்டடத்தை பயன்பாட்டுக்கு கொண்டு வந்து பிரச்னைக்கு தீர்வு காண வேண்டும். போதுமான டாக்டர்கள், பணியாளர்கள் நியமிக்கப்பட்டு உபகரணங்கள் ஒதுக்கப்பட்டால் கிராம மக்கள் அவசர சிகிச்சைக்கு தொலைதூரம் செல்லும் நிலை தவிர்க்கப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 உடுமலை ராமச்சந்திராபுரத்தில் புதிய சுகாதார கட்டடம் திறக்கப்படாததால் மக்கள் அச்சத்தில்\n\n📰 முழு விவரம்:\nஉடுமலை அருகே குடிமங்கலம் ஒன்றியம், அனிக்கடவு ஊராட்சி ராமச்சந்திராபுரத்தில் அரசு ஆரம்ப சுகாதார நிலையம் பழைய கட்டடத்தில் செயல்பட்டு வருகிறது.\nசுற்றுப்பகுதியின் 10க்கும் அதிகமான கிராம மக்கள் இந்த நிலையத்தையே மருத்துவத் தேவைக்கு நம்பியுள்ளனர்.\nபழைய கட்டடம் பழுதடைந்து, கான்கிரீட் பூச்சு உதிர்ந்து விரிசல் விட்டுள்ளது; மழைக்காலத்தில் அச்சத்துடன் சிகிச்சை பெற வேண்டிய நிலை உள்ளது.\nசித்த மருத்துவப் பிரிவும் இதே வளாகத்தில் செயல்படுகிறது; போதிய இடவசதி இல்லாததால் நெருக்கடி நிலவுகிறது.\nஇதற்காக 15வது நிதிக்குழு சுகாதார மானியத்தில் ரூ.1.50 கோடி ஒதுக்கீடு செய்யப்பட்டு புதிய கட்டடம் கட்டி முடிக்கப்பட்டது.\nஆனால் பல மாதங்களாகியும் புதிய கட்டடம் இதுவரை பயன்பாட்டுக்கு திறக்கப்படவில்லை.\n📍 இடம்: ராமச்சந்திராபுரம், அனிக்கடவு ஊராட்சி, உடுமலை\n👥 பாதிப்பு: சுற்றுப்பகுதியின் 10க்கும் அதிகமான கிராம மக்கள், கர்ப்பிணிகள், தாய்மார்கள்\nℹ️ மக்கள் கோரிக்கை: புதிய கட்டடத்தைத் திறந்து, போதுமான டாக்டர்கள், பணியாளர்கள் மற்றும் மருத்துவ உபகரணங்களை ஒதுக்க வேண்டும்.\n\nRamachandrapuram health centre new building not opened | Udumalaipettai news\n📍 ராமச்சந்திராபுரம், உடுமலை | 27 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
+   "prompts": "A row of patients and villagers wait on the damp veranda of an old, cracked government primary health centre in Ramachandrapuram village, Udumalaipettai, while a newly built health centre building stands shut next to them. The setting is a rural health campus in Tirupur district, with the old concrete block showing flaking plaster and visible cracks along its walls, and a crowded waiting space with women in sarees and salwars and men in shirts and veshti seated on plastic chairs and a bench, seen from behind and at a distance. Beside them the newer building is complete, its doors and windows closed, with no one going in. The scene is in the rainy season, overcast daylight with damp ground and puddles reflecting the grey sky. Shot at eye level, 35 mm, wide enough to show both buildings and the crowded veranda. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the cracked and flaking concrete wall of the old primary health centre building in Ramachandrapuram, Udumalaipettai, showing chunks of plaster fallen away and a long vertical crack running down from a window frame. Rain-dampened stains streak the wall beneath the eaves, and a few steps lead up to a corridor where a bench and plastic chairs sit under a dim veranda light. The surrounding area is a rural government health campus in Tirupur district, with a blurred figure of a woman in a saree standing far in the background, seen from behind. The light is grey, overcast daylight during the rainy season. Shot at eye level, 35 mm, close enough to show the cracks and the damaged plaster clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/unopened-health-centre-building-people-suffer/4387599",
+   "published": "2026-11-27T17:04:22+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/5e2cfc0aaea47449.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/2607728ec03dac7e.jpg"
    ]
   }
  ]
