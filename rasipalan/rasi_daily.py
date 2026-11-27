@@ -29,7 +29,7 @@ REPOST = os.environ.get("REPOST", "") == "1"      # by hand: today's post was de
 FORCE_DATE = os.environ.get("RASI_DATE", "")      # testing only: YYYY-MM-DD
 PAGES = {
     "rasipuram": {"brand": "இராசிபுரம் 360", "town": "இராசிபுரம்", "design": "temple", "logo": "logo_rasipuram.png",
-                  "collab": "namakkal.360", "tags": ["#ராசிபலன்", "#RasiPalan", "#இன்றையராசிபலன்", "#Namakkal360", "#Rasipuram360"]},
+                  "collab": "namakkal360.official", "tags": ["#ராசிபலன்", "#RasiPalan", "#இன்றையராசிபலன்", "#Namakkal360", "#Rasipuram360"]},
     "tirupur": {"brand": "திருப்பூர் 360", "town": "திருப்பூர்", "design": "calendar", "logo": "logo_tirupur.png",      # SALEM: add kit/logo_tirupur.png
               "collab": "", "tags": ["#ராசிபலன்", "#RasiPalan", "#இன்றையராசிபலன்", "#Tirupur", "#Tirupur360"]},
 }
