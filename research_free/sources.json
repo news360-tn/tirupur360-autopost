@@ -28,5 +28,23 @@
   "url": "https://tamil.oneindia.com/news/tiruppur/",
   "link_regex": "href=\"((?:https://tamil\\.oneindia\\.com)?/news/tiruppur/[^\"#?]+\\.html)\"",
   "limit": 30
+ },
+ {
+  "name": "தினத்தந்தி திருப்பூர்",
+  "url": "https://www.dailythanthi.com/news/tamilnadu",
+  "link_regex": "href=\"((?:https://www\\.dailythanthi\\.com)?/news/tamilnadu/(?:[a-z0-9]+-)*(?:tirupur|tiruppur|avinashi|palladam|udumalpet|udumalaipettai|dharapuram|kangeyam|vellakoil|madathukulam)(?:-[a-z0-9]+)*)\"",
+  "limit": 15
+ },
+ {
+  "name": "மாலைமலர் திருப்பூர்",
+  "url": "https://www.maalaimalar.com/news/district",
+  "link_regex": "href=\"((?:https://www\\.maalaimalar\\.com)?/news/(?:district|tamilnadu)/(?:[a-z0-9]+-)*(?:tirupur|tiruppur|avinashi|palladam|udumalpet|udumalaipettai|dharapuram|kangeyam|vellakoil|madathukulam)(?:-[a-z0-9]+)*)\"",
+  "limit": 15
+ },
+ {
+  "name": "மாலைமலர் திருப்பூர் (TN)",
+  "url": "https://www.maalaimalar.com/news/tamilnadu",
+  "link_regex": "href=\"((?:https://www\\.maalaimalar\\.com)?/news/tamilnadu/(?:[a-z0-9]+-)*(?:tirupur|tiruppur|avinashi|palladam|udumalpet|udumalaipettai|dharapuram|kangeyam|vellakoil|madathukulam)(?:-[a-z0-9]+)*)\"",
+  "limit": 15
  }
 ]
