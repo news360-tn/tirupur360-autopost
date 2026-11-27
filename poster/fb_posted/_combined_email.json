@@ -139,7 +139,15 @@
   },
   "tirupur:RN-332": {
    "day": "2026-11-27",
-   "tries": 2
+   "tries": 3,
+   "how": "failed"
+  },
+  "tirupur:RN-331": {
+   "day": "2026-11-27",
+   "how": "sent",
+   "at": "2026-11-27T00:07:04+00:00",
+   "fb": false,
+   "yt": false
   }
  }
 }
