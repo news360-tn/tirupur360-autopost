@@ -1,137 +1,29 @@
-20:26:23 round 2026-11-27_20: news published 27 Nov 16:39 -> 27 Nov 20:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-20:26:23    + news published since 26 Nov 20:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-20:26:23 insights 2026-11-27T20:26+05:30 (296 reels): topic weights {'politics': -0.34, 'accident': 0.88, 'crime': 1.5, 'education': -0.5, 'jobs': 0.11, 'power_cut': 0.17, 'temple': -0.08, 'civic': 0.03, 'poultry_agri': -0.48, 'weather': -0.47, 'sports_culture': -0.09}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-20:28:15 open search 'திருப்பூர்' (from_google): 20 links from our outlets
-20:28:15 town searches (அவிநாசி, பல்லடம், உடுமலை (+Google), தாராபுரம் (+Google), காங்கேயம், மடத்துக்குளம், ஊத்துக்குளி): 13 links from our outlets
-20:28:15 search links: 40 Google links decoded, 0 not decoded, 38 known from an earlier round, 15 left for the next round, 37 of another district by their headline (not opened)
-20:28:15 112 links on the two papers' Tirupur pages
-20:29:30 skipped: published before this window=42, not Tirupur district=27, already posted=25, checked in an earlier round=3, only a headline=2, same event already posted=1, power cut - posted automatically=1, shop offer / advertisement=1, no title=1
-20:29:30    drop [shop offer / advertisement] பயிர்க் கடன் தள்ளுபடி... பி.ஏ.பி. பாசன விவகாரம்: அதிகாரிகள்  | dinamalar.com/news/tamil-nad...-farmers-lash-out-at-officials/4387821
-20:29:30    drop [already posted] வனத்துக்குள் திருப்பூர்–12 திட்டம்: 1.17 லட்சம் மரக்கன்று நட | dinamalar.com/news/tamil-nad...orest-117-lakh-tree-plantation/4387505
-20:29:30    drop [not Tirupur district] “அருள் விக்னேஷை கைது செய்ய ஏலியன்கள் பூமிக்கு வரும் வரை காத் | tamil.oneindia.com/news/chen...sting-tvk-mla-arul-vignesh-848813.html
-20:29:30    drop [not Tirupur district] எம்.எல்.ஏ. அருள் விக்னேஷ் கைது: தேவையற்ற சமூக ஊடகப் பதிவுகளை | maalaimalar.com/news/tamilna...ssary-social-media-posts-police-advice
-20:29:30    drop [not Tirupur district] கலை அறிவியல் கல்லூரிகளில் திறன் சார்ந்த பயிற்சி வகுப்புகள் | dinamalar.com/news/tamil-nad...urses-in-arts-science-colleges/4387775
-20:29:30    drop [not Tirupur district] சர்க்கரை நோய் கண்டறிய இலவச பரிசோதனை முகாம் | dinamalar.com/news/tamil-nad...re/free-diabetes-check-up-camp/4387795
-20:29:30    drop [not Tirupur district] இயல்பை விட குறைந்த மழை: விதை, உரம் இருப்பு திருப்தி | dinamalar.com/news/tamil-nad...ed-fertilizer-stocks-satisfied/4387798
-20:29:30    drop [not Tirupur district] என்னுடைய இந்த நிலைமைக்கு.. செல்வமணி சொன்ன வார்த்தைகள் தான் க | tamil.oneindia.com/televisio...ed-to-my-current-situation-848761.html
-20:29:30    drop [not Tirupur district] பெண் கலெக்டருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய விவகாரம்: தவெக  | dailythanthi.com/news/tamiln...ted-obscene-message-to-woman-collector
-20:29:30    drop [not Tirupur district] கல்லூரி மாணவர்கள் ரத்ததான முகாம். | dinamalar.com/news/tamil-nad...tion-camp-for-college-students/4387679
-20:29:30    drop [not Tirupur district] மெரினா கலங்கரை விளக்கம் முதல் பட்டினப்பாக்கம் வரை ஆக்கிரமிப் | dinakaran.com/news/marina-li...e-pattinapakkam-shop-7-days-expiration
-20:29:30    drop [not Tirupur district] 22,500 கி.மீ வேகத்தில் பாய்ந்த நாசா விண்கலம்-திசைமாறிய விண்க | dinakaran.com/news/22500-km-h-impact-nasa-deflects-asteroid
-20:29:30    drop [not Tirupur district] வேப்பேரி, பெரியார் திடலில் இன்று மனிதநேய நல்லிணக்க நலத்திட்ட | dinakaran.com/news/welfare_assistance_udhayanidhistalin
-20:29:30    drop [not Tirupur district] நாடாளுமன்ற சிறப்பு கூட்டத்தொடர்- எம்.பி.க்களுக்கு காங்கிரஸ்  | dinakaran.com/news/congress-...ip-ahead-of-special-parliament-sitting
-20:29:30    drop [not Tirupur district] டி. ராஜா போட்ட குண்டு.. பெண்கள் இட ஒதுக்கீடா.. தொகுதி மறுவரை | tamil.oneindia.com/news/chen...-bjp-government-s-strategy-848757.html
-20:29:30    drop [not Tirupur district] "உங்க பையன் வெற்றியை காண குறைந்தது 25 ஆண்டுகளுக்கு மேலாகும்" | tamil.oneindia.com/news/chen...e-years-for-him-to-achieve-848753.html
-20:29:30    drop [no title] திருப்பதி வைகுண்ட துவார தரிசனம்: ரூ.300 சிறப்பு தரிசன டிக்கெ | temple.dinamalar.com/news_detail.php
-20:29:30    drop [not Tirupur district] பாராட்டு விழா | dinamalar.com/news/tamil-nad...vagangai/appreciation-ceremony/4387556
-20:29:30    drop [not Tirupur district] மக்களவைத் தொகுதிகளின் எண்ணிக்கை 50% அதிகரிக்க மசோதா: ஒன்றிய  | dinakaran.com/news/bill-to-increase-number-lok-sabha-constituencies
-20:29:30    drop [not Tirupur district] 2வது டெஸ்ட் போட்டியில் ஜடேஜாவுக்கு இடம் கிடைக்காதது துரதிர்ஷ | dinakaran.com/news/sports_news/jadeja_sunil_gavaskar
-20:29:30    drop [not Tirupur district] இந்திய அணிக்கு திரும்புவது பற்றிய எண்ணத்தை நிறுத்திவிட்டேன்: | dinakaran.com/news/indian_team_mohammedshami
-20:29:30    drop [not Tirupur district] திருப்பங்குன்றம்..யார் யாருக்கு CALL போனது? 8 டாப் அதிகாரிகள | tamil.oneindia.com/news/chen...s-cdr-call-records-submiss-848735.html
-20:29:30    drop [not Tirupur district] 720 பக்க சார்ஜ்ஷீட்.. சிறுமி பாலியல் வழக்கிலிருந்து விடுவிக் | tamil.oneindia.com/news/chen...eramani-discharge-petition-848707.html
-20:29:30    drop [published before this window] [2026-11-25T18:24] பசுமையை சுமையாக நினைக்கும் மாநகராட்சி: நொய்யல் கரையில் காட்ட | dinamalar.com/news/tamil-nad...h-thinks-of-green-as-a-burden-/4385945
-20:29:30    drop [not Tirupur district] தொகுதி மறுவரையறை.. திமுகவின் இரு நிலைப்பாட்டிலும் எந்த மாற்ற | tamil.oneindia.com/news/chen...ation-rules-out-compromise-848663.html
-20:29:30    drop [not Tirupur district] இஸ்லாமிய பெண்களை மோட்டார் சைக்கிளில் அழைத்துச் சென்ற இளைஞர்க | hindutamil.in/news/crime/you...for-taking-muslim-women-on-motorcycles
-20:29:30    drop [not Tirupur district] முக்கோணத்தில் ரவுண்டானா அமையுமா? கிடப்பில் கோரிக்கை | dinamalar.com/news/tamil-nad...e-a-roundabout-in-the-triangle/4386985
-20:29:30    drop [already posted] பெண்ணுக்கு பாலியல் தொல்லை: தொழிலாளிக்கு ஓராண்டு சிறை | dinamani.com/all-editions/ed...1-%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%88
-20:29:30    drop [not Tirupur district] கட்டுமான பொருட்கள் விலை நிலவரம் | dinamalar.com/news/tamil-nad...ction-material-price-situation/4387510
-20:29:30 list: 6 new + 0 earlier news not posted yet
-20:29:30    1. [மழை / வானிலை] சராசரியை காட்டிலும் 143.89 மி.மீ. மழை குறைவு (தினமலர்)
-20:29:30    2. [பொது] திறக்கப்படாத சுகாதார நிலைய கட்டடம்: மக்கள் வேதனை (தினமலர்)
-20:29:30    3. [பொது] பனியன் வர்த்தகத்தில் ரூ.18 லட்சம் பாக்கி கலெக்டர் கார் முன் தீக்குளிக் (தினமலர்)
-20:29:30    4. [பொது] ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran (தினகரன்)
-20:29:30    5. [பொது] மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு (தினமலர்)
-20:29:30    6. [பொது] விற்பனை கூடத்தில் கொப்பரை ஏலம் (தினமலர்)
-20:29:30 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_20
-20:29:32    not picked automatically (ceremony / shopping feature - only when the owner ticks it): மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு
-20:29:32 round 2026-11-27_20 (at least 5, up to 3 more of well-watched topics): 5 news to choose from (0 from earlier rounds), ranked by this page's insights
-20:29:32   PICK   1.  10.0 [other +0.00 pattern] திறக்கப்படாத சுகாதார நிலைய கட்டடம்: மக்கள் வேதனை
-20:29:32   PICK   2.  10.0 [other +0.00 pattern] பனியன் வர்த்தகத்தில் ரூ.18 லட்சம் பாக்கி கலெக்டர் கார் முன் 
-20:29:32   PICK   3.   9.1 [weather -0.47 page] சராசரியை காட்டிலும் 143.89 மி.மீ. மழை குறைவு
-20:29:32   PICK   4.   6.0 [other +0.00 pattern] ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-20:29:32   PICK   5.   3.0 [other +0.00 pattern] விற்பனை கூடத்தில் கொப்பரை ஏலம்
-20:29:32 decided: automatic: top 5 of 5 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/unopened-health-centre-building-people-suffer/4387599 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/attempt-to-set-fire-to-rs-18-lakh-pending-collector-s-car-in-banyan-trade/4387770 https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/14389-mm-less-than-average-rainfall/4387819 https://www.dinakaran.com/ladies/vastralaya-world-of-beautiful-garments https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/copra-auction-at-mall/4387629
-20:36:44 5 listed news now in the Sheet
-20:36:53 instagram duplicate check tirupur: 50 recent posts read
-20:36:54 verify 2026-11-27_20: 0 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:36:54    NOT POSTED C0ca777e: queued RN-345 (Queued) - திறக்கப்படாத சுகாதார நிலைய கட்டடம்: மக்கள் வேதனை
-20:36:54    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-20:36:54    NOT POSTED C62321c0: queued RN-344 (Queued) - பனியன் வர்த்தகத்தில் ரூ.18 லட்சம் பாக்கி கலெக்டர் கார் முன் 
-20:36:54    NOT POSTED Ca0265aa: queued RN-342 (Queued) - சராசரியை காட்டிலும் 143.89 மி.மீ. மழை குறைவு
-20:36:54    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-20:42:02 instagram duplicate check tirupur: 50 recent posts read
-20:42:02 verify 2026-11-27_20: 0 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:42:02    NOT POSTED C0ca777e: queued RN-345 (Queued) - திறக்கப்படாத சுகாதார நிலைய கட்டடம்: மக்கள் வேதனை
-20:42:02    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-20:42:02    NOT POSTED C62321c0: queued RN-344 (Queued) - பனியன் வர்த்தகத்தில் ரூ.18 லட்சம் பாக்கி கலெக்டர் கார் முன் 
-20:42:02    NOT POSTED Ca0265aa: queued RN-342 (Queued) - சராசரியை காட்டிலும் 143.89 மி.மீ. மழை குறைவு
-20:42:02    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-20:47:09 instagram duplicate check tirupur: 50 recent posts read
-20:47:09 verify 2026-11-27_20: 0 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:47:09    NOT POSTED C0ca777e: queued RN-345 (Queued) - திறக்கப்படாத சுகாதார நிலைய கட்டடம்: மக்கள் வேதனை
-20:47:09    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-20:47:09    NOT POSTED C62321c0: queued RN-344 (Queued) - பனியன் வர்த்தகத்தில் ரூ.18 லட்சம் பாக்கி கலெக்டர் கார் முன் 
-20:47:09    NOT POSTED Ca0265aa: queued RN-342 (Queued) - சராசரியை காட்டிலும் 143.89 மி.மீ. மழை குறைவு
-20:47:09    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-20:52:17 instagram duplicate check tirupur: 50 recent posts read
-20:52:17 verify 2026-11-27_20: 2 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:52:17    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-20:52:17    NOT POSTED Ca0265aa: queued RN-342 (Queued) - சராசரியை காட்டிலும் 143.89 மி.மீ. மழை குறைவு
-20:52:17    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-20:57:25 instagram duplicate check tirupur: 50 recent posts read
-20:57:25 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:57:25    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-20:57:25    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:02:33 instagram duplicate check tirupur: 50 recent posts read
-21:02:33 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:02:33    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:02:33    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:07:41 instagram duplicate check tirupur: 50 recent posts read
-21:07:41 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:07:41    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:07:41    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:12:47 instagram duplicate check tirupur: 50 recent posts read
-21:12:47 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:12:47    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:12:47    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:17:54 instagram duplicate check tirupur: 50 recent posts read
-21:17:54 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:17:54    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:17:54    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:23:02 instagram duplicate check tirupur: 50 recent posts read
-21:23:02 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:23:02    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:23:02    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:28:09 instagram duplicate check tirupur: 50 recent posts read
-21:28:09 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:28:09    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:28:09    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:33:16 instagram duplicate check tirupur: 50 recent posts read
-21:33:16 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:33:16    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:33:16    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:38:24 instagram duplicate check tirupur: 50 recent posts read
-21:38:25 verify 2026-11-27_20: 3 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:38:25    NOT POSTED C1ac8eba: queued RN-343 (Queued) - விற்பனை கூடத்தில் கொப்பரை ஏலம்
-21:38:25    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:43:32 instagram duplicate check tirupur: 50 recent posts read
-21:43:32 verify 2026-11-27_20: 4 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:43:32    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:48:39 instagram duplicate check tirupur: 50 recent posts read
-21:48:39 verify 2026-11-27_20: 4 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:48:39    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:53:46 instagram duplicate check tirupur: 50 recent posts read
-21:53:46 verify 2026-11-27_20: 4 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:53:46    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-21:58:52 instagram duplicate check tirupur: 50 recent posts read
-21:58:52 verify 2026-11-27_20: 4 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-21:58:52    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-22:03:59 instagram duplicate check tirupur: 50 recent posts read
-22:03:59 verify 2026-11-27_20: 4 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-22:03:59    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-22:09:06 instagram duplicate check tirupur: 50 recent posts read
-22:09:06 verify 2026-11-27_20: 4 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-22:09:06    NOT POSTED Ccc9aba9: queued RN-341 (Queued) - ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran
-22:14:12 verify 2026-11-27_20: 5 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+22:25:28 round 2026-11-27_22: news published 27 Nov 20:26 -> 27 Nov 22:25 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+22:25:28    + news published since 26 Nov 22:25 that no earlier round found (listed / indexed late) - never one already listed or posted
+22:25:28 insights 2026-11-27T22:25+05:30 (301 reels): topic weights {'politics': -0.34, 'accident': 0.88, 'crime': 1.5, 'education': -0.5, 'jobs': 0.11, 'power_cut': 0.17, 'temple': -0.11, 'civic': 0.07, 'poultry_agri': -0.5, 'weather': -0.37, 'sports_culture': -0.09}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+22:26:41 open search 'திருப்பூர்' (from_google): 26 links from our outlets
+22:26:41 town searches (அவிநாசி, பல்லடம், உடுமலை, தாராபுரம், காங்கேயம் (+Google), மடத்துக்குளம் (+Google), ஊத்துக்குளி): 7 links from our outlets
+22:26:41 search links: 23 Google links decoded, 0 not decoded, 62 known from an earlier round, 0 left for the next round, 22 of another district by their headline (not opened)
+22:26:41 98 links on the two papers' Tirupur pages
+22:27:39 skipped: published before this window=41, already posted=29, not Tirupur district=11, only a headline=4, checked in an earlier round=4, same event already posted=1, power cut - posted automatically=1
+22:27:39    drop [not Tirupur district] தமிழ்நாட்டின் அனைத்து மாவட்டங்களிலும் மத நல்லிணக்கம், மக்கள் | dinakaran.com/news/leftwing_parties_religious_harmony_rally
+22:27:39    drop [not Tirupur district] த.வெ.க. எம்.எல்.ஏ. அருள் விக்னேஷ் கைது: காவல்துறை அளித்த விள | dailythanthi.com/news/tamiln...ing-the-arrest-of-tvk-mla-arul-vignesh
+22:27:39    drop [not Tirupur district] கைதான அருள் விக்னேஷ்.. எம்எல்ஏ பதவி பறிபோகுமா? அடுத்த 24 மண | tamil.oneindia.com/news/tami...next-24-hours-details-here-848815.html
+22:27:39    drop [not Tirupur district] கனிமொழி, திரிசூலி இல்லைன்னா அருள் விக்னேஷ் தப்பியிருப்பாருல் | tamil.oneindia.com/news/tami...e-starting-from-his-arrest-848807.html
+22:27:39    drop [not Tirupur district] அருள் விக்னேஷை காப்பாற்ற சமரசமாக செல்ல அழுத்தம் கொடுத்தவர்கள | tamil.oneindia.com/news/chen...o-pressured-for-compromise-848803.html
+22:27:39    drop [not Tirupur district] பெண் ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய வழக்கில் தவெக எ | dinakaran.com/news/tvkmla_arulvignesh_arrested-2
+22:27:39    drop [not Tirupur district] உச்சநீதிமன்றத்தின் ஈகோ! சபரிமலை தீர்ப்பும் கிடப்பில் தானே போ | tamil.oneindia.com/news/chen...n-in-thiruparankundram-iss-848785.html
+22:27:39    drop [only a headline] பெண் ஐஏஎஸ் அதிகாரிக்கு ஆபாச மெசேஜ் அனுப்பியதாக வழக்கு; தவெக  | dinakaran.com/news/tvkmla_arulvignesh_arrested
+22:27:39    drop [not Tirupur district] தவெக அரசுக்கு நீதிமன்றங்களில் அடுத்தடுத்து பின்னடைவு.. சட்ட  | tamil.oneindia.com/news/delh...dvice-being-provided-sound-848781.html
+22:27:39    drop [only a headline] மும்பை இந்தியன்ஸ் அணியின் புதிய கேப்டன் ரோஹித் சர்மா - Dinak | dinakaran.com/news/captain_rohit_sharma
+22:27:39    drop [already posted] முதலிபாளையம் பாறைக்குழி மாசு விவகாரம் :தேசிய பசுமை தீர்ப்பாய | dinamalar.com/news/tamil-nad...n-case-national-green-tribunal/4384542
+22:27:39    drop [already posted] பெண்ணுக்கு தொல்லை கொடுத்தவருக்கு சிறை | dinamalar.com/news/tamil-nad...man-jailed-for-molesting-woman/4387090
+22:27:39    drop [already posted] இந்திய அரசியலமைப்பு சட்டம் உரிமைகளைக் காக்கும் கேடயம்: நீதிப | dinamalar.com/news/tamil-nad...hts-of-the-indian-constitution/4387150
+22:27:39    drop [already posted] கோவில்களில் மஹா தீபம் ஏற்றி வழிபாடு :அகல் விளக்கு ஒளியில் ஜொ | dinamalar.com/news/tamil-nad...houses-illuminated-with-lights/4385346
+22:27:39    drop [already posted] கூலி குறைப்பை கண்டித்து விசைத்தறியாளர் ஆர்ப்பாட்டம் டிச.4ல்  | dinamalar.com/news/tamil-nad...st-wage-cuts-planned-for-dec-4/4387218
+22:27:39    drop [already posted] தீபாவளி பலகார சீட்டு மோசடி அரிசி வியாபாரி சிக்கினார் | dinamalar.com/news/tamil-nad...ticket-scam-rice-dealer-caught/4387216
+22:27:39 list: 1 new + 1 earlier news not posted yet
+22:27:39    1. [பொது] தேசிய கார் ஆடியோ போட்டி சன் கார் இன்டீரியர்ஸ் சாதனை (தினமலர்)
+22:27:39    2. [பொது] மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு (தினமலர்) (earlier)
+22:27:39 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_22
