@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `d44070b` | Rasipalan theme: Coimbatore page named in full (கோயம்புத்தூர்) gets its colour too |
+| 2026-11-27 | `0c54aae` | stories shared / Instagram pause |
+| 2026-11-27 | `4be9193` | facebook RN-259 |
+| 2026-11-27 | `69f53cf` | posted RN-259 |
 | 2026-11-27 | `67976a9` | Gold rate and rasipalan reels: each page its own colour theme |
 | 2026-11-27 | `8aa63e9` | stories shared / Instagram pause |
 | 2026-11-27 | `0540b5c` | Power cuts are never missed: held notices are rewritten at once |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `1732413` | pick: picked news saved |
 | 2026-11-27 | `1f0ed63` | pick: list sent |
 | 2026-11-27 | `11373f8` | stories shared / Instagram pause |
-| 2026-11-27 | `10e8b9b` | Sources: the missing district list of this page (Dinakaran / Oneindia) |
-| 2026-11-27 | `1a45d32` | stories shared / Instagram pause |
-| 2026-11-27 | `48fbe68` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
-| 2026-11-27 | `b24e2e6` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
