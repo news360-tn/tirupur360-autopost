@@ -3,113 +3,286 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rs-20-lakh-web-for-people-who-stole-the-cataract/4386914",
-  "candidate filter: collected=1",
-  "to write: 1 Tirupur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/communist-party-opposes-dumping-of-trash-in-the-rock-quarry-at-ammapalayam",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/case-filed-against-individual-who-assaulted-a-government-bus-driver",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/special-train-between-ernakulam-baruni-via-tirupur",
+  "candidate filter: collected=3",
+  "to write: 3 Tirupur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-train-be",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 78 min",
-  "filed: 1 Tirupur district stories (target 1), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
+  "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3-flash-preview (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "தாராபுரம் அருகே ரூ.20 லட்சம் மதிப்புள்ள கண்வலி கிழங்கு திருட்டு: போலீசார் தேடுகின்றனர்",
-   "english_headline": "Kanvali tubers worth Rs 20 lakh stolen near Dharapuram; police searching for the culprits",
-   "category": "Crime & Safety",
-   "location": "Kolinjivadi village, Dharapuram, Tirupur district",
-   "importance": "High",
-   "scope": "",
+   "tamil_headline": "அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்ட எதிர்ப்பு",
+   "english_headline": "Communist party protests dumping of garbage in Ammapalayam rock pit on 29 Nov",
+   "category": "Civic Issues",
+   "location": "Ammapalayam, Avinashi, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "திருட்டு",
-    "loc": "தாராபுரம்",
-    "hl1": "தாராபுரம் அருகே ரூ.20 லட்சம் திருட்டு",
-    "hl2": "கண்வலி கிழங்கு திருடப்பட்டது",
+    "cat": "குப்பை எதிர்ப்பு",
+    "loc": "அம்மாபாளையம், அவிநாசி",
+    "hl1": "அம்மாபாளையத்தில் குப்பை கொட்ட எதிர்ப்பு",
+    "hl2": "நவ. 29 போராட்டம்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன நடக்கிறது?",
       "lines": [
-       "ரூ.<b>20 லட்சம்</b> மதிப்புள்ள கண்வலி கிழங்குகள் திருட்டு",
-       "தாராபுரம் அருகே கொளிஞ்சிவாடி கிராமம், மாட்டுப்பாதை பகுதி",
-       "அறுவடைக்கு தயாராக இருந்த கிழங்குகள் தோண்டி எடுக்கப்பட்டன"
+       "அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதற்கு எதிர்ப்பு",
+       "மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி போராட்டம் அறிவிப்பு",
+       "போராட்டம் <b>நவம்பர் 29</b> ஆம் தேதி நடைபெறும்"
       ]
      },
      {
-      "title": "எப்போது?",
+      "title": "எவ்வளவு குப்பை?",
       "lines": [
-       "<b>நேற்று முன்தினம்</b> இரவு திருட்டு நடந்தது",
-       "நேற்று காலை தோட்டத்துக்கு சென்ற விவசாயி சிவராஜ் அதிர்ச்சி",
-       "செடிகள் தோண்டி வீசப்பட்டு கிடந்தன"
+       "திருப்பூரில் சேகரிக்கும் குப்பை நாள்தோறும்",
+       "<b>100-க்கும் மேற்பட்ட</b> லாரிகளில் குப்பை கொட்டப்படுகிறது",
+       "மாநகராட்சி நிர்வாகம் இதைச் செய்கிறது"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "மக்களுக்கு",
       "lines": [
-       "சிவராஜ் அளித்த புகாரில் தாராபுரம் போலீசார் விசாரணை",
-       "மர்ம நபர்களை போலீசார் தேடி வருகின்றனர்",
-       "கண்வலி கிழங்கு விதை கிலோ <b>4,000 ரூபாய்</b> வரை விற்பனை"
+       "காமாட்சியம்மன் காலனி, எம்ஜிஆர் நகர் பகுதியில் கடும்",
+       "மூச்சுத் திணறல், வாந்தி, மயக்கம் ஏற்படுவதாக மக்கள்",
+       "அம்மாபாளையத்தில் டெங்கு காய்ச்சல் அதிகம் பரவுகிறது"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "குப்பை கொட்டுவதை நிரந்தரமாக நிறுத்த வேண்டும் என்று கோரிக்கை",
+       "தமிழக அரசும் மாவட்ட நிர்வாகமும் தலையிட வேண்டும்",
+       "அம்மாபாளையம் பேருந்து நிறுத்தம் அருகே போராட்டம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தாராபுரம் அருகே ரூ.20 லட்சம் மதிப்புள்ள கண்வலி கிழங்குகள் திருடப்பட்டுள்ளன. திருப்பூர் மாவட்டம், தாராபுரம் அருகே உள்ள கொளிஞ்சிவாடி கிராமம், மாட்டுப்பாதை பகுதியில் இச்சம்பவம் நடந்துள்ளது. தாராபுரம், வெள்ளகோவில் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் ஏராளமான விவசாயிகள் மருத்துவ குணம் கொண்ட கண்வலி கிழங்கை சாகுபடி செய்கின்றனர். விவசாயி சிவராஜ் தனது தோட்டத்தில் இந்தக் கிழங்குகளை சாகுபடி செய்திருந்தார். அவை அறுவடைக்குத் தயாராக இருந்தன. நேற்று முன்தினம் இரவு, தோட்டத்துக்குள் புகுந்த மர்ம நபர்கள் கிழங்குகளைத் தோண்டி எடுத்துச் சென்றுள்ளனர். நேற்று காலை தோட்டத்துக்குச் சென்ற சிவராஜ், செடிகள் தோண்டி வீசப்பட்டுக் கிடந்ததைக் கண்டு அதிர்ச்சியடைந்தார். இதுகுறித்து அவர் புகார் அளித்தார். தாராபுரம் போலீசார் மர்ம நபர்களைத் தேடி வருகின்றனர். கண்வலி கிழங்கு விதைகள் ஒரு கிலோ 4,000 ரூபாய் வரை விற்பனை செய்யப்படுகின்றன. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தாராபுரம் அருகே ரூ.20 லட்சம் கண்வலி கிழங்கு திருட்டு: போலீசார் தேடுகின்றனர்\n\n📰 முழு விவரம்:\nதாராபுரம் அருகே கொளிஞ்சிவாடி கிராமம், மாட்டுப்பாதை பகுதியில் சிவராஜ் சாகுபடி செய்திருந்த ரூ.20 லட்சம் மதிப்புள்ள கண்வலி கிழங்குகள் திருடப்பட்டுள்ளன. அறுவடைக்குத் தயாராக இருந்த கிழங்குகளை நேற்று முன்தினம் இரவு, தோட்டத்துக்குள் புகுந்த மர்ம நபர்கள் தோண்டி எடுத்துச் சென்றுள்ளனர். நேற்று காலை தோட்டத்துக்குச் சென்ற சிவராஜ், செடிகள் தோண்டி வீசப்பட்டுக் கிடந்ததைக் கண்டு அதிர்ச்சியடைந்தார். அவர் அளித்த புகாரின் அடிப்படையில் தாராபுரம் போலீசார் மர்ம நபர்களைத் தேடி வருகின்றனர்.\n📍 இடம்: கொளிஞ்சிவாடி கிராமம், மாட்டுப்பாதை பகுதி, தாராபுரம்\n🗓️ நாள்: நேற்று முன்தினம் இரவு\n👮 நடவடிக்கை: தாராபுரம் போலீசார் மர்ம நபர்களைத் தேடி வருகின்றனர்\nℹ️ மக்கள் கவனத்திற்கு: கண்வலி கிழங்கு விதை ஒரு கிலோ 4,000 ரூபாய் வரை விற்பனை செய்யப்படுகிறது.\nதெரிந்தவர்களுக்கு Share செய்யுங்கள்.\n\nKanvali tubers stolen Dharapuram Rs 20 lakh | Tirupur news\n📍 தாராபுரம், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Dharapuram #TirupurNews #திருப்பூர்",
-   "prompts": "A farmer stands at the edge of a dug-up field in Kolinjivadi village near Dharapuram, staring at the ground where a crop has been ripped out overnight. Seen from behind at a distance, he wears a plain shirt and veshti, his hands at his sides. Around him the rows of kanvali plants lie uprooted, their leaves wilting and the soil freshly turned in patches where the tubers were dug out. Beyond the field a narrow cattle-track path runs between dry-land farms, with coconut palms and a few dry scrub bushes on the horizon. It is early morning in soft daylight after the night theft, with a pale sky and no visible weather. Shot at eye level, 35 mm, wide enough to show the field, the path and the lone figure. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of uprooted kanvali plants lying on freshly dug, dark brown soil in a farm field, with several pale tan tubers exposed and scattered among the torn roots and wilted green stems. Deep holes and footprints in the loose earth show where the crop was dug up in the night. Soft early-morning daylight falls across the ground, and the rows of plants fade into the background of a dry-land farm in a Tamil Nadu village near Dharapuram. Shot at low angle, 35 mm, shallow depth of field, no people visible, no text or labels. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/rs-20-lakh-web-for-people-who-stole-the-cataract/4386914",
-   "published": "2026-11-26T18:42:38+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): வெள்ளகோவில் ('தாராபுரம், வெள்ளகோவில் மற்றும் சுற்றுவட்டார பகுதிகளில், ஏராள')",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதை எதிர்த்து போராட்டம் அறிவிக்கப்பட்டுள்ளது. அவிநாசி அருகேயுள்ள அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதற்கு மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி எதிர்ப்பு தெரிவித்துள்ளது. நவம்பர் 29ஆம் தேதி போராட்டத்தில் ஈடுபடுவதாகவும் கட்சி அறிவித்துள்ளது. திருப்பூரில் சேகரிக்கப்படும் குப்பைகளை மாநகராட்சி நிர்வாகம் நாள்தோறும் 100-க்கும் மேற்பட்ட லாரிகளில் கொண்டு வந்து இங்கு கொட்டுவதாகக் கூறப்படுகிறது. இதனால் காமாட்சியம்மன் காலனி, எம்ஜிஆர் நகர், பழனியப்பா நகர் உள்ளிட்ட குடியிருப்புப் பகுதிகளில் கடும் துர்நாற்றம் வீசுகிறது. மூச்சுத் திணறல், வாந்தி, மயக்கம் போன்ற உடல்நலப் பிரச்னைகளும் ஏற்படுவதாக மக்கள் கூறுகின்றனர். அம்மாபாளையம் பகுதியில் தற்போது டெங்கு காய்ச்சலும் அதிக அளவில் பரவி வருகிறது. குப்பை கொட்டுவதைத் தடுக்கக் கோரி பல்வேறு கட்டப் போராட்டங்கள் நடத்தப்பட்டும் அதிகாரிகள் எந்த நடவடிக்கையும் எடுக்கவில்லை என்று மக்கள் குற்றம் சாட்டுகின்றனர். குப்பை கொட்டுவதை நிரந்தரமாக நிறுத்த தமிழக அரசும் மாவட்ட நிர்வாகமும் தலையிட வேண்டும் என்று வலியுறுத்தப்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்ட எதிர்ப்பு: நவ. 29 போராட்டம்\n\n📰 முழு விவரம்:\nஅவிநாசி அருகேயுள்ள அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதற்கு மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி எதிர்ப்பு தெரிவித்துள்ளது. நவம்பர் 29ஆம் தேதி அம்மாபாளையம் பேருந்து நிறுத்தம் அருகே போராட்டம் நடத்தப்போவதாகக் கட்சி அறிவித்துள்ளது.\nதிருப்பூரில் சேகரிக்கப்படும் குப்பைகளை மாநகராட்சி நிர்வாகம் நாள்தோறும் 100-க்கும் மேற்பட்ட லாரிகளில் கொண்டுவந்து பாறைக் குழியில் கொட்டி வருவதாக மக்கள் கூறுகின்றனர்.\nஇதனால் காமாட்சியம்மன் காலனி, எம்ஜிஆர் நகர், பழனியப்பா நகர், குமரன் காலனி, ராம் நகர், பத்மாவதி நகர், பாரதி நகர் உள்ளிட்ட குடியிருப்புப் பகுதிகளில் கடும் துர்நாற்றம் வீசுகிறது. மூச்சுத் திணறல், வாந்தி, மயக்கம் போன்ற உடல்நலப் பிரச்னைகளும் ஏற்படுவதாக மக்கள் தெரிவிக்கின்றனர். அம்மாபாளையம் பகுதியில் டெங்கு காய்ச்சல் அதிக அளவில் பரவி வருகிறது.\nகுப்பை கொட்டுவதைத் தடுக்கக் கோரி பல்வேறு கட்டப் போராட்டங்கள் நடத்தியும் அதிகாரிகள் நடவடிக்கை எடுக்கவில்லை என்று மக்கள் குற்றம் சாட்டுகின்றனர். குப்பை கொட்டுவதை நிரந்தரமாக நிறுத்த தமிழக அரசும் மாவட்ட நிர்வாகமும் தலையிட வேண்டும் என்று வலியுறுத்தப்படுகிறது.\n\nAmmapalayam garbage dumping protest Nov 29 | Tirupur news\n📍 அம்மாபாளையம், அவிநாசி, திருப்பூர் மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
+   "prompts": "A crowd of Communist party members and local residents gathers at the Ammapalayam bus stop to protest the dumping of garbage in the nearby rock pit. Men in shirts and veshti and women in sarees hold red party flags and handmade placards, seen from behind and from a distance, with their backs toward the camera. The setting is a roadside bus stop on the edge of Ammapalayam in Avinashi, with a small shelter, a dusty road, and a line of parked two-wheelers and a town bus at the side. Behind the crowd rise bare rocky hills and the edge of a quarry, with a few coconut trees and a low residential colony visible in the distance. Daylight, bright and slightly hazy. Camera at eye level, 35 mm lens, wide enough to show the bus stop, the crowd and the quarry in the background. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/communist-party-opposes-dumping-of-trash-in-the-rock-quarry-at-ammapalayam",
+   "published": "2026-11-26T23:15:00.000Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795734990/tirupur360/go7lpl1xtt0luyn7u6mz.jpg",
-    "https://res.cloudinary.com/pwybfhuf/image/upload/v1795734993/tirupur360/mt4w6zbfwsyvdpbq04an.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/bcf67d0173f077ce.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வெள்ளக்கோவிலில் பேருந்து ஓட்டுநரைத் தாக்கியவர் மீது வழக்கு",
+   "english_headline": "Case filed against man who attacked government bus driver in Vellakoil",
+   "category": "Crime & Safety",
+   "location": "Vellakoil, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் வழக்கு",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "பேருந்து ஓட்டுநரைத் மீது வழக்கு",
+    "hl2": "வெள்ளக்கோவிலில் நடந்த",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அரசுப் பேருந்து ஓட்டுநர் முருகனை விஷ்ணுகுமார்",
+       "பேருந்து பழுதாகி நின்றதால் சம்பவம் நடந்தது",
+       "முருகன் அளித்த புகாரில் போலீசார் வழக்குப் பதிவு செய்தனர்"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "வெள்ளக்கோவில் பேருந்து நிலையம் அருகே",
+       "கடந்த <b>23ஆம் தேதி</b> இரவு <b>7.30 மணியளவில்</b>",
+       "பயணிகளை மாற்றுப் பேருந்தில் ஏற்றும் பணியின்போது"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "விஷ்ணுகுமார் மீது போலீசார் விசாரணை நடத்தி வருகின்றனர்",
+       "முருகன் தாராபுரம் வட்டம் வடகரையைச் சேர்ந்தவர்",
+       "உப்பிலிபாளையம் கிளையில் ஓட்டுநராகப் பணியாற்றுகிறார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வெள்ளக்கோவிலில் அரசுப் பேருந்து ஓட்டுநரைத் தாக்கியவர் மீது போலீசார் வழக்குப் பதிவு செய்துள்ளனர். தாராபுரம் வட்டம் வடகரையைச் சேர்ந்த 57 வயது முருகன் உப்பிலிபாளையம் அரசுப் போக்குவரத்துக் கழகக் கிளையில் ஓட்டுநராகப் பணியாற்றுகிறார். கடந்த 23ஆம் தேதி இரவு 7.30 மணியளவில் முருகன் பயணிகளுடன் வெள்ளக்கோவில் பேருந்து நிலையத்துக்குப் பேருந்தை ஓட்டி வந்தார். வழியில் பேருந்து பழுதாகி நின்றது. பயணிகளை மாற்றுப் பேருந்தில் ஏற்றி அனுப்பும் பணியில் முருகனும் நடத்துநரும் ஈடுபட்டிருந்தனர். அப்போது ஈரோடு மாவட்டம் சிவகிரி பெருமாபாளையத்தைச் சேர்ந்த விஷ்ணுகுமார் என்பவர், பழுதடைந்த பேருந்தை ஏன் இங்கு ஓட்டி வந்தாய் என்று கூறி முருகனுடன் வாக்குவாதம் செய்ததாகவும், அவரைத் தாக்கியதாகவும் கூறப்படுகிறது. இதுகுறித்து முருகன் அளித்த புகாரின்பேரில் விஷ்ணுகுமார் மீது போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 வெள்ளக்கோவிலில் அரசுப் பேருந்து ஓட்டுநரைத் தாக்கியவர் மீது வழக்கு\n\n📰 முழு விவரம்:\nவெள்ளக்கோவிலில் அரசுப் பேருந்து ஓட்டுநர் முருகனைத் தாக்கியதாகக் கூறப்படும் நபர் மீது போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\nதாராபுரம் வட்டம் வடகரையைச் சேர்ந்த 57 வயது முருகன் உப்பிலிபாளையம் அரசுப் போக்குவரத்துக் கழகக் கிளையில் ஓட்டுநராகப் பணியாற்றுகிறார்.\nகடந்த 23ஆம் தேதி இரவு 7.30 மணியளவில் பயணிகளுடன் வெள்ளக்கோவில் பேருந்து நிலையத்துக்குப் பேருந்தை ஓட்டி வந்தபோது, வழியில் பேருந்து பழுதாகி நின்றது.\nபயணிகளை மாற்றுப் பேருந்தில் ஏற்றும் பணியில் முருகனும் நடத்துநரும் ஈடுபட்டிருந்தனர்.\nஅப்போது ஈரோடு மாவட்டம் சிவகிரி பெருமாபாளையத்தைச் சேர்ந்த விஷ்ணுகுமார், பழுதடைந்த பேருந்தை ஏன் இங்கு ஓட்டி வந்தாய் என்று கூறி முருகனுடன் வாக்குவாதம் செய்ததாகவும், அவரைத் தாக்கியதாகவும் கூறப்படுகிறது.\nஇதுகுறித்து முருகன் அளித்த புகாரின்பேரில் விஷ்ணுகுமார் மீது போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nVellakoil bus driver attacked, case filed | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
+   "prompts": "A Tamil Nadu State Transport Corporation bus driver and conductor stand beside a broken-down government bus at the Vellakoil bus stand as passengers with bags board a replacement bus in the evening. The setting is a busy small-town bus stand in Tirupur district, with a concrete platform, rows of parked buses, and a few shop fronts glowing under yellow streetlights. The driver, a middle-aged man in a khaki-grey TNSTC uniform, stands with his back half-turned, while the conductor in a dark shirt guides passengers carrying bags and water bottles toward the replacement bus. Two uniformed Tamil Nadu police officers in khaki stand at a distance near the platform edge, watching quietly. The broken-down bus has its doors open and its engine off. It is around 7:30 pm, the sky is dark blue, and the artificial light reflects off the bus paint. Shot at eye level, 35 mm, wide enough to show the bus stand and the transfer of passengers, with all faces turned away or too far to identify. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the rear wheel and side panel of a broken-down Tamil Nadu State Transport Corporation bus stopped at the Vellakoil bus stand in the evening. The bus is parked on wet concrete under a sodium streetlight, with a worn tyre, a dangling side mirror, and a stiff stain of dirt along the chassis showing the breakdown. In the blurred background, a driver in a grey-khaki uniform and a conductor stand near a passenger carrying a shoulder bag while transferring to a replacement bus. The tones are warm yellow from the streetlight mixed with cool blue dusk. Shot close and slightly low, 50 mm, shallow depth of field, with no faces visible and no readable signage. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/case-filed-against-individual-who-assaulted-a-government-bus-driver",
+   "published": "2026-11-26T23:53:00.000Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/e9a3ab0bbe3e19e5.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/65c4810cd4005ca6.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூர் வழியாக எர்ணாகுளம்–பருணி இடையே சிறப்பு ரெயில் இயக்கம்",
+   "english_headline": "Special train via Tiruppur between Ernakulam and Barauni; runs from Thursday night",
+   "category": "Roads & Transport",
+   "location": "Tiruppur, Tirupur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ரெயில் சேவை",
+    "loc": "திருப்பூர்",
+    "hl1": "திருப்பூர் வழியாக சிறப்பு ரெயில்",
+    "hl2": "எர்ணாகுளம் – பருணி",
+    "slides": [
+     {
+      "title": "புறப்பாடு",
+      "lines": [
+       "எர்ணாகுளத்தில் நேற்று (வியாழக்கிழமை) இரவு <b>11.10",
+       "<b>29</b> (ஞாயிற்றுக்கிழமை) மதியம் <b>2 மணி</b>க்குப் பருணி சென்றடையும்"
+      ]
+     },
+     {
+      "title": "திருப்பூர் வழி",
+      "lines": [
+       "நாளை (வெள்ளிக்கிழமை) அதிகாலை <b>4.20 மணி</b>க்குப் போத்தனூர்",
+       "<b>5.10 மணி</b>க்குத் திருப்பூர், <b>6 மணி</b>க்கு ஈரோடு"
+      ]
+     },
+     {
+      "title": "திரும்பும் ரெயில்",
+      "lines": [
+       "பருணியில் <b>30</b>ஆம் தேதி காலை <b>10.30 மணி</b>க்குப் புறப்படும்",
+       "<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்"
+      ]
+     },
+     {
+      "title": "திரும்பும் வழி",
+      "lines": [
+       "<b>2</b> (புதன்கிழமை) மதியம் <b>2 மணி</b>க்குச் சேலம், <b>3.10 மணி</b>க்கு ஈரோடு",
+       "மாலை <b>4 மணி</b>க்குத் திருப்பூர், <b>5.13 மணி</b>க்குப் போத்தனூர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருப்பூர் வழியாக எர்ணாகுளத்திலிருந்து பீகார் மாநிலம் பருணிக்கு சிறப்பு ரெயில் இயக்கப்படுகிறது. இந்த ரெயில் நேற்று (வியாழக்கிழமை) இரவு 11.10 மணிக்கு எர்ணாகுளத்தில் புறப்பட்டது. ரெயில் 29ஆம் தேதி (ஞாயிற்றுக்கிழமை) மதியம் 2 மணிக்குப் பருணியைச் சென்றடையும். நாளை (வெள்ளிக்கிழமை) அதிகாலை 4.20 மணிக்குப் போத்தனூருக்கும், 5.10 மணிக்குத் திருப்பூருக்கும் ரெயில் வந்து சேரும். பின்னர் 6 மணிக்கு ஈரோட்டுக்கும், 7 மணிக்குச் சேலத்துக்கும் செல்லும். திரும்பும் ரெயில் பருணியிலிருந்து 30ஆம் தேதி காலை 10.30 மணிக்குப் புறப்படும். இந்த ரெயில் 2ஆம் தேதி (புதன்கிழமை) இரவு 11 மணிக்கு எர்ணாகுளத்தைச் சென்றடையும். அதற்கு முன் 2ஆம் தேதி மதியம் 2 மணிக்குச் சேலத்துக்கும், 3.10 மணிக்கு ஈரோட்டுக்கும் வரும். மாலை 4 மணிக்குத் திருப்பூருக்கும், 5.13 மணிக்குப் போத்தனூருக்கும் வந்து சேரும். இந்தத் தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 திருப்பூர் வழியாக எர்ணாகுளம்–பருணி சிறப்பு ரெயில் இயக்கம்\n\n📰 முழு விவரம்:\nபயணிகளின் வசதிக்காக எர்ணாகுளத்திலிருந்து பீகார் மாநிலம் பருணிக்கு சிறப்பு ரெயில் திருப்பூர் வழியாக இயக்கப்படுகிறது. இந்த ரெயில் நேற்று (வியாழக்கிழமை) இரவு 11.10 மணிக்கு எர்ணாகுளத்தில் புறப்பட்டது. 29ஆம் தேதி (ஞாயிற்றுக்கிழமை) மதியம் 2 மணிக்குப் பருணியைச் சென்றடையும்.\n🕘 நாளை (வெள்ளிக்கிழமை) அதிகாலை 4.20 மணிக்குப் போத்தனூர், 5.10 மணிக்குத் திருப்பூர், 6 மணிக்கு ஈரோடு, 7 மணிக்குச் சேலம் செல்லும்.\n🔁 பருணியிலிருந்து 30ஆம் தேதி காலை 10.30 மணிக்குப் புறப்படும் சிறப்பு ரெயில் 2ஆம் தேதி (புதன்கிழமை) இரவு 11 மணிக்கு எர்ணாகுளத்தைச் சென்றடையும்.\n🕑 அதே ரெயில் 2ஆம் தேதி மதியம் 2 மணிக்குச் சேலம், 3.10 மணிக்கு ஈரோடு, மாலை 4 மணிக்குத் திருப்பூர், 5.13 மணிக்குப் போத்தனூர் வரும்.\nஇந்தத் தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்தார்.\n\nTiruppur special train Ernakulam-Barauni | Tiruppur news\n📍 திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #ரெயில்",
+   "prompts": "A long passenger special train pulls slowly into the Tiruppur railway station platform in the pre-dawn light of early Friday morning, its coaches lit by warm yellow windows. Seen from the platform at eye level, a few passengers with rolling suitcases and cloth bags stand back from the edge, their backs to the camera, waiting to board. Behind them the station roof, overhead lamps and a row of steel railway signal posts line the track. The sky is still dark blue with the first hint of dawn, and the air looks cool and damp. Shot at eye level with a 35 mm lens, wide enough to show the platform, the train and the tracks stretching into the distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a railway platform edge in Tiruppur at dawn, with a steel rail track and wooden sleepers in sharp focus in the foreground. A pair of passengers' bags, a canvas holdall and a rolling suitcase, sit on the concrete platform beside a yellow safety line. Beyond them, the side of a stationary passenger train's coach is visible, its metal body wet with dew under the soft platform lights. Early morning light, cool blue tones, no people's faces visible. Shot slightly high with a 35 mm lens to show the track, luggage and train together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/special-train-between-ernakulam-baruni-via-tirupur",
+   "published": "2026-11-27T00:06:03Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the train 'was departed' from Ernakulam yesterday at 11.10 pm (புறப்பட்டது) while the article says it 'departs' (புறப்பட்டு நிலையில்) — the article's wording is ambiguous/incomplete; draft asserts past tense as fact, which is an unsupported change; fact-check: reel_script and caption say the train reaches Barauni on the 29th at 2 pm, but the article only says the 29th (Sunday) afternoon 2 pm arrival — consistent, no issue; however the slides_spec line 'எர்ணாகுளத்தில் நேற்று இரவு 11.10' ends with an unclosed <b> tag, a formatting error; fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with the date '2' unlabelled as a month-day reference; the Tamil is grammatically unclear about which month/date '2' refers to, making the sentence ambiguous",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/82788a1ad7dfc475.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/9640f7abe26fc5e8.jpg"
    ]
   }
  ]
