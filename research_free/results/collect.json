@@ -3,286 +3,161 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/communist-party-opposes-dumping-of-trash-in-the-rock-quarry-at-ammapalayam",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/case-filed-against-individual-who-assaulted-a-government-bus-driver",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/special-train-between-ernakulam-baruni-via-tirupur",
-  "candidate filter: collected=3",
-  "to write: 3 Tirupur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-train-be",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
+  "manual link added: https://www.puthiyathalaimurai.com/cinema/tirupur-subramaniam-criticizes-stating-that-ajith-will-soon-disappear-from-the-film-industry",
+  "manual link added: https://cinema.dinamalar.com/news/kollywood/tiruppur-subramaniam-criticises-ajith-nayanthara/142386",
+  "candidate filter: collected=2",
+  "to write: 2 Tirupur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Tirupur; time left 79 min",
+  "try (N) manual=True: https://cinema.dinamalar.com/news/kollywood/tiruppur-subrama",
+  "try (N) manual=True: https://www.puthiyathalaimurai.com/cinema/tirupur-subramania",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
-  "filed: 3 Tirupur district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
+  "filed: 2 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்ட எதிர்ப்பு",
-   "english_headline": "Communist party protests dumping of garbage in Ammapalayam rock pit on 29 Nov",
-   "category": "Civic Issues",
-   "location": "Ammapalayam, Avinashi, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குப்பை எதிர்ப்பு",
-    "loc": "அம்மாபாளையம், அவிநாசி",
-    "hl1": "அம்மாபாளையத்தில் குப்பை கொட்ட எதிர்ப்பு",
-    "hl2": "நவ. 29 போராட்டம்",
-    "slides": [
-     {
-      "title": "என்ன நடக்கிறது?",
-      "lines": [
-       "அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதற்கு எதிர்ப்பு",
-       "மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி போராட்டம் அறிவிப்பு",
-       "போராட்டம் <b>நவம்பர் 29</b> ஆம் தேதி நடைபெறும்"
-      ]
-     },
-     {
-      "title": "எவ்வளவு குப்பை?",
-      "lines": [
-       "திருப்பூரில் சேகரிக்கும் குப்பை நாள்தோறும்",
-       "<b>100-க்கும் மேற்பட்ட</b> லாரிகளில் குப்பை கொட்டப்படுகிறது",
-       "மாநகராட்சி நிர்வாகம் இதைச் செய்கிறது"
-      ]
-     },
-     {
-      "title": "மக்களுக்கு",
-      "lines": [
-       "காமாட்சியம்மன் காலனி, எம்ஜிஆர் நகர் பகுதியில் கடும்",
-       "மூச்சுத் திணறல், வாந்தி, மயக்கம் ஏற்படுவதாக மக்கள்",
-       "அம்மாபாளையத்தில் டெங்கு காய்ச்சல் அதிகம் பரவுகிறது"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "குப்பை கொட்டுவதை நிரந்தரமாக நிறுத்த வேண்டும் என்று கோரிக்கை",
-       "தமிழக அரசும் மாவட்ட நிர்வாகமும் தலையிட வேண்டும்",
-       "அம்மாபாளையம் பேருந்து நிறுத்தம் அருகே போராட்டம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதை எதிர்த்து போராட்டம் அறிவிக்கப்பட்டுள்ளது. அவிநாசி அருகேயுள்ள அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதற்கு மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி எதிர்ப்பு தெரிவித்துள்ளது. நவம்பர் 29ஆம் தேதி போராட்டத்தில் ஈடுபடுவதாகவும் கட்சி அறிவித்துள்ளது. திருப்பூரில் சேகரிக்கப்படும் குப்பைகளை மாநகராட்சி நிர்வாகம் நாள்தோறும் 100-க்கும் மேற்பட்ட லாரிகளில் கொண்டு வந்து இங்கு கொட்டுவதாகக் கூறப்படுகிறது. இதனால் காமாட்சியம்மன் காலனி, எம்ஜிஆர் நகர், பழனியப்பா நகர் உள்ளிட்ட குடியிருப்புப் பகுதிகளில் கடும் துர்நாற்றம் வீசுகிறது. மூச்சுத் திணறல், வாந்தி, மயக்கம் போன்ற உடல்நலப் பிரச்னைகளும் ஏற்படுவதாக மக்கள் கூறுகின்றனர். அம்மாபாளையம் பகுதியில் தற்போது டெங்கு காய்ச்சலும் அதிக அளவில் பரவி வருகிறது. குப்பை கொட்டுவதைத் தடுக்கக் கோரி பல்வேறு கட்டப் போராட்டங்கள் நடத்தப்பட்டும் அதிகாரிகள் எந்த நடவடிக்கையும் எடுக்கவில்லை என்று மக்கள் குற்றம் சாட்டுகின்றனர். குப்பை கொட்டுவதை நிரந்தரமாக நிறுத்த தமிழக அரசும் மாவட்ட நிர்வாகமும் தலையிட வேண்டும் என்று வலியுறுத்தப்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்ட எதிர்ப்பு: நவ. 29 போராட்டம்\n\n📰 முழு விவரம்:\nஅவிநாசி அருகேயுள்ள அம்மாபாளையம் பாறைக் குழியில் குப்பை கொட்டுவதற்கு மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி எதிர்ப்பு தெரிவித்துள்ளது. நவம்பர் 29ஆம் தேதி அம்மாபாளையம் பேருந்து நிறுத்தம் அருகே போராட்டம் நடத்தப்போவதாகக் கட்சி அறிவித்துள்ளது.\nதிருப்பூரில் சேகரிக்கப்படும் குப்பைகளை மாநகராட்சி நிர்வாகம் நாள்தோறும் 100-க்கும் மேற்பட்ட லாரிகளில் கொண்டுவந்து பாறைக் குழியில் கொட்டி வருவதாக மக்கள் கூறுகின்றனர்.\nஇதனால் காமாட்சியம்மன் காலனி, எம்ஜிஆர் நகர், பழனியப்பா நகர், குமரன் காலனி, ராம் நகர், பத்மாவதி நகர், பாரதி நகர் உள்ளிட்ட குடியிருப்புப் பகுதிகளில் கடும் துர்நாற்றம் வீசுகிறது. மூச்சுத் திணறல், வாந்தி, மயக்கம் போன்ற உடல்நலப் பிரச்னைகளும் ஏற்படுவதாக மக்கள் தெரிவிக்கின்றனர். அம்மாபாளையம் பகுதியில் டெங்கு காய்ச்சல் அதிக அளவில் பரவி வருகிறது.\nகுப்பை கொட்டுவதைத் தடுக்கக் கோரி பல்வேறு கட்டப் போராட்டங்கள் நடத்தியும் அதிகாரிகள் நடவடிக்கை எடுக்கவில்லை என்று மக்கள் குற்றம் சாட்டுகின்றனர். குப்பை கொட்டுவதை நிரந்தரமாக நிறுத்த தமிழக அரசும் மாவட்ட நிர்வாகமும் தலையிட வேண்டும் என்று வலியுறுத்தப்படுகிறது.\n\nAmmapalayam garbage dumping protest Nov 29 | Tirupur news\n📍 அம்மாபாளையம், அவிநாசி, திருப்பூர் மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A crowd of Communist party members and local residents gathers at the Ammapalayam bus stop to protest the dumping of garbage in the nearby rock pit. Men in shirts and veshti and women in sarees hold red party flags and handmade placards, seen from behind and from a distance, with their backs toward the camera. The setting is a roadside bus stop on the edge of Ammapalayam in Avinashi, with a small shelter, a dusty road, and a line of parked two-wheelers and a town bus at the side. Behind the crowd rise bare rocky hills and the edge of a quarry, with a few coconut trees and a low residential colony visible in the distance. Daylight, bright and slightly hazy. Camera at eye level, 35 mm lens, wide enough to show the bus stop, the crowd and the quarry in the background. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/communist-party-opposes-dumping-of-trash-in-the-rock-quarry-at-ammapalayam",
-   "published": "2026-11-26T23:15:00.000Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/bcf67d0173f077ce.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வெள்ளக்கோவிலில் பேருந்து ஓட்டுநரைத் தாக்கியவர் மீது வழக்கு",
-   "english_headline": "Case filed against man who attacked government bus driver in Vellakoil",
-   "category": "Crime & Safety",
-   "location": "Vellakoil, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போலீஸ் வழக்கு",
-    "loc": "வெள்ளக்கோவில்",
-    "hl1": "பேருந்து ஓட்டுநரைத் மீது வழக்கு",
-    "hl2": "வெள்ளக்கோவிலில் நடந்த",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "அரசுப் பேருந்து ஓட்டுநர் முருகனை விஷ்ணுகுமார்",
-       "பேருந்து பழுதாகி நின்றதால் சம்பவம் நடந்தது",
-       "முருகன் அளித்த புகாரில் போலீசார் வழக்குப் பதிவு செய்தனர்"
-      ]
-     },
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "வெள்ளக்கோவில் பேருந்து நிலையம் அருகே",
-       "கடந்த <b>23ஆம் தேதி</b> இரவு <b>7.30 மணியளவில்</b>",
-       "பயணிகளை மாற்றுப் பேருந்தில் ஏற்றும் பணியின்போது"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "விஷ்ணுகுமார் மீது போலீசார் விசாரணை நடத்தி வருகின்றனர்",
-       "முருகன் தாராபுரம் வட்டம் வடகரையைச் சேர்ந்தவர்",
-       "உப்பிலிபாளையம் கிளையில் ஓட்டுநராகப் பணியாற்றுகிறார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வெள்ளக்கோவிலில் அரசுப் பேருந்து ஓட்டுநரைத் தாக்கியவர் மீது போலீசார் வழக்குப் பதிவு செய்துள்ளனர். தாராபுரம் வட்டம் வடகரையைச் சேர்ந்த 57 வயது முருகன் உப்பிலிபாளையம் அரசுப் போக்குவரத்துக் கழகக் கிளையில் ஓட்டுநராகப் பணியாற்றுகிறார். கடந்த 23ஆம் தேதி இரவு 7.30 மணியளவில் முருகன் பயணிகளுடன் வெள்ளக்கோவில் பேருந்து நிலையத்துக்குப் பேருந்தை ஓட்டி வந்தார். வழியில் பேருந்து பழுதாகி நின்றது. பயணிகளை மாற்றுப் பேருந்தில் ஏற்றி அனுப்பும் பணியில் முருகனும் நடத்துநரும் ஈடுபட்டிருந்தனர். அப்போது ஈரோடு மாவட்டம் சிவகிரி பெருமாபாளையத்தைச் சேர்ந்த விஷ்ணுகுமார் என்பவர், பழுதடைந்த பேருந்தை ஏன் இங்கு ஓட்டி வந்தாய் என்று கூறி முருகனுடன் வாக்குவாதம் செய்ததாகவும், அவரைத் தாக்கியதாகவும் கூறப்படுகிறது. இதுகுறித்து முருகன் அளித்த புகாரின்பேரில் விஷ்ணுகுமார் மீது போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 வெள்ளக்கோவிலில் அரசுப் பேருந்து ஓட்டுநரைத் தாக்கியவர் மீது வழக்கு\n\n📰 முழு விவரம்:\nவெள்ளக்கோவிலில் அரசுப் பேருந்து ஓட்டுநர் முருகனைத் தாக்கியதாகக் கூறப்படும் நபர் மீது போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\nதாராபுரம் வட்டம் வடகரையைச் சேர்ந்த 57 வயது முருகன் உப்பிலிபாளையம் அரசுப் போக்குவரத்துக் கழகக் கிளையில் ஓட்டுநராகப் பணியாற்றுகிறார்.\nகடந்த 23ஆம் தேதி இரவு 7.30 மணியளவில் பயணிகளுடன் வெள்ளக்கோவில் பேருந்து நிலையத்துக்குப் பேருந்தை ஓட்டி வந்தபோது, வழியில் பேருந்து பழுதாகி நின்றது.\nபயணிகளை மாற்றுப் பேருந்தில் ஏற்றும் பணியில் முருகனும் நடத்துநரும் ஈடுபட்டிருந்தனர்.\nஅப்போது ஈரோடு மாவட்டம் சிவகிரி பெருமாபாளையத்தைச் சேர்ந்த விஷ்ணுகுமார், பழுதடைந்த பேருந்தை ஏன் இங்கு ஓட்டி வந்தாய் என்று கூறி முருகனுடன் வாக்குவாதம் செய்ததாகவும், அவரைத் தாக்கியதாகவும் கூறப்படுகிறது.\nஇதுகுறித்து முருகன் அளித்த புகாரின்பேரில் விஷ்ணுகுமார் மீது போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nVellakoil bus driver attacked, case filed | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
-   "prompts": "A Tamil Nadu State Transport Corporation bus driver and conductor stand beside a broken-down government bus at the Vellakoil bus stand as passengers with bags board a replacement bus in the evening. The setting is a busy small-town bus stand in Tirupur district, with a concrete platform, rows of parked buses, and a few shop fronts glowing under yellow streetlights. The driver, a middle-aged man in a khaki-grey TNSTC uniform, stands with his back half-turned, while the conductor in a dark shirt guides passengers carrying bags and water bottles toward the replacement bus. Two uniformed Tamil Nadu police officers in khaki stand at a distance near the platform edge, watching quietly. The broken-down bus has its doors open and its engine off. It is around 7:30 pm, the sky is dark blue, and the artificial light reflects off the bus paint. Shot at eye level, 35 mm, wide enough to show the bus stand and the transfer of passengers, with all faces turned away or too far to identify. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the rear wheel and side panel of a broken-down Tamil Nadu State Transport Corporation bus stopped at the Vellakoil bus stand in the evening. The bus is parked on wet concrete under a sodium streetlight, with a worn tyre, a dangling side mirror, and a stiff stain of dirt along the chassis showing the breakdown. In the blurred background, a driver in a grey-khaki uniform and a conductor stand near a passenger carrying a shoulder bag while transferring to a replacement bus. The tones are warm yellow from the streetlight mixed with cool blue dusk. Shot close and slightly low, 50 mm, shallow depth of field, with no faces visible and no readable signage. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/case-filed-against-individual-who-assaulted-a-government-bus-driver",
-   "published": "2026-11-26T23:53:00.000Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/e9a3ab0bbe3e19e5.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/65c4810cd4005ca6.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூர் வழியாக எர்ணாகுளம்–பருணி இடையே சிறப்பு ரெயில் இயக்கம்",
-   "english_headline": "Special train via Tiruppur between Ernakulam and Barauni; runs from Thursday night",
-   "category": "Roads & Transport",
-   "location": "Tiruppur, Tirupur district",
-   "importance": "Medium",
+   "tamil_headline": "அஜித், நயன்தாரா படப் புரொமோஷனுக்கு வராததால் காணாமல் போவார்கள்: திருப்பூர் சுப்ரமணியம் காட்டம்",
+   "english_headline": "Thiruppur Subramaniam slams Ajith and Nayanthara for skipping film promotions, warns they may fade from cinema",
+   "category": "Entertainment",
+   "location": "Tamil Nadu (cinema news; Thiruppur Subramaniam is a Tirupur-based cinema theatre owner and distributor)",
+   "importance": "Low",
    "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரெயில் சேவை",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர் வழியாக சிறப்பு ரெயில்",
-    "hl2": "எர்ணாகுளம் – பருணி",
+    "cat": "சினிமா செய்தி",
+    "loc": "தமிழ்நாடு",
+    "hl1": "அஜித், நயன்தாரா வராததால் விமர்சனம்",
+    "hl2": "காணாமல் போவார்கள் என",
     "slides": [
      {
-      "title": "புறப்பாடு",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "எர்ணாகுளத்தில் நேற்று (வியாழக்கிழமை) இரவு <b>11.10",
-       "<b>29</b> (ஞாயிற்றுக்கிழமை) மதியம் <b>2 மணி</b>க்குப் பருணி சென்றடையும்"
+       "அஜித், நயன்தாரா பட புரொமோஷன்களில் கலந்துகொள்வதில்லை",
+       "அஜித் சுமார் 15 ஆண்டுகளாக புரொமோஷன்களைத் தவிர்க்கிறார்",
+       "இதை திருப்பூர் சுப்ரமணியம் கடுமையாக விமர்சித்துள்ளார்"
       ]
      },
      {
-      "title": "திருப்பூர் வழி",
+      "title": "அவரது கருத்து",
       "lines": [
-       "நாளை (வெள்ளிக்கிழமை) அதிகாலை <b>4.20 மணி</b>க்குப் போத்தனூர்",
-       "<b>5.10 மணி</b>க்குத் திருப்பூர், <b>6 மணி</b>க்கு ஈரோடு"
+       "மார்க்கெட் கீழே போகும் என அவர் எச்சரிக்கை",
+       "சினிமாவில் இருந்து காணாமல் போகலாம் என்கிறார்",
+       "100, 150 கோடி சம்பளம் வாங்குவதாகக் குறை கூறினார்"
       ]
      },
      {
-      "title": "திரும்பும் ரெயில்",
+      "title": "ஏன் விமர்சனம்?",
       "lines": [
-       "பருணியில் <b>30</b>ஆம் தேதி காலை <b>10.30 மணி</b>க்குப் புறப்படும்",
-       "<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்"
-      ]
-     },
-     {
-      "title": "திரும்பும் வழி",
-      "lines": [
-       "<b>2</b> (புதன்கிழமை) மதியம் <b>2 மணி</b>க்குச் சேலம், <b>3.10 மணி</b>க்கு ஈரோடு",
-       "மாலை <b>4 மணி</b>க்குத் திருப்பூர், <b>5.13 மணி</b>க்குப் போத்தனூர்"
+       "அஜித் தனது கார், பிஸ்கெட் விளம்பரங்களில் நடிக்கிறார்",
+       "ஆனால் படப் புரொமோஷனுக்கு வருவதில்லை என விமர்சனம்",
+       "நயன்தாரா சொந்தப் படத்துக்கு புரொமோஷன் செய்தார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் வழியாக எர்ணாகுளத்திலிருந்து பீகார் மாநிலம் பருணிக்கு சிறப்பு ரெயில் இயக்கப்படுகிறது. இந்த ரெயில் நேற்று (வியாழக்கிழமை) இரவு 11.10 மணிக்கு எர்ணாகுளத்தில் புறப்பட்டது. ரெயில் 29ஆம் தேதி (ஞாயிற்றுக்கிழமை) மதியம் 2 மணிக்குப் பருணியைச் சென்றடையும். நாளை (வெள்ளிக்கிழமை) அதிகாலை 4.20 மணிக்குப் போத்தனூருக்கும், 5.10 மணிக்குத் திருப்பூருக்கும் ரெயில் வந்து சேரும். பின்னர் 6 மணிக்கு ஈரோட்டுக்கும், 7 மணிக்குச் சேலத்துக்கும் செல்லும். திரும்பும் ரெயில் பருணியிலிருந்து 30ஆம் தேதி காலை 10.30 மணிக்குப் புறப்படும். இந்த ரெயில் 2ஆம் தேதி (புதன்கிழமை) இரவு 11 மணிக்கு எர்ணாகுளத்தைச் சென்றடையும். அதற்கு முன் 2ஆம் தேதி மதியம் 2 மணிக்குச் சேலத்துக்கும், 3.10 மணிக்கு ஈரோட்டுக்கும் வரும். மாலை 4 மணிக்குத் திருப்பூருக்கும், 5.13 மணிக்குப் போத்தனூருக்கும் வந்து சேரும். இந்தத் தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 திருப்பூர் வழியாக எர்ணாகுளம்–பருணி சிறப்பு ரெயில் இயக்கம்\n\n📰 முழு விவரம்:\nபயணிகளின் வசதிக்காக எர்ணாகுளத்திலிருந்து பீகார் மாநிலம் பருணிக்கு சிறப்பு ரெயில் திருப்பூர் வழியாக இயக்கப்படுகிறது. இந்த ரெயில் நேற்று (வியாழக்கிழமை) இரவு 11.10 மணிக்கு எர்ணாகுளத்தில் புறப்பட்டது. 29ஆம் தேதி (ஞாயிற்றுக்கிழமை) மதியம் 2 மணிக்குப் பருணியைச் சென்றடையும்.\n🕘 நாளை (வெள்ளிக்கிழமை) அதிகாலை 4.20 மணிக்குப் போத்தனூர், 5.10 மணிக்குத் திருப்பூர், 6 மணிக்கு ஈரோடு, 7 மணிக்குச் சேலம் செல்லும்.\n🔁 பருணியிலிருந்து 30ஆம் தேதி காலை 10.30 மணிக்குப் புறப்படும் சிறப்பு ரெயில் 2ஆம் தேதி (புதன்கிழமை) இரவு 11 மணிக்கு எர்ணாகுளத்தைச் சென்றடையும்.\n🕑 அதே ரெயில் 2ஆம் தேதி மதியம் 2 மணிக்குச் சேலம், 3.10 மணிக்கு ஈரோடு, மாலை 4 மணிக்குத் திருப்பூர், 5.13 மணிக்குப் போத்தனூர் வரும்.\nஇந்தத் தகவலை ரெயில்வே அதிகாரி ஒருவர் தெரிவித்தார்.\n\nTiruppur special train Ernakulam-Barauni | Tiruppur news\n📍 திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #ரெயில்",
-   "prompts": "A long passenger special train pulls slowly into the Tiruppur railway station platform in the pre-dawn light of early Friday morning, its coaches lit by warm yellow windows. Seen from the platform at eye level, a few passengers with rolling suitcases and cloth bags stand back from the edge, their backs to the camera, waiting to board. Behind them the station roof, overhead lamps and a row of steel railway signal posts line the track. The sky is still dark blue with the first hint of dawn, and the air looks cool and damp. Shot at eye level with a 35 mm lens, wide enough to show the platform, the train and the tracks stretching into the distance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a railway platform edge in Tiruppur at dawn, with a steel rail track and wooden sleepers in sharp focus in the foreground. A pair of passengers' bags, a canvas holdall and a rolling suitcase, sit on the concrete platform beside a yellow safety line. Beyond them, the side of a stationary passenger train's coach is visible, its metal body wet with dew under the soft platform lights. Early morning light, cool blue tones, no people's faces visible. Shot slightly high with a 35 mm lens to show the track, luggage and train together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/special-train-between-ernakulam-baruni-via-tirupur",
-   "published": "2026-11-27T00:06:03Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the train 'was departed' from Ernakulam yesterday at 11.10 pm (புறப்பட்டது) while the article says it 'departs' (புறப்பட்டு நிலையில்) — the article's wording is ambiguous/incomplete; draft asserts past tense as fact, which is an unsupported change; fact-check: reel_script and caption say the train reaches Barauni on the 29th at 2 pm, but the article only says the 29th (Sunday) afternoon 2 pm arrival — consistent, no issue; however the slides_spec line 'எர்ணாகுளத்தில் நேற்று இரவு 11.10' ends with an unclosed <b> tag, a formatting error; fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with the date '2' unlabelled as a month-day reference; the Tamil is grammatically unclear about which month/date '2' refers to, making the sentence ambiguous",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "reel_script": "நடிகர் அஜித், நயன்தாரா பட புரொமோஷன்களில் கலந்துகொள்ளாததை திருப்பூர் சுப்ரமணியம் கடுமையாக விமர்சித்துள்ளார். திரையரங்கு உரிமையாளரும், விநியோகஸ்தருமான திருப்பூர் சுப்ரமணியம் ஒரு நேர்காணலில் இதைப் பற்றிப் பேசினார். அஜித் சுமார் 15 ஆண்டுகளாக தனது படங்களின் புரொமோஷன் நிகழ்ச்சிகள், இசை வெளியீட்டு விழாக்கள் மற்றும் ஊடகப் பேட்டிகளில் கலந்துகொள்வதில்லை. நயன்தாராவும் இதே நிலையில் இருப்பதாக அவர் குறிப்பிட்டார். புரொமோஷன்களில் கலந்துகொள்ளாதது கெத்து அல்ல என்றும், இதனால் மார்க்கெட் கீழே போகும் என்றும் அவர் எச்சரித்தார். இவர்கள் தொடர்ந்து வராவிட்டால் சினிமாவிலிருந்து காணாமல் போகக்கூடும் என்றும் அவர் கூறினார். 100 கோடி, 150 கோடி சம்பளம் வாங்கும் நடிகர்கள், தயாரிப்பாளருக்கு உதவ புரொமோஷனில் கலந்துகொள்ள வேண்டும் என்பது அவரது கருத்து. அஜித் கார் மற்றும் பிஸ்கெட் விளம்பரங்களில் நடிப்பதையும் அவர் சுட்டிக்காட்டினார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎬 அஜித், நயன்தாரா புரொமோஷனுக்கு வராததை விமர்சித்த திருப்பூர் சுப்ரமணியம்\n\n📰 முழு விவரம்:\nதிரையரங்கு உரிமையாளரும், விநியோகஸ்தருமான திருப்பூர் சுப்ரமணியம், அஜித் மற்றும் நயன்தாரா பட புரொமோஷன்களில் கலந்துகொள்ளாததை கடுமையாக விமர்சித்துள்ளார்.\nஅஜித் சுமார் 15 ஆண்டுகளாக தனது படங்களின் புரொமோஷன் நிகழ்ச்சிகள், இசை வெளியீட்டு விழாக்கள் மற்றும் ஊடகப் பேட்டிகளில் கலந்துகொள்வதில்லை. 30 ஆண்டுகளுக்கும் மேலாக தமிழ் சினிமாவில் இருக்கும் அஜித்துக்கு பெரிய ரசிகர் பட்டாளம் உள்ளது.\nஅஜித் கார், பிஸ்கெட் விளம்பரங்களில் நடிக்கும் நிலையில், படப் புரொமோஷனுக்கு வராதது ஏன் என்ற விமர்சனம் எழுந்துள்ளது.\nஇது அவர்களின் மார்க்கெட்டை பாதிக்கக்கூடும் என்றும், இவர்கள் தொடர்ந்து வராவிட்டால் சினிமாவிலிருந்து காணாமல் போகக்கூடும் என்றும் அவர் எச்சரித்துள்ளார்.\nநடிகர்கள் புரொமோஷனில் கலந்துகொண்டால் தயாரிப்பாளருக்கு பெரிய உதவியாகவும், படத்துக்கு கூடுதல் பலமாகவும் இருக்கும் என்று சொல்லப்படுகிறது.\nநயன்தாரா தனது சொந்தப் படத்துக்கு புரொமோஷனில் கலந்துகொண்டதையும் அவர் சுட்டிக்காட்டினார்.\n\nAjith Nayanthara skip film promotions, Thiruppur Subramaniam criticises | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A middle-aged Tamil man in a plain white shirt and veshti sits on a chair in a small media interview room in Tiruppur, speaking animatedly while a TV reporter holds a microphone toward him. Seen from slightly behind and to the side so no face is recognisable, he gestures with one hand as if making a point. Behind him is a plain wall with a few film promotional posters, all text blurred and unreadable. Two camera operators stand at a distance with a tripod-mounted video camera and cables on the floor. The room is lit by warm overhead tube lights and some daylight from a window. Eye-level camera, 35 mm lens, wide enough to show the interview setup and the atmosphere of a cinema-industry press meet. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cluster of microphones on a black stand and a handheld recorder placed on a glass table, with a glass of water and a folded paper beside them. Behind the table, out of focus, a few cinema promotional posters hang on a plain wall, their text blurred and unreadable. Soft warm light falls across the table, shallow depth of field keeps the foreground microphones sharp. No faces visible; only hands of one person resting on the table edge, seen from behind. Camera slightly high, 50 mm lens, emphasising the interview and press-conference atmosphere of the story. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.puthiyathalaimurai.com/cinema/tirupur-subramaniam-criticizes-stating-that-ajith-will-soon-disappear-from-the-film-industry",
+   "published": "2026-11-27T10:45:17+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); hl1 (the first headline on screen) must name the place 'தமிழ்நாடு', e.g. 'தமிழ்நாடு: ...' or 'தமிழ்நாடு-இல் ...' - viewers share news of their own area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 100 ('100 கோடி, 150 கோடிணு சம்பளம் மட்டும் வாங்க தெரியுது, ஆனால் அ'); 150 ('100 கோடி, 150 கோடிணு சம்பளம் மட்டும் வாங்க தெரியுது, ஆனால் அ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/82788a1ad7dfc475.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/9640f7abe26fc5e8.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/3855e11aa30fe27f.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/1b14e79086235788.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அஜித், நயன்தாரா குறித்து கடுமையாக விமர்சித்த திருப்பூர் சுப்பிரமணியம்",
+   "english_headline": "Thiruppur Subramaniam criticises Ajith and Nayanthara",
+   "category": "Entertainment",
+   "location": "unknown",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சினிமா",
+    "loc": "unknown",
+    "hl1": "அஜித், நயன்தாரா குறித்து விமர்சனம்",
+    "hl2": "திருப்பூர் சுப்பிரமணியம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர் சுப்பிரமணியம் அஜித், நயன்தாரா குறித்து கடுமையாக",
+       "அதுபற்றிய முழு விவரம் கட்டுரையில் கிடைக்கவில்லை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "",
+   "caption": "",
+   "prompts": "A small group of Tamil film fans and a speaker stand at a microphone in a crowded open-air meeting ground on a Tirupur street, a banner-less stage with a mic stand and speakers, seen from behind as a speaker in a white shirt and veshti addresses the crowd. Behind them the city look shows a row of two-wheelers, an autorickshaw and a town bus parked by a roadside wall, with knitwear factory buildings beyond. Men in shirts and women in sarees stand in the crowd, some holding up mobile phones, all seen from behind or far away and slightly blurred. Daylight, late afternoon sun. Camera at eye level, 35 mm, wide enough to show the stage, crowd and street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a folded film poster lying on a wooden table beside a steel tumbler of tea and a mobile phone, with a rolled-up newspaper and a small stack of printed news pages, placed in a Tirupur tea-stall corner. The poster shows only plain colour blocks and a silhouette of a racing car with no readable text, no faces and no logos. Morning light from a side window falls across the table, a few flies and tea glasses in the background, and a blurred two-wheeler and a sewing-machine shop shutter visible through the open doorway. Camera slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://cinema.dinamalar.com/news/kollywood/tiruppur-subramaniam-criticises-ajith-nayanthara/142386",
+   "published": "",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: missing key: reel_script; missing key: caption",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/87dff5f40aa419a4.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/6eaaae440c8d5a27.jpg"
    ]
   }
  ]
