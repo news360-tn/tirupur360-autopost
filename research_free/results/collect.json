@@ -3,55 +3,64 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொள்ளை-வழக்கு-தலைமறைவாக-இருந்த-இளைஞா்-கைது",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/attack-on-gh-security-police-outpost-siege/4387910",
-  "candidate filter: collected=2",
-  "to write: 2 Tirupur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/rs-741-lakh-in-fines-for-those-who-dumped-trash-in-public-places",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/penalty-for-littering-rs-7-41-lakh/4387820",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/drink-distilled-water-advice/4387912",
+  "candidate filter: collected=3",
+  "to write: 3 Tirupur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Tirupur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
-  "filed: 2 Tirupur district stories (target 2), reels only",
+  "NOT filed (N) குப்பை கொட்டியவர்களுக்கு ரூ.7.41 லட்சம் அபராதம்: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min",
+  "filed: 2 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -59,123 +68,129 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர் அரசு மருத்துவமனையில் செக்யூரிட்டி மீது தாக்குதல், போலீஸ் அவுட்போஸ்ட் முற்றுகை",
-   "english_headline": "Security guard attacked at Tirupur Government Medical College Hospital; staff besiege police outpost demanding action",
-   "category": "Crime & Safety",
-   "location": "Tirupur Government Medical College Hospital, Tirupur district",
+   "tamil_headline": "திருப்பூர் மாநகராட்சி: குப்பை கொட்டியோருக்கு ரூ.7.41 லட்சம் அபராதம்",
+   "english_headline": "Tirupur Corporation collects Rs 7.41 lakh fine from 303 people for dumping garbage in public places; 13 vehicles seized",
+   "category": "Civic Issues",
+   "location": "Tirupur Corporation area, Tirupur district",
    "importance": "High",
-   "scope": "local",
+   "scope": "",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றம் & பாதுகாப்பு",
-    "loc": "திருப்பூர் அரசு மருத்துவமனை",
-    "hl1": "திருப்பூர் செக்யூரிட்டி தாக்கப்பட்டார்",
-    "hl2": "போலீஸ் அவுட்போஸ்ட் முற்றுகை",
+    "cat": "குப்பை அபராதம்",
+    "loc": "திருப்பூர் மாநகராட்சி",
+    "hl1": "குப்பை கொட்டியோருக்கு அபராதம்",
+    "hl2": "ரூ.7.41 லட்சம் வசூல்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எவ்வளவு அபராதம்?",
       "lines": [
-       "போதையில் இருந்த வாலிபர் செக்யூரிட்டி சிவகுமாரை தாக்கினார",
-       "வண்டியை ஓரமாக நிறுத்தச் சொன்னதால் ஆத்திரம்",
-       "காயமடைந்த சிவகுமார் மருத்துவமனையில் அனுமதி"
+       "303 பேரிடம் <b>ரூ.7.41 லட்சம்</b> அபராதம்",
+       "செப்டம்பர் 11 முதல் நடந்த சோதனையில் வசூல்",
+       "திருப்பூர் மாநகராட்சிப் பகுதி"
       ]
      },
      {
-      "title": "போராட்டம்",
+      "title": "எங்கெங்கே சோதனை?",
       "lines": [
-       "செக்யூரிட்டிகள், ஊழியர்கள் போலீஸ் அவுட்போஸ்டில் புகார்",
-       "தாக்கியவரை விசாரிக்காமல் சமாதானம் செய்ததால் வாக்குவாதம்",
-       "ஊழியர்கள் போலீசார் அலட்சியம் என குற்றச்சாட்டு"
+       "4 மண்டலங்களிலும் சிறப்புக் கண்காணிப்புக் குழுக்கள்",
+       "பொது இடங்கள், சாலைகள், நீர்நிலை ஓரங்கள்",
+       "24 மணி நேரமும் தீவிர ரோந்துப் பணி"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "என்ன நடவடிக்கை?",
       "lines": [
-       "இன்ஸ்பெக்டர் செந்தில்குமார் இருதரப்பிடமும் பேச்சுவார்த்தை",
-       "தாக்கிய வாலிபர் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்",
-       "பாதுகாப்புப் பணியாளர்களுக்கே பாதுகாப்பு இல்லை என வேதனை"
+       "குப்பை கொட்டப் பயன்படுத்திய <b>13 வாகனங்கள்</b> பறிமுதல்",
+       "குப்பைகளைத் தரம் பிரித்து தூய்மைப் பணியாளர்களிடம்",
+       "வணிக நிறுவனங்கள் உரிய நிறுவனங்களிடம் ஒப்படைக்க வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் அரசு மருத்துவமனையில் போதையில் இருந்த வாலிபர் செக்யூரிட்டி சிவகுமாரை தாக்கினார். நேற்று காலை பிரேத பரிசோதனை முடிந்து உடலைப் பெற உறவினர்கள் காத்திருந்தனர். அப்போது பைக்கில் வந்த வாலிபர் நடுவழியில் வண்டியை நிறுத்தி போனில் பேசிக்கொண்டிருந்தார். இது ஆம்புலன்ஸ்கள் செல்லும் வழி, வண்டியை ஓரமாக நிறுத்துங்கள் என்று சிவகுமார் அறிவுறுத்தினார். இதனால் ஆத்திரமடைந்த வாலிபர் அவரைத் தாக்கினார். காயமடைந்த சிவகுமார் மருத்துவமனையில் அனுமதிக்கப்பட்டார். இதைக் கண்டித்து செக்யூரிட்டிகளும் மருத்துவமனை ஊழியர்களும் போலீஸ் அவுட்போஸ்டில் புகார் தெரிவித்தனர். ஆனால் தாக்கிய வாலிபரிடம் விசாரிக்காமல், போலீசார் செக்யூரிட்டிகளைச் சமாதானப்படுத்த முயன்றனர். இதனால் ஊழியர்கள் போலீசார் உரிய நடவடிக்கை எடுக்கவில்லை என வாக்குவாதத்தில் ஈடுபட்டனர். பின்னர் இன்ஸ்பெக்டர் செந்தில்குமார் இருதரப்பிடமும் பேச்சு நடத்தினார். தாக்கிய வாலிபரை போலீசார் விசாரணைக்காக அழைத்துச் சென்றனர். அரசு மருத்துவமனையில் உயிர்காக்கும் பணி நடக்கும் இடத்தில் பாதுகாப்புப் பணியில் இருப்பவர்களுக்கே பாதுகாப்பு இல்லை என்று செக்யூரிட்டிகள் வேதனை தெரிவித்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருப்பூர் அரசு மருத்துவமனையில் செக்யூரிட்டி மீது தாக்குதல்; போலீஸ் அவுட்போஸ்ட் முற்றுகை\n\n📰 முழு விவரம்:\nபோதையில் இருந்த வாலிபர் ஒருவர், நடுவழியில் வண்டியை நிறுத்தி போனில் பேசியபோது செக்யூரிட்டி சிவகுமார் வண்டியை ஓரமாக நிறுத்தச் சொன்னார். ஆத்திரமடைந்த வாலிபர் அவரைத் தாக்கினார். காயமடைந்த சிவகுமார் மருத்துவமனையில் அனுமதிக்கப்பட்டார்.\nஇதைக் கண்டித்து செக்யூரிட்டிகளும் மருத்துவமனை ஊழியர்களும் போலீஸ் அவுட்போஸ்டில் புகார் அளித்தனர். தாக்கிய வாலிபரிடம் விசாரிக்காமல் சமாதானப்படுத்த முயன்றதால் ஊழியர்கள் போலீசாருடன் வாக்குவாதம் செய்தனர்.\nஇன்ஸ்பெக்டர் செந்தில்குமார் இருதரப்பிடமும் பேச்சு நடத்திய பிறகு, தாக்கிய வாலிபர் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்.\n📍 இடம்: திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை\n🗓️ நாள்: நவம்பர் 27, 2026\n👮 நடவடிக்கை: தாக்கிய வாலிபர் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்\n\nTirupur hospital guard attacked, staff protest at police outpost | Tirupur news\n📍 திருப்பூர் அரசு மருத்துவமனை, திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Crime",
-   "prompts": "A group of hospital security guards in uniform and hospital staff in white coats stand in a tense cluster outside a small police outpost at the entrance of Tirupur Government Medical College Hospital, one hand raised in protest as they confront khaki-uniformed police officers at the doorway. The scene is set on the paved hospital approach road in Tirupur city, with a government hospital block with tiled verandas behind, an ambulance parked at a distance along the ambulance route, and a concrete outpost building with a flat roof. Two police constables in khaki stand at the doorway while the crowd, seen mostly from behind, presses forward. A stray two-wheeler is parked at the edge of the road. It is bright morning daylight, around 9 am, with clear sky and warm tropical light. Camera at eye level, 35 mm lens, wide enough to show the outpost, the crowd and the hospital building, people shown from behind or in soft focus with no identifiable faces. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a single motorcycle parked across an ambulance lane just outside the hospital gate, its front wheel blocking a painted white lane marking on the paved road, with a folded helmet resting on the seat. In the soft background, a security guard in a uniform shirt stands at a distance, slightly blurred, his back turned toward the camera, while a hospital ambulance waits behind. Bright morning daylight, around 9 am, with long shadows across the road. Camera at low-to-medium height, 35 mm lens, shallow depth of field so the motorcycle is sharp and the people are soft and unidentifiable. No readable text or signboards visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/attack-on-gh-security-police-outpost-siege/4387910",
-   "published": "2026-11-27T20:47:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "திருப்பூர் மாநகராட்சியில் பொது இடங்களில் குப்பை கொட்டியவர்களிடம் ரூ.7.41 லட்சம் அபராதம் வசூலிக்கப்பட்டுள்ளது. குப்பை கொட்டியதற்காக 303 பேரிடம் இந்த அபராதம் வசூலிக்கப்பட்டுள்ளது. குப்பை கொட்டப் பயன்படுத்தப்பட்ட 13 வாகனங்களும் பறிமுதல் செய்யப்பட்டுள்ளன. பொது இடங்கள், சாலைகள் மற்றும் நீர்நிலை ஓரங்களில் குப்பை கொட்டுவதைத் தடுக்க, 4 மண்டலங்களிலும் சிறப்புக் கண்காணிப்புக் குழுக்கள் அமைக்கப்பட்டுள்ளன. இக்குழுக்கள் 24 மணி நேரமும் தீவிர ரோந்துப் பணியில் ஈடுபடுகின்றன. செப்டம்பர் 11ஆம் தேதி முதல் நடத்தப்பட்ட சோதனையில் இந்த அபராதம் வசூலிக்கப்பட்டுள்ளது. முதல் மண்டலத்தில் 61 பேரிடம் ரூ.1.62 லட்சமும், இரண்டாம் மண்டலத்தில் 90 பேரிடம் ரூ.2.48 லட்சமும் வசூலிக்கப்பட்டுள்ளது. மூன்றாம் மண்டலத்தில் 79 பேரிடம் ரூ.1.72 லட்சமும், நான்காம் மண்டலத்தில் 73 பேரிடம் ரூ.1.59 லட்சமும் வசூலிக்கப்பட்டுள்ளது. பொது இடங்களில் குப்பை கொட்டுவோர் மீது கடும் நடவடிக்கை எடுக்கப்படும். பொதுமக்கள் குப்பைகளைத் தரம் பிரித்து தூய்மைப் பணியாளர்களிடம் ஒப்படைக்க வேண்டும். மொத்த குப்பை உருவாக்கும் வணிக நிறுவனங்களும் தொழிற்சாலைகளும் உரிய நிறுவனங்களிடம் குப்பையை ஒப்படைக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பொது இடங்களில் குப்பை கொட்டியோருக்கு ரூ.7.41 லட்சம் அபராதம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சிப் பகுதியில் பொது இடங்கள், சாலைகள் மற்றும் நீர்நிலை ஓரங்களில் குப்பை கொட்டுவதைத் தடுக்க 4 மண்டலங்களிலும் சிறப்புக் கண்காணிப்புக் குழுக்கள் அமைக்கப்பட்டுள்ளன. 24 மணி நேரமும் தீவிர ரோந்துப் பணி நடைபெறுகிறது.\nகடந்த செப்டம்பர் 11ஆம் தேதி முதல் நடத்தப்பட்ட சோதனையில், மொத்தம் 303 பேரிடம் ரூ.7.41 லட்சம் அபராதம் வசூலிக்கப்பட்டுள்ளது.\n👮 நடவடிக்கை: குப்பை கொட்டப் பயன்படுத்தப்பட்ட 13 வாகனங்கள் பறிமுதல் செய்யப்பட்டுள்ளன.\n📍 மண்டல வாரியாக: 1ஆம் மண்டலம் 61 பேர் ரூ.1.62 லட்சம்; 2ஆம் மண்டலம் 90 பேர் ரூ.2.48 லட்சம்; 3ஆம் மண்டலம் 79 பேர் ரூ.1.72 லட்சம்; 4ஆம் மண்டலம் 73 பேர் ரூ.1.59 லட்சம்.\nℹ️ மக்கள் கவனத்திற்கு: பொது இடங்களில் குப்பை கொட்டுவோர் மீது கடும் நடவடிக்கை எடுக்கப்படும். குப்பைகளைத் தரம் பிரித்து தூய்மைப் பணியாளர்களிடம் ஒப்படையுங்கள். மொத்த குப்பை உருவாக்கும் வணிக நிறுவனங்களும் தொழிற்சாலைகளும் உரிய நிறுவனங்களிடம் ஒப்படைக்க வேண்டும்.\n\nTirupur Corporation garbage fine Rs 7.41 lakh | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #குப்பை",
+   "prompts": "A corporation sanitary worker in a green uniform stands beside a roadside garbage heap on a busy street in Tirupur city, while a corporation officer in a shirt and trousers writes a fine receipt for a man standing with his back to the camera. Behind them a row of parked two-wheelers and an autorickshaw line the road, with a few shops in the background and a town bus passing at a distance. The mound of mixed household waste, plastic bags and cardboard spills onto the pavement next to a drain. It is daylight with a hazy sky typical of the city. Shot at eye level, 35 mm, wide enough to show the street, the garbage heap and the officials, with all people seen from behind or far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a seized tipper lorry parked on a Tirupur city road, its open rear bed still holding some loose garbage, with a few plastic bags and a broom resting against the side. Behind it a corporation worker in a green uniform stands at a distance, seen from behind, next to a roadside drain at the edge of a public area. The metal body and dusty tyres of the vehicle fill the foreground. It is daylight. Shot slightly high, 35 mm, focused on the vehicle and the waste with the street softly blurred behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/rs-741-lakh-in-fines-for-those-who-dumped-trash-in-public-places",
+   "published": "2026-11-27T19:35:47.428Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பூர் மாநகராட்சி', e.g. 'திருப்பூர் மாநகராட்சி: ...' or 'திருப்பூர் மாநகராட்சி-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/7d2321e34ae32486.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/06beb08c16924c16.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/4c4c5ece1df43adf.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/873e3c9ca5ede807.jpg"
    ]
   },
   {
-   "tamil_headline": "கொள்ளை வழக்கு: தலைமறைவாக இருந்த இளைஞர் கைது",
-   "english_headline": "Robbery case: youth absconding for months arrested in Dindigul, Vellakoil police act",
-   "category": "Crime & Safety",
-   "location": "Vellakoil, Tiruppur district",
-   "importance": "Medium",
-   "scope": "local",
+   "tamil_headline": "திருப்பூர் மாநகராட்சி: குடிநீரைக் காய்ச்சிப் பருக அறிவுரை",
+   "english_headline": "Tirupur Corporation advises residents to boil drinking water before use as river water is turbid during monsoon",
+   "category": "Health",
+   "location": "Tirupur Corporation, Tirupur district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கொள்ளை வழக்கு",
-    "loc": "வெள்ளக்கோவில்",
-    "hl1": "வெள்ளக்கோவில் கொள்ளை: இளைஞர் கைது",
-    "hl2": "தலைமறைவானவர் பிடிபட்டார்",
+    "cat": "குடிநீர் எச்சரிக்கை",
+    "loc": "திருப்பூர் மாநகராட்சி",
+    "hl1": "திருப்பூர் காய்ச்சிப் பருகுங்கள்",
+    "hl2": "டெங்கு பாதிப்பைத் தடுக்க",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "ஏன் இந்த அறிவுரை?",
       "lines": [
-       "வெள்ளக்கோவில் அருகே முதிய தம்பதி வீட்டில் கொள்ளை",
-       "2023-ல் <b>13 பவுன்</b> நகைகள் கொள்ளை",
-       "இந்த வழக்கில் 11 பேர் கைது"
+       "பவானி ஆற்றில் நீர் அதிக கலங்கலாக உள்ளது",
+       "நீலகிரி, மேட்டுப்பாளையத்தில் பருவமழை பெய்கிறது",
+       "நான்காவது குடிநீர் திட்டம் பவானி ஆற்று நீரை எடுக்கிறது"
       ]
      },
      {
-      "title": "தலைமறைவு",
+      "title": "என்ன செய்ய",
       "lines": [
-       "ரிச்சர்ட் சச்சின் (32 வயது) பிணையில் வெளியே வந்தார்",
-       "விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார்",
-       "தாராபுரம் நீதிமன்றம் பிடிவாரண்ட் பிறப்பித்தது"
+       "குடிநீரை நன்கு <b>காய்ச்சி</b> பருகுங்கள்",
+       "நீர் குளிர்ந்த பின்னரே பருக வேண்டும்",
+       "டெங்கு காய்ச்சல் பாதிப்பைத் தடுக்க இது அவசியம்"
       ]
      },
      {
-      "title": "கைது",
+      "title": "யாருக்கு அறிவுரை?",
       "lines": [
-       "திண்டுக்கல்லில் பதுங்கியிருந்தவர் கைது",
-       "வெள்ளக்கோவில் ஆய்வாளர் சண்முகம் தலைமையிலான போலீசார்",
-       "வெள்ளிக்கிழமை கைது செய்யப்பட்டார்"
+       "திருப்பூர் மாநகராட்சி பொதுமக்களுக்கு அறிவுரை",
+       "மாநகராட்சி கமிஷனர் அமித் அறிக்கையில் தெரிவித்தார்",
+       "மாநகராட்சிக்கு 2, 3, 4 குடிநீர் திட்டங்கள் மூலம் நீர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வெள்ளக்கோவில் அருகே முதிய தம்பதியை மிரட்டி நகை கொள்ளையடித்த வழக்கில், தலைமறைவாக இருந்த இளைஞர் கைது செய்யப்பட்டார். வெள்ளக்கோவில் அருகேயுள்ள தாசவநாயக்கன்பட்டி, சேர்வகாரன்பாளையத்தில் முதிய தம்பதி வீட்டில் நள்ளிரவில் நுழைந்த கொள்ளையர்கள், அவர்களைத் தாக்கி 13 பவுன் நகைகளைக் கொள்ளையடித்தனர். இது 2023ஆம் ஆண்டில் நடந்தது. இந்த வழக்கில் திண்டுக்கல் மாவட்டம், ராமராஜபுரத்தைச் சேர்ந்த ரிச்சர்ட் சச்சின் (32 வயது) உள்பட மொத்தம் 11 பேர் கைது செய்யப்பட்டனர். பிணையில் வெளியே வந்த ரிச்சர்ட் சச்சின் விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார். இதையடுத்து தாராபுரம் கூடுதல் அமர்வு நீதிமன்றம் பிடிவாரண்ட் பிறப்பித்தது. திண்டுக்கல்லில் பதுங்கியிருந்த அவரை, வெள்ளக்கோவில் காவல் நிலைய ஆய்வாளர் சண்முகம் தலைமையிலான போலீசார் வெள்ளிக்கிழமை கைது செய்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வெள்ளக்கோவிலில் தம்பதியிடம் நகை கொள்ளை: தலைமறைவான இளைஞர் கைது\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் அருகேயுள்ள தாசவநாயக்கன்பட்டி, சேர்வகாரன்பாளையத்தில் முதிய தம்பதி வீட்டில் நள்ளிரவில் நுழைந்த கொள்ளையர்கள், அவர்களைத் தாக்கி 13 பவுன் நகைகளைக் கொள்ளையடித்தனர். இது 2023ஆம் ஆண்டில் நடந்தது.\nஇந்த வழக்கில் திண்டுக்கல் மாவட்டம், ராமராஜபுரத்தைச் சேர்ந்த ரிச்சர்ட் சச்சின் (32 வயது) உள்பட மொத்தம் 11 பேர் கைது செய்யப்பட்டனர். பிணையில் வெளியே வந்த அவர் விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார்.\nதாராபுரம் கூடுதல் அமர்வு நீதிமன்றம் பிடிவாரண்ட் பிறப்பித்த நிலையில், திண்டுக்கல்லில் பதுங்கியிருந்த அவரை வெள்ளக்கோவில் காவல் நிலைய ஆய்வாளர் சண்முகம் தலைமையிலான போலீசார் வெள்ளிக்கிழமை கைது செய்தனர்.\n\n📍 இடம்: தாசவநாயக்கன்பட்டி, சேர்வகாரன்பாளையம், வெள்ளக்கோவில் அருகே\n🗓️ நாள்: 2023ஆம் ஆண்டு கொள்ளை; வெள்ளிக்கிழமை கைது\n👮 நடவடிக்கை: வெள்ளக்கோவில் போலீசார் கைது\n\nTiruppur robbery case accused arrested in Dindigul | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #வெள்ளக்கோவில் #திருப்பூர்",
-   "prompts": "A pair of Tamil Nadu police in khaki uniform stand beside a white police jeep parked on a dusty village street near Vellakoil in Tiruppur district, while a young man in a plain shirt, seen only from behind and slightly blurred, is led toward the vehicle by two constables. The street is lined with modest concrete houses with tiled roofs, a few two-wheelers parked at the roadside, and a concrete electric pole in the background. It is daytime under soft, bright daylight with a clear sky. Shot at eye level, 35 mm, wide enough to show the police jeep, the street and the houses, with no readable signboards or text visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small wooden table in a police station room in Vellakoil, with a stack of court papers and a sealed plastic packet of gold jewellery placed on top, and a khaki-sleeved arm of an officer resting beside it, the face out of frame. Behind the table a plain wall and an old metal ceiling fan are visible, with daylight entering through a window. The gold pieces catch warm light, the documents are slightly out of focus, no readable text anywhere. Daytime, natural window light, 35 mm, camera at slightly high eye level. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொள்ளை-வழக்கு-தலைமறைவாக-இருந்த-இளைஞா்-கைது",
-   "published": "2026-11-27T19:27:38.826Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூர் மாநகராட்சி பொதுமக்களுக்கு குடிநீரைக் காய்ச்சிப் பருகுமாறு அறிவுறுத்தியுள்ளது. பவானி ஆற்றில் நீர் அதிக கலங்கலாக உள்ளதால் இந்த எச்சரிக்கை. நீலகிரி மற்றும் மேட்டுப்பாளையம் பகுதிகளில் பருவமழை பெய்து வருகிறது. இதன் காரணமாக ஆற்றுப்படுகையில் நீரின் கலங்கல் தன்மை அதிகமாக உள்ளது. திருப்பூர் மாநகராட்சிக்கு இரண்டாவது, மூன்றாவது மற்றும் நான்காவது குடிநீர் திட்டங்கள் மூலம் குடிநீர் பெறப்பட்டு வினியோகிக்கப்படுகிறது. நான்காவது குடிநீர் திட்டத்தில் பவானி ஆற்று நீரே எடுக்கப்படுகிறது. மழைக்காலம் என்பதாலும், நீர் கலங்கலாக இருப்பதாலும் டெங்கு காய்ச்சல் பாதிப்பு ஏற்படாமல் தடுக்க வேண்டும். எனவே பொதுமக்கள் குடிநீரை நன்கு காய்ச்சி, குளிர்ந்த பின்னரே பருக வேண்டும் என மாநகராட்சி கமிஷனர் அமித் அறிக்கையில் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 திருப்பூர் மாநகராட்சி: குடிநீரை நன்கு காய்ச்சிக் குளிர்ந்த பின்னரே பருகுங்கள்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சி கமிஷனர் அமித் வெளியிட்ட அறிக்கையில், பொதுமக்கள் குடிநீரை நன்கு காய்ச்சி, குளிர்ந்த பின்னரே பருக வேண்டும் என அறிவுறுத்தப்பட்டுள்ளது.\nநீலகிரி, மேட்டுப்பாளையம் பகுதிகளில் பருவமழை பெய்வதால் பவானி ஆற்றுப்படுகையில் நீர் அதிக கலங்கலாக உள்ளது.\nமாநகராட்சிக்கு 2, 3, 4 குடிநீர் திட்டங்கள் மூலம் குடிநீர் பெறப்பட்டு வினியோகிக்கப்படுகிறது. நான்காவது திட்டத்தில் பவானி ஆற்று நீரே எடுக்கப்படுகிறது.\nமழைக்காலம் என்பதாலும், நீர் கலங்கலாக இருப்பதாலும் டெங்கு காய்ச்சல் பாதிப்பைத் தடுக்கும் வகையில் இந்த அறிவுரை வழங்கப்பட்டுள்ளது.\n\nTirupur Corporation boil drinking water advisory | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #குடிநீர்",
+   "prompts": "A Tirupur city family in a modest house kitchen in the monsoon season boils drinking water in a large steel vessel on a gas stove, steam rising in the grey rainy light coming through a window. A woman in a cotton saree stands at the stove seen from behind, a stainless steel tumbler and a clay pot of cooled water on the counter beside her. Outside the window, rain streaks down past a concrete wall and a few wet coconut fronds are visible, giving the feel of Tirupur's outskirts during the monsoon. The room is simple, with a plastic water can and a steel tumbler on the shelf. Shot at eye level, 35 mm, wide enough to show the kitchen and window, with soft natural light and no visible text or labels. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a steel vessel of water boiling vigorously on a gas burner, with rising bubbles and steam, while a clear glass tumbler of water rests on the counter beside it, the water inside looking slightly cloudy and muddy. Behind the stove a plastic water can and a steel pot are blurred, suggesting a home kitchen in a Tirupur residential area during the rainy season. Soft grey light from a window falls across the metal surfaces. Shot in close-up at slightly high angle, 35 mm, shallow depth of field, with no readable text, logos or brand names. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/drink-distilled-water-advice/4387912",
+   "published": "2026-11-27T20:44:33+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/114dc6a1d4a952e0.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/7651aa640d3f7275.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/172dc293ed7f6b40.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/1e1e4bad965b3490.jpg"
    ]
   }
  ]
