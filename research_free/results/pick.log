@@ -1,44 +1,9 @@
-06:13:15 round 2026-11-27_06: news published 27 Nov 04:44 -> 27 Nov 06:13 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-06:13:15 insights 2026-11-27T06:13+05:30 (284 reels): topic weights {'politics': -0.29, 'accident': 0.84, 'crime': 1.43, 'education': -0.5, 'jobs': 0.46, 'power_cut': 0.29, 'temple': -0.15, 'civic': 0.02, 'poultry_agri': -0.46, 'weather': -0.31, 'sports_culture': -0.06}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-06:13:40 open search 'திருப்பூர்' (from_google): 2 links from our outlets
-06:13:40 66 links on the two papers' Tirupur pages
-06:14:14 skipped: published before this window=31, already posted=20, not Tirupur district=5, only a headline=2, same event already posted=1, power cut - posted automatically=1
-06:14:14 list: 3 new + 1 earlier news not posted yet
-06:14:14    1. [பொது] அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்சி எதிா்ப் (தினமணி)
-06:14:14    2. [குற்றம்] அரசுப் பேருந்து ஓட்டுநரைத் தாக்கிய நபா் மீது வழக்கு (தினமணி)
-06:14:14    3. [பொது] திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில் (தினத்தந்தி)
-06:14:14    4. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
-06:14:14 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_06
-06:14:16    not picked automatically (ceremony / award / awareness event (low views)): வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம்
-06:14:16 round 2026-11-27_06 (at least 7, up to 3 more of well-watched topics): 3 news to choose from (0 from earlier rounds), ranked by this page's insights
-06:14:16   PICK   1.   7.8 [politics -0.29 page] அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்
-06:14:16   PICK   2.   6.1 [civic +0.02 page] அரசுப் பேருந்து ஓட்டுநரைத் தாக்கிய நபா் மீது வழக்கு
-06:14:16   PICK   3.   3.0 [other +0.00 pattern] திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்
-06:14:16 decided: automatic: top 7 of 3 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/communist-party-opposes-dumping-of-trash-in-the-rock-quarry-at-ammapalayam https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/case-filed-against-individual-who-assaulted-a-government-bus-driver https://www.dailythanthi.com/news/tamilnadu/special-train-between-ernakulam-baruni-via-tirupur
-06:15:50 3 listed news now in the Sheet
-06:15:57 instagram duplicate check tirupur: 50 recent posts read
-06:15:57 verify 2026-11-27_06: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:15:57    SKIPPED C67cb897: skipped RN-336: held: fact-check problems - fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with - திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்
-06:15:57    NOT POSTED C77d1506: queued RN-334 (Queued) - அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்
-06:15:57    NOT POSTED Cdf6258d: queued RN-335 (Queued) - அரசுப் பேருந்து ஓட்டுநரைத் தாக்கிய நபா் மீது வழக்கு
-06:21:03 instagram duplicate check tirupur: 50 recent posts read
-06:21:03 verify 2026-11-27_06: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:21:03    SKIPPED C67cb897: skipped RN-336: held: fact-check problems - fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with - திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்
-06:21:03    NOT POSTED C77d1506: queued RN-334 (Queued) - அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்
-06:21:03    NOT POSTED Cdf6258d: queued RN-335 (Queued) - அரசுப் பேருந்து ஓட்டுநரைத் தாக்கிய நபா் மீது வழக்கு
-06:26:10 instagram duplicate check tirupur: 50 recent posts read
-06:26:10 verify 2026-11-27_06: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:26:10    SKIPPED C67cb897: skipped RN-336: held: fact-check problems - fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with - திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்
-06:26:10    NOT POSTED C77d1506: queued RN-334 (Queued) - அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்
-06:31:17 instagram duplicate check tirupur: 50 recent posts read
-06:31:17 verify 2026-11-27_06: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:31:17    SKIPPED C67cb897: skipped RN-336: held: fact-check problems - fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with - திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்
-06:31:17    NOT POSTED C77d1506: queued RN-334 (Queued) - அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்
-06:36:25 instagram duplicate check tirupur: 50 recent posts read
-06:36:25 verify 2026-11-27_06: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:36:25    SKIPPED C67cb897: skipped RN-336: held: fact-check problems - fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with - திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்
-06:36:25    NOT POSTED C77d1506: queued RN-334 (Queued) - அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்
-06:41:30 verify 2026-11-27_06: 2 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:41:30    SKIPPED C67cb897: skipped RN-336: held: fact-check problems - fact-check: slides_spec third slide reads '<b>2</b> (புதன்கிழமை) இரவு <b>11 மணி</b>க்கு எர்ணாகுளம் சென்றடையும்' with - திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்
+08:27:17 round 2026-11-27_08: news published 27 Nov 06:13 -> 27 Nov 08:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+08:27:17 insights 2026-11-27T08:27+05:30 (289 reels): topic weights {'politics': -0.3, 'accident': 0.68, 'crime': 1.5, 'education': -0.5, 'jobs': 0.22, 'power_cut': 0.35, 'temple': -0.03, 'civic': -0.01, 'poultry_agri': -0.42, 'weather': -0.23, 'sports_culture': -0.03}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+08:35:36 open search 'திருப்பூர்' (from_google): 1 links from our outlets
+08:35:36 65 links on the two papers' Tirupur pages
+08:36:14 skipped: published before this window=31, already posted=21, not Tirupur district=5, only a headline=2, same event already posted=1, power cut - posted automatically=1
+08:36:14 list: 0 new + 1 earlier news not posted yet
+08:36:14    1. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
+08:36:14 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_08

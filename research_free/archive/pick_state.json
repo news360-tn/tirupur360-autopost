@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-27T06:13:15.166176+05:30",
+ "last_end": "2026-11-27T08:27:17.368645+05:30",
  "pool": {
   "C8432d39": {
    "id": "C8432d39",
@@ -40,69 +40,9 @@
    "listed_at": "2026-11-27T00:05:46.245380+05:30",
    "picked_at": "2026-11-27T00:07:39.514355+05:30",
    "refused": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
-  },
-  "C77d1506": {
-   "id": "C77d1506",
-   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/communist-party-opposes-dumping-of-trash-in-the-rock-quarry-at-ammapalayam",
-   "title": "அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட்சி எதிா்ப்பு",
-   "summary": "அவிநாசி அருகேயுள்ள அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்டப்படுவதற்கு எதிா்ப்பு தெரிவித்துள்ள மாா்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி, நவம்பா் 29-ஆம் தேதி போராட்டத்தில் ஈடுபடுவதாகவும் அறிவித்துள்ளது..இது குறித்து அம்மாபாள...",
-   "source": "தினமணி",
-   "published": "2026-11-26T23:15:00.000Z",
-   "category": "பொது",
-   "score": 8.71,
-   "power_cut": false,
-   "listed_at": "2026-11-27T06:13:15.166176+05:30",
-   "picked_at": "2026-11-27T06:14:16.271829+05:30",
-   "posted": true
-  },
-  "Cdf6258d": {
-   "id": "Cdf6258d",
-   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/26/case-filed-against-individual-who-assaulted-a-government-bus-driver",
-   "title": "அரசுப் பேருந்து ஓட்டுநரைத் தாக்கிய நபா் மீது வழக்கு",
-   "summary": "வெள்ளக்கோவிலில் அரசுப் பேருந்து ஓட்டுநரைத் தாக்கிய நபா் மீது போலீஸாா் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனா்..தாராபுரம் வட்டம், வடகரையைச் சோ்ந்தவா் முருகன் (57).",
-   "source": "தினமணி",
-   "published": "2026-11-26T23:53:00.000Z",
-   "category": "குற்றம்",
-   "score": 6.02,
-   "power_cut": false,
-   "listed_at": "2026-11-27T06:13:15.166176+05:30",
-   "picked_at": "2026-11-27T06:14:16.271834+05:30",
-   "posted": true
-  },
-  "C67cb897": {
-   "id": "C67cb897",
-   "url": "https://www.dailythanthi.com/news/tamilnadu/special-train-between-ernakulam-baruni-via-tirupur",
-   "title": "திருப்பூர் வழியாக எர்ணாகுளம்-பருணி இடையே சிறப்பு ரெயில்",
-   "summary": "திருப்பூர், பயணிகளின் வசதிக்காக கேரள மாநிலம் எர்ணாகுளத்தில் இருந்து பீகார் மாநிலம் பருணிக்கு சிறப்பு ரெயில் திருப்பூர் வழியாக இயக்கப்படுகிறது.",
-   "source": "தினத்தந்தி",
-   "published": "2026-11-27T00:06:03Z",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-27T06:13:15.166176+05:30",
-   "picked_at": "2026-11-27T06:14:16.271836+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-25_08": {
-   "window": [
-    "2026-11-25T06:27:45.677640+05:30",
-    "2026-11-25T08:32:33.553427+05:30"
-   ],
-   "ids": [
-    "C72796f6",
-    "Cfa0953a"
-   ],
-   "sent": false,
-   "deadline": "2026-11-25T09:32:33.553427+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 0 by insights",
-    "ids": [],
-    "at": "2026-11-25T08:33:33.186900+05:30"
-   },
-   "written": []
-  },
   "2026-11-25_10": {
    "window": [
     "2026-11-25T08:32:33.553427+05:30",
@@ -668,6 +608,19 @@
     "C77d1506",
     "Cdf6258d"
    ]
+  },
+  "2026-11-27_08": {
+   "window": [
+    "2026-11-27T06:13:15.166176+05:30",
+    "2026-11-27T08:27:17.368645+05:30"
+   ],
+   "ids": [
+    "C5e73907"
+   ],
+   "sent": false,
+   "deadline": "2026-11-27T09:27:17.368645+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
