@@ -39,7 +39,8 @@
    "score": 10.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-28T00:26:38.482087+05:30"
+   "listed_at": "2026-11-28T00:26:38.482087+05:30",
+   "picked_at": "2026-11-28T04:30:59.341495+05:30"
   },
   "C790111d": {
    "id": "C790111d",
@@ -117,7 +118,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/rs-741-lakh-in-fines-for-those-who-dumped-trash-in-public-places"
    ],
-   "listed_at": "2026-11-28T02:28:04.788991+05:30"
+   "listed_at": "2026-11-28T02:28:04.788991+05:30",
+   "picked_at": "2026-11-28T04:30:59.341492+05:30"
   },
   "C1a30c44": {
    "id": "C1a30c44",
@@ -228,7 +230,8 @@
    "score": 10.14,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-28T04:28:41.418976+05:30"
+   "listed_at": "2026-11-28T04:28:41.418976+05:30",
+   "picked_at": "2026-11-28T04:30:59.341487+05:30"
   }
  },
  "rounds": {
@@ -785,8 +788,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-28T05:28:41.418976+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 15 by insights",
+    "ids": [
+     "C0fb18b2",
+     "Ca823e8a",
+     "C7c09111"
+    ],
+    "at": "2026-11-28T04:30:59.341474+05:30"
+   },
+   "written": [
+    "C0fb18b2",
+    "C7c09111",
+    "Ca823e8a"
+   ]
   }
  },
  "retry": {},
