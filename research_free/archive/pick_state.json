@@ -39,7 +39,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-27T16:39:22.651691+05:30",
-   "picked_at": "2026-11-27T16:42:56.332710+05:30"
+   "picked_at": "2026-11-27T16:42:56.332710+05:30",
+   "refused": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
   },
   "C8774de6": {
    "id": "C8774de6",
@@ -53,7 +54,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-27T16:39:22.651691+05:30",
-   "picked_at": "2026-11-27T16:42:56.332712+05:30"
+   "picked_at": "2026-11-27T16:42:56.332712+05:30",
+   "refused": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
   },
   "C1d8c904": {
    "id": "C1d8c904",
@@ -67,7 +69,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-27T16:39:22.651691+05:30",
-   "picked_at": "2026-11-27T16:42:56.332714+05:30"
+   "picked_at": "2026-11-27T16:42:56.332714+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -663,7 +666,11 @@
     "C09eed66",
     "C1d8c904",
     "C8774de6"
-   ]
+   ],
+   "refused": {
+    "C8774de6": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)",
+    "C09eed66": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
+   }
   }
  },
  "retry": {},
