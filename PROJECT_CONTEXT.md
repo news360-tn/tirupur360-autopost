@@ -83,6 +83,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `0540b5c` | Power cuts are never missed: held notices are rewritten at once |
+| 2026-11-27 | `df72daf` | stories shared / Instagram pause |
+| 2026-11-27 | `cd84e3e` | pick: written and posted |
+| 2026-11-27 | `6bad7a3` | stories shared / Instagram pause |
+| 2026-11-27 | `2dc6bc7` | facebook RN-340 |
+| 2026-11-27 | `408cef2` | posted RN-340 |
+| 2026-11-27 | `aa417c9` | stories shared / Instagram pause |
+| 2026-11-27 | `f52b7a7` | pick: picked news saved |
+| 2026-11-27 | `103a373` | stories shared / Instagram pause |
+| 2026-11-27 | `1ed903f` | stories shared / Instagram pause |
+| 2026-11-27 | `d33e452` | pick: picked news saved |
+| 2026-11-27 | `7a5454d` | pick: list sent |
 | 2026-11-27 | `ad103d4` | Blocked Google News links: also look for the same headline at another trusted outlet |
 | 2026-11-27 | `bbe5e53` | stories shared / Instagram pause |
 | 2026-11-27 | `87a2ccd` | stories shared / Instagram pause |
@@ -101,16 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `b24e2e6` | stories shared / Instagram pause |
 | 2026-11-27 | `1fb0b37` | stories shared / Instagram pause |
 | 2026-11-27 | `d2770c6` | stories shared / Instagram pause |
-| 2026-11-27 | `e6a65b4` | stories shared / Instagram pause |
-| 2026-11-27 | `6d269dd` | stories shared / Instagram pause |
-| 2026-11-27 | `62161ec` | stories shared / Instagram pause |
-| 2026-11-27 | `3cb4094` | stories shared / Instagram pause |
-| 2026-11-27 | `09bbef5` | stories shared / Instagram pause |
-| 2026-11-27 | `eb5bf3f` | goldrate posted |
-| 2026-11-27 | `3e4d95d` | stories shared / Instagram pause |
-| 2026-11-27 | `2bffb04` | facebook RN-337 |
-| 2026-11-27 | `64ce760` | posted RN-337 |
-| 2026-11-27 | `af095cb` | stories shared / Instagram pause |
-| 2026-11-27 | `1ad5857` | stories shared / Instagram pause |
-| 2026-11-27 | `1a05f81` | manual post e-mail RN-337 |
 <!-- recent-changes:end -->
