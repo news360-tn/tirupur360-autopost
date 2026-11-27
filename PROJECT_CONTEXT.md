@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `fee08f1` | Power cuts: never post a cut that is over; post cancellations and reschedules |
+| 2026-11-27 | `f9df7c5` | stories shared / Instagram pause |
+| 2026-11-27 | `67c7979` | stories shared / Instagram pause |
+| 2026-11-27 | `8e98846` | stories shared / Instagram pause |
+| 2026-11-27 | `e70b2c5` | stories shared / Instagram pause |
+| 2026-11-27 | `aed7222` | stories shared / Instagram pause |
 | 2026-11-27 | `7efd8e3` | Page names as the owner writes them: Tiruppur 360 |
 | 2026-11-27 | `0dc3183` | stories shared / Instagram pause |
 | 2026-11-27 | `a97c24f` | Instagram handles: the real usernames of every page |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `2dc6bc7` | facebook RN-340 |
 | 2026-11-27 | `408cef2` | posted RN-340 |
 | 2026-11-27 | `aa417c9` | stories shared / Instagram pause |
-| 2026-11-27 | `f52b7a7` | pick: picked news saved |
-| 2026-11-27 | `103a373` | stories shared / Instagram pause |
-| 2026-11-27 | `1ed903f` | stories shared / Instagram pause |
-| 2026-11-27 | `d33e452` | pick: picked news saved |
-| 2026-11-27 | `7a5454d` | pick: list sent |
-| 2026-11-27 | `ad103d4` | Blocked Google News links: also look for the same headline at another trusted outlet |
 <!-- recent-changes:end -->
