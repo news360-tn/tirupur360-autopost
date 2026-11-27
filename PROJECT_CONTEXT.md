@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-27 | `fee08f1` | Power cuts: never post a cut that is over; post cancellations and reschedules |
-| 2026-11-27 | `f9df7c5` | stories shared / Instagram pause |
-| 2026-11-27 | `67c7979` | stories shared / Instagram pause |
-| 2026-11-27 | `8e98846` | stories shared / Instagram pause |
-| 2026-11-27 | `e70b2c5` | stories shared / Instagram pause |
-| 2026-11-27 | `aed7222` | stories shared / Instagram pause |
-| 2026-11-27 | `7efd8e3` | Page names as the owner writes them: Tiruppur 360 |
-| 2026-11-27 | `0dc3183` | stories shared / Instagram pause |
-| 2026-11-27 | `a97c24f` | Instagram handles: the real usernames of every page |
-| 2026-11-27 | `58bac63` | stories shared / Instagram pause |
-| 2026-11-27 | `8322cf0` | Rasipuram 360 username is rasipuram360.official |
-| 2026-11-27 | `88da480` | stories shared / Instagram pause |
-| 2026-11-27 | `b787350` | stories shared / Instagram pause |
-| 2026-11-27 | `d977413` | stories shared / Instagram pause |
-| 2026-11-27 | `a5353a5` | stories shared / Instagram pause |
-| 2026-11-27 | `247740b` | stories shared / Instagram pause |
-| 2026-11-27 | `5a6efb2` | stories shared / Instagram pause |
-| 2026-11-27 | `d44070b` | Rasipalan theme: Coimbatore page named in full (கோயம்புத்தூர்) gets its colour too |
-| 2026-11-27 | `0c54aae` | stories shared / Instagram pause |
-| 2026-11-27 | `4be9193` | facebook RN-259 |
-| 2026-11-27 | `69f53cf` | posted RN-259 |
-| 2026-11-27 | `67976a9` | Gold rate and rasipalan reels: each page its own colour theme |
-| 2026-11-27 | `8aa63e9` | stories shared / Instagram pause |
-| 2026-11-27 | `0540b5c` | Power cuts are never missed: held notices are rewritten at once |
-| 2026-11-27 | `df72daf` | stories shared / Instagram pause |
-| 2026-11-27 | `cd84e3e` | pick: written and posted |
-| 2026-11-27 | `6bad7a3` | stories shared / Instagram pause |
-| 2026-11-27 | `2dc6bc7` | facebook RN-340 |
-| 2026-11-27 | `408cef2` | posted RN-340 |
-| 2026-11-27 | `aa417c9` | stories shared / Instagram pause |
+| 2026-11-27 | `629f197` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
+| 2026-11-27 | `a37cfc8` | stories shared / Instagram pause |
+| 2026-11-27 | `7aff52a` | pick: written and posted |
+| 2026-11-27 | `3715b55` | facebook RN-341 |
+| 2026-11-27 | `16d7203` | posted RN-341 |
+| 2026-11-27 | `8ce07ab` | stories shared / Instagram pause |
+| 2026-11-27 | `a8dd475` | stories shared / Instagram pause |
+| 2026-11-27 | `98399c7` | stories shared / Instagram pause |
+| 2026-11-27 | `9b86771` | stories shared / Instagram pause |
+| 2026-11-27 | `20062f0` | facebook RN-311 |
+| 2026-11-27 | `d52fbec` | posted RN-311 |
+| 2026-11-27 | `2fe01d9` | stories shared / Instagram pause |
+| 2026-11-27 | `5e0d975` | stories shared / Instagram pause |
+| 2026-11-27 | `9aa75a0` | facebook RN-343 |
+| 2026-11-27 | `3eb3ab4` | posted RN-343 |
+| 2026-11-27 | `dd88833` | stories shared / Instagram pause |
+| 2026-11-27 | `b8903be` | stories shared / Instagram pause |
+| 2026-11-27 | `2334eb9` | stories shared / Instagram pause |
+| 2026-11-27 | `2b1d032` | stories shared / Instagram pause |
+| 2026-11-27 | `50b0cc4` | stories shared / Instagram pause |
+| 2026-11-27 | `bc8d7c8` | stories shared / Instagram pause |
+| 2026-11-27 | `7846d3f` | stories shared / Instagram pause |
+| 2026-11-27 | `1893cc7` | stories shared / Instagram pause |
+| 2026-11-27 | `f83cc99` | stories shared / Instagram pause |
+| 2026-11-27 | `394bcc7` | stories shared / Instagram pause |
+| 2026-11-27 | `b8e12e6` | stories shared / Instagram pause |
+| 2026-11-27 | `0163fe9` | stories shared / Instagram pause |
+| 2026-11-27 | `2628096` | facebook RN-342 |
+| 2026-11-27 | `d50bdb4` | posted RN-342 |
+| 2026-11-27 | `03abfac` | facebook RN-344 |
 <!-- recent-changes:end -->
