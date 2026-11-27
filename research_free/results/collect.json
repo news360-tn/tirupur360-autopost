@@ -3,7 +3,7 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/national-car-aadi-yo-competition-sun-car-interiors-record/4387969",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/young-man-out-on-bail-back-in-pocso-arrested/4387913",
   "candidate filter: collected=1",
   "to write: 1 Tirupur district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
@@ -23,93 +23,86 @@
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர் கார் ஆடியோ போட்டியில் முரளி கிருஷ்ணா சாதனை",
-   "english_headline": "Tirupur's Murali Krishna wins championship and second place at national car audio contest in Karaikudi",
-   "category": "Temples & Events",
-   "location": "Karaikudi, Tirupur district",
-   "importance": "Medium",
-   "scope": "district",
+   "tamil_headline": "அவிநாசி: ஜாமினில் வந்த வாலிபர் மீண்டும் போக்சோ வழக்கில் கைது",
+   "english_headline": "Avinashi: man out on bail arrested again under POCSO for harassing students in Kunnathur",
+   "category": "Crime & Safety",
+   "location": "Kunnathur bus stand area, Avinashi taluk, Tirupur district",
+   "importance": "High",
+   "scope": "",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போட்டி சாதனை",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூர் வீரர் போட்டியில் சாம்பியன்",
-    "hl2": "மூன்று ஆண்டுகளாக சாம்பியன்",
+    "cat": "போக்சோ கைது",
+    "loc": "குன்னத்தூர், அவிநாசி",
+    "hl1": "அவிநாசி: ஜாமினில் வந்தவர் மீண்டும் கைது",
+    "hl2": "மாணவிகளிடம் சேட்டை",
     "slides": [
      {
-      "title": "என்ன வெற்றி?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "பெர்பார்மென்ஸ் பில்ட் – 3000 பிரிவில் <b>சாம்பியன்</b>",
-       "எக்ஸ்ட்ரீம் அன்லிமிடெட் பிரிவில் <b>இரண்டாமிடம்</b>",
-       "முரளி கிருஷ்ணா, சன் கார் இன்டீரியர்ஸ், திருப்பூர்"
+       "குன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே மாணவிகளிடம் ஆபாச செய்கை",
+       "நேற்று (<b>நவ. 26</b>) மாலை நடந்தது",
+       "பொதுமக்கள் பிடித்து குன்னத்தூர் போலீசாரிடம் ஒப்படைத்தனர்"
       ]
      },
      {
-      "title": "எங்கே, எப்போது?",
+      "title": "யார்?",
       "lines": [
-       "தேசிய அளவிலான எஸ்.க்யூ.சி. கார் ஆடியோ போட்டி",
-       "காரைக்குடியில் கடந்த <b>22ம் தேதி</b> நடைபெற்றது",
-       "இவர் தொடர்ந்து <b>3 ஆண்டுகளாக</b> சாம்பியன் பட்டம் வென்றுவருகிறார்"
+       "ஈரோடு மாவட்டம் துடுப்பதியைச் சேர்ந்த விஸ்வநாதன், <b>23</b> வயது",
+       "ஊத்துக்குளி பஸ் ஸ்டாண்ட் அருகே பிரியாணி கடை நடத்துகிறார்",
+       "காங்கயத்தில் முன்பு போக்சோ வழக்கில் கைதானவர்"
       ]
      },
      {
-      "title": "அடுத்து என்ன?",
+      "title": "கைது மற்றும்",
       "lines": [
-       "இ.எம்.எம்.ஏ. போட்டியில் <b>2 முறை</b> வெற்றி",
-       "ஆசிய அளவிலான எஸ்.க்யூ.சி. இறுதிப்போட்டிக்குத் தகுதி",
-       "திருப்பூருக்கும், தமிழகத்துக்கும் பெருமை"
+       "மாணவிகளின் பெற்றோர் புகார் அளித்தனர்",
+       "அவிநாசி அனைத்து மகளிர் போலீசார் போக்சோவில் கைது செய்தனர்",
+       "அவிநாசி ஜே.எம். மாஜிஸ்திரேட் முன் ஆஜர்; திருப்பூர் மத்திய"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் வீரர் முரளி கிருஷ்ணா தேசிய கார் ஆடியோ போட்டியில் சாதனை படைத்துள்ளார். காரைக்குடியில் கடந்த 22ஆம் தேதி நடைபெற்ற எஸ் க்யூ.சி கார் ஆடியோ அமைப்புப் போட்டியில் இவர் வெற்றி பெற்றார். திருப்பூர் சன் கார் இன்டீரியர்ஸ் நிறுவனத்தைச் சேர்ந்த முரளி கிருஷ்ணா, பெர்பார்மென்ஸ் பில்ட் – 3000 பிரிவில் சாம்பியன் பட்டத்தை வென்றார். எக்ஸ்ட்ரீம் அன்லிமிடெட் பிரிவில் இரண்டாமிடத்தைப் பிடித்தார். தொடர்ந்து மூன்று ஆண்டுகளாக சாம்பியன் பட்டம் வென்று வரும் முரளி கிருஷ்ணா, இ எம் எம் ஏ கார் ஆடியோ போட்டியில் இரண்டு முறை வெற்றி பெற்றுள்ளார். தற்போது ஆசிய அளவில் நடைபெற உள்ள எஸ் க்யூ.சி இறுதிப்போட்டிக்குத் தகுதி பெற்றுள்ளார். இதன் மூலம் திருப்பூருக்கும், தமிழகத்துக்கும் பெருமை சேர்த்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏆 திருப்பூர் வீரர் கார் ஆடியோ போட்டியில் சாம்பியன்\n\n📰 முழு விவரம்:\nதேசிய அளவிலான எஸ்.க்யூ.சி. கார் ஆடியோ அமைப்புப் போட்டி காரைக்குடியில் கடந்த 22ஆம் தேதி நடைபெற்றது. திருப்பூர் சன் கார் இன்டீரியர்ஸ் நிறுவனத்தைச் சேர்ந்த முரளி கிருஷ்ணா, பெர்பார்மென்ஸ் பில்ட் – 3000 பிரிவில் சாம்பியன் பட்டத்தை வென்றார். எக்ஸ்ட்ரீம் அன்லிமிடெட் பிரிவில் இரண்டாமிடத்தைப் பிடித்தார்.\nதொடர்ந்து மூன்று ஆண்டுகளாக சாம்பியன் பட்டம் வென்று வரும் இவர், இ.எம்.எம்.ஏ. கார் ஆடியோ போட்டியில் இரண்டு முறை வெற்றி பெற்றுள்ளார். ஆசிய அளவில் நடைபெற உள்ள எஸ்.க்யூ.சி. இறுதிப்போட்டிக்குத் தகுதி பெற்று, திருப்பூருக்கும், தமிழகத்துக்கும் பெருமை சேர்த்துள்ளார்.\n\n📍 இடம்: காரைக்குடி (போட்டி), திருப்பூர் மாவட்டம்\n🗓️ நாள்: 22 நவம்பர் 2026 (கடந்த 22ம் தேதி)\n🏅 முடிவு: பெர்பார்மென்ஸ் பில்ட் – 3000 சாம்பியன், எக்ஸ்ட்ரீம் அன்லிமிடெட் இரண்டாமிடம்\n\nMurali Krishna Tirupur car audio champion, Karaikudi national contest | Tirupur news\n📍 திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A competitor in a light shirt stands beside a car with its boot open, showing a stack of large black subwoofers and amplifiers, while a trophy sits on the car's bonnet, at a covered parking area of a contest venue in Karaikudi, Tamil Nadu. Behind him, other competitors and a few organisers in shirts and trousers are seen from a distance, examining their own sound-system cars parked in rows under a tin-roofed hall. The atmosphere is that of a competition day, with daylight coming through the open sides of the hall. The car is a modified hatchback with its interior lights glowing. Seen from a slightly raised eye level, shot with a 35 mm lens wide enough to show the row of parked cars and the hall around them, with people kept small and turned away from the lens. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a car's rear speaker enclosure and a glossy black amplifier mounted in the boot of a modified car, with a gold-coloured trophy placed on the carpeted floor beside the speakers. Soft daylight falls through the open boot, and the carpet trim of the car interior is visible. Blurred competitors and cars stand in the background at a contest venue in Karaikudi. The camera sits at eye level, using a 35 mm lens, focusing on the amplifier, wiring and trophy so that the sound equipment that won the award is the clear subject. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/national-car-aadi-yo-competition-sun-car-interiors-record/4387969",
-   "published": "2026-11-27T21:46:28+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "அவிநாசி அருகே ஜாமினில் வெளியே வந்த வாலிபர் மீண்டும் போக்சோ வழக்கில் கைது செய்யப்பட்டார். குன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே நேற்று நவம்பர் 26ஆம் தேதி மாலை மாணவிகளிடம் ஆபாச செய்கை செய்ததாக விஸ்வநாதன் என்பவர் மீது புகார். ஈரோடு மாவட்டம் துடுப்பதியைச் சேர்ந்த 23 வயது விஸ்வநாதன் ஊத்துக்குளி பஸ் ஸ்டாண்ட் அருகே பிரியாணி கடை நடத்தி வருகிறார். இதைப் பார்த்த பொதுமக்கள் அவரைப் பிடித்து குன்னத்தூர் போலீசாரிடம் ஒப்படைத்தனர். மாணவிகளின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் அவிநாசி அனைத்து மகளிர் போலீசார் அவரைப் போக்சோ சட்டத்தின் கீழ் கைது செய்தனர். அவிநாசி ஜே எம் மாஜிஸ்திரேட் முன்னிலையில் ஆஜர்படுத்தப்பட்ட அவர் திருப்பூர் மத்திய சிறையில் அடைக்கப்பட்டார். ஏற்கெனவே காங்கயத்தில் போக்சோ வழக்கில் கைதான விஸ்வநாதன், ஒரு மாதத்துக்கு முன்புதான் ஜாமினில் வெளியே வந்திருந்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அவிநாசி: ஜாமினில் வந்த வாலிபர் மீண்டும் போக்சோ வழக்கில் கைது\n\n📰 முழு விவரம்:\nகுன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே நேற்று (நவ. 26) மாலை மாணவிகளிடம் ஆபாச செய்கை செய்ததாக 23 வயது விஸ்வநாதன் பொதுமக்களால் பிடிக்கப்பட்டு குன்னத்தூர் போலீசாரிடம் ஒப்படைக்கப்பட்டார். மாணவிகளின் பெற்றோர் அளித்த புகாரின் பேரில் அவிநாசி அனைத்து மகளிர் போலீசார் அவரைப் போக்சோ சட்டத்தின் கீழ் கைது செய்தனர். அவர் அவிநாசி ஜே.எம். மாஜிஸ்திரேட் முன் ஆஜர்படுத்தப்பட்டு திருப்பூர் மத்திய சிறையில் அடைக்கப்பட்டார். ஏற்கெனவே காங்கயத்தில் போக்சோ வழக்கில் கைதாகி ஒரு மாதத்துக்கு முன்புதான் ஜாமினில் வெளியே வந்திருந்தார்.\n📍 இடம்: குன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே, அவிநாசி\n🗓️ நாள்: நவ. 26, 2026 (மாலை)\n👮 நடவடிக்கை: போக்சோ வழக்கில் கைது; திருப்பூர் மத்திய சிறையில் அடைப்பு\n\nAvinashi POCSO arrest again on bail | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
+   "prompts": "A khaki-uniformed Tamil Nadu women police officer walks a young man from behind toward a police jeep at dusk, while a few onlookers stand at a distance beside a row of town buses at the Kunnathur bus stand in Avinashi taluk, Tirupur district. The bus stand is a busy small-town terminus with a painted concrete shelter, parked TNSTC and private buses, two-wheelers and a few roadside tea shops with lit tubelights. The man's face is hidden, his hands loosely held, his shirt and trousers plain. Two schoolgirls in Tamil Nadu school uniform stand far off near the shelter, seen from behind, with a parent beside them. The sky is dusky evening orange, streetlights just switching on. Camera at eye level, 35 mm, wide enough to show the whole bus stand and the police jeep. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official case files and a police complaint folder resting on a wooden table in the Avinashi all-women police station, with a khaki-sleeved arm of an officer partly visible at the edge of the frame and a ceiling fan blurred above. Beside the files sits a plastic water bottle and a steel tumbler. Light is soft daylight from a barred window, with a faint evening tone. No readable text or names visible; papers are shown only as blank pages and folded edges. Camera slightly high, 35 mm, shallow depth of field focusing on the documents. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/young-man-out-on-bail-back-in-pocso-arrested/4387913",
+   "published": "2026-11-27T20:47:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): ஊத்துக்குளி ('இவர், ஊத்துக்குளி பஸ் ஸ்டாண்ட் அருகில் பிரியாணி கடை நடத்தி வ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/52256730c52a20dc.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/44caf66573d120e1.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/f67615f1244c0b7d.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/0a70b22c094e2689.jpg"
    ]
   }
  ]
