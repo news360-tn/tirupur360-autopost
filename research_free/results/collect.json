@@ -3,106 +3,179 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/young-man-out-on-bail-back-in-pocso-arrested/4387913",
-  "candidate filter: collected=1",
-  "to write: 1 Tirupur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொள்ளை-வழக்கு-தலைமறைவாக-இருந்த-இளைஞா்-கைது",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/attack-on-gh-security-police-outpost-siege/4387910",
+  "candidate filter: collected=2",
+  "to write: 2 Tirupur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
-  "filed: 1 Tirupur district stories (target 1), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
+  "filed: 2 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அவிநாசி: ஜாமினில் வந்த வாலிபர் மீண்டும் போக்சோ வழக்கில் கைது",
-   "english_headline": "Avinashi: man out on bail arrested again under POCSO for harassing students in Kunnathur",
+   "tamil_headline": "திருப்பூர் அரசு மருத்துவமனையில் செக்யூரிட்டி மீது தாக்குதல், போலீஸ் அவுட்போஸ்ட் முற்றுகை",
+   "english_headline": "Security guard attacked at Tirupur Government Medical College Hospital; staff besiege police outpost demanding action",
    "category": "Crime & Safety",
-   "location": "Kunnathur bus stand area, Avinashi taluk, Tirupur district",
+   "location": "Tirupur Government Medical College Hospital, Tirupur district",
    "importance": "High",
-   "scope": "",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போக்சோ கைது",
-    "loc": "குன்னத்தூர், அவிநாசி",
-    "hl1": "அவிநாசி: ஜாமினில் வந்தவர் மீண்டும் கைது",
-    "hl2": "மாணவிகளிடம் சேட்டை",
+    "cat": "குற்றம் & பாதுகாப்பு",
+    "loc": "திருப்பூர் அரசு மருத்துவமனை",
+    "hl1": "திருப்பூர் செக்யூரிட்டி தாக்கப்பட்டார்",
+    "hl2": "போலீஸ் அவுட்போஸ்ட் முற்றுகை",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "குன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே மாணவிகளிடம் ஆபாச செய்கை",
-       "நேற்று (<b>நவ. 26</b>) மாலை நடந்தது",
-       "பொதுமக்கள் பிடித்து குன்னத்தூர் போலீசாரிடம் ஒப்படைத்தனர்"
+       "போதையில் இருந்த வாலிபர் செக்யூரிட்டி சிவகுமாரை தாக்கினார",
+       "வண்டியை ஓரமாக நிறுத்தச் சொன்னதால் ஆத்திரம்",
+       "காயமடைந்த சிவகுமார் மருத்துவமனையில் அனுமதி"
       ]
      },
      {
-      "title": "யார்?",
+      "title": "போராட்டம்",
       "lines": [
-       "ஈரோடு மாவட்டம் துடுப்பதியைச் சேர்ந்த விஸ்வநாதன், <b>23</b> வயது",
-       "ஊத்துக்குளி பஸ் ஸ்டாண்ட் அருகே பிரியாணி கடை நடத்துகிறார்",
-       "காங்கயத்தில் முன்பு போக்சோ வழக்கில் கைதானவர்"
+       "செக்யூரிட்டிகள், ஊழியர்கள் போலீஸ் அவுட்போஸ்டில் புகார்",
+       "தாக்கியவரை விசாரிக்காமல் சமாதானம் செய்ததால் வாக்குவாதம்",
+       "ஊழியர்கள் போலீசார் அலட்சியம் என குற்றச்சாட்டு"
       ]
      },
      {
-      "title": "கைது மற்றும்",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "மாணவிகளின் பெற்றோர் புகார் அளித்தனர்",
-       "அவிநாசி அனைத்து மகளிர் போலீசார் போக்சோவில் கைது செய்தனர்",
-       "அவிநாசி ஜே.எம். மாஜிஸ்திரேட் முன் ஆஜர்; திருப்பூர் மத்திய"
+       "இன்ஸ்பெக்டர் செந்தில்குமார் இருதரப்பிடமும் பேச்சுவார்த்தை",
+       "தாக்கிய வாலிபர் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்",
+       "பாதுகாப்புப் பணியாளர்களுக்கே பாதுகாப்பு இல்லை என வேதனை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அவிநாசி அருகே ஜாமினில் வெளியே வந்த வாலிபர் மீண்டும் போக்சோ வழக்கில் கைது செய்யப்பட்டார். குன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே நேற்று நவம்பர் 26ஆம் தேதி மாலை மாணவிகளிடம் ஆபாச செய்கை செய்ததாக விஸ்வநாதன் என்பவர் மீது புகார். ஈரோடு மாவட்டம் துடுப்பதியைச் சேர்ந்த 23 வயது விஸ்வநாதன் ஊத்துக்குளி பஸ் ஸ்டாண்ட் அருகே பிரியாணி கடை நடத்தி வருகிறார். இதைப் பார்த்த பொதுமக்கள் அவரைப் பிடித்து குன்னத்தூர் போலீசாரிடம் ஒப்படைத்தனர். மாணவிகளின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் அவிநாசி அனைத்து மகளிர் போலீசார் அவரைப் போக்சோ சட்டத்தின் கீழ் கைது செய்தனர். அவிநாசி ஜே எம் மாஜிஸ்திரேட் முன்னிலையில் ஆஜர்படுத்தப்பட்ட அவர் திருப்பூர் மத்திய சிறையில் அடைக்கப்பட்டார். ஏற்கெனவே காங்கயத்தில் போக்சோ வழக்கில் கைதான விஸ்வநாதன், ஒரு மாதத்துக்கு முன்புதான் ஜாமினில் வெளியே வந்திருந்தார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அவிநாசி: ஜாமினில் வந்த வாலிபர் மீண்டும் போக்சோ வழக்கில் கைது\n\n📰 முழு விவரம்:\nகுன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே நேற்று (நவ. 26) மாலை மாணவிகளிடம் ஆபாச செய்கை செய்ததாக 23 வயது விஸ்வநாதன் பொதுமக்களால் பிடிக்கப்பட்டு குன்னத்தூர் போலீசாரிடம் ஒப்படைக்கப்பட்டார். மாணவிகளின் பெற்றோர் அளித்த புகாரின் பேரில் அவிநாசி அனைத்து மகளிர் போலீசார் அவரைப் போக்சோ சட்டத்தின் கீழ் கைது செய்தனர். அவர் அவிநாசி ஜே.எம். மாஜிஸ்திரேட் முன் ஆஜர்படுத்தப்பட்டு திருப்பூர் மத்திய சிறையில் அடைக்கப்பட்டார். ஏற்கெனவே காங்கயத்தில் போக்சோ வழக்கில் கைதாகி ஒரு மாதத்துக்கு முன்புதான் ஜாமினில் வெளியே வந்திருந்தார்.\n📍 இடம்: குன்னத்தூர் பஸ் ஸ்டாண்ட் அருகே, அவிநாசி\n🗓️ நாள்: நவ. 26, 2026 (மாலை)\n👮 நடவடிக்கை: போக்சோ வழக்கில் கைது; திருப்பூர் மத்திய சிறையில் அடைப்பு\n\nAvinashi POCSO arrest again on bail | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A khaki-uniformed Tamil Nadu women police officer walks a young man from behind toward a police jeep at dusk, while a few onlookers stand at a distance beside a row of town buses at the Kunnathur bus stand in Avinashi taluk, Tirupur district. The bus stand is a busy small-town terminus with a painted concrete shelter, parked TNSTC and private buses, two-wheelers and a few roadside tea shops with lit tubelights. The man's face is hidden, his hands loosely held, his shirt and trousers plain. Two schoolgirls in Tamil Nadu school uniform stand far off near the shelter, seen from behind, with a parent beside them. The sky is dusky evening orange, streetlights just switching on. Camera at eye level, 35 mm, wide enough to show the whole bus stand and the police jeep. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official case files and a police complaint folder resting on a wooden table in the Avinashi all-women police station, with a khaki-sleeved arm of an officer partly visible at the edge of the frame and a ceiling fan blurred above. Beside the files sits a plastic water bottle and a steel tumbler. Light is soft daylight from a barred window, with a faint evening tone. No readable text or names visible; papers are shown only as blank pages and folded edges. Camera slightly high, 35 mm, shallow depth of field focusing on the documents. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/young-man-out-on-bail-back-in-pocso-arrested/4387913",
+   "reel_script": "திருப்பூர் அரசு மருத்துவமனையில் போதையில் இருந்த வாலிபர் செக்யூரிட்டி சிவகுமாரை தாக்கினார். நேற்று காலை பிரேத பரிசோதனை முடிந்து உடலைப் பெற உறவினர்கள் காத்திருந்தனர். அப்போது பைக்கில் வந்த வாலிபர் நடுவழியில் வண்டியை நிறுத்தி போனில் பேசிக்கொண்டிருந்தார். இது ஆம்புலன்ஸ்கள் செல்லும் வழி, வண்டியை ஓரமாக நிறுத்துங்கள் என்று சிவகுமார் அறிவுறுத்தினார். இதனால் ஆத்திரமடைந்த வாலிபர் அவரைத் தாக்கினார். காயமடைந்த சிவகுமார் மருத்துவமனையில் அனுமதிக்கப்பட்டார். இதைக் கண்டித்து செக்யூரிட்டிகளும் மருத்துவமனை ஊழியர்களும் போலீஸ் அவுட்போஸ்டில் புகார் தெரிவித்தனர். ஆனால் தாக்கிய வாலிபரிடம் விசாரிக்காமல், போலீசார் செக்யூரிட்டிகளைச் சமாதானப்படுத்த முயன்றனர். இதனால் ஊழியர்கள் போலீசார் உரிய நடவடிக்கை எடுக்கவில்லை என வாக்குவாதத்தில் ஈடுபட்டனர். பின்னர் இன்ஸ்பெக்டர் செந்தில்குமார் இருதரப்பிடமும் பேச்சு நடத்தினார். தாக்கிய வாலிபரை போலீசார் விசாரணைக்காக அழைத்துச் சென்றனர். அரசு மருத்துவமனையில் உயிர்காக்கும் பணி நடக்கும் இடத்தில் பாதுகாப்புப் பணியில் இருப்பவர்களுக்கே பாதுகாப்பு இல்லை என்று செக்யூரிட்டிகள் வேதனை தெரிவித்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் அரசு மருத்துவமனையில் செக்யூரிட்டி மீது தாக்குதல்; போலீஸ் அவுட்போஸ்ட் முற்றுகை\n\n📰 முழு விவரம்:\nபோதையில் இருந்த வாலிபர் ஒருவர், நடுவழியில் வண்டியை நிறுத்தி போனில் பேசியபோது செக்யூரிட்டி சிவகுமார் வண்டியை ஓரமாக நிறுத்தச் சொன்னார். ஆத்திரமடைந்த வாலிபர் அவரைத் தாக்கினார். காயமடைந்த சிவகுமார் மருத்துவமனையில் அனுமதிக்கப்பட்டார்.\nஇதைக் கண்டித்து செக்யூரிட்டிகளும் மருத்துவமனை ஊழியர்களும் போலீஸ் அவுட்போஸ்டில் புகார் அளித்தனர். தாக்கிய வாலிபரிடம் விசாரிக்காமல் சமாதானப்படுத்த முயன்றதால் ஊழியர்கள் போலீசாருடன் வாக்குவாதம் செய்தனர்.\nஇன்ஸ்பெக்டர் செந்தில்குமார் இருதரப்பிடமும் பேச்சு நடத்திய பிறகு, தாக்கிய வாலிபர் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்.\n📍 இடம்: திருப்பூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை\n🗓️ நாள்: நவம்பர் 27, 2026\n👮 நடவடிக்கை: தாக்கிய வாலிபர் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்\n\nTirupur hospital guard attacked, staff protest at police outpost | Tirupur news\n📍 திருப்பூர் அரசு மருத்துவமனை, திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #Crime",
+   "prompts": "A group of hospital security guards in uniform and hospital staff in white coats stand in a tense cluster outside a small police outpost at the entrance of Tirupur Government Medical College Hospital, one hand raised in protest as they confront khaki-uniformed police officers at the doorway. The scene is set on the paved hospital approach road in Tirupur city, with a government hospital block with tiled verandas behind, an ambulance parked at a distance along the ambulance route, and a concrete outpost building with a flat roof. Two police constables in khaki stand at the doorway while the crowd, seen mostly from behind, presses forward. A stray two-wheeler is parked at the edge of the road. It is bright morning daylight, around 9 am, with clear sky and warm tropical light. Camera at eye level, 35 mm lens, wide enough to show the outpost, the crowd and the hospital building, people shown from behind or in soft focus with no identifiable faces. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a single motorcycle parked across an ambulance lane just outside the hospital gate, its front wheel blocking a painted white lane marking on the paved road, with a folded helmet resting on the seat. In the soft background, a security guard in a uniform shirt stands at a distance, slightly blurred, his back turned toward the camera, while a hospital ambulance waits behind. Bright morning daylight, around 9 am, with long shadows across the road. Camera at low-to-medium height, 35 mm lens, shallow depth of field so the motorcycle is sharp and the people are soft and unidentifiable. No readable text or signboards visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/attack-on-gh-security-police-outpost-siege/4387910",
    "published": "2026-11-27T20:47:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): ஊத்துக்குளி ('இவர், ஊத்துக்குளி பஸ் ஸ்டாண்ட் அருகில் பிரியாணி கடை நடத்தி வ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/f67615f1244c0b7d.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/0a70b22c094e2689.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/7d2321e34ae32486.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/06beb08c16924c16.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கொள்ளை வழக்கு: தலைமறைவாக இருந்த இளைஞர் கைது",
+   "english_headline": "Robbery case: youth absconding for months arrested in Dindigul, Vellakoil police act",
+   "category": "Crime & Safety",
+   "location": "Vellakoil, Tiruppur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கொள்ளை வழக்கு",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "வெள்ளக்கோவில் கொள்ளை: இளைஞர் கைது",
+    "hl2": "தலைமறைவானவர் பிடிபட்டார்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "வெள்ளக்கோவில் அருகே முதிய தம்பதி வீட்டில் கொள்ளை",
+       "2023-ல் <b>13 பவுன்</b> நகைகள் கொள்ளை",
+       "இந்த வழக்கில் 11 பேர் கைது"
+      ]
+     },
+     {
+      "title": "தலைமறைவு",
+      "lines": [
+       "ரிச்சர்ட் சச்சின் (32 வயது) பிணையில் வெளியே வந்தார்",
+       "விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார்",
+       "தாராபுரம் நீதிமன்றம் பிடிவாரண்ட் பிறப்பித்தது"
+      ]
+     },
+     {
+      "title": "கைது",
+      "lines": [
+       "திண்டுக்கல்லில் பதுங்கியிருந்தவர் கைது",
+       "வெள்ளக்கோவில் ஆய்வாளர் சண்முகம் தலைமையிலான போலீசார்",
+       "வெள்ளிக்கிழமை கைது செய்யப்பட்டார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வெள்ளக்கோவில் அருகே முதிய தம்பதியை மிரட்டி நகை கொள்ளையடித்த வழக்கில், தலைமறைவாக இருந்த இளைஞர் கைது செய்யப்பட்டார். வெள்ளக்கோவில் அருகேயுள்ள தாசவநாயக்கன்பட்டி, சேர்வகாரன்பாளையத்தில் முதிய தம்பதி வீட்டில் நள்ளிரவில் நுழைந்த கொள்ளையர்கள், அவர்களைத் தாக்கி 13 பவுன் நகைகளைக் கொள்ளையடித்தனர். இது 2023ஆம் ஆண்டில் நடந்தது. இந்த வழக்கில் திண்டுக்கல் மாவட்டம், ராமராஜபுரத்தைச் சேர்ந்த ரிச்சர்ட் சச்சின் (32 வயது) உள்பட மொத்தம் 11 பேர் கைது செய்யப்பட்டனர். பிணையில் வெளியே வந்த ரிச்சர்ட் சச்சின் விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார். இதையடுத்து தாராபுரம் கூடுதல் அமர்வு நீதிமன்றம் பிடிவாரண்ட் பிறப்பித்தது. திண்டுக்கல்லில் பதுங்கியிருந்த அவரை, வெள்ளக்கோவில் காவல் நிலைய ஆய்வாளர் சண்முகம் தலைமையிலான போலீசார் வெள்ளிக்கிழமை கைது செய்தனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வெள்ளக்கோவிலில் தம்பதியிடம் நகை கொள்ளை: தலைமறைவான இளைஞர் கைது\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் அருகேயுள்ள தாசவநாயக்கன்பட்டி, சேர்வகாரன்பாளையத்தில் முதிய தம்பதி வீட்டில் நள்ளிரவில் நுழைந்த கொள்ளையர்கள், அவர்களைத் தாக்கி 13 பவுன் நகைகளைக் கொள்ளையடித்தனர். இது 2023ஆம் ஆண்டில் நடந்தது.\nஇந்த வழக்கில் திண்டுக்கல் மாவட்டம், ராமராஜபுரத்தைச் சேர்ந்த ரிச்சர்ட் சச்சின் (32 வயது) உள்பட மொத்தம் 11 பேர் கைது செய்யப்பட்டனர். பிணையில் வெளியே வந்த அவர் விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார்.\nதாராபுரம் கூடுதல் அமர்வு நீதிமன்றம் பிடிவாரண்ட் பிறப்பித்த நிலையில், திண்டுக்கல்லில் பதுங்கியிருந்த அவரை வெள்ளக்கோவில் காவல் நிலைய ஆய்வாளர் சண்முகம் தலைமையிலான போலீசார் வெள்ளிக்கிழமை கைது செய்தனர்.\n\n📍 இடம்: தாசவநாயக்கன்பட்டி, சேர்வகாரன்பாளையம், வெள்ளக்கோவில் அருகே\n🗓️ நாள்: 2023ஆம் ஆண்டு கொள்ளை; வெள்ளிக்கிழமை கைது\n👮 நடவடிக்கை: வெள்ளக்கோவில் போலீசார் கைது\n\nTiruppur robbery case accused arrested in Dindigul | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #வெள்ளக்கோவில் #திருப்பூர்",
+   "prompts": "A pair of Tamil Nadu police in khaki uniform stand beside a white police jeep parked on a dusty village street near Vellakoil in Tiruppur district, while a young man in a plain shirt, seen only from behind and slightly blurred, is led toward the vehicle by two constables. The street is lined with modest concrete houses with tiled roofs, a few two-wheelers parked at the roadside, and a concrete electric pole in the background. It is daytime under soft, bright daylight with a clear sky. Shot at eye level, 35 mm, wide enough to show the police jeep, the street and the houses, with no readable signboards or text visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small wooden table in a police station room in Vellakoil, with a stack of court papers and a sealed plastic packet of gold jewellery placed on top, and a khaki-sleeved arm of an officer resting beside it, the face out of frame. Behind the table a plain wall and an old metal ceiling fan are visible, with daylight entering through a window. The gold pieces catch warm light, the documents are slightly out of focus, no readable text anywhere. Daytime, natural window light, 35 mm, camera at slightly high eye level. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொள்ளை-வழக்கு-தலைமறைவாக-இருந்த-இளைஞா்-கைது",
+   "published": "2026-11-27T19:27:38.826Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/114dc6a1d4a952e0.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/7651aa640d3f7275.jpg"
    ]
   }
  ]
