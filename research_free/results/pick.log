@@ -1,18 +1,56 @@
-16:25:54 round 2026-11-27_16: news published 27 Nov 12:25 -> 27 Nov 16:25 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-16:25:54 insights 2026-11-27T16:25+05:30 (292 reels): topic weights {'politics': -0.28, 'accident': 0.84, 'crime': 1.5, 'education': -0.5, 'jobs': 0.1, 'power_cut': 0.29, 'temple': -0.08, 'civic': 0.02, 'poultry_agri': -0.49, 'weather': -0.44, 'sports_culture': -0.09}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-16:27:07 open search 'திருப்பூர்' (from_google): 3 links from our outlets
-16:27:07 99 links on the two papers' Tirupur pages
-16:27:54 skipped: published before this window=41, not Tirupur district=27, already posted=24, only a headline=3, same event already posted=1, power cut - posted automatically=1
-16:27:54 list: 1 new + 1 earlier news not posted yet
-16:27:54    1. [பொது] வனத்துக்குள் திருப்பூர்–12 திட்டம்: 1.17 லட்சம் மரக்கன்று நடவு (தினமலர்)
-16:27:54    2. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
-16:27:54 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+16:39:22 round 2026-11-27_16: news published 27 Nov 16:25 -> 27 Nov 16:39 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+16:39:22    + news published since 26 Nov 16:39 that no earlier round found (listed / indexed late) - never one already listed or posted
+16:39:22 insights 2026-11-27T16:39+05:30 (292 reels): topic weights {'politics': -0.3, 'accident': 0.84, 'crime': 1.5, 'education': -0.5, 'jobs': 0.1, 'power_cut': 0.29, 'temple': -0.08, 'civic': 0.02, 'poultry_agri': -0.49, 'weather': -0.4, 'sports_culture': -0.09}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+16:41:12 open search 'திருப்பூர்' (from_google): 37 links from our outlets
+16:41:12 town searches (அவிநாசி, பல்லடம், உடுமலை, தாராபுரம், காங்கேயம், மடத்துக்குளம் (+Google), ஊத்துக்குளி (+Google)): 11 links from our outlets
+16:41:12 search links: 40 Google links decoded, 0 not decoded, 0 known from an earlier round, 60 left for the next round, 64 of another district by their headline (not opened)
+16:41:12 108 links on the two papers' Tirupur pages
+16:42:54 skipped: published before this window=41, already posted=30, not Tirupur district=27, only a headline=3, same event already posted=1, power cut - posted automatically=1
+16:42:54    drop [already posted] விலை சரிவால் நகைக்கடன் வாங்கியோர் ஆதங்கம் ‘தங்கம்’ தங்குமா?  | dinamalar.com/news/tamil-nad...ces-fall-banks-send-sms-to-pay/4386920
+16:42:54    drop [already posted] குளங்களுக்கு அணையிலிருந்து தண்ணீர் திறக்கப்படுமா? நிலத்தடி ந | dinamalar.com/news/tamil-nad...dam-release-water-to-the-ponds/4386701
+16:42:54    drop [already posted] ரூ.20 லட்சம் கண்வலி கிழங்கை திருடிய நபர்களுக்கு வலை | dinamalar.com/news/tamil-nad...-people-who-stole-the-cataract/4386914
+16:42:54    drop [already posted] வீடு கட்ட மானியம் ஒதுக்கவில்லை: தனி மனிதனாக போராடிய தொழிலாளி | dinamalar.com/news/tamil-nad...llotted-subsidy-to-build-house/4387305
+16:42:54    drop [already posted] உள்நாட்டு வர்த்தகத்தில் புதிய முயற்சி: உற்பத்தியாளர்களுக்கு  | dinamalar.com/news/tamil-nad...anufacturers-in-domestic-trade/4386923
+16:42:54    drop [already posted] குடிநீர் திருட்டு ரூ.30 லட்சம் ‘பைன்’ | dinamalar.com/news/tamil-nad...g-water-theft-rs-30-lakh-pines/4387310
+16:42:54    drop [same event already posted] மாவட்டத்தில் மழை: சராசரியாக 6.99 மி.மீ., பதிவு | dinamalar.com/news/tamil-nad...ict-average-recorded-at-699-mm/4387309
+16:42:54    drop [already posted] அரசு பள்ளி, கல்லூரிகளில் சுகாதாரம் பேணிக்காக்க முதல்வருக்கு  | dinamalar.com/news/tamil-nad...overnment-schools-and-colleges/4387308
+16:42:54    drop [already posted] அரசியல் சாசன தினம்: பா.ஜ. கொண்டாட்டம் | dinamalar.com/news/tamil-nad...nstitution-day-bjp-celebration/4387303
+16:42:54    drop [already posted] கல்வியறி போட்டிவென்றவருக்கு பரிசு | dinamalar.com/news/tamil-nad...ict-news-tiruppur/prize-winner/4387302
+16:42:54    drop [already posted] திருப்பூரில் ஜொலிக்கும் இயற்கை வைர தோடுகள் நாளை கண்காட்சி து | dinamalar.com/news/tamil-nad...bition-inaugurated-in-tiruppur/4387251
+16:42:54    drop [already posted] திருப்பூர் ஐயப்பன் கோவிலில் பக்தர்களுக்கு 41 நாள் அன்னதானம்: | dinamalar.com/news/tamil-nad...supreme-mobiles-spiritual-work/4387250
+16:42:54    drop [already posted] விறகு விற்பனை மந்தம்: விவசாயிகள் பாதிப்பு | dinamalar.com/news/tamil-nad...e-to-sell-wood-affects-farmers/4387235
+16:42:54    drop [already posted] கழிப்பிடம் பயன்பாடு: பொதுமக்கள் எதிர்பார்ப்பு | dinamalar.com/news/tamil-nad...blic-expectation-of-toilet-use/4387234
+16:42:54    drop [already posted] அரசுப் பேருந்து ஓட்டுநரைத் தாக்கிய நபா் மீது வழக்கு | dinamani.com/all-editions/ed...-who-assaulted-a-government-bus-driver
+16:42:54    drop [already posted] அம்மாபாளையம் பாறைக் குழியில் குப்பைகள் கொட்ட கம்யூனிஸ்ட் கட் | dinamani.com/all-editions/ed...rash-in-the-rock-quarry-at-ammapalayam
+16:42:54    drop [already posted] தாராபுரத்தில் ரூ.10 லட்சம் மதிப்பிலான கண்வலிக் கிழங்குகள் தி | dinamani.com/all-editions/ed...-worth-rs-10-lakh-stolen-in-dharapuram
+16:42:54    drop [already posted] பெண்ணுக்கு பாலியல் தொல்லை: தொழிலாளிக்கு ஓராண்டு சிறை | dinamani.com/all-editions/ed...ாலியல்-தொல்லைதொழிலாளிக்கு-ஓராண்டு-சிறை
+16:42:54    drop [already posted] அவிநாசியில் சாக்கடை அடைப்பு: வீடுகளுக்குள் புகும் கழிவு நீா் | dinamani.com/all-editions/ed...e-in-avinashisewage-water-enters-homes
+16:42:54    drop [already posted] கிணற்றில் தவறி விழுந்த முதியவா் உயிரிழப்பு | dinamani.com/all-editions/ed...ல்-தவறி-விழுந்த-முதியவா்-உயிரிழப்பு-11
+16:42:54    drop [published before this window] [2026-10-30T08:17] திருப்பூரில் பின்னலாடைத் தொழில் முடக்கம்: தீபாவளிக்குப் பிறக | hindutamil.in/news/business/...n-of-the-knitwear-industry-in-tiruppur
+16:42:54    drop [published before this window] [2026-10-08T12:14] மூலப்பொருட்களின் விலை உயர்வால் திருப்பூரில் எலாஸ்டிக் உற்பத் | hindutamil.in/news/business/...ted-after-raw-material-prices-increase
+16:42:54    drop [published before this window] [2026-09-07T11:19] 4 ஆண்டாக முடங்கி கிடக்கும் அமராவதி சர்க்கரை ஆலை: கரும்பு விவ | hindutamil.in/news/tamilnadu...ating-last-four-years-farmers-affected
+16:42:54    drop [published before this window] [2026-07-31T21:23] திருப்பூரில் விவசாயிகள் மறியல்; பெண்கள் தீக்குளிக்க முயற்சி: | hindutamil.in/news/tamilnadu...-protest-women-attempt-self-immolation
+16:42:54    drop [published before this window] [2026-07-28T06:49] மண் வளம் காக்கும் இயற்கை விவசாயம்: 60 ஏக்கரில் அசத்தும் திரு | hindutamil.in/news/supplemen...organic-farming-preserving-soil-health
+16:42:54    drop [published before this window] [2026-07-18T22:06] திருப்பூர் அருகே லாரி - கார் மோதிய விபத்தில் ஒரே குடும்பத்தை | hindutamil.in/news/crime/thr...agic-car-lorry-collision-near-tiruppur
+16:42:54    drop [published before this window] [2026-07-10T20:17] திருப்பூர் அருகே கார், டேங்கர் லாரி மோதியதில் ஒரே குடும்பத்த | hindutamil.in/news/crime/6-o...-in-car-tanker-collision-near-tiruppur
+16:42:54    drop [published before this window] [2026-07-10T03:22] டிஎன்பிஎல் 10-வது சீசன்: ஆக.4-ல் திருப்பூர் - திண்டுக்கல் மோ | hindutamil.in/news/sports/ti...lash-on-august-4th-in-tnpl-10th-season
+16:42:54    drop [only a headline] Ilamai puthumai Tamil News, supplements News in Tamil | Late | hindutamil.in/news/supplements/ilamai-puthumai
+16:42:54    drop [published before this window] [2026-11-19T06:08] உடுமலை: அலட்சிய மருத்துவமனையால் பறிபோன இளைஞரின் கால்; ரூ. 35 | vikatan.com/government-and-p...rs-wrong-treatment-in-private-hospital
+16:42:54    drop [published before this window] [2026-11-10T01:52] சிறிய இடம், குறைந்த முதலீடு... மாதம் ரூ.25 ஆயிரம் லாபம்! | vikatan.com/agriculture/tiruppur-woman-earns-profits-from-microgreens
+16:42:54    drop [published before this window] [2026-11-01T03:43] திருப்பூர்: முத்தம் கேட்டு டார்ச்சர் செய்த போலீஸ் ஏட்டு; ரௌட | vikatan.com/crime/tiruppur-n...ice-station-head-constable-controversy
+16:42:54    drop [published before this window] [2026-10-28T05:02] `நொய்யல் ஆற்று நுரைக்கு சோப்பு, ஷாம்பு கலப்பதும்‌கூட காரணம்! | vikatan.com/environment/weat...goes-viral-about-tiruppur-noiyal-river
+16:42:54    drop [published before this window] [2026-10-14T05:24] பல்லடம்: 10 லட்சம் மதிப்புள்ள 35 பன்றிகள் திருட்டு; கொள்ளையர | vikatan.com/crime/palladam-3...10-lakh-stolen-how-were-thieves-caught
+16:42:54    drop [published before this window] [2026-10-14T04:01] திருப்பூர்: ஆடு மேய்க்கச் சென்ற பெண் பாலியல் வன்கொடுமை, கொலை | vikatan.com/crime/tiruppur-sexual-abuse-and-murder-case-update
+16:42:54    drop [published before this window] [2026-09-26T14:23] தாராபுரம்: "30 நிமிடங்களில் 32 முறை திமுக என்று பேசியிருக்கி | vikatan.com/government-and-p...apuram-campaign-about-tvk-vijay-speech
+16:42:54    drop [published before this window] [2026-09-23T06:27] தாராபுரம்: `விருப்பப்பட்டவர்கள் விசில் சின்னத்திற்கு வாக்களி | vikatan.com/government-and-p...abama-controversy-in-election-campaign
+16:42:54    drop [published before this window] [2026-09-22T11:01] தாராபுரம்: தவெக வேட்பாளருக்கு வலுக்கும் எதிர்ப்பு; போலீஸார்  | vikatan.com/government-and-p...ndidate-police-protection-for-campaign
+16:42:54    drop [published before this window] [2026-09-22T03:50] "இடைத்தேர்தலைத் திணிப்பவர்களே தேர்தல் செலவையும் ஏற்க வேண்டும | vikatan.com/government-and-p...on-ntk-seeman-election-campaign-update
+16:42:54    drop [published before this window] [2026-09-21T06:26] தாராபுரம்: தவெக வேட்பாளருக்கு எதிராக கொந்தளித்த மக்கள், பாதி | vikatan.com/government-and-p...didate-sathyabama-campaign-controversy
+16:42:54    (+ 62 more dropped links not shown)
+16:42:54 list: 3 new + 1 earlier news not posted yet
+16:42:54    1. [பொது] காவல் துறை விளையாட்டு வீரருக்கு ராம்ராஜ் காட்டன் நிதி உதவி (தினமணி) (published 26 Nov 23:10, found only now)
+16:42:54    2. [நீதிமன்றம்] சட்டத்தை மதிக்காமல் மன்னிப்பு கேட்பது நீதிமன்றத்தை ஏமாற்றும் செயல்: கா (தினமணி) (published 26 Nov 19:07, found only now)
+16:42:54    3. [நீதிமன்றம்] ‘சாயமிடுதல், பதப்படுத்துதல் தொழிலுக்கு ஜவுளி உற்பத்திக்கான வரி விதிக்க (தினமலர்) (published 26 Nov 23:06, found only now)
+16:42:54    4. [பொது] வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
+16:42:54 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-27_16
-16:27:56    not picked automatically (ceremony / award / awareness event (low views)): வாக்காளர் பெயர் சேர்க்கை விழிப்புணர்வு ஊர்வலம்
-16:27:56 round 2026-11-27_16 (at least 6, up to 3 more of well-watched topics): 1 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:27:56   PICK   1.   7.0 [other +0.00 pattern] வனத்துக்குள் திருப்பூர்–12 திட்டம்: 1.17 லட்சம் மரக்கன்று நட
-16:27:56 decided: automatic: top 6 of 1 by insights -> 1 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/tiruppur--12-project-within-the-forest-117-lakh-tree-plantation/4387505
-16:32:45 1 listed news now in the Sheet
-16:32:56 verify 2026-11-27_16: 0 of 1 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-16:32:56    SKIPPED C3f0d972: skipped RN-339: held: fact-check problems - numbers not found in the article: 117218, 77155 - வனத்துக்குள் திருப்பூர்–12 திட்டம்: 1.17 லட்சம் மரக்கன்று நட
