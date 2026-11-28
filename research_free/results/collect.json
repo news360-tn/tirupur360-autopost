@@ -3,264 +3,258 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொசுப்புழு-உற்பத்தி-2-வணிக-நிறுவனங்களுக்கு-அபராதம்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/obscene-acts-towards-schoolgirls-youth-arrested-under-pocso-act",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/panchayat-administration-indifferent-to-water-wastage-for-a-month/4387909",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/voter-special-camp-essay-competition-certificates-for-winners",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/welcome-to-the-natural-diamond-earrings-exhibition/4388021",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/மாவட்ட-அளவிலான-போட்டிக்கு-தோ்வான-மாணவா்களுக்கு-சான்றிதழ்",
   "candidate filter: collected=3",
   "to write: 3 Tirupur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Tirupur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
   "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (2s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "வஞ்சிபாளையம் அருகே ஒரு மாதமாக குடிநீர் வீணாகிறது, நடவடிக்கை இல்லை",
-   "english_headline": "A month of wasted drinking water in Vanchipalayam; residents say no action taken",
-   "category": "Civic Issues",
-   "location": "Kothaipalayam, between Pudupalayam and Semmandampalayam panchayats, Vanchipalayam, Tirupur district",
-   "importance": "Medium",
+   "tamil_headline": "பல்லடத்தில் வாக்காளர் கட்டுரைப் போட்டி வெற்றியாளர்களுக்கு சான்றிதழ்",
+   "english_headline": "Palladam voter awareness essay contest winners get certificates",
+   "category": "Government & Services",
+   "location": "Palladam, Tirupur district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குடிநீர் வீணாகிறது",
-    "loc": "வஞ்சிபாளையம்",
-    "hl1": "வஞ்சிபாளையத்தில் ஒரு குடிநீர் வீண்",
-    "hl2": "குழாய் உடைப்பு, நடவடிக்கை",
+    "cat": "வாக்காளர் விழிப்புணர்வு",
+    "loc": "பல்லடம்",
+    "hl1": "பல்லடத்தில் கட்டுரைப் போட்டி",
+    "hl2": "20 மாணவர்களுக்கு சான்றிதழ்",
     "slides": [
      {
-      "title": "எங்கே?",
+      "title": "எங்கு? எப்போது?",
       "lines": [
-       "வஞ்சிபாளையம் அருகே கோதைபாளையம் பகுதி",
-       "புதுப்பாளையம், செம்மாண்டம்பாளையம் ஊராட்சிகளுக்கு இடையே",
-       "குடிநீர் குழாயில் உடைப்பு ஏற்பட்டுள்ளது"
+       "பல்லடம் சட்டப் பேரவைத் தொகுதியில் நடைபெற்றது",
+       "வெள்ளிக்கிழமை <b>வாக்காளர் சிறப்பு முகாம்</b> கட்டுரைப் போட்டி",
+       "பள்ளி, கல்லூரிகளின் தேர்தல் கல்வி அறிவுக் குழு நடத்தியது"
       ]
      },
      {
-      "title": "என்ன பிரச்சினை?",
+      "title": "யார் பங்கேற்றனர்?",
       "lines": [
-       "கடந்த <b>ஒரு மாதமாக</b> தண்ணீர் சாலையில் ஆறாக ஓடுகிறது",
-       "போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளது",
-       "சாலையில் தேங்கும் தண்ணீரால் சுகாதாரச் கேடு அபாயம்"
+       "போட்டியில் வெற்றிபெற்ற <b>20 மாணவ, மாணவிகள்</b>",
+       "மாவட்ட வழங்கல் அலுவலர் சரவணன் சான்றிதழ் வழங்கினார்"
       ]
      },
      {
-      "title": "புகார்",
+      "title": "யார்",
       "lines": [
-       "மக்கள் ஊராட்சி நிர்வாகம், குடிநீர் வடிகால் வாரிய",
-       "இதுவரை நடவடிக்கை எடுக்கப்படவில்லை என கூறப்படுகிறது"
+       "பல்லடம் வட்டாட்சியர் சரவணன்",
+       "தேர்தல் துணை வட்டாட்சியர் ராமசாமி"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வஞ்சிபாளையம் அருகே கோதைபாளையத்தில் ஒரு மாதமாக குடிநீர் வீணாகி வருகிறது. குடிநீர் குழாயில் உடைப்பு ஏற்பட்டதால் பெருமளவு தண்ணீர் சாலையில் ஆறாக ஓடுகிறது. இந்தப் பகுதி புதுப்பாளையம் மற்றும் செம்மாண்டம்பாளையம் ஊராட்சிகளுக்கு இடையே உள்ளது. சாலையில் ஓடும் தண்ணீரால் போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளது. சாலையில் தேங்கும் தண்ணீரால் சுகாதாரச் சீர்கேடு ஏற்படும் அபாயமும் உள்ளது. அப்பகுதி மக்கள் ஊராட்சி நிர்வாகம் மற்றும் குடிநீர் வடிகால் வாரிய அதிகாரிகளிடம் புகார் அளித்ததாக கூறப்படுகிறது. ஆனால் இதுவரை நடவடிக்கை எடுக்கப்படவில்லை என கூறப்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வஞ்சிபாளையத்தில் ஒரு மாதமாக குடிநீர் வீண்: ஊராட்சி நடவடிக்கை இல்லையா?\n\n📰 முழு விவரம்:\nவஞ்சிபாளையம் அருகே புதுப்பாளையம், செம்மாண்டம்பாளையம் ஊராட்சிகளுக்கு இடையே உள்ள கோதைபாளையம் பகுதியில், கடந்த ஒரு மாதமாக குடிநீர் குழாயில் உடைப்பு ஏற்பட்டு தண்ணீர் வீணாகி வருகிறது.\nகுழாய் உடைப்பால் பெருமளவு குடிநீர் சாலையில் ஆறாக ஓடுகிறது. இதனால் அப்பகுதியில் போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளது.\nசாலையில் தேங்கும் தண்ணீரால் சுகாதாரச் சீர்கேடு ஏற்படும் அபாயமும் உருவாகியுள்ளது.\nஅப்பகுதி மக்கள் ஊராட்சி நிர்வாகம் மற்றும் குடிநீர் வடிகால் வாரிய அதிகாரிகளிடம் புகார் அளித்ததாக கூறப்படுகிறது. இதுவரை நடவடிக்கை எடுக்கப்படவில்லை என கூறப்படுகிறது.\n\n📍 இடம்: கோதைபாளையம், வஞ்சிபாளையம் அருகே, திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
-   "prompts": "A broken drinking-water pipe at the side of a village road in Kothaipalayam, Vanchipalayam, sends a steady stream of clean water flowing across the tarred road, spreading into a shallow wide sheet over the surface. The place is a semi-rural stretch on the Tirupur outskirts, with a plain concrete road edged by low compound walls, scattered coconut palms and open dry land beyond. Two or three local residents in a shirt and veshti, and a woman in a cotton saree holding a plastic water pot, stand at a distance on the far side of the road, looking at the flowing water; they are seen from behind and slightly blurred. A single two-wheeler is parked at the roadside with its wheels in the wet patch. It is daytime, under bright, flat daylight with a clear sky. Shot at eye level with a 35 mm lens, wide enough to show the road, the broken pipe, the spreading water and the coconut trees. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cracked grey PVC drinking-water pipe jutting out from a broken patch of tar and gravel on a village road edge, water gushing out and running in a glossy stream across the wet black tarmac. Sunlight reflects off the moving water, and a few leaves and small pebbles are caught in the flow. Behind the blurred pipe, a bare concrete roadside edge and a row of coconut palms are visible in soft focus. No people are in sharp focus; a faint blurred figure of a resident walking past with a water pot can be seen far in the background. Daylight, clear weather, shot from low eye level with a 35 mm lens to emphasise the wasted water and the damaged road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/panchayat-administration-indifferent-to-water-wastage-for-a-month/4387909",
-   "published": "2026-11-27T20:44:26+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "பல்லடத்தில் வாக்காளர் கட்டுரைப் போட்டியில் வெற்றிபெற்ற 20 மாணவ, மாணவிகளுக்கு சான்றிதழ்கள் வழங்கப்பட்டன. பல்லடம் சட்டப் பேரவைத் தொகுதியில் பள்ளி, கல்லூரிகளில் நிறுவப்பட்டுள்ள தேர்தல் கல்வி அறிவுக் குழு சார்பில் வாக்காளர் சிறப்பு முகாம் கட்டுரைப் போட்டி வெள்ளிக்கிழமை நடைபெற்றது. போட்டியில் வெற்றிபெற்ற 20 மாணவ, மாணவிகளுக்கு மாவட்ட வழங்கல் அலுவலர் சரவணன் சான்றிதழ்களை வழங்கினார். பல்லடம் வட்டாட்சியர் சரவணன், தேர்தல் துணை வட்டாட்சியர் ராமசாமி ஆகியோர் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ பல்லடத்தில் வாக்காளர் கட்டுரைப் போட்டி: 20 மாணவர்களுக்கு சான்றிதழ்\n\n📰 முழு விவரம்:\nபல்லடம் சட்டப் பேரவைத் தொகுதியில் பள்ளி, கல்லூரிகளில் நிறுவப்பட்டுள்ள தேர்தல் கல்வி அறிவுக் குழு சார்பில் வாக்காளர் சிறப்பு முகாம் கட்டுரைப் போட்டி வெள்ளிக்கிழமை நடைபெற்றது. இதில் வெற்றிபெற்ற 20 மாணவ, மாணவிகளுக்கு மாவட்ட வழங்கல் அலுவலர் சரவணன் சான்றிதழ்களை வழங்கினார். பல்லடம் வட்டாட்சியர் சரவணன், தேர்தல் துணை வட்டாட்சியர் ராமசாமி ஆகியோர் கலந்துகொண்டனர்.\n📍 இடம்: பல்லடம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: 20 மாணவ, மாணவிகளுக்கு சான்றிதழ் வழங்கல்\n\nPalladam voter awareness essay contest certificates | Tirupur news\n📍 பல்லடம், திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Palladam #TirupurNews #திருப்பூர்",
+   "prompts": "A government official in a formal shirt and trousers stands at a long table, handing a paper certificate to a student. The setting is a bright, spacious hall inside a school or college in Palladam, Tirupur district, with rows of wooden benches visible in the background. Twenty students, a mix of boys and girls in school or college uniforms, stand in a line or small group to receive their awards. The officials, including the District Supply Officer and Block Administrator, are seen from behind or at a distance, focusing on the act of distribution. On the table, stacks of similar certificates and a microphone stand are visible. The lighting is natural daylight coming through large windows, creating a clear and formal atmosphere. The camera is positioned at eye level, 35 mm, capturing the interaction between the official and the students without showing recognizable faces clearly. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a stack of paper certificates resting on a wooden table in a government hall. The certificates are plain white paper with official seals or stamps, though no readable text is visible. A hand in a formal shirt sleeve is seen placing one certificate on top of the pile. In the blurred background, the legs of students in uniforms and the khaki trousers of officials are visible, indicating the presence of the 20 winners and the administration. The table surface is polished wood, typical of institutional furniture in Tirupur schools. The lighting is soft daylight, highlighting the texture of the paper. The camera is slightly high, 35 mm, focusing tightly on the documents and the hand, ensuring no faces or readable text are shown, emphasizing the official nature of the award ceremony. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/voter-special-camp-essay-competition-certificates-for-winners",
+   "published": "2026-11-27T19:21:16.068Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 56 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/e5795582c4cc1dd8.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/6e75f5503d91eeb1.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/64e1ced11e48c843.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/afbcf2d211d01050.jpg"
    ]
   },
   {
-   "tamil_headline": "குன்னத்தூர் பேருந்து நிலையத்தில் பள்ளி மாணவிகளிடம் ஆபாச செய்கை: இளைஞர் போக்ஸோவில் கைது",
-   "english_headline": "Youth arrested under POCSO for indecent act towards schoolgirls at Kunnathur bus stand",
-   "category": "Crime & Safety",
-   "location": "Kunnathur bus stand, Tirupur district",
-   "importance": "High",
+   "tamil_headline": "திருமுருகன்பூண்டியில் வைரத்தோடு கண்காட்சிக்கு அமோக வரவேற்பு",
+   "english_headline": "Natural diamond earrings exhibition gets warm response in Tirupur on first day",
+   "category": "Business & Prices",
+   "location": "Thirumuruganpoondi, Tirupur district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போக்ஸோ கைது",
-    "loc": "குன்னத்தூர், திருப்பூர் மாவட்டம்",
-    "hl1": "குன்னத்தூரில் மாணவிகளிடம் ஆபாச செய்கை",
-    "hl2": "இளைஞர் போக்ஸோவில் கைது",
+    "cat": "வணிகம்",
+    "loc": "திருமுருகன்பூண்டி",
+    "hl1": "வைரத்தோடு கண்காட்சிக்கு அமோக வரவேற்பு",
+    "hl2": "இன்றுடன் நிறைவு",
+    "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "திருமுருகன்பூண்டி பப்பீஸ் ஓட்டல், மல்லிகை ஹால்",
+       "இன்று (<b>நவ. 27</b>) முதல் கண்காட்சி நடைபெறுகிறது",
+       "நிறுவனம்: ஜூவல்ஸ் மேக்கர்ஸ்"
+      ]
+     },
+     {
+      "title": "முதல் நாள்",
+      "lines": [
+       "முதல் நாளிலேயே வாடிக்கையாளர்கள் சிறப்பான வரவேற்பு",
+       "பலரும் ஆர்வத்துடன் வந்து டிசைன்களைப் பார்வையிட்டனர்",
+       "பாரம்பரிய அழகும் நவீன டிரெண்டும் இணைந்த டிசைன்கள்"
+      ]
+     },
+     {
+      "title": "கடைசி வாய்ப்பு",
+      "lines": [
+       "இந்தக் கண்காட்சி <b>இன்றுடன்</b> நிறைவடைகிறது",
+       "பிடித்த டிசைன்களைத் தேர்வு செய்ய இதுவே கடைசி வாய்ப்பு",
+       "திருப்பூர் மற்றும் சுற்றுவட்டார மக்களுக்கு அழைப்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருமுருகன்பூண்டியில் நடைபெறும் வைரத்தோடு கண்காட்சிக்கு முதல் நாளிலேயே அமோக வரவேற்பு கிடைத்துள்ளது. நவம்பர் 27ஆம் தேதி முதல் திருமுருகன்பூண்டி பப்பீஸ் ஓட்டலின் மல்லிகை ஹாலில் ஜூவல்ஸ் மேக்கர்ஸ் நிறுவனம் இக்கண்காட்சியை ஏற்பாடு செய்துள்ளது. இதன்போது, பாரம்பரிய அழகும் நவீன டிரெண்டும் இணைந்த பல்வேறு டிசைன்களை வாடிக்கையாளர்கள் ஆர்வத்துடன் பார்வையிட்டுத் தேர்வு செய்தனர். மேலும், இந்தக் கண்காட்சி இன்றுடன் நிறைவடைவதால், பிடித்த டிசைன்களைத் தேர்வு செய்ய திருப்பூர் மற்றும் சுற்றுவட்டார மக்கள் இந்த வாய்ப்பைத் தவறவிட வேண்டாம் என நிறுவனம் அழைக்கிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💎 திருமுருகன்பூண்டியில் வைரத்தோடு கண்காட்சிக்கு அமோக வரவேற்பு\n\n📰 முழு விவரம்:\nதிருமுருகன்பூண்டி பப்பீஸ் ஓட்டல், மல்லிகை ஹாலில் இன்று (நவ. 27) முதல் வைரத்தோடு கண்காட்சி நடைபெற்று வருகிறது.\nமுதல் நாளிலேயே வாடிக்கையாளர்களிடமிருந்து சிறப்பான வரவேற்பு கிடைத்துள்ளது.\nபலரும் ஆர்வத்துடன் வந்து டிசைன்களைப் பார்வையிட்டுத் தேர்வு செய்தனர்.\nபாரம்பரிய அழகும் நவீன டிரெண்டும் இணைந்த பல்வேறு டிசைன்கள் இக்கண்காட்சியின் சிறப்பம்சமாக உள்ளன.\nஇந்தக் கண்காட்சி இன்றுடன் நிறைவடைகிறது.\n📍 இடம்: திருமுருகன்பூண்டி பப்பீஸ் ஓட்டல், மல்லிகை ஹால்\n🗓️ நாள்: நவ. 27 முதல் இன்று வரை\n🏢 ஏற்பாடு: ஜூவல்ஸ் மேக்கர்ஸ் நிறுவனம்\nபிடித்த டிசைன்களைத் தேர்வு செய்ய இந்த வாய்ப்பைத் தவறவிடாதீர்கள்.\n\nDiamond earrings exhibition Thirumuruganpoondi | Tirupur news\n📍 திருமுருகன்பூண்டி, திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Thirumuruganpoondi #TirupurNews #திருப்பூர்",
+   "prompts": "A group of customers stands around glass display showcases in the Malligai Hall of Pappies Hotel in Thirumuruganpoondi, Tirupur, bending slightly to look at rows of natural diamond earrings laid out on velvet trays. Women in sarees and salwar, and a few men in shirts, are seen mostly from behind or from a distance, examining the designs with keen interest on the first day of the exhibition. The hall has a warm indoor look with ceiling lights, round tables covered with cloth, and a few display stands holding sparkling earrings in traditional and modern styles. Shot at eye level with a 35 mm lens, wide enough to show the hall and the crowd, in soft indoor daylight-balanced lighting. No readable signboards or text. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a velvet-lined tray on a glass display counter holding several pairs of natural diamond earrings (vairathodu), their stones catching the warm indoor light. A customer's hand, slightly blurred and seen from the side, hovers over the tray as if choosing a design. Shallow depth of field keeps the sparkling earrings sharp while the background of the hall, with other display stands and a few shoppers out of focus, hints at the busy exhibition. Taken at a slightly high angle with a 35 mm lens in warm indoor lighting. No readable text, logos or brand labels visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/welcome-to-the-natural-diamond-earrings-exhibition/4388021",
+   "published": "2026-11-27T22:44:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருமுருகன்பூண்டி', e.g. 'திருமுருகன்பூண்டி: ...' or 'திருமுருகன்பூண்டி-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/dc7318c01892ee12.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/3e7b6543655b3177.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அவிநாசியில் மாவட்ட அளவிலான போட்டிக்குத் தேர்வான மாணவர்களுக்குச் சான்றிதழ்",
+   "english_headline": "Avinashi students selected for district-level competitions receive certificates",
+   "category": "Education",
+   "location": "Avinashi, Tirupur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "அவிநாசி",
+    "hl1": "அவிநாசியில் மாணவர்களுக்குச் சான்றிதழ்",
+    "hl2": "மாவட்ட அளவிலான",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "குன்னத்தூர் பேருந்து நிலையத்தில் பள்ளி மாணவிகளிடம் ஆபாச",
-       "வெள்ளிக்கிழமை பள்ளி முடிந்து நின்றிருந்தபோது நடந்தது",
-       "மாணவிகள் கூச்சலிட்டனர்"
+       "அவிநாசியில் நடந்த போட்டிகளில் வெற்றி பெற்ற",
+       "வெள்ளிக்கிழமை அவிநாசி வட்டாட்சியர் அலுவலகத்தில் நிகழ்ச்சி",
+       "மாவட்ட அளவிலான போட்டிகளுக்கு மாணவர்கள் தேர்வு"
       ]
      },
      {
-      "title": "யார் இவர்?",
+      "title": "எந்தப் போட்டிகள்?",
       "lines": [
-       "ஈரோடு மாவட்டம் திங்களூர் வெட்டையன்கிணறு வடக்குத் தோட்டம்",
-       "ஊத்துக்குளியில் பிரியாணி கடை வைத்துள்ளார்",
-       "காங்கயம் போலீசாரால் வேறொரு போக்ஸோ வழக்கிலும் கைது"
+       "தேர்தல் கல்வி அறிவுக் குழுக்கள் சார்பில் நடந்த போட்டிகள்",
+       "கட்டுரை, விநாடி-வினா போட்டிகள்",
+       "அவிநாசி சட்டப் பேரவைத் தொகுதிப் பள்ளி மாணவர்கள்"
       ]
      },
      {
-      "title": "என்ன நடவடிக்கை?",
+      "title": "யார்",
       "lines": [
-       "பயணிகள் பிடித்து குன்னத்தூர் காவல் நிலையத்தில் ஒப்படைத்தனர்",
-       "போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்து போலீசார் கைது"
+       "வாக்காளர் பதிவு அலுவலர் வெங்கடாசலம்",
+       "உதவி வாக்காளர் பதிவு அலுவலர் ஜெகநாதன்",
+       "தேர்தல் துணை வட்டாட்சியர் பாலவிக்னேஷ்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "குன்னத்தூர் பேருந்து நிலையத்தில் பள்ளி மாணவிகளிடம் ஆபாச செய்கை காட்டிய இளைஞர் போக்ஸோ சட்டத்தின்கீழ் கைது செய்யப்பட்டார். வெள்ளிக்கிழமை பள்ளி முடிந்து வீட்டுக்குச் செல்வதற்காக நின்றுகொண்டிருந்த மாணவிகளிடம் இந்தச் செயல் நடந்தது. ஈரோடு மாவட்டம் திங்களூர் வெட்டையன்கிணறு வடக்குத் தோட்டத்தைச் சேர்ந்த விஸ்வநாதன், 23 வயது இளைஞர். இவர் ஊத்துக்குளியில் பிரியாணி கடை வைத்துள்ளார். மாணவிகள் கூச்சலிட்டனர். அங்கிருந்த பயணிகள் அந்த நபரைப் பிடித்து குன்னத்தூர் காவல் நிலையத்தில் ஒப்படைத்தனர். போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்த போலீசார் அவரைக் கைது செய்தனர். விஸ்வநாதன் ஏற்கெனவே காங்கயம் காவல் நிலைய போலீசாரால் வேறொரு வழக்கில் போக்ஸோ சட்டத்தில் கைது செய்யப்பட்டவர் என்பது குறிப்பிடத்தக்கது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 குன்னத்தூர் பேருந்து நிலையத்தில் மாணவிகளிடம் ஆபாச செய்கை: இளைஞர் போக்ஸோவில் கைது\n\n📰 முழு விவரம்:\nகுன்னத்தூர் பேருந்து நிலையத்துக்கு வெள்ளிக்கிழமை வந்த விஸ்வநாதன் (23 வயது), பள்ளி முடிந்து வீட்டுக்குச் செல்வதற்காக நின்றுகொண்டிருந்த மாணவிகளிடம் ஆபாச செய்கை காட்டியுள்ளார்.\nமாணவிகள் கூச்சலிட்டனர். அங்கிருந்த பயணிகள் அவரைப் பிடித்து குன்னத்தூர் காவல் நிலையத்தில் ஒப்படைத்தனர்.\nபோக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்த போலீசார் அவரைக் கைது செய்தனர்.\nவிஸ்வநாதன் ஈரோடு மாவட்டம் திங்களூர் வெட்டையன்கிணறு வடக்குத் தோட்டத்தைச் சேர்ந்தவர். ஊத்துக்குளியில் பிரியாணி கடை வைத்துள்ளார்.\nஇவர் ஏற்கெனவே காங்கயம் காவல் நிலைய போலீசாரால் வேறொரு வழக்கில் போக்ஸோ சட்டத்தில் கைது செய்யப்பட்டவர்.\n📍 இடம்: குன்னத்தூர் பேருந்து நிலையம்\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு, கைது\n\nKunnathur bus stand POCSO arrest | Tirupur news\n📍 குன்னத்தூர், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kunnathur #TirupurNews #திருப்பூர்",
-   "prompts": "A Tamil Nadu police constable in khaki uniform walks a young man away from a village bus stand in Kunnathur, Tirupur district, after passengers handed him over to police. The man is seen only from behind, head down, wearing a plain shirt and trousers, with his hands held behind his back. Around them stand a few schoolgirls in Tamil Nadu school uniform, seen from behind and at a distance, and a small group of passengers waiting near a mofussil town bus parked at the stand. The stand has a tin-roofed shelter with concrete pillars, a row of benches and a painted bus lane. It is a bright Friday afternoon, the time just after school gets out, with soft daylight. Camera at eye level, 35 mm, wide enough to show the bus stand and the bus, with no faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an empty concrete bench at a village bus stand in Kunnathur, Tirupur district, where schoolgirls in Tamil Nadu school uniform had been waiting for their buses after school. The bench has a worn surface, a school bag left on one end and a rolled-up umbrella beside it. Behind the bench, out of focus, a mofussil town bus is parked with a police jeep at the edge of the frame. Daylight after school hours, with a plain tin-roof shelter overhead and dust on the ground. Camera slightly high, 35 mm, shallow depth of field so that the bench is sharp and the people in the background are only blurred shapes, with no faces or readable text. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/obscene-acts-towards-schoolgirls-youth-arrested-under-pocso-act",
-   "published": "2026-11-27T19:38:19.432Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "அவிநாசியில் வெற்றி பெற்ற பள்ளி மாணவர்களுக்கு வெள்ளிக்கிழமை சான்றிதழ்கள் வழங்கப்பட்டன. அவிநாசி சட்டப் பேரவைத் தொகுதிக்கு உட்பட்ட பள்ளி மாணவர்களுக்கு, தேர்தல் கல்வி அறிவுக் குழுக்கள் சார்பில் கட்டுரை மற்றும் விநாடி-வினா போட்டிகள் அண்மையில் நடைபெற்றன. இந்தப் போட்டிகளில் வெற்றி பெற்ற மாணவ, மாணவிகள் மாவட்ட அளவிலான போட்டிகளுக்குத் தேர்வு செய்யப்பட்டனர். தேர்வு செய்யப்பட்ட மாணவர்களுக்குச் சான்றிதழ் வழங்கும் நிகழ்ச்சி அவிநாசி வட்டாட்சியர் அலுவலகத்தில் வெள்ளிக்கிழமை நடைபெற்றது. சட்டப் பேரவைத் தொகுதி வாக்காளர் பதிவு அலுவலர் வெங்கடாசலம், உதவி வாக்காளர் பதிவு அலுவலர் ஜெகநாதன், தேர்தல் துணை வட்டாட்சியர் பாலவிக்னேஷ் ஆகியோர் மாணவர்களுக்குச் சான்றிதழ்களை வழங்கினர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎓 அவிநாசியில் போட்டிகளில் வெற்றி பெற்ற மாணவர்களுக்குச் சான்றிதழ்\n\n📰 முழு விவரம்:\nஅவிநாசி சட்டப் பேரவைத் தொகுதிக்கு உட்பட்ட பள்ளி மாணவர்களுக்கு, தேர்தல் கல்வி அறிவுக் குழுக்கள் சார்பில் கட்டுரை, விநாடி-வினா போட்டிகள் அண்மையில் நடைபெற்றன. இதில் வெற்றி பெற்ற மாணவ, மாணவிகள் மாவட்ட அளவிலான போட்டிகளுக்குத் தேர்வு செய்யப்பட்டனர். வெள்ளிக்கிழமை அவிநாசி வட்டாட்சியர் அலுவலகத்தில் அவர்களுக்குச் சான்றிதழ்கள் வழங்கப்பட்டன. வாக்காளர் பதிவு அலுவலர் வெங்கடாசலம், உதவி வாக்காளர் பதிவு அலுவலர் ஜெகநாதன், தேர்தல் துணை வட்டாட்சியர் பாலவிக்னேஷ் ஆகியோர் சான்றிதழ்களை வழங்கினர்.\n\n📍 இடம்: அவிநாசி வட்டாட்சியர் அலுவலகம், திருப்பூர் மாவட்டம்\n🗓️ நாள்: வெள்ளிக்கிழமை\n\nAvinashi students get certificates for district-level competitions | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
+   "prompts": "Three government officials stand at a wooden table in the hall of the Avinashi taluk office, handing printed certificates to a line of school students in Tamil Nadu school uniform, seen from behind and slightly distant. The students are boys and girls, some holding their certificates up, and a few other students wait in the queue. The hall is a plain government office room with tube lights, a tiled floor, wooden desks and a framed notice board on the wall, typical of Tamil Nadu taluk offices in Tirupur city. The officials wear formal shirts and trousers, and the women in sarees, all seen from the back or at a distance so no faces are visible. Certificates, a stack of papers and a few water bottles sit on the table. Daylight comes through the windows on a Friday afternoon. Shot at eye level on a 35 mm lens, wide enough to show the whole room and the line of students. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of printed certificates and a few folded papers resting on a wooden table in a government office, with a student's hand just reaching in to take one. The certificates are plain, with blank borders and no readable text, lying beside a steel water tumbler and a pen. Behind the table, out of focus, a khaki-free office setting with a wall calendar frame and a ceiling fan. Soft daylight from a side window lights the paper and the wooden grain of the table. Shot at a slightly high angle on a 35 mm lens to show the certificates and the hand, with the background softly blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/மாவட்ட-அளவிலான-போட்டிக்கு-தோ்வான-மாணவா்களுக்கு-சான்றிதழ்",
+   "published": "2026-11-27T19:37:34.673Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; caption talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; known issue meta_article: script talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/948bc798746bdeb7.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/6028439e0dddeec6.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வெள்ளக்கோவிலில் கொசுப்புழு: 2 நிறுவனங்களுக்கு அபராதம்",
-   "english_headline": "Two commercial establishments in Vellakoil fined for mosquito breeding",
-   "category": "Civic Issues",
-   "location": "Vellakoil municipality, Tirupur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "டெங்கு தடுப்பு",
-    "loc": "வெள்ளக்கோவில்",
-    "hl1": "வெள்ளக்கோவிலில் 2 நிறுவனங்களுக்கு",
-    "hl2": "தலா <b>ரூ.2,000</b> அபராதம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "வெள்ளக்கோவில் நகராட்சிப் பகுதியில் ஆய்வு நடந்தது",
-       "2 வணிக நிறுவனங்களில் கொசுப்புழு உற்பத்தி கண்டறியப்பட்டது",
-       "இரண்டு நிறுவனங்களுக்கும் தலா <b>ரூ.2,000</b> அபராதம்"
-      ]
-     },
-     {
-      "title": "யார் ஆய்வு",
-      "lines": [
-       "நகராட்சி ஆணையர் ஆர்.அசோக்குமார் தலைமையில் ஆய்வு",
-       "கலால் துணை ஆணையர், வட்டார மருத்துவ அலுவலர் பங்கேற்பு",
-       "துப்புரவு ஆய்வாளர்கள், களப் பணியாளர்களும் ஈடுபட்டனர்"
-      ]
-     },
-     {
-      "title": "மக்கள் செய்ய",
-      "lines": [
-       "தண்ணீர் சேமிப்புக் கலன்களை எப்போதும் மூடி வையுங்கள்",
-       "டயர், தேங்காய் குடுவை, உடைந்த பிளாஸ்டிக் அகற்றுங்கள்",
-       "தூய்மைப் பணியாளர்களிடம் வழங்குங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வெள்ளக்கோவிலில் 2 வணிக நிறுவனங்களுக்கு கொசுப்புழு உற்பத்தி காரணமாக அபராதம் விதிக்கப்பட்டது. வெள்ளிக்கிழமை நகராட்சி ஆணையர் ஆர் அசோக்குமார் தலைமையில் டெங்கு தடுப்பு ஆய்வு நடைபெற்றது. கலால் துணை ஆணையர் பாலமுருகன், வட்டார மருத்துவ அலுவலர் ராஜலட்சுமி, துப்புரவு ஆய்வாளர்கள் செல்வராஜ், கதிரவன் ஆகியோரும் ஆய்வில் ஈடுபட்டனர். பல்வேறு இடங்கள் மற்றும் வணிக நிறுவனங்களில் ஆய்வு மேற்கொள்ளப்பட்டது. 2 நிறுவனங்களில் கொசுப்புழு உற்பத்தியாகும் வகையில் சுகாதாரமின்றி இருந்தது கண்டறியப்பட்டது. அந்த நிறுவனங்களுக்கு தலா ரூ.2,000 அபராதம் விதிக்கப்பட்டது. தண்ணீர் சேமிப்புக் கலன்களை எப்போதும் மூடி வைக்க வேண்டும் என நகராட்சி ஆணையர் அறிவுறுத்தினார். டயர், தேங்காய் குடுவை, உடைந்த பிளாஸ்டிக் பொருள்களை அகற்றி தூய்மைப் பணியாளர்களிடம் வழங்க வேண்டும். சுகாதாரமின்றி இருக்கும் நிறுவனங்கள், குடியிருப்பு உரிமையாளர்கள் மீது நடவடிக்கையும் அபராதமும் விதிக்கப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வெள்ளக்கோவிலில் கொசுப்புழு உற்பத்தி: 2 வணிக நிறுவனங்களுக்கு தலா ரூ.2,000 அபராதம்\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் நகராட்சிப் பகுதியில் டெங்கு தடுப்புப் பணிகள் தீவிரமாக நடைபெற்று வருகின்றன. வெள்ளிக்கிழமை நகராட்சி ஆணையர் ஆர்.அசோக்குமார் தலைமையில் அதிகாரிகள் பல்வேறு இடங்கள், வணிக நிறுவனங்களில் ஆய்வு செய்தனர். 2 நிறுவனங்களில் கொசுப்புழு உற்பத்தியாகும் வகையில் சுகாதாரமின்றி இருந்தது தெரியவந்தது. அந்த நிறுவனங்களுக்கு தலா ரூ.2,000 அபராதம் விதிக்கப்பட்டது. கொசுப்புழு உற்பத்தியாகும் நிறுவனங்கள், குடியிருப்பு உரிமையாளர்கள் மீது நடவடிக்கையும் அபராதமும் விதிக்கப்படும் என நகராட்சி ஆணையர் எச்சரித்தார்.\n📍 இடம்: வெள்ளக்கோவில் நகராட்சி, திருப்பூர் மாவட்டம்\n🗓️ நாள்: வெள்ளிக்கிழமை\nℹ️ மக்கள் கவனத்திற்கு: தண்ணீர் சேமிப்புக் கலன்களை மூடி வையுங்கள்; டயர், தேங்காய் குடுவை, உடைந்த பிளாஸ்டிக் பொருள்களை அகற்றி தூய்மைப் பணியாளர்களிடம் வழங்குங்கள்.\n\nVellakoil mosquito breeding, 2 firms fined | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
-   "prompts": "Municipal officials and field workers in uniform inspect the back yard of a small commercial establishment in Vellakoil town, seen from behind as a sanitary inspector in a khaki shirt and trousers bends over a bucket of stagnant water while a municipal worker in a blue uniform holds a torch and a clipboard. The setting is a typical Tamil Nadu shop compound with a concrete floor, a metal rolling shutter, and a plastic drum with a loose lid. Other officials, including a woman in a cotton saree with a government ID lanyard, stand a few steps behind, looking toward the storage area. Daylight streams in from the open side. The camera sits at eye level about 3 metres away with a 35 mm lens, wide enough to show the shop front, the officials, and the open compound, with all faces turned away or blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of stagnant rainwater pooled in an old discarded car tyre, a cracked plastic bucket, and a broken coconut shell lying on a dirty concrete floor behind a shop in Vellakoil. Dark, still water with a faint sheen sits in the tyre's hollow, with a few dry leaves floating at the edge. A sanitary worker's rubber-gloved hand, seen only from the wrist down, holds a long pair of tongs over the tyre. Daylight falls at a low angle, casting soft shadows on the concrete. The camera is angled slightly downward at about 45 degrees with a 50 mm close-up lens, shallow depth of field, and the background gently blurred to show only a hint of a shop shutter and a municipal worker's blue uniform. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொசுப்புழு-உற்பத்தி-2-வணிக-நிறுவனங்களுக்கு-அபராதம்",
-   "published": "2026-11-27T19:23:08.476Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/2b2b336eb400b964.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/fe4b5d70c8c2ac99.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/aafd97ba7646c838.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/bd7fd83e686bf611.jpg"
    ]
   }
  ]
