@@ -3,66 +3,76 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/rs-741-lakh-in-fines-for-those-who-dumped-trash-in-public-places",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/penalty-for-littering-rs-7-41-lakh/4387820",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/drink-distilled-water-advice/4387912",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொசுப்புழு-உற்பத்தி-2-வணிக-நிறுவனங்களுக்கு-அபராதம்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/obscene-acts-towards-schoolgirls-youth-arrested-under-pocso-act",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/panchayat-administration-indifferent-to-water-wastage-for-a-month/4387909",
   "candidate filter: collected=3",
   "to write: 3 Tirupur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "NOT filed (N) குப்பை கொட்டியவர்களுக்கு ரூ.7.41 லட்சம் அபராதம்: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min",
-  "filed: 2 Tirupur district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
+  "filed: 3 Tirupur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -72,125 +82,185 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பூர் மாநகராட்சி: குப்பை கொட்டியோருக்கு ரூ.7.41 லட்சம் அபராதம்",
-   "english_headline": "Tirupur Corporation collects Rs 7.41 lakh fine from 303 people for dumping garbage in public places; 13 vehicles seized",
+   "tamil_headline": "வஞ்சிபாளையம் அருகே ஒரு மாதமாக குடிநீர் வீணாகிறது, நடவடிக்கை இல்லை",
+   "english_headline": "A month of wasted drinking water in Vanchipalayam; residents say no action taken",
    "category": "Civic Issues",
-   "location": "Tirupur Corporation area, Tirupur district",
-   "importance": "High",
-   "scope": "",
+   "location": "Kothaipalayam, between Pudupalayam and Semmandampalayam panchayats, Vanchipalayam, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குப்பை அபராதம்",
-    "loc": "திருப்பூர் மாநகராட்சி",
-    "hl1": "குப்பை கொட்டியோருக்கு அபராதம்",
-    "hl2": "ரூ.7.41 லட்சம் வசூல்",
+    "cat": "குடிநீர் வீணாகிறது",
+    "loc": "வஞ்சிபாளையம்",
+    "hl1": "வஞ்சிபாளையத்தில் ஒரு குடிநீர் வீண்",
+    "hl2": "குழாய் உடைப்பு, நடவடிக்கை",
     "slides": [
      {
-      "title": "எவ்வளவு அபராதம்?",
+      "title": "எங்கே?",
       "lines": [
-       "303 பேரிடம் <b>ரூ.7.41 லட்சம்</b> அபராதம்",
-       "செப்டம்பர் 11 முதல் நடந்த சோதனையில் வசூல்",
-       "திருப்பூர் மாநகராட்சிப் பகுதி"
+       "வஞ்சிபாளையம் அருகே கோதைபாளையம் பகுதி",
+       "புதுப்பாளையம், செம்மாண்டம்பாளையம் ஊராட்சிகளுக்கு இடையே",
+       "குடிநீர் குழாயில் உடைப்பு ஏற்பட்டுள்ளது"
       ]
      },
      {
-      "title": "எங்கெங்கே சோதனை?",
+      "title": "என்ன பிரச்சினை?",
       "lines": [
-       "4 மண்டலங்களிலும் சிறப்புக் கண்காணிப்புக் குழுக்கள்",
-       "பொது இடங்கள், சாலைகள், நீர்நிலை ஓரங்கள்",
-       "24 மணி நேரமும் தீவிர ரோந்துப் பணி"
+       "கடந்த <b>ஒரு மாதமாக</b> தண்ணீர் சாலையில் ஆறாக ஓடுகிறது",
+       "போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளது",
+       "சாலையில் தேங்கும் தண்ணீரால் சுகாதாரச் கேடு அபாயம்"
+      ]
+     },
+     {
+      "title": "புகார்",
+      "lines": [
+       "மக்கள் ஊராட்சி நிர்வாகம், குடிநீர் வடிகால் வாரிய",
+       "இதுவரை நடவடிக்கை எடுக்கப்படவில்லை என கூறப்படுகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வஞ்சிபாளையம் அருகே கோதைபாளையத்தில் ஒரு மாதமாக குடிநீர் வீணாகி வருகிறது. குடிநீர் குழாயில் உடைப்பு ஏற்பட்டதால் பெருமளவு தண்ணீர் சாலையில் ஆறாக ஓடுகிறது. இந்தப் பகுதி புதுப்பாளையம் மற்றும் செம்மாண்டம்பாளையம் ஊராட்சிகளுக்கு இடையே உள்ளது. சாலையில் ஓடும் தண்ணீரால் போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளது. சாலையில் தேங்கும் தண்ணீரால் சுகாதாரச் சீர்கேடு ஏற்படும் அபாயமும் உள்ளது. அப்பகுதி மக்கள் ஊராட்சி நிர்வாகம் மற்றும் குடிநீர் வடிகால் வாரிய அதிகாரிகளிடம் புகார் அளித்ததாக கூறப்படுகிறது. ஆனால் இதுவரை நடவடிக்கை எடுக்கப்படவில்லை என கூறப்படுகிறது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வஞ்சிபாளையத்தில் ஒரு மாதமாக குடிநீர் வீண்: ஊராட்சி நடவடிக்கை இல்லையா?\n\n📰 முழு விவரம்:\nவஞ்சிபாளையம் அருகே புதுப்பாளையம், செம்மாண்டம்பாளையம் ஊராட்சிகளுக்கு இடையே உள்ள கோதைபாளையம் பகுதியில், கடந்த ஒரு மாதமாக குடிநீர் குழாயில் உடைப்பு ஏற்பட்டு தண்ணீர் வீணாகி வருகிறது.\nகுழாய் உடைப்பால் பெருமளவு குடிநீர் சாலையில் ஆறாக ஓடுகிறது. இதனால் அப்பகுதியில் போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளது.\nசாலையில் தேங்கும் தண்ணீரால் சுகாதாரச் சீர்கேடு ஏற்படும் அபாயமும் உருவாகியுள்ளது.\nஅப்பகுதி மக்கள் ஊராட்சி நிர்வாகம் மற்றும் குடிநீர் வடிகால் வாரிய அதிகாரிகளிடம் புகார் அளித்ததாக கூறப்படுகிறது. இதுவரை நடவடிக்கை எடுக்கப்படவில்லை என கூறப்படுகிறது.\n\n📍 இடம்: கோதைபாளையம், வஞ்சிபாளையம் அருகே, திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர்",
+   "prompts": "A broken drinking-water pipe at the side of a village road in Kothaipalayam, Vanchipalayam, sends a steady stream of clean water flowing across the tarred road, spreading into a shallow wide sheet over the surface. The place is a semi-rural stretch on the Tirupur outskirts, with a plain concrete road edged by low compound walls, scattered coconut palms and open dry land beyond. Two or three local residents in a shirt and veshti, and a woman in a cotton saree holding a plastic water pot, stand at a distance on the far side of the road, looking at the flowing water; they are seen from behind and slightly blurred. A single two-wheeler is parked at the roadside with its wheels in the wet patch. It is daytime, under bright, flat daylight with a clear sky. Shot at eye level with a 35 mm lens, wide enough to show the road, the broken pipe, the spreading water and the coconut trees. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cracked grey PVC drinking-water pipe jutting out from a broken patch of tar and gravel on a village road edge, water gushing out and running in a glossy stream across the wet black tarmac. Sunlight reflects off the moving water, and a few leaves and small pebbles are caught in the flow. Behind the blurred pipe, a bare concrete roadside edge and a row of coconut palms are visible in soft focus. No people are in sharp focus; a faint blurred figure of a resident walking past with a water pot can be seen far in the background. Daylight, clear weather, shot from low eye level with a 35 mm lens to emphasise the wasted water and the damaged road. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/panchayat-administration-indifferent-to-water-wastage-for-a-month/4387909",
+   "published": "2026-11-27T20:44:26+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/e5795582c4cc1dd8.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/6e75f5503d91eeb1.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குன்னத்தூர் பேருந்து நிலையத்தில் பள்ளி மாணவிகளிடம் ஆபாச செய்கை: இளைஞர் போக்ஸோவில் கைது",
+   "english_headline": "Youth arrested under POCSO for indecent act towards schoolgirls at Kunnathur bus stand",
+   "category": "Crime & Safety",
+   "location": "Kunnathur bus stand, Tirupur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Tirupur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போக்ஸோ கைது",
+    "loc": "குன்னத்தூர், திருப்பூர் மாவட்டம்",
+    "hl1": "குன்னத்தூரில் மாணவிகளிடம் ஆபாச செய்கை",
+    "hl2": "இளைஞர் போக்ஸோவில் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குன்னத்தூர் பேருந்து நிலையத்தில் பள்ளி மாணவிகளிடம் ஆபாச",
+       "வெள்ளிக்கிழமை பள்ளி முடிந்து நின்றிருந்தபோது நடந்தது",
+       "மாணவிகள் கூச்சலிட்டனர்"
+      ]
+     },
+     {
+      "title": "யார் இவர்?",
+      "lines": [
+       "ஈரோடு மாவட்டம் திங்களூர் வெட்டையன்கிணறு வடக்குத் தோட்டம்",
+       "ஊத்துக்குளியில் பிரியாணி கடை வைத்துள்ளார்",
+       "காங்கயம் போலீசாரால் வேறொரு போக்ஸோ வழக்கிலும் கைது"
       ]
      },
      {
       "title": "என்ன நடவடிக்கை?",
       "lines": [
-       "குப்பை கொட்டப் பயன்படுத்திய <b>13 வாகனங்கள்</b> பறிமுதல்",
-       "குப்பைகளைத் தரம் பிரித்து தூய்மைப் பணியாளர்களிடம்",
-       "வணிக நிறுவனங்கள் உரிய நிறுவனங்களிடம் ஒப்படைக்க வேண்டும்"
+       "பயணிகள் பிடித்து குன்னத்தூர் காவல் நிலையத்தில் ஒப்படைத்தனர்",
+       "போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்து போலீசார் கைது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் மாநகராட்சியில் பொது இடங்களில் குப்பை கொட்டியவர்களிடம் ரூ.7.41 லட்சம் அபராதம் வசூலிக்கப்பட்டுள்ளது. குப்பை கொட்டியதற்காக 303 பேரிடம் இந்த அபராதம் வசூலிக்கப்பட்டுள்ளது. குப்பை கொட்டப் பயன்படுத்தப்பட்ட 13 வாகனங்களும் பறிமுதல் செய்யப்பட்டுள்ளன. பொது இடங்கள், சாலைகள் மற்றும் நீர்நிலை ஓரங்களில் குப்பை கொட்டுவதைத் தடுக்க, 4 மண்டலங்களிலும் சிறப்புக் கண்காணிப்புக் குழுக்கள் அமைக்கப்பட்டுள்ளன. இக்குழுக்கள் 24 மணி நேரமும் தீவிர ரோந்துப் பணியில் ஈடுபடுகின்றன. செப்டம்பர் 11ஆம் தேதி முதல் நடத்தப்பட்ட சோதனையில் இந்த அபராதம் வசூலிக்கப்பட்டுள்ளது. முதல் மண்டலத்தில் 61 பேரிடம் ரூ.1.62 லட்சமும், இரண்டாம் மண்டலத்தில் 90 பேரிடம் ரூ.2.48 லட்சமும் வசூலிக்கப்பட்டுள்ளது. மூன்றாம் மண்டலத்தில் 79 பேரிடம் ரூ.1.72 லட்சமும், நான்காம் மண்டலத்தில் 73 பேரிடம் ரூ.1.59 லட்சமும் வசூலிக்கப்பட்டுள்ளது. பொது இடங்களில் குப்பை கொட்டுவோர் மீது கடும் நடவடிக்கை எடுக்கப்படும். பொதுமக்கள் குப்பைகளைத் தரம் பிரித்து தூய்மைப் பணியாளர்களிடம் ஒப்படைக்க வேண்டும். மொத்த குப்பை உருவாக்கும் வணிக நிறுவனங்களும் தொழிற்சாலைகளும் உரிய நிறுவனங்களிடம் குப்பையை ஒப்படைக்க வேண்டும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பொது இடங்களில் குப்பை கொட்டியோருக்கு ரூ.7.41 லட்சம் அபராதம்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சிப் பகுதியில் பொது இடங்கள், சாலைகள் மற்றும் நீர்நிலை ஓரங்களில் குப்பை கொட்டுவதைத் தடுக்க 4 மண்டலங்களிலும் சிறப்புக் கண்காணிப்புக் குழுக்கள் அமைக்கப்பட்டுள்ளன. 24 மணி நேரமும் தீவிர ரோந்துப் பணி நடைபெறுகிறது.\nகடந்த செப்டம்பர் 11ஆம் தேதி முதல் நடத்தப்பட்ட சோதனையில், மொத்தம் 303 பேரிடம் ரூ.7.41 லட்சம் அபராதம் வசூலிக்கப்பட்டுள்ளது.\n👮 நடவடிக்கை: குப்பை கொட்டப் பயன்படுத்தப்பட்ட 13 வாகனங்கள் பறிமுதல் செய்யப்பட்டுள்ளன.\n📍 மண்டல வாரியாக: 1ஆம் மண்டலம் 61 பேர் ரூ.1.62 லட்சம்; 2ஆம் மண்டலம் 90 பேர் ரூ.2.48 லட்சம்; 3ஆம் மண்டலம் 79 பேர் ரூ.1.72 லட்சம்; 4ஆம் மண்டலம் 73 பேர் ரூ.1.59 லட்சம்.\nℹ️ மக்கள் கவனத்திற்கு: பொது இடங்களில் குப்பை கொட்டுவோர் மீது கடும் நடவடிக்கை எடுக்கப்படும். குப்பைகளைத் தரம் பிரித்து தூய்மைப் பணியாளர்களிடம் ஒப்படையுங்கள். மொத்த குப்பை உருவாக்கும் வணிக நிறுவனங்களும் தொழிற்சாலைகளும் உரிய நிறுவனங்களிடம் ஒப்படைக்க வேண்டும்.\n\nTirupur Corporation garbage fine Rs 7.41 lakh | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #குப்பை",
-   "prompts": "A corporation sanitary worker in a green uniform stands beside a roadside garbage heap on a busy street in Tirupur city, while a corporation officer in a shirt and trousers writes a fine receipt for a man standing with his back to the camera. Behind them a row of parked two-wheelers and an autorickshaw line the road, with a few shops in the background and a town bus passing at a distance. The mound of mixed household waste, plastic bags and cardboard spills onto the pavement next to a drain. It is daylight with a hazy sky typical of the city. Shot at eye level, 35 mm, wide enough to show the street, the garbage heap and the officials, with all people seen from behind or far away. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a seized tipper lorry parked on a Tirupur city road, its open rear bed still holding some loose garbage, with a few plastic bags and a broom resting against the side. Behind it a corporation worker in a green uniform stands at a distance, seen from behind, next to a roadside drain at the edge of a public area. The metal body and dusty tyres of the vehicle fill the foreground. It is daylight. Shot slightly high, 35 mm, focused on the vehicle and the waste with the street softly blurred behind. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/rs-741-lakh-in-fines-for-those-who-dumped-trash-in-public-places",
-   "published": "2026-11-27T19:35:47.428Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பூர் மாநகராட்சி', e.g. 'திருப்பூர் மாநகராட்சி: ...' or 'திருப்பூர் மாநகராட்சி-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "குன்னத்தூர் பேருந்து நிலையத்தில் பள்ளி மாணவிகளிடம் ஆபாச செய்கை காட்டிய இளைஞர் போக்ஸோ சட்டத்தின்கீழ் கைது செய்யப்பட்டார். வெள்ளிக்கிழமை பள்ளி முடிந்து வீட்டுக்குச் செல்வதற்காக நின்றுகொண்டிருந்த மாணவிகளிடம் இந்தச் செயல் நடந்தது. ஈரோடு மாவட்டம் திங்களூர் வெட்டையன்கிணறு வடக்குத் தோட்டத்தைச் சேர்ந்த விஸ்வநாதன், 23 வயது இளைஞர். இவர் ஊத்துக்குளியில் பிரியாணி கடை வைத்துள்ளார். மாணவிகள் கூச்சலிட்டனர். அங்கிருந்த பயணிகள் அந்த நபரைப் பிடித்து குன்னத்தூர் காவல் நிலையத்தில் ஒப்படைத்தனர். போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்த போலீசார் அவரைக் கைது செய்தனர். விஸ்வநாதன் ஏற்கெனவே காங்கயம் காவல் நிலைய போலீசாரால் வேறொரு வழக்கில் போக்ஸோ சட்டத்தில் கைது செய்யப்பட்டவர் என்பது குறிப்பிடத்தக்கது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குன்னத்தூர் பேருந்து நிலையத்தில் மாணவிகளிடம் ஆபாச செய்கை: இளைஞர் போக்ஸோவில் கைது\n\n📰 முழு விவரம்:\nகுன்னத்தூர் பேருந்து நிலையத்துக்கு வெள்ளிக்கிழமை வந்த விஸ்வநாதன் (23 வயது), பள்ளி முடிந்து வீட்டுக்குச் செல்வதற்காக நின்றுகொண்டிருந்த மாணவிகளிடம் ஆபாச செய்கை காட்டியுள்ளார்.\nமாணவிகள் கூச்சலிட்டனர். அங்கிருந்த பயணிகள் அவரைப் பிடித்து குன்னத்தூர் காவல் நிலையத்தில் ஒப்படைத்தனர்.\nபோக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்த போலீசார் அவரைக் கைது செய்தனர்.\nவிஸ்வநாதன் ஈரோடு மாவட்டம் திங்களூர் வெட்டையன்கிணறு வடக்குத் தோட்டத்தைச் சேர்ந்தவர். ஊத்துக்குளியில் பிரியாணி கடை வைத்துள்ளார்.\nஇவர் ஏற்கெனவே காங்கயம் காவல் நிலைய போலீசாரால் வேறொரு வழக்கில் போக்ஸோ சட்டத்தில் கைது செய்யப்பட்டவர்.\n📍 இடம்: குன்னத்தூர் பேருந்து நிலையம்\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு, கைது\n\nKunnathur bus stand POCSO arrest | Tirupur news\n📍 குன்னத்தூர், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Kunnathur #TirupurNews #திருப்பூர்",
+   "prompts": "A Tamil Nadu police constable in khaki uniform walks a young man away from a village bus stand in Kunnathur, Tirupur district, after passengers handed him over to police. The man is seen only from behind, head down, wearing a plain shirt and trousers, with his hands held behind his back. Around them stand a few schoolgirls in Tamil Nadu school uniform, seen from behind and at a distance, and a small group of passengers waiting near a mofussil town bus parked at the stand. The stand has a tin-roofed shelter with concrete pillars, a row of benches and a painted bus lane. It is a bright Friday afternoon, the time just after school gets out, with soft daylight. Camera at eye level, 35 mm, wide enough to show the bus stand and the bus, with no faces visible. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an empty concrete bench at a village bus stand in Kunnathur, Tirupur district, where schoolgirls in Tamil Nadu school uniform had been waiting for their buses after school. The bench has a worn surface, a school bag left on one end and a rolled-up umbrella beside it. Behind the bench, out of focus, a mofussil town bus is parked with a police jeep at the edge of the frame. Daylight after school hours, with a plain tin-roof shelter overhead and dust on the ground. Camera slightly high, 35 mm, shallow depth of field so that the bench is sharp and the people in the background are only blurred shapes, with no faces or readable text. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/obscene-acts-towards-schoolgirls-youth-arrested-under-pocso-act",
+   "published": "2026-11-27T19:38:19.432Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/4c4c5ece1df43adf.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/873e3c9ca5ede807.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/948bc798746bdeb7.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/6028439e0dddeec6.jpg"
    ]
   },
   {
-   "tamil_headline": "திருப்பூர் மாநகராட்சி: குடிநீரைக் காய்ச்சிப் பருக அறிவுரை",
-   "english_headline": "Tirupur Corporation advises residents to boil drinking water before use as river water is turbid during monsoon",
-   "category": "Health",
-   "location": "Tirupur Corporation, Tirupur district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "வெள்ளக்கோவிலில் கொசுப்புழு: 2 நிறுவனங்களுக்கு அபராதம்",
+   "english_headline": "Two commercial establishments in Vellakoil fined for mosquito breeding",
+   "category": "Civic Issues",
+   "location": "Vellakoil municipality, Tirupur district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குடிநீர் எச்சரிக்கை",
-    "loc": "திருப்பூர் மாநகராட்சி",
-    "hl1": "திருப்பூர் காய்ச்சிப் பருகுங்கள்",
-    "hl2": "டெங்கு பாதிப்பைத் தடுக்க",
+    "cat": "டெங்கு தடுப்பு",
+    "loc": "வெள்ளக்கோவில்",
+    "hl1": "வெள்ளக்கோவிலில் 2 நிறுவனங்களுக்கு",
+    "hl2": "தலா <b>ரூ.2,000</b> அபராதம்",
     "slides": [
      {
-      "title": "ஏன் இந்த அறிவுரை?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "பவானி ஆற்றில் நீர் அதிக கலங்கலாக உள்ளது",
-       "நீலகிரி, மேட்டுப்பாளையத்தில் பருவமழை பெய்கிறது",
-       "நான்காவது குடிநீர் திட்டம் பவானி ஆற்று நீரை எடுக்கிறது"
+       "வெள்ளக்கோவில் நகராட்சிப் பகுதியில் ஆய்வு நடந்தது",
+       "2 வணிக நிறுவனங்களில் கொசுப்புழு உற்பத்தி கண்டறியப்பட்டது",
+       "இரண்டு நிறுவனங்களுக்கும் தலா <b>ரூ.2,000</b> அபராதம்"
       ]
      },
      {
-      "title": "என்ன செய்ய",
+      "title": "யார் ஆய்வு",
       "lines": [
-       "குடிநீரை நன்கு <b>காய்ச்சி</b> பருகுங்கள்",
-       "நீர் குளிர்ந்த பின்னரே பருக வேண்டும்",
-       "டெங்கு காய்ச்சல் பாதிப்பைத் தடுக்க இது அவசியம்"
+       "நகராட்சி ஆணையர் ஆர்.அசோக்குமார் தலைமையில் ஆய்வு",
+       "கலால் துணை ஆணையர், வட்டார மருத்துவ அலுவலர் பங்கேற்பு",
+       "துப்புரவு ஆய்வாளர்கள், களப் பணியாளர்களும் ஈடுபட்டனர்"
       ]
      },
      {
-      "title": "யாருக்கு அறிவுரை?",
+      "title": "மக்கள் செய்ய",
       "lines": [
-       "திருப்பூர் மாநகராட்சி பொதுமக்களுக்கு அறிவுரை",
-       "மாநகராட்சி கமிஷனர் அமித் அறிக்கையில் தெரிவித்தார்",
-       "மாநகராட்சிக்கு 2, 3, 4 குடிநீர் திட்டங்கள் மூலம் நீர்"
+       "தண்ணீர் சேமிப்புக் கலன்களை எப்போதும் மூடி வையுங்கள்",
+       "டயர், தேங்காய் குடுவை, உடைந்த பிளாஸ்டிக் அகற்றுங்கள்",
+       "தூய்மைப் பணியாளர்களிடம் வழங்குங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் மாநகராட்சி பொதுமக்களுக்கு குடிநீரைக் காய்ச்சிப் பருகுமாறு அறிவுறுத்தியுள்ளது. பவானி ஆற்றில் நீர் அதிக கலங்கலாக உள்ளதால் இந்த எச்சரிக்கை. நீலகிரி மற்றும் மேட்டுப்பாளையம் பகுதிகளில் பருவமழை பெய்து வருகிறது. இதன் காரணமாக ஆற்றுப்படுகையில் நீரின் கலங்கல் தன்மை அதிகமாக உள்ளது. திருப்பூர் மாநகராட்சிக்கு இரண்டாவது, மூன்றாவது மற்றும் நான்காவது குடிநீர் திட்டங்கள் மூலம் குடிநீர் பெறப்பட்டு வினியோகிக்கப்படுகிறது. நான்காவது குடிநீர் திட்டத்தில் பவானி ஆற்று நீரே எடுக்கப்படுகிறது. மழைக்காலம் என்பதாலும், நீர் கலங்கலாக இருப்பதாலும் டெங்கு காய்ச்சல் பாதிப்பு ஏற்படாமல் தடுக்க வேண்டும். எனவே பொதுமக்கள் குடிநீரை நன்கு காய்ச்சி, குளிர்ந்த பின்னரே பருக வேண்டும் என மாநகராட்சி கமிஷனர் அமித் அறிக்கையில் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 திருப்பூர் மாநகராட்சி: குடிநீரை நன்கு காய்ச்சிக் குளிர்ந்த பின்னரே பருகுங்கள்\n\n📰 முழு விவரம்:\nதிருப்பூர் மாநகராட்சி கமிஷனர் அமித் வெளியிட்ட அறிக்கையில், பொதுமக்கள் குடிநீரை நன்கு காய்ச்சி, குளிர்ந்த பின்னரே பருக வேண்டும் என அறிவுறுத்தப்பட்டுள்ளது.\nநீலகிரி, மேட்டுப்பாளையம் பகுதிகளில் பருவமழை பெய்வதால் பவானி ஆற்றுப்படுகையில் நீர் அதிக கலங்கலாக உள்ளது.\nமாநகராட்சிக்கு 2, 3, 4 குடிநீர் திட்டங்கள் மூலம் குடிநீர் பெறப்பட்டு வினியோகிக்கப்படுகிறது. நான்காவது திட்டத்தில் பவானி ஆற்று நீரே எடுக்கப்படுகிறது.\nமழைக்காலம் என்பதாலும், நீர் கலங்கலாக இருப்பதாலும் டெங்கு காய்ச்சல் பாதிப்பைத் தடுக்கும் வகையில் இந்த அறிவுரை வழங்கப்பட்டுள்ளது.\n\nTirupur Corporation boil drinking water advisory | Tirupur news\n📍 திருப்பூர் மாநகராட்சி, திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #TirupurNews #திருப்பூர் #குடிநீர்",
-   "prompts": "A Tirupur city family in a modest house kitchen in the monsoon season boils drinking water in a large steel vessel on a gas stove, steam rising in the grey rainy light coming through a window. A woman in a cotton saree stands at the stove seen from behind, a stainless steel tumbler and a clay pot of cooled water on the counter beside her. Outside the window, rain streaks down past a concrete wall and a few wet coconut fronds are visible, giving the feel of Tirupur's outskirts during the monsoon. The room is simple, with a plastic water can and a steel tumbler on the shelf. Shot at eye level, 35 mm, wide enough to show the kitchen and window, with soft natural light and no visible text or labels. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a steel vessel of water boiling vigorously on a gas burner, with rising bubbles and steam, while a clear glass tumbler of water rests on the counter beside it, the water inside looking slightly cloudy and muddy. Behind the stove a plastic water can and a steel pot are blurred, suggesting a home kitchen in a Tirupur residential area during the rainy season. Soft grey light from a window falls across the metal surfaces. Shot in close-up at slightly high angle, 35 mm, shallow depth of field, with no readable text, logos or brand names. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/drink-distilled-water-advice/4387912",
-   "published": "2026-11-27T20:44:33+05:30",
+   "reel_script": "வெள்ளக்கோவிலில் 2 வணிக நிறுவனங்களுக்கு கொசுப்புழு உற்பத்தி காரணமாக அபராதம் விதிக்கப்பட்டது. வெள்ளிக்கிழமை நகராட்சி ஆணையர் ஆர் அசோக்குமார் தலைமையில் டெங்கு தடுப்பு ஆய்வு நடைபெற்றது. கலால் துணை ஆணையர் பாலமுருகன், வட்டார மருத்துவ அலுவலர் ராஜலட்சுமி, துப்புரவு ஆய்வாளர்கள் செல்வராஜ், கதிரவன் ஆகியோரும் ஆய்வில் ஈடுபட்டனர். பல்வேறு இடங்கள் மற்றும் வணிக நிறுவனங்களில் ஆய்வு மேற்கொள்ளப்பட்டது. 2 நிறுவனங்களில் கொசுப்புழு உற்பத்தியாகும் வகையில் சுகாதாரமின்றி இருந்தது கண்டறியப்பட்டது. அந்த நிறுவனங்களுக்கு தலா ரூ.2,000 அபராதம் விதிக்கப்பட்டது. தண்ணீர் சேமிப்புக் கலன்களை எப்போதும் மூடி வைக்க வேண்டும் என நகராட்சி ஆணையர் அறிவுறுத்தினார். டயர், தேங்காய் குடுவை, உடைந்த பிளாஸ்டிக் பொருள்களை அகற்றி தூய்மைப் பணியாளர்களிடம் வழங்க வேண்டும். சுகாதாரமின்றி இருக்கும் நிறுவனங்கள், குடியிருப்பு உரிமையாளர்கள் மீது நடவடிக்கையும் அபராதமும் விதிக்கப்படும். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வெள்ளக்கோவிலில் கொசுப்புழு உற்பத்தி: 2 வணிக நிறுவனங்களுக்கு தலா ரூ.2,000 அபராதம்\n\n📰 முழு விவரம்:\nவெள்ளக்கோவில் நகராட்சிப் பகுதியில் டெங்கு தடுப்புப் பணிகள் தீவிரமாக நடைபெற்று வருகின்றன. வெள்ளிக்கிழமை நகராட்சி ஆணையர் ஆர்.அசோக்குமார் தலைமையில் அதிகாரிகள் பல்வேறு இடங்கள், வணிக நிறுவனங்களில் ஆய்வு செய்தனர். 2 நிறுவனங்களில் கொசுப்புழு உற்பத்தியாகும் வகையில் சுகாதாரமின்றி இருந்தது தெரியவந்தது. அந்த நிறுவனங்களுக்கு தலா ரூ.2,000 அபராதம் விதிக்கப்பட்டது. கொசுப்புழு உற்பத்தியாகும் நிறுவனங்கள், குடியிருப்பு உரிமையாளர்கள் மீது நடவடிக்கையும் அபராதமும் விதிக்கப்படும் என நகராட்சி ஆணையர் எச்சரித்தார்.\n📍 இடம்: வெள்ளக்கோவில் நகராட்சி, திருப்பூர் மாவட்டம்\n🗓️ நாள்: வெள்ளிக்கிழமை\nℹ️ மக்கள் கவனத்திற்கு: தண்ணீர் சேமிப்புக் கலன்களை மூடி வையுங்கள்; டயர், தேங்காய் குடுவை, உடைந்த பிளாஸ்டிக் பொருள்களை அகற்றி தூய்மைப் பணியாளர்களிடம் வழங்குங்கள்.\n\nVellakoil mosquito breeding, 2 firms fined | Tirupur news\n📍 வெள்ளக்கோவில், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Vellakoil #TirupurNews #திருப்பூர்",
+   "prompts": "Municipal officials and field workers in uniform inspect the back yard of a small commercial establishment in Vellakoil town, seen from behind as a sanitary inspector in a khaki shirt and trousers bends over a bucket of stagnant water while a municipal worker in a blue uniform holds a torch and a clipboard. The setting is a typical Tamil Nadu shop compound with a concrete floor, a metal rolling shutter, and a plastic drum with a loose lid. Other officials, including a woman in a cotton saree with a government ID lanyard, stand a few steps behind, looking toward the storage area. Daylight streams in from the open side. The camera sits at eye level about 3 metres away with a 35 mm lens, wide enough to show the shop front, the officials, and the open compound, with all faces turned away or blurred. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of stagnant rainwater pooled in an old discarded car tyre, a cracked plastic bucket, and a broken coconut shell lying on a dirty concrete floor behind a shop in Vellakoil. Dark, still water with a faint sheen sits in the tyre's hollow, with a few dry leaves floating at the edge. A sanitary worker's rubber-gloved hand, seen only from the wrist down, holds a long pair of tongs over the tyre. Daylight falls at a low angle, casting soft shadows on the concrete. The camera is angled slightly downward at about 45 degrees with a 50 mm close-up lens, shallow depth of field, and the background gently blurred to show only a hint of a shop shutter and a municipal worker's blue uniform. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/கொசுப்புழு-உற்பத்தி-2-வணிக-நிறுவனங்களுக்கு-அபராதம்",
+   "published": "2026-11-27T19:23:08.476Z",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/172dc293ed7f6b40.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261127/1e1e4bad965b3490.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/2b2b336eb400b964.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/fe4b5d70c8c2ac99.jpg"
    ]
   }
  ]
