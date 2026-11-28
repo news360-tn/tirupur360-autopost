@@ -3,271 +3,142 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/new-procedure-for-recruitment-of-city-sanitation-staff-solid-waste-management-scheme-implemented/4387628",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sri-mahalakshmi-ac-systems-for-branded-vrf-ac/4388022",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delivering-sweets-to-people-hindu-lead-happiness/4388023",
-  "candidate filter: collected=3",
-  "to write: 3 Tirupur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Tirupur; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/discharge-of-wastewater-into-amaravati-irrigation-canalsdemand-for-action-against-industries",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/people-gather-at-collector-s-office-over-land-dispute/4387866",
+  "candidate filter: collected=2",
+  "to write: 2 Tirupur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Tirupur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-tiru",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/tir",
+  "real photo from the source (Dinamalar) for 'Dharapuram Alangiyam housing patta dispu'",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
-  "filed: 3 Tirupur district stories (target 3), reels only",
+  "NOT filed (N) அமராவதி பாசன வாய்க்கால்களில் கழிவு நீா் வெளியேற்றம: not Tirupur district news (the story's first lines name another place and no Tirupur place)",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 1}, time left 76 min",
+  "filed: 1 Tirupur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (48s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (24s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (25s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok groq/openai/gpt-oss-120b (2s)"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பரங்குன்றம் தீபம்: அவிநாசியில் இனிப்பு வழங்கி கொண்டாட்டம்",
-   "english_headline": "Hindu Munnani celebrates Supreme Court verdict on Thiruparankundram lamp with sweets in Avinashi",
-   "category": "Temples & Events",
-   "location": "Avinashi, Tirupur district",
+   "tamil_headline": "மனைப்பட்டா விவகாரம்: திருப்பூர் கலெக்டர் அலுவலகத்தில் 55 குடும்பத்தினர் திரண்டனர்",
+   "english_headline": "Dharapuram Alangiyam housing patta dispute: 55 families gather at Tirupur Collectorate demanding pattas",
+   "category": "Government & Services",
+   "location": "Alangiyam, Dharapuram taluk, Tirupur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Tirupur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கொண்டாட்டம்",
-    "loc": "அவிநாசி",
-    "hl1": "அவிநாசியில் இனிப்பு வழங்கி கொண்டாட்டம்",
-    "hl2": "உச்ச நீதிமன்ற தீர்ப்புக்கு",
+    "cat": "பட்டா கோரிக்கை",
+    "loc": "அலங்கியம், தாராபுரம்",
+    "hl1": "அலங்கியத்தில் பட்டா விவகாரம்",
+    "hl2": "கலெக்டர் ஆபீசில் மக்கள்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "திருப்பரங்குன்றம் தீபத்தூணில் தீபம் ஏற்ற தீர்ப்பு",
-       "உச்ச நீதிமன்றம் வழங்கிய தீர்ப்பை ஹிந்து முன்னணி கொண்டாடியது",
-       "பொதுமக்களுக்கு இனிப்பு வழங்கி பட்டாசு வெடித்தனர்"
+       "தாராபுரம் <b>அலங்கியம்</b> பகுதியில் வீடற்ற <b>70 குடும்பங்கள்</b>",
+       "பூமி தான நிலத்தில் பட்டா கேட்கின்றனர்",
+       "நீதிமன்ற வழக்கு முடிந்து பட்டா தர ஏற்பாடு நடந்தது"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "ஏன் போராட்டம்?",
       "lines": [
-       "அவிநாசி புதிய பஸ் ஸ்டாண்ட் முன்",
-       "அவிநாசி, திருமுருகன்பூண்டி ஒன்றிய ஹிந்து முன்னணி சார்பில்",
-       "பயணிகளுக்கும் இனிப்பு வழங்கப்பட்டது"
+       "15 பழைய நபர்கள், <b>40 புதிய நபர்களுக்கு</b> பட்டா தயார்",
+       "பாதிக்கப்பட்ட <b>55 குடும்பத்தினர்</b> கலெக்டர் ஆபீஸ் வந்தனர்",
+       "உரிய பயனாளிகள் விடுபட்டதாகப் புகார் அளிக்கப்பட்டது"
       ]
      },
      {
-      "title": "யார் பங்கேற்றனர்?",
+      "title": "அதிகாரிகள் பதில்",
       "lines": [
-       "மாநில பொதுச் செயலாளர் செந்தில்குமார் தலைமையில்",
-       "மாவட்ட செயலாளர் மணிகண்டன், துணைத் தலைவர் மாரிமுத்து",
-       "சங்கர் மற்றும் நகர, ஒன்றிய பொறுப்பாளர்கள்"
+       "வருவாய் துறையினர் மக்களிடம் விசாரணை நடத்தினர்",
+       "இன்று <b>தாராபுரம் தாசில்தார்</b> அலுவலகம் வர அறிவுறுத்தல்",
+       "விவரங்களைச் சமர்ப்பிக்கக் கூறி மக்கள் கலைந்து சென்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அவிநாசியில் ஹிந்து முன்னணி தொண்டர்கள் இனிப்பு வழங்கி கொண்டாடினர். திருப்பரங்குன்றம் மலை மீதுள்ள தீபத்தூணில் தீபம் ஏற்றுவதற்கு உச்ச நீதிமன்றம் தீர்ப்பளித்ததை வரவேற்று இந்தக் கொண்டாட்டம் நடைபெற்றது. ஹிந்து முன்னணி தொண்டர்கள் பட்டாசு வெடித்து மகிழ்ச்சி தெரிவித்தனர். அவிநாசி மற்றும் திருமுருகன்பூண்டி ஒன்றிய ஹிந்து முன்னணி சார்பில் புதிய பஸ் ஸ்டாண்ட் முன் பொதுமக்கள் மற்றும் பயணிகளுக்கு இனிப்புகள் வழங்கப்பட்டன. மாநில பொதுச் செயலாளர் செந்தில்குமார் தலைமையில் நிகழ்ச்சி நடைபெற்றது. மாவட்ட செயலாளர் மணிகண்டன், துணைத் தலைவர் மாரிமுத்து, சங்கர் மற்றும் நகர, ஒன்றிய பொறுப்பாளர்கள் பங்கேற்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎉 அவிநாசியில் இனிப்பு வழங்கி ஹிந்து முன்னணி கொண்டாட்டம்\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றம் மலை மீதுள்ள தீபத்தூணில் தீபம் ஏற்றுவதற்கு உச்ச நீதிமன்றம் தீர்ப்பளித்ததை வரவேற்று ஹிந்து முன்னணி தொண்டர்கள் கொண்டாடினர்.\nஅவிநாசி புதிய பஸ் ஸ்டாண்ட் முன் பொதுமக்கள் மற்றும் பயணிகளுக்கு இனிப்புகள் வழங்கப்பட்டன. பட்டாசும் வெடிக்கப்பட்டது.\nஅவிநாசி மற்றும் திருமுருகன்பூண்டி ஒன்றிய ஹிந்து முன்னணி சார்பில் இந்த நிகழ்ச்சி நடைபெற்றது.\n👥 பங்கேற்றவர்கள்: மாநில பொதுச் செயலாளர் செந்தில்குமார் தலைமையில், மாவட்ட செயலாளர் மணிகண்டன், துணைத் தலைவர் மாரிமுத்து, சங்கர் மற்றும் நகர, ஒன்றிய பொறுப்பாளர்கள்\n\nHindu Munnani sweets celebration Avinashi | Tirupur news\n📍 அவிநாசி, திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A group of Hindu Munnani volunteers in white shirts and veshti stands in front of the new bus stand in Avinashi, Tirupur district, handing out sweet boxes to passengers and commuters while a few others light crackers on the pavement. Seen from behind and at a distance, the volunteers hold saffron flags and sweet boxes as a line of town buses and private buses waits at the bus stand, with the bus stand's covered entrance and a few autorickshaws visible in the background. Men in shirts and veshti and women in sarees or salwar gather at the roadside to receive sweets, while a small cloud of smoke rises from crackers near the bus bays. Daylight, bright and clear, with the sun casting short shadows on the road. Camera at eye level, 35 mm, wide enough to show the bus stand and the celebrating crowd. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a cardboard box of sweets held out by a Hindu Munnani volunteer in a white shirt, his arm extended toward a passenger's hands at the bus stand in Avinashi. Behind the box, a row of sweet packets and a few strings of crackers rest on a table or pavement, with saffron flags tied to a nearby bus shelter pole. Town buses and autorickshaws are blurred in the background. Daylight, warm and clear. Camera at a slightly high angle, 35 mm, focused on the sweets and the exchange, with the background softened. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/delivering-sweets-to-people-hindu-lead-happiness/4388023",
-   "published": "2026-11-27T22:42:31+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "அலங்கியத்தில் 55 குடும்பங்கள் பட்டா கிடைக்காமல் கலெக்டர் அலுவலகத்தில் திரண்டனர். தாராபுரம் அலங்கியம் பகுதியில் வீடற்ற 70 குடும்பத்தினர் பூமி தான நிலத்தில் பட்டா கேட்கின்றனர். நீதிமன்ற வழக்கு முடிந்ததை அடுத்து, 70 குடும்பங்களுக்கும் பட்டா வழங்க பணிகள் நடந்தன. ஆனால் 15 பேருக்கு மட்டுமே பட்டா வழங்க ஏற்பாடு செய்யப்பட்டதாக தெரிகிறது. மேலும் புதிதாக 40 பேர் பெயர்கள் சேர்க்கப்பட்டதாக தகவல் வெளியானது. இதனால் விடுபட்ட 55 குடும்பத்தினர் நேற்று திருப்பூர் கலெக்டர் அலுவலகத்துக்கு வந்தனர். கலெக்டர் கூட்டத்தில் இருந்ததால், வருவாய் துறையினர் அவர்களிடம் விசாரணை நடத்தினர். தாராபுரம் தாசில்தார் அலுவலகத்தில் இன்று ஆவணங்களை சமர்ப்பிக்க அதிகாரிகள் அறிவுறுத்தினர். இதை ஏற்று பொதுமக்கள் அங்கிருந்து கலைந்து சென்றனர். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📜 அலங்கியத்தில் மனைப்பட்டா விவகாரம் - கலெக்டர் அலுவலகத்தில் 55 குடும்பத்தினர் திரண்டனர்\n\n📰 முழு விவரம்:\nதாராபுரம் அலங்கியம் பகுதியில் வீடற்ற 70 குடும்பத்தினர் பூமி தான நிலத்தில் மனைப்பட்டா கோரி வருவாய் துறையினரை அணுகி வந்தனர். நீதிமன்ற வழக்கு முடிந்து பட்டா வழங்க ஏற்பாடுகள் நடந்த நிலையில், 15 பழைய பயனாளிகள் மற்றும் புதிதாக 40 பேர் பெயர்கள் சேர்க்கப்பட்டதாகத் தெரிகிறது.\nஇதனால் விடுபட்ட 55 குடும்பத்தினர் நேற்று காலை திருப்பூர் கலெக்டர் அலுவலகத்துக்கு வந்து முறையிட்டனர். வருவாய் துறையினர் அவர்களிடம் விசாரணை நடத்தி, இன்று தாராபுரம் தாசில்தார் அலுவலகத்தில் நேரில் வந்து ஆவணங்களைச் சமர்ப்பிக்குமாறு அறிவுறுத்தினர். இதையடுத்து பொதுமக்கள் கலைந்து சென்றனர்.\n\n📍 இடம்: அலங்கியம், தாராபுரம்\nℹ️ மக்கள் கவனத்திற்கு: தாராபுரம் தாசில்தார் அலுவலகத்தில் விவரங்களைச் சமர்ப்பிக்க அறிவுறுத்தப்பட்டுள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nDharapuram Alangiyam housing patta issue Tiruppur collectorate | Tiruppur news\n📍 அலங்கியம், திருப்பூர் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tiruppur360 #Tiruppur #Dharapuram #TiruppurNews #திருப்பூர்",
+   "prompts": "A group of approximately 55 people from Alangiyam gather at the entrance of the Tirupur District Collectorate to demand housing pattas. The scene is set in the wide, paved courtyard of the multi-story government office building in Tirupur. Men dressed in shirts and veshtis and women in sarees are seen from behind, standing in a large cluster near the main portico. Some individuals are holding white paper petitions. In the background, a few parked two-wheelers and the modern architecture of the collectorate are visible under the bright morning sun. The camera is at eye level, using a 35mm lens to capture the scale of the assembly against the backdrop of the administrative hub. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the hands of a petitioner holding a set of folded white documents outside the Tirupur Collectorate. The person, wearing a simple cotton shirt, holds the papers which represent their long-standing request for land titles. The background shows the blurred figures of other family members from Alangiyam and the grey concrete pillars of the government building. The lighting is bright and natural, typical of a clear day in Tirupur. The camera is positioned at a close-up angle, emphasizing the importance of the documents that the 55 families brought to the grievance meeting. No readable text or faces are visible, focusing only on the action of presenting the grievance. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/people-gather-at-collector-s-office-over-land-dispute/4387866",
+   "published": "2026-11-27T20:14:27+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 4 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/ce2aa389c1af12de.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/d8bfd9851388012c.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "உடுமலையில் தூய்மைப் பணியாளர்கள் நியமனத்தில் புதிய நடைமுறை; டிசம்பர் 1 முதல் அமல்",
-   "english_headline": "New system for sanitation workers in Udumalaipettai municipality from 1 December under solid waste management scheme",
-   "category": "Civic Issues",
-   "location": "Udumalaipettai municipality, Tirupur district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நகராட்சி அறிவிப்பு",
-    "loc": "உடுமலை",
-    "hl1": "உடுமலையில் புதிய தூய்மைப் பணி நடைமுறை",
-    "hl2": "டிசம்பர் 1 முதல் அமல்",
-    "slides": [
-     {
-      "title": "என்ன மாற்றம்?",
-      "lines": [
-       "டிசம்பர் <b>1</b> முதல் நகர்ப்புற வாழ்வாதார மையம் மூலம்",
-       "<b>131</b> தூய்மைப் பணியாளர்கள் நியமனம்",
-       "திடக்கழிவு மேலாண்மைத் திட்டத்துக்கு <b>ரூ.3.73 கோடி</b> நிதி"
-      ]
-     },
-     {
-      "title": "ஊதியம்",
-      "lines": [
-       "தினசரி ஊதியம் மாவட்ட நிர்வாகம் நிர்ணயித்த <b>744 ரூபாய்</b> வரை",
-       "தினசரி சேவைக் கட்டணம் <b>2 சதவீதம்</b>",
-       "இ.எஸ்.ஐ., பி.எப். தொகை பிடித்தம் செய்யப்படும்"
-      ]
-     },
-     {
-      "title": "பணிகள்",
-      "lines": [
-       "வீடு வீடாகக் குப்பை சேகரிப்பு, தெருக்கள் தினமும் சுத்தம்",
-       "குப்பைகளைத் தரம் பிரித்து வழங்க இலக்கு: 2 மாதங்களில் 50%, 6",
-       "வாகனங்களைப் பராமரிப்பது நகராட்சி நிர்வாகம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "உடுமலை நகராட்சியில் தூய்மைப் பணியாளர்கள் நியமனம் புதிய முறையில் நடைபெறவுள்ளது. டிசம்பர் 1 முதல் அரசு சார்பில் நகர்ப்புற வாழ்வாதார மையம் மூலம் தூய்மைப் பணிகள் மேற்கொள்ளப்படும். இதற்காக 2026ஆம் ஆண்டில் 3.73 கோடி ரூபாய் நிதி ஒதுக்கப்பட்டுள்ளது. உடுமலை நகராட்சியின் 33 வார்டுகளில் 18,630 வீடுகள் மற்றும் வணிக நிறுவனங்கள் உள்ளன. தினமும் 21.5 டன் கழிவுகள் சேகரிக்கப்படுகின்றன. இதுவரை இப்பணி தனியார் நிறுவனத்துக்கு ஒப்படைக்கப்பட்டிருந்தது. இனி 131 தூய்மைப் பணியாளர்கள் வாழ்வாதார மையம் மூலம் பணியமர்த்தப்படுவார்கள். தினசரி சேவைக் கட்டணமாக 2 சதவீதம் வழங்கப்படும். பணியாளர்களுக்கு மாவட்ட நிர்வாகம் நிர்ணயித்த 744 ரூபாய் வரை தினசரி ஊதியம் கிடைக்கும். மாதந்தோறும் முறையாக ஊதியமும், இ எஸ் ஐ, பி எப் கணக்குகளில் தொகையும் வரவு வைக்கப்படும். சீருடை, பாதுகாப்பு உபகரணங்களையும் நகராட்சி வழங்கும். குப்பைத் தொட்டிகளை நிரம்பி வழியாமல் பார்த்துக்கொள்வதும், வாகனங்களைத் தினமும் கழுவி கிருமி நீக்கம் செய்வதும் பணியாளர்களின் பொறுப்பு. அடுத்த இரு மாதங்களில் 50 சதவீதமும், ஆறு மாதங்களில் 100 சதவீதமும் வீடுகளில் குப்பையைத் தரம் பிரித்து வழங்க இலக்கு நிர்ணயிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗑️ உடுமலையில் டிசம்பர் 1 முதல் புதிய தூய்மைப் பணி நடைமுறை\n\n📰 முழு விவரம்:\nஉடுமலை நகராட்சியில் திடக்கழிவு மேலாண்மைப் பணிகளை மேம்படுத்த, நகர்ப்புற வாழ்வாதார மையம் மூலம் தூய்மைப் பணியாளர்கள் பணியமர்த்தப்படுகின்றனர். இதற்காக ரூ.3.73 கோடி நிதி ஒதுக்கப்பட்டுள்ளது.\nடிசம்பர் 1 முதல் 131 தூய்மைப் பணியாளர்கள் வாழ்வாதார மையம் மூலம் பணியமர்த்தப்படுவார்கள். இதுவரை தனியார் நிறுவனம் வசம் இருந்த இப்பணி இனி அரசு நிறுவனம் மூலம் நடைபெறும்.\n🕘 தொடக்கம்: டிசம்பர் 1\n💰 ஊதியம்: மாவட்ட நிர்வாகம் நிர்ணயித்த தினசரி ஊதியம் 744 ரூபாய் வரை; தினசரி சேவைக் கட்டணம் 2 சதவீதம்\n🏠 பணிகள்: வீடு வீடாகக் குப்பை சேகரிப்பு, தெருக்கள், சந்தைப் பகுதிகள், பூங்காக்கள் சுத்தம், மழைநீர் வடிகால் தூர்வாருதல்\n♻️ தரம் பிரிப்பு: அடுத்த 2 மாதங்களில் 50 சதவீதம், 6 மாதங்களில் 100 சதவீதம் இலக்கு\n🚛 வாகனங்கள் பராமரிப்பு நகராட்சி நிர்வாகத்தின் பொறுப்பு. சீருடை, பாதுகாப்பு உபகரணங்களும் நகராட்சி சார்பில் வழங்கப்படும்.\n\nUdumalaipettai new sanitation workers system from 1 December | Tirupur news\n📍 உடுமலை, திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Udumalaipettai #TirupurNews #திருப்பூர்",
-   "prompts": "Municipal sanitation workers in uniform and safety gloves push battery-powered waste vehicles and empty colour-coded bins along a clean street in Udumalaipettai municipal town, Tirupur district, as the new government-run waste collection system begins. The place is a residential lane of Udumalaipettai town in Tirupur district, Tamil Nadu, with low concrete houses, a few two-wheelers parked at the kerb, a tiled-roof shop and a tall electric pole. About six workers, seen from behind or at a distance, wear matching uniforms and carry brooms and bins; one tipper lorry and a light vehicle stand near the roadside. The municipal vehicles are the new fleet handed over by the municipality, and the bins are of different colours for segregated waste. Daylight, clear morning sky, soft sunlight. Camera at eye level, 35 mm, wide enough to show the street and the workers together. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of colour-coded waste bins lined at the roadside in Udumalaipettai municipality, Tirupur district, with a sanitation worker's gloved hands sorting wet and dry garbage into separate containers. The scene is a corner of a town street in Tamil Nadu with a concrete drain edge, a neatly swept footpath and a small battery-operated waste vehicle parked behind. Two green and two blue bins sit on the pavement, one lid lifted to show a few dry leaves and plastic bits, with a broom leaning on the wall. A worker in a uniform shirt and safety gloves is seen only from the wrist and forearm, no face visible. The mood is orderly and daytime, with bright morning light and soft shadows. Camera slightly high, 35 mm, focused on the bins and the sorting hands. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/new-procedure-for-recruitment-of-city-sanitation-staff-solid-waste-management-scheme-implemented/4387628",
-   "published": "2026-11-28T02:07:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6; caption misses facts of the article (put every one in 📰 முழு விவரம்): 33 ('உடுமலை நகராட்சியில், 33 வார்டுகளில், 18,630 வீடுகள், வணிக நி'); 18,630 ('உடுமலை நகராட்சியில், 33 வார்டுகளில், 18,630 வீடுகள், வணிக நி'); 12 ('தினமும், 12.5 டன் மக்கும் கழிவுகள், 9 டன் மக்காத கழிவுகள் என'); 5 ('தினமும், 12.5 டன் மக்கும் கழிவுகள், 9 டன் மக்காத கழிவுகள் என'); 9 ('தினமும், 12.5 டன் மக்கும் கழிவுகள், 9 டன் மக்காத கழிவுகள் என'); 21 ('தினமும், 12.5 டன் மக்கும் கழிவுகள், 9 டன் மக்காத கழிவுகள் என')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/2067094b47f88fa0.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/858a438cfb3d202f.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "திருப்பூரில் பிராண்டட் ஏ.சி. விற்பனை, சர்வீஸ்: ஸ்ரீ லட்சுமி ஏ.சி. சிஸ்டம்ஸ் 18 ஆண்டுகள்",
-   "english_headline": "Sri Lakshmi AC Systems in Tirupur completes 18 years selling and servicing branded and VRF ACs",
-   "category": "Business & Prices",
-   "location": "Kumar Nagar signal, Tirupur - Avinashi Road, Tirupur district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Tirupur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வணிகம்",
-    "loc": "திருப்பூர்",
-    "hl1": "திருப்பூரில் 18 ஆண்டுகளாக ஏ.சி. சேவை",
-    "hl2": "குறைந்த விலையில் ஏ.சி.",
-    "slides": [
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "திருப்பூர் – அவிநாசி ரோடு, குமார்நகர் சிக்னல் அருகே",
-       "ஸ்ரீ லட்சுமி ஏ.சி. சிஸ்டம்ஸ் நிறுவனம்",
-       "<b>1996, மார்ச் 19</b> அன்று தொடங்கியது"
-      ]
-     },
-     {
-      "title": "என்ன சேவை?",
-      "lines": [
-       "தமிழகம் மற்றும் நாடு முழுவதும் உள்ள பிராண்டட் ஏ.சி.",
-       "வி.ஆர்.எப். ஏ.சி.களை விற்பனை செய்கிறது",
-       "சர்வீஸ் செய்து தருகிறது"
-      ]
-     },
-     {
-      "title": "தொடர்பு எண்கள்",
-      "lines": [
-       "குறைந்த விலையில் ஏ.சி. வாங்க தொடர்பு கொள்ளுங்கள்",
-       "<b>98431 70573</b>, <b>96262 70573</b>",
-       "உரிமையாளர் பாண்டியன் நன்றி தெரிவித்தார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பூர் குமார்நகர் சிக்னல் அருகே உள்ள ஸ்ரீ லட்சுமி ஏ சி சிஸ்டம்ஸ் நிறுவனம் 18 ஆண்டுகளாக செயல்பட்டு வருகிறது. இந்த நிறுவனம் 1996ஆம் ஆண்டு மார்ச் 19ஆம் தேதி தொடங்கப்பட்டது. தமிழகம் மற்றும் நாடு முழுவதும் உள்ள அனைத்து பிராண்டட் ஏ சி களையும், வி ஆர் எப் ஏ சி களையும் இந்நிறுவனம் விற்பனை செய்கிறது. அவற்றுக்கான சர்வீஸ் பணிகளையும் செய்து தருகிறது. வாடிக்கையாளர்களின் நன்மதிப்பைப் பெற்று சிறப்பான நிலையை அடைந்துள்ளதாக உரிமையாளர் பாண்டியன் மகிழ்ச்சி தெரிவித்தார். இந்த வளர்ச்சிக்கு ஆதரவளித்த நண்பர்களுக்கும் வாடிக்கையாளர்களுக்கும் அவர் நன்றி தெரிவித்தார். குறைந்த விலையில் ஏ சி வாங்கவும், நிறைவான சர்வீஸ் பெறவும் 98431 70573, 96262 70573 என்ற எண்களில் தொடர்பு கொள்ளலாம். மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "❄️ திருப்பூரில் 18 ஆண்டுகளாக பிராண்டட் ஏ.சி. விற்பனை, சர்வீஸ்\n\n📰 முழு விவரம்:\nதிருப்பூர் – அவிநாசி ரோடு, குமார்நகர் சிக்னல் அருகே உள்ள ஸ்ரீ லட்சுமி ஏ.சி. சிஸ்டம்ஸ் நிறுவனம் 1996, மார்ச் 19ஆம் தேதி தொடங்கப்பட்டு, 18 ஆண்டுகளாக செயல்பட்டு வருகிறது.\nதமிழகம் மற்றும் நாடு முழுவதும் உள்ள அனைத்து பிராண்டட் மற்றும் வி.ஆர்.எப். ஏ.சி.களையும் விற்பனை செய்து, சர்வீஸ் செய்து தருகிறது.\nவாடிக்கையாளர்களின் நன்மதிப்பைப் பெற்று சிறப்பான நிலையை அடைந்துள்ளதாக உரிமையாளர் பாண்டியன் தெரிவித்தார். வளர்ச்சிக்கு ஆதரவளித்த நண்பர்கள், வாடிக்கையாளர்களுக்கு அவர் நன்றி தெரிவித்தார்.\n📍 இடம்: குமார்நகர் சிக்னல் அருகே, திருப்பூர் – அவிநாசி ரோடு\n📞 தொடர்புக்கு: 98431 70573, 96262 70573\nகுறைந்த விலையில் ஏ.சி. வாங்கவும், நிறைவான சர்வீஸ் பெறவும் இந்த எண்களில் தொடர்பு கொள்ளலாம்.\n\nSri Lakshmi AC Systems Tirupur, VRF AC sales service | Tirupur news\n📍 திருப்பூர் – அவிநாசி ரோடு, திருப்பூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Tirupur360 #Tirupur #Avinashi #TirupurNews #திருப்பூர்",
-   "prompts": "A shop owner and a technician stand beside a row of split air-conditioning units stacked in the front showroom of an AC sales and service shop on Avinashi Road near the Kumar Nagar signal in Tiruppur city. The shop has a glass front and a few customers, seen from behind, looking at wall-mounted AC units on display. Along the busy road outside, two-wheelers, autorickshaws and a town bus pass in daylight, with the typical Tiruppur garment-city traffic and low concrete buildings lining the street. The owner wears a shirt and veshti, the technician a work shirt and trousers, and a customer carries a shopping bag. Bright daylight comes through the shop front. Camera at eye level, 35 mm lens, wide enough to show the shop front and the street. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a branded split air-conditioner indoor unit mounted on a wall in a service shop, with a set of service tools, a pressure gauge and copper refrigerant pipes laid on a workbench beside it. In the soft background, a technician in a work shirt, seen from behind, checks an outdoor AC unit stacked on a rack. Through the shop's open front, the Avinashi Road traffic of two-wheelers and autorickshaws is visible, blurred in daylight. Camera slightly high, 35 mm lens, shallow depth of field to keep the focus on the AC unit and tools. Photorealistic press photograph from Tirupur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/sri-mahalakshmi-ac-systems-for-branded-vrf-ac/4388022",
-   "published": "2026-11-27T22:40:41+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/6572aced0db3fa26.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/d862842293229237.jpg"
-   ]
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/594b134e148e9c5f.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/tirupur360/20261128/44fd18b668d54121.jpg"
+   ],
+   "real_photo": "Dinamalar"
   }
  ]
 }
