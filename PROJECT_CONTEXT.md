@@ -85,6 +85,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `0bc1887` | Hashtag fixes (owner 28 Nov): a source link's #part is no longer a hidden YouTube tag (district-section); a Facebook hashtag is never repeated and the top 5 reel gets topic + district + page tag |
+| 2026-11-28 | `cc8d40d` | stories shared / Instagram pause |
+| 2026-11-28 | `2062a2a` | autofix: corrected held news |
+| 2026-11-28 | `71a025e` | stories shared / Instagram pause |
+| 2026-11-28 | `6432a52` | stories shared / Instagram pause |
+| 2026-11-28 | `069702a` | stories shared / Instagram pause |
+| 2026-11-28 | `366c8f7` | stories shared / Instagram pause |
+| 2026-11-28 | `9569ffe` | stories shared / Instagram pause |
+| 2026-11-28 | `c746cea` | stories shared / Instagram pause |
+| 2026-11-28 | `0e03f2a` | powercut: notices written |
+| 2026-11-28 | `2150f65` | stories shared / Instagram pause |
 | 2026-11-28 | `27d4882` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Kaniyur pin was in the wrong place |
 | 2026-11-28 | `c1b4060` | stories shared / Instagram pause |
 | 2026-11-28 | `5eebdf5` | stories shared / Instagram pause |
@@ -104,15 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `ecab8be` | stories shared / Instagram pause |
 | 2026-11-28 | `47aee60` | stories shared / Instagram pause |
 | 2026-11-28 | `2259037` | facebook RN-365 |
-| 2026-11-28 | `0cf4fe1` | posted RN-365 |
-| 2026-11-28 | `35b1c3f` | stories shared / Instagram pause |
-| 2026-11-28 | `215fdbd` | pick: picked news saved |
-| 2026-11-28 | `9c2de07` | stories shared / Instagram pause |
-| 2026-11-28 | `d622941` | pick: picked news saved |
-| 2026-11-28 | `075338f` | pick: list sent |
-| 2026-11-28 | `72191b7` | stories shared / Instagram pause |
-| 2026-11-28 | `a9f3a9b` | stories shared / Instagram pause |
-| 2026-11-28 | `cc00fc6` | stories shared / Instagram pause |
-| 2026-11-28 | `e25eca5` | stories shared / Instagram pause |
-| 2026-11-28 | `ca8aaf2` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
