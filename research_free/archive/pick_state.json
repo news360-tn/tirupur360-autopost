@@ -37,7 +37,8 @@
    "score": 2.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-28T02:28:04.788991+05:30"
+   "listed_at": "2026-11-28T02:28:04.788991+05:30",
+   "picked_at": "2026-11-28T14:39:45.229435+05:30"
   },
   "Caf906ff": {
    "id": "Caf906ff",
@@ -63,7 +64,8 @@
    "score": 5.23,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-28T14:28:47.691179+05:30"
+   "listed_at": "2026-11-28T14:28:47.691179+05:30",
+   "picked_at": "2026-11-28T14:39:45.229433+05:30"
   }
  },
  "rounds": {
@@ -690,8 +692,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-28T15:28:47.691179+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 2 by insights",
+    "ids": [
+     "Ce0c94b4",
+     "C45ef32f"
+    ],
+    "at": "2026-11-28T14:39:45.229424+05:30"
+   },
+   "written": [
+    "C45ef32f",
+    "Ce0c94b4"
+   ]
   }
  },
  "retry": {},
