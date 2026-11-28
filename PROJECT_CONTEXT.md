@@ -84,34 +84,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-27 | `46631df` | Tests: Facebook retry plan is 10 min x5 then 1 h once (7 tries) |
-| 2026-11-27 | `fb91e0b` | stories shared / Instagram pause |
-| 2026-11-27 | `6944529` | Posting rules 27 Nov: 30 news a day per platform by views, 06:00-22:00 (urgent any time), retry 10 min x5 then 1 h, block wait as stated else 2 h, collect every 2 h |
-| 2026-11-27 | `e889b72` | stories shared / Instagram pause |
-| 2026-11-27 | `1b8a49e` | stories shared / Instagram pause |
-| 2026-11-27 | `43ef020` | pick: written and posted |
-| 2026-11-27 | `b7d2080` | facebook RN-346 |
-| 2026-11-27 | `01e89a2` | posted RN-346 |
-| 2026-11-27 | `64b4444` | stories shared / Instagram pause |
-| 2026-11-27 | `b5e9a17` | stories shared / Instagram pause |
-| 2026-11-27 | `5fb00f3` | pick: picked news saved |
-| 2026-11-27 | `9a650e1` | facebook RN-327 |
-| 2026-11-27 | `be00519` | posted RN-327 |
-| 2026-11-27 | `51a6c15` | pick: picked news saved |
-| 2026-11-27 | `8c5c320` | pick: list sent |
-| 2026-11-27 | `7ca42c5` | stories shared / Instagram pause |
-| 2026-11-27 | `2d2a4f2` | stories shared / Instagram pause |
-| 2026-11-27 | `629f197` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
-| 2026-11-27 | `a37cfc8` | stories shared / Instagram pause |
-| 2026-11-27 | `7aff52a` | pick: written and posted |
-| 2026-11-27 | `3715b55` | facebook RN-341 |
-| 2026-11-27 | `16d7203` | posted RN-341 |
-| 2026-11-27 | `8ce07ab` | stories shared / Instagram pause |
-| 2026-11-27 | `a8dd475` | stories shared / Instagram pause |
-| 2026-11-27 | `98399c7` | stories shared / Instagram pause |
-| 2026-11-27 | `9b86771` | stories shared / Instagram pause |
-| 2026-11-27 | `20062f0` | facebook RN-311 |
-| 2026-11-27 | `d52fbec` | posted RN-311 |
-| 2026-11-27 | `2fe01d9` | stories shared / Instagram pause |
-| 2026-11-27 | `5e0d975` | stories shared / Instagram pause |
+| 2026-11-28 | `8dfad1d` | Writer hook (first 3 s): place first + strong event word + one hard detail; நாளை/இன்று first; schemes open with the amount / last date; caption first line 7-12 words (data: 2,686 reels) |
+| 2026-11-28 | `c06cef1` | stories shared / Instagram pause |
+| 2026-11-28 | `b5bf65a` | stories shared / Instagram pause |
+| 2026-11-28 | `fe5ff1b` | facebook RN-360 |
+| 2026-11-28 | `e773cd5` | posted RN-360 |
+| 2026-11-28 | `9c04466` | stories shared / Instagram pause |
+| 2026-11-28 | `c565788` | stories shared / Instagram pause |
+| 2026-11-28 | `13289fd` | facebook RN-358 |
+| 2026-11-28 | `d1f8466` | posted RN-358 |
+| 2026-11-28 | `a886d3d` | stories shared / Instagram pause |
+| 2026-11-28 | `98f1b07` | pick: picked news saved |
+| 2026-11-28 | `1f1ee49` | stories shared / Instagram pause |
+| 2026-11-28 | `3746176` | pick: picked news saved |
+| 2026-11-28 | `551cf87` | pick: list sent |
+| 2026-11-28 | `a8cd0b9` | stories shared / Instagram pause |
+| 2026-11-28 | `70bb302` | stories shared / Instagram pause |
+| 2026-11-28 | `d7dd728` | stories shared / Instagram pause |
+| 2026-11-28 | `c53f96f` | stories shared / Instagram pause |
+| 2026-11-28 | `52d5aa2` | stories shared / Instagram pause |
+| 2026-11-28 | `5827e54` | stories shared / Instagram pause |
+| 2026-11-28 | `3c3fa0e` | stories shared / Instagram pause |
+| 2026-11-28 | `5d09935` | stories shared / Instagram pause |
+| 2026-11-28 | `54fbfe2` | stories shared / Instagram pause |
+| 2026-11-28 | `332b3ee` | stories shared / Instagram pause |
+| 2026-11-28 | `35fe8f1` | stories shared / Instagram pause |
+| 2026-11-28 | `d0a1d8e` | stories shared / Instagram pause |
+| 2026-11-28 | `ae42449` | pick: written and posted |
+| 2026-11-28 | `1686df0` | stories shared / Instagram pause |
+| 2026-11-28 | `df45821` | facebook RN-355 |
+| 2026-11-28 | `a66247e` | posted RN-355 |
 <!-- recent-changes:end -->
