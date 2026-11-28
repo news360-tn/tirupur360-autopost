@@ -1775,7 +1775,7 @@ class ReachPlan29Oct(unittest.TestCase):
 
     def test_english_search_line_added(self):
         out = post.final_caption(dict(self.ROW))
-        self.assertIn("Bus accident at Anupparpalayam | Tirupur news", out)
+        self.assertIn("Bus accident at Anupparpalayam | Tiruppur news", out)
         self.assertLess(out.index("Bus accident at Anupparpalayam"), out.index("📍"))
 
     def test_caption_must_carry_full_details(self):
