@@ -85,6 +85,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `2f08396` | Tiruppur spelling everywhere (owner 28 Nov): page tag #Tiruppur360 and district tags #Tiruppur / #TiruppurNews / #TiruppurRain / #TiruppurPowerCut (official two-p spelling); no-town news gets #TiruppurDistrict |
+| 2026-11-28 | `d043d24` | stories shared / Instagram pause |
+| 2026-11-28 | `93d33d0` | stories shared / Instagram pause |
+| 2026-11-28 | `a4315ce` | powercut: notices written |
+| 2026-11-28 | `5a6786e` | facebook RN-336 |
+| 2026-11-28 | `0dda118` | posted RN-336 |
 | 2026-11-28 | `0bc1887` | Hashtag fixes (owner 28 Nov): a source link's #part is no longer a hidden YouTube tag (district-section); a Facebook hashtag is never repeated and the top 5 reel gets topic + district + page tag |
 | 2026-11-28 | `cc8d40d` | stories shared / Instagram pause |
 | 2026-11-28 | `2062a2a` | autofix: corrected held news |
@@ -109,10 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `c06617e` | facebook RN-366 |
 | 2026-11-28 | `489d1e5` | posted RN-366 |
 | 2026-11-28 | `ab73ab9` | stories shared / Instagram pause |
-| 2026-11-28 | `72de9bb` | stories shared / Instagram pause |
-| 2026-11-28 | `da1f6c8` | facebook RN-364 |
-| 2026-11-28 | `63773b3` | posted RN-364 |
-| 2026-11-28 | `ecab8be` | stories shared / Instagram pause |
-| 2026-11-28 | `47aee60` | stories shared / Instagram pause |
-| 2026-11-28 | `2259037` | facebook RN-365 |
 <!-- recent-changes:end -->
