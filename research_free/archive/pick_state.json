@@ -38,7 +38,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-28T02:28:04.788991+05:30",
-   "picked_at": "2026-11-28T14:39:45.229435+05:30"
+   "picked_at": "2026-11-28T14:39:45.229435+05:30",
+   "posted": true
   },
   "Caf906ff": {
    "id": "Caf906ff",
@@ -65,7 +66,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-28T14:28:47.691179+05:30",
-   "picked_at": "2026-11-28T14:39:45.229433+05:30"
+   "picked_at": "2026-11-28T14:39:45.229433+05:30",
+   "refused": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
   }
  },
  "rounds": {
@@ -703,7 +705,10 @@
    "written": [
     "C45ef32f",
     "Ce0c94b4"
-   ]
+   ],
+   "refused": {
+    "Ce0c94b4": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
+   }
   }
  },
  "retry": {},
