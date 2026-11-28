@@ -85,6 +85,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `21be7dc` | reel: one line in the job log for every reel - what the design additions and the news reader did ("news reader added: ...", "reel additions: ...", or why not), so a posting run shows it was really drawn |
+| 2026-11-28 | `1200715` | stories shared / Instagram pause |
+| 2026-11-28 | `a251b84` | stories shared / Instagram pause |
 | 2026-11-28 | `0542fbf` | reel: the NEWS360-TN news reader in a round window on every news reel (owner 28 Nov) - the owner's own 9 drawings, the mouth chosen from the reel's voice (closed in every pause, open while the news is read); the place card sits beside it. Top 5 reel: headline clear of the buttons, the time chip above the caption area, the 5-4-3-2-1 row down the left side - one video for Instagram, Facebook and YouTube Shorts |
 | 2026-11-28 | `7af3d38` | stories shared / Instagram pause |
 | 2026-11-28 | `746df15` | stories shared / Instagram pause |
@@ -112,7 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `9569ffe` | stories shared / Instagram pause |
 | 2026-11-28 | `c746cea` | stories shared / Instagram pause |
 | 2026-11-28 | `0e03f2a` | powercut: notices written |
-| 2026-11-28 | `2150f65` | stories shared / Instagram pause |
-| 2026-11-28 | `27d4882` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Kaniyur pin was in the wrong place |
-| 2026-11-28 | `c1b4060` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
