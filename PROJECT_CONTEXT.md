@@ -85,6 +85,14 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `0542fbf` | reel: the NEWS360-TN news reader in a round window on every news reel (owner 28 Nov) - the owner's own 9 drawings, the mouth chosen from the reel's voice (closed in every pause, open while the news is read); the place card sits beside it. Top 5 reel: headline clear of the buttons, the time chip above the caption area, the 5-4-3-2-1 row down the left side - one video for Instagram, Facebook and YouTube Shorts |
+| 2026-11-28 | `7af3d38` | stories shared / Instagram pause |
+| 2026-11-28 | `746df15` | stories shared / Instagram pause |
+| 2026-11-28 | `395a279` | stories shared / Instagram pause |
+| 2026-11-28 | `f0039d2` | stories shared / Instagram pause |
+| 2026-11-28 | `f09f161` | stories shared / Instagram pause |
+| 2026-11-28 | `9f6e43a` | stories shared / Instagram pause |
+| 2026-11-28 | `5c12ff3` | stories shared / Instagram pause |
 | 2026-11-28 | `c71cca7` | English search line now ends in Tiruppur news (owner 28 Nov: the official two-p spelling, as in the hashtags) |
 | 2026-11-28 | `786d16a` | stories shared / Instagram pause |
 | 2026-11-28 | `c8ecac7` | stories shared / Instagram pause |
@@ -107,12 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `2150f65` | stories shared / Instagram pause |
 | 2026-11-28 | `27d4882` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Kaniyur pin was in the wrong place |
 | 2026-11-28 | `c1b4060` | stories shared / Instagram pause |
-| 2026-11-28 | `5eebdf5` | stories shared / Instagram pause |
-| 2026-11-28 | `fd35089` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
-| 2026-11-28 | `ce2b4a4` | stories shared / Instagram pause |
-| 2026-11-28 | `f275123` | stories shared / Instagram pause |
-| 2026-11-28 | `0f4af7c` | stories shared / Instagram pause |
-| 2026-11-28 | `d8a957d` | stories shared / Instagram pause |
-| 2026-11-28 | `6bfb298` | pick: written and posted |
-| 2026-11-28 | `bc4f305` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
