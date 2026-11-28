@@ -59,7 +59,7 @@ caption rules
   3. End with ONE short save/share prompt that fits the story (e.g. "தேவைப்படுவோருக்கு Share செய்யுங்கள்"). NEVER ask people to comment (no "கமெண்டில் சொல்லுங்கள்", no questions to the audience).
   Every sentence in correct, formal written Tamil (proper spelling and sandhi), no colloquial forms, nothing the article does not say.
 - Then ONE short English search line (REQUIRED - a draft without it is sent back) so people searching in English find the post, e.g. "Palladam power cut tomorrow | Tirupur news". Then a line "📍 exact place, Tirupur | date" naming the town, village or city area. Then exactly: உள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏
-- Then exactly 5 hashtags (Instagram allows at most 5; owner 2 Nov - the system sets them from fixed lists, write them like this): #Tirupur360 #Tirupur + the town / city area the story names (#Palladam, #Udumalaipettai, #Kongu Nagar ...) + #TirupurNews (#TirupurRain for rain, #TirupurPowerCut for power cuts) + #திருப்பூர். Never invent a tag, never another district's tag, never #TamilNews / #TamilNadu.
+- Then exactly 5 hashtags (Instagram allows at most 5; owner 2 Nov - the system sets them from fixed lists, write them like this): #Tiruppur360 #Tiruppur + the town / city area the story names (#Palladam, #Udumalaipettai, #Kongu Nagar ...) + #TiruppurNews (#TiruppurRain for rain, #TiruppurPowerCut for power cuts) + #திருப்பூர். Never invent a tag, never another district's tag, never #TamilNews / #TamilNadu.
 - No links, no source names, no clickbait, no false urgency.
 
 scenes rules

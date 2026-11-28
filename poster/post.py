@@ -41,7 +41,7 @@ PAGE = "tirupur"
 PAGES = ("tirupur",)      # the only page (no collab)
 ALL_ROWS = []      # every row of the queue (set in main) - used to spot the same news posted before
 LOGO = KIT / "logo_tirupur.png"
-TAG = "#Tirupur360"
+TAG = "#Tiruppur360"
 PAGE_EN = "Tirupur 360"      # post_to value in the Sheet
 FOLLOW_LINE = "மேலும் செய்திகளுக்கு திருப்பூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்."
 SAVE_LINE = "திருப்பூர் செய்திகளைத் தவறவிடாமல் இருக்க Save செய்து Follow செய்யுங்கள் 📌"
@@ -898,7 +898,7 @@ def final_caption(row):
     from digits import to_digits
     cap = to_digits((row.get("caption") or "").strip())
     cap = "\n".join(l for l in cap.split("\n") if "கமெண்டி" not in l)      # owner: never ask people to comment
-    # Instagram allows at most 5 hashtags: keep #Tirupur360 + the first 4 others, as ONE line at the end
+    # Instagram allows at most 5 hashtags: keep #Tiruppur360 + the first 4 others, as ONE line at the end
     tags, seen = [], set()
     for t in [TAG] + re.findall(r"#[^\s#]+", cap):
         k = t.lower().rstrip(".,!")
@@ -2482,7 +2482,7 @@ def run_ready_reel(row, page):
     global PAGE, LOGO, TAG
     PAGE = page
     LOGO = KIT / f"logo_{PAGE}.png"
-    TAG = "#Tirupur360"
+    TAG = "#Tiruppur360"
     sid = row["story_id"]
     if PREBUILD:
         return []
@@ -2616,7 +2616,7 @@ def run_story_page(row, page):
             log("checked text not saved:", e)
     PAGE = page
     LOGO = KIT / f"logo_{PAGE}.png"
-    TAG = "#Tirupur360"
+    TAG = "#Tiruppur360"
     os.environ["PAGE_KEY"] = PAGE
     global COLLAB
     COLLAB = collab_page(row, PAGE)

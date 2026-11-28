@@ -116,7 +116,7 @@ class CaptionRules(unittest.TestCase):
             cap = run.caption(run.PAGES[page], p, {"name": "தீபாவளி", "theme": "diwali"}, ["பிரதோஷம்"], rs)
             tags = [w for w in cap.split() if w.startswith("#")]
             self.assertLessEqual(len(tags), 5)
-            self.assertEqual(tags[-1], "#Rasipuram360" if page == "rasipuram" else "#Tirupur360")
+            self.assertEqual(tags[-1], "#Rasipuram360" if page == "rasipuram" else "#Tiruppur360")
             self.assertIn("#Deepavali", tags)
             self.assertIn("தீபாவளி நல்வாழ்த்துகள்", cap)
             self.assertIn("சிம்மம்", cap.split("\n")[2])

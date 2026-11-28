@@ -55,8 +55,8 @@
     "caption_full_details": true,
     "english_search_line": true,
     "hashtag_pattern": true,
-    "district_tag": "#Tirupur",
-    "broad_tag": "#TirupurNews",
+    "district_tag": "#Tiruppur",
+    "broad_tag": "#TiruppurNews",
     "topic_tags": {
       "power_cut": "#PowerCut",
       "crime": "#CrimeNews",
@@ -89,19 +89,19 @@
       "கொங்கு நக": "#KonguNagar",
       "நெருப்பெரிச்ச": "#Neruperichal"
     },
-    "extra_tag": "#Tiruppur",
+    "extra_tag": "#TiruppurDistrict",
     "search_suffix": "Tirupur news",
     "caption_all_facts": true,
     "hashtag_profiles": {
-      "#tirupur360": {
-        "page": "#Tirupur360",
-        "area": "#Tirupur",
-        "news": "#TirupurNews",
+      "#tiruppur360": {
+        "page": "#Tiruppur360",
+        "area": "#Tiruppur",
+        "news": "#TiruppurNews",
         "tamil": "#திருப்பூர்",
-        "fallback": "#Tiruppur",
+        "fallback": "#TiruppurDistrict",
         "topic": {
-          "weather": "#TirupurRain",
-          "power_cut": "#TirupurPowerCut"
+          "weather": "#TiruppurRain",
+          "power_cut": "#TiruppurPowerCut"
         }
       }
     },

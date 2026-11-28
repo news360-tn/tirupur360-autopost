@@ -31,7 +31,7 @@ PAGES = {
     "rasipuram": {"brand": "இராசிபுரம் 360", "town": "இராசிபுரம்", "design": "temple", "logo": "logo_rasipuram.png",
                   "collab": "namakkal360.official", "tags": ["#ராசிபலன்", "#RasiPalan", "#இன்றையராசிபலன்", "#Namakkal360", "#Rasipuram360"]},
     "tirupur": {"brand": "திருப்பூர் 360", "town": "திருப்பூர்", "design": "calendar", "logo": "logo_tirupur.png",      # SALEM: add kit/logo_tirupur.png
-              "collab": "", "tags": ["#ராசிபலன்", "#RasiPalan", "#இன்றையராசிபலன்", "#Tirupur", "#Tirupur360"]},
+              "collab": "", "tags": ["#ராசிபலன்", "#RasiPalan", "#இன்றையராசிபலன்", "#Tiruppur", "#Tiruppur360"]},
 }
 FEST_TAG = {"diwali": "#Deepavali", "pongal": "#Pongal", "christmas": "#Christmas", "islamic": "#Eid", "murugan": "#Murugan",
             "karthigai": "#KarthigaiDeepam", "newyear": "#NewYear", "tamilnewyear": "#TamilNewYear", "vinayagar": "#VinayagarChathurthi",

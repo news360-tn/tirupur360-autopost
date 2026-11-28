@@ -851,8 +851,8 @@ class ReviewFixes2Nov(unittest.TestCase):
         self.assertEqual(dropped, ["இந்த சம்பவம் அப்பகுதியில் பரபரப்பை ஏற்படுத்தியது."])      # no number, no outcome: goes first
         self.assertIn("7 மணிக்கு", out)
         self.assertIn("கைது", out)
-        cap = post.add_to_caption("📰 முழு விவரம்:\nவிபத்து\n#Tirupur #News", dropped)
-        self.assertLess(cap.index("பரபரப்பை"), cap.index("#Tirupur"))
+        cap = post.add_to_caption("📰 முழு விவரம்:\nவிபத்து\n#Tiruppur #News", dropped)
+        self.assertLess(cap.index("பரபரப்பை"), cap.index("#Tiruppur"))
 
     def test_spaced_posting_and_quota_count_the_story(self):
         src = (ROOT / "poster" / "post.py").read_text(encoding="utf-8")
@@ -1057,17 +1057,17 @@ class InsightsBeforeEveryRound(unittest.TestCase):
 class HashtagPattern2Nov(unittest.TestCase):
     """owner 2 Nov: 5 tags from fixed lists - page + area + town + local topic + Tamil place; never the writer's own tags"""
 
-    def tags(self, head, cap_tags="#Tirupur360 #TamilNews #Trichy #தீ #Accident"):
+    def tags(self, head, cap_tags="#Tiruppur360 #TamilNews #Trichy #தீ #Accident"):
         row = {"headline_ta": head, "headline_en": "x", "location": "", "caption": head + "\n\n📍 திருப்பூர் | 2 நவம்பர் 2026\n\n" + cap_tags}
         return [l for l in post.final_caption(row).strip().split("\n") if l.startswith("#")][-1].split()
 
     def test_town_topic_tamil(self):
         self.assertEqual(sorted(self.tags("பல்லடத்தில் கனமழை: சாலைகளில் வெள்ளம்")),
-                         sorted(["#Tirupur360", "#Tirupur", "#Palladam", "#TirupurRain", "#திருப்பூர்"]))
-        self.assertIn("#TirupurPowerCut", self.tags("அவிநாசியில் நாளை மின் தடை"))
+                         sorted(["#Tiruppur360", "#Tiruppur", "#Palladam", "#TiruppurRain", "#திருப்பூர்"]))
+        self.assertIn("#TiruppurPowerCut", self.tags("அவிநாசியில் நாளை மின் தடை"))
         t = self.tags("திருப்பூரில் லாரி மோதி இருவர் பலி")
         self.assertEqual(5, len(t))
-        self.assertIn("#Tirupur", t)      # no town named: the fallback tag, never an invented one
+        self.assertIn("#Tiruppur", t)      # no town named: the fallback tag, never an invented one
 
 class FacebookEverything2Nov(unittest.TestCase):
     """owner 2 Nov: every Instagram post (reel, carousel, ready reel, rasipalan) also goes to the page's Facebook page with a story;
@@ -1090,15 +1090,15 @@ class FacebookEverything2Nov(unittest.TestCase):
         os.environ.clear(); os.environ.update(self.old[1])
 
     PAGE_NAME = "tirupur"
-    CAP = "நாமகிரிப்பேட்டையில் விபத்து\n\n📍 நாமகிரிப்பேட்டை | 2 நவம்பர் 2026\n\n#Namakkal #Namagiripettai #RasipuramNews #ராசிபுரம் #Tirupur360"
+    CAP = "நாமகிரிப்பேட்டையில் விபத்து\n\n📍 நாமகிரிப்பேட்டை | 2 நவம்பர் 2026\n\n#Namakkal #Namagiripettai #RasipuramNews #ராசிபுரம் #Tiruppur360"
 
     def test_caption_location_first_three_tags(self):
-        c = self.fb.fb_caption(self.CAP, "#Tirupur360")
+        c = self.fb.fb_caption(self.CAP, "#Tiruppur360")
         self.assertTrue(c.startswith("நாமகிரிப்பேட்டையில்"))
         self.assertIn("📍 நாமகிரிப்பேட்டை", c)
-        self.assertEqual(c.split("\n")[-1].split(), ["#Namagiripettai", "#RasipuramNews", "#Tirupur360"])
-        self.assertEqual(self.fb.fb_caption("x\n\n#ராசிபலன் #RasiPalan #a #b #Tirupur360", "#Tirupur360", tags=["#ராசிபலன்", "#RasiPalan"]).split("\n")[-1],
-                         "#ராசிபலன் #RasiPalan #Tirupur360")
+        self.assertEqual(c.split("\n")[-1].split(), ["#Namagiripettai", "#RasipuramNews", "#Tiruppur360"])
+        self.assertEqual(self.fb.fb_caption("x\n\n#ராசிபலன் #RasiPalan #a #b #Tiruppur360", "#Tiruppur360", tags=["#ராசிபலன்", "#RasiPalan"]).split("\n")[-1],
+                         "#ராசிபலன் #RasiPalan #Tiruppur360")
 
     def _fake(self, fail=False):
         fb = self
@@ -1121,10 +1121,10 @@ class FacebookEverything2Nov(unittest.TestCase):
     def test_reel_and_story_once(self):
         self.addCleanup(self.tearDown_fns)
         self._fake()
-        link = self.fb.share("tirupur", "RN-1", "reel", ["https://v/1.mp4"], self.CAP, "#Tirupur360")
+        link = self.fb.share("tirupur", "RN-1", "reel", ["https://v/1.mp4"], self.CAP, "#Tiruppur360")
         self.assertEqual(link, "https://www.facebook.com/reel/v1")
         self.assertEqual([c[0] for c in self.calls], ["reel", "story_video"])
-        self.assertEqual(self.fb.share("tirupur", "RN-1", "reel", ["https://v/1.mp4"], self.CAP, "#Tirupur360"), link)
+        self.assertEqual(self.fb.share("tirupur", "RN-1", "reel", ["https://v/1.mp4"], self.CAP, "#Tiruppur360"), link)
         self.assertEqual(len(self.calls), 2)      # never posted twice
         rec = self.fb.state(self.calls and "%s" % self.PAGE_NAME, "RN-1", "reel")
         self.assertEqual((rec["story"], rec["fb_story"]), ("RN-1", "s1"))      # 2 Nov: the Facebook story id was overwritten by the news id
@@ -1132,20 +1132,20 @@ class FacebookEverything2Nov(unittest.TestCase):
     def test_carousel_photos_and_story(self):
         self.addCleanup(self.tearDown_fns)
         self._fake()
-        self.fb.share("tirupur", "RN-2", "photos", ["a.jpg", "b.jpg"], self.CAP, "#Tirupur360")
+        self.fb.share("tirupur", "RN-2", "photos", ["a.jpg", "b.jpg"], self.CAP, "#Tiruppur360")
         self.assertEqual(self.calls, [("photos", "111", ("a.jpg", "b.jpg")), ("story_photo", "a.jpg")])      # 4 Nov: a fresh upload, not the feed photo
 
     def test_not_set_up_page_and_dry_run_post_nothing(self):
         self.addCleanup(self.tearDown_fns)
         self._fake()
         self.assertEqual(self.fb.share("namakkal", "RN-3", "reel", ["v"], self.CAP, "#Namakkal360"), "")
-        self.assertEqual(self.fb.share("tirupur", "RN-3", "reel", ["v"], self.CAP, "#Tirupur360", dry=True), "")
+        self.assertEqual(self.fb.share("tirupur", "RN-3", "reel", ["v"], self.CAP, "#Tiruppur360", dry=True), "")
         self.assertEqual(self.calls, [])
 
     def test_failure_is_retried_10_min_5_times_then_1_hour_once_and_never_raises(self):      # owner 27 Nov
         self.addCleanup(self.tearDown_fns)
         self._fake(fail=True)
-        self.assertEqual(self.fb.share("tirupur", "RN-4", "reel", ["v"], self.CAP, "#Tirupur360"), "")
+        self.assertEqual(self.fb.share("tirupur", "RN-4", "reel", ["v"], self.CAP, "#Tiruppur360"), "")
         self.fb.retry_failed()
         self.assertEqual(len(self.calls), 1)      # owner 25 Nov: not again within 10 minutes of the error
         with mock.patch.object(self.fb, "RETRY_WAIT_MIN", 0):
@@ -1764,12 +1764,12 @@ class ReachPlan29Oct(unittest.TestCase):
     """owner 29 Oct views plan: 60 s reels, full details in the caption, English search line, 5 focused hashtags, no brand names in pictures"""
     ROW = {"headline_ta": "அனுப்பர்பாளையம் பகுதியில் பஸ் மோதி விபத்து", "headline_en": "Bus accident at Anupparpalayam", "location": "அனுப்பர்பாளையம், திருப்பூர்",
            "caption": "🚌 அனுப்பர்பாளையம் பகுதியில் பஸ் மோதி விபத்து\n\n📰 முழு விவரம்:\nஅனுப்பர்பாளையம் பஸ் நிலையம் அருகே இன்று காலை விபத்து நடந்தது.\n\n"
-                      "📍 அனுப்பர்பாளையம், திருப்பூர் | 29 அக்டோபர் 2026\n\n#Tirupur360 #Tirupur #தீபுறம்போக்கு #விபத்து #TirupurNews"}
+                      "📍 அனுப்பர்பாளையம், திருப்பூர் | 29 அக்டோபர் 2026\n\n#Tiruppur360 #Tiruppur #தீபுறம்போக்கு #விபத்து #TiruppurNews"}
 
     def test_five_focused_hashtags(self):
         tags = [l for l in post.final_caption(dict(self.ROW)).strip().split("\n") if l.startswith("#")][-1].split()
         self.assertEqual(5, len(tags))
-        for t in ("#Tirupur360", "#Tirupur", "#Anupparpalayam", "#TirupurNews", "#திருப்பூர்"):      # owner 2 Nov pattern
+        for t in ("#Tiruppur360", "#Tiruppur", "#Anupparpalayam", "#TiruppurNews", "#திருப்பூர்"):      # owner 2 Nov pattern
             self.assertIn(t, tags)
         self.assertNotIn("#தீபுறம்போக்கு", tags)      # junk tag from the writer is dropped
 
@@ -1781,7 +1781,7 @@ class ReachPlan29Oct(unittest.TestCase):
     def test_caption_must_carry_full_details(self):
         import validate
         on = {"caption_full_details": True}
-        self.assertTrue(validate.caption_problems("🚌 விபத்து\n\n#Tirupur360", on))
+        self.assertTrue(validate.caption_problems("🚌 விபத்து\n\n#Tiruppur360", on))
         self.assertFalse(validate.caption_problems(
             "🚌 விபத்து\n\n📰 முழு விவரம்:\nகொங்கு நகர் பஸ் நிலையம் அருகே இன்று விபத்து நடந்தது.\nஇரண்டு பேர் காயமடைந்து மருத்துவமனையில் சேர்க்கப்பட்டனர்.\n"
             "போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.", on))
