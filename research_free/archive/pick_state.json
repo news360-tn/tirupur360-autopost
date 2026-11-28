@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-28T14:28:47.691179+05:30",
+ "last_end": "2026-11-28T16:10:15.354252+05:30",
  "pool": {
   "Cae0fe88": {
    "id": "Cae0fe88",
@@ -25,21 +25,6 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-28T02:28:04.788991+05:30"
-  },
-  "C45ef32f": {
-   "id": "C45ef32f",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/people-gather-at-collector-s-office-over-land-dispute/4387866",
-   "title": "வீட்டு மனைப்பட்டா விவகாரம் கலெக்டர் ஆபீசில் திரண்ட மக்கள்",
-   "summary": "திருப்பூர்: அலங்கியம் பகுதியில் மனைப்பட்டா வழங்குவதில் உரிய பயனாளிகள் விடுபட்டதாகக் கூறி, கலெக்டர் அலுவலகத்தில் புகார் அளித்தனர். தாராபுரம், அலங்கியம் பகுதியில் வீடற்ற, 70 குடும்பத்தினர் தொடர்ந்து வருவாய் துறை மற்றும்...",
-   "source": "தினமலர்",
-   "published": "2026-11-27T20:14:27+05:30",
-   "category": "பொது",
-   "score": 2.0,
-   "power_cut": false,
-   "late_listed": true,
-   "listed_at": "2026-11-28T02:28:04.788991+05:30",
-   "picked_at": "2026-11-28T14:39:45.229435+05:30",
-   "posted": true
   },
   "Caf906ff": {
    "id": "Caf906ff",
@@ -68,52 +53,22 @@
    "listed_at": "2026-11-28T14:28:47.691179+05:30",
    "picked_at": "2026-11-28T14:39:45.229433+05:30",
    "refused": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
+  },
+  "Cfe4de4f": {
+   "id": "Cfe4de4f",
+   "url": "https://tamil.abplive.com/news/tamil-nadu/tiruppur-palladam-woman-self-immolation-husband-harassment-dying-declaration-tnn-280650/amp",
+   "title": "எவன் கூட தொடர்பு ? சந்தேகத்தால் சித்ரவதை !! கணவன் கண்முன்னே தீக்குளித்த மனைவி",
+   "summary": "எவன் கூட தொடர்பில் இருக்க திருப்பூர் மாவட்டம் பல்லடம் அடுத்த சேட பாளையம் பகுதியைச் சேர்ந்தவர் தினேஷ். இவருக்கும் அதே பகுதியை சேர்ந்த நிர்மலா என்பவருக்கும் கடந்த 7 வருடங்களுக்கு முன்பு திருமணம் நடைபெற்றது.",
+   "source": "ஏபிபி நாடு",
+   "published": "2026-11-28T10:26:37+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "late_listed": true,
+   "listed_at": "2026-11-28T16:10:15.354252+05:30"
   }
  },
  "rounds": {
-  "2026-11-26_22": {
-   "window": [
-    "2026-11-26T20:28:29.956778+05:30",
-    "2026-11-26T22:42:35.400477+05:30"
-   ],
-   "ids": [
-    "C4df4824",
-    "Ca102793",
-    "C754e2e4",
-    "C6a4eb06",
-    "C6ee709e",
-    "Cae8fbd2",
-    "Ca29e366",
-    "C4dc1231",
-    "C5e73907"
-   ],
-   "sent": false,
-   "deadline": "2026-11-26T23:42:35.400477+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 8 by insights",
-    "ids": [
-     "C4df4824",
-     "Ca102793",
-     "C754e2e4",
-     "C6a4eb06",
-     "C6ee709e",
-     "Cae8fbd2",
-     "Ca29e366",
-     "C4dc1231"
-    ],
-    "at": "2026-11-26T22:44:08.437789+05:30"
-   },
-   "written": [
-    "C4dc1231",
-    "C4df4824",
-    "C6a4eb06",
-    "C6ee709e",
-    "C754e2e4",
-    "Ca102793",
-    "Ca29e366",
-    "Cae8fbd2"
-   ]
-  },
   "2026-11-27_00": {
    "window": [
     "2026-11-26T22:42:35.400477+05:30",
@@ -709,6 +664,22 @@
    "refused": {
     "Ce0c94b4": "not filed: not Tirupur district news (the story's first lines name another place and no Tirupur place)"
    }
+  },
+  "2026-11-28_16": {
+   "window": [
+    "2026-11-28T14:28:47.691179+05:30",
+    "2026-11-28T16:10:15.354252+05:30"
+   ],
+   "ids": [
+    "Cfe4de4f",
+    "Cfd9621b",
+    "Cae0fe88",
+    "Caf906ff"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T17:10:15.354252+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {},
@@ -1349,6 +1320,64 @@
   "C2959ba8": "2026-11-28T14:28 already posted",
   "C58cddab": "2026-11-28T14:28 already posted",
   "C34cfcc6": "2026-11-28T14:28 same event already posted",
-  "C5c9a47b": "2026-11-28T14:28 not Tirupur district"
+  "C5c9a47b": "2026-11-28T14:28 not Tirupur district",
+  "Gb19ea78dab": "2026-11-28T16:10 D",
+  "G6391197de5": "2026-11-28T16:10 D",
+  "G56c9aa49e8": "2026-11-28T16:10 D",
+  "Gb360d093a6": "2026-11-28T16:10 D",
+  "Gd150f115fa": "2026-11-28T16:10 D",
+  "G2c34af315f": "2026-11-28T16:10 D",
+  "Gfd9a367783": "2026-11-28T16:10 D",
+  "Ge4149a5db6": "2026-11-28T16:10 D",
+  "Gad84e89402": "2026-11-28T16:10 D",
+  "G51841da19a": "2026-11-28T16:10 D",
+  "G1515d9c815": "2026-11-28T16:10 D",
+  "G81fa2d32a2": "2026-11-28T16:10 D",
+  "G5603b46a35": "2026-11-28T16:10 D",
+  "Gf755751f8b": "2026-11-28T16:10 D",
+  "Gcf63d0ce4a": "2026-11-28T16:10 D",
+  "G69355f161e": "2026-11-28T16:10 D",
+  "Gc169cd621f": "2026-11-28T16:10 D",
+  "Ge405b31485": "2026-11-28T16:10 D",
+  "G73f06c1564": "2026-11-28T16:10 D",
+  "G58035fb12c": "2026-11-28T16:10 D",
+  "Gd18cec9425": "2026-11-28T16:10 D",
+  "G1b9e567d7d": "2026-11-28T16:10 D",
+  "G3e74aa62da": "2026-11-28T16:10 D",
+  "Gfce4475151": "2026-11-28T16:10 D",
+  "G9956ce142a": "2026-11-28T16:10 D",
+  "G2295538137": "2026-11-28T16:10 D",
+  "Ga0c124463d": "2026-11-28T16:10 D",
+  "Ga2d6ccfcbf": "2026-11-28T16:10 D",
+  "G02275d4b1e": "2026-11-28T16:10 D",
+  "G22766b45ab": "2026-11-28T16:10 D",
+  "Gf2490f0726": "2026-11-28T16:10 D",
+  "G1cc4d63674": "2026-11-28T16:10 D",
+  "Gb366297f72": "2026-11-28T16:10 D",
+  "G070090c918": "2026-11-28T16:10 D",
+  "G5b9531edc4": "2026-11-28T16:10 D",
+  "Ge552f4485c": "2026-11-28T16:10 D",
+  "G0c07d233a0": "2026-11-28T16:10 D",
+  "G89d2255a0f": "2026-11-28T16:10 D",
+  "Gbd43f158f5": "2026-11-28T16:10 D",
+  "G332f55631c": "2026-11-28T16:10 D",
+  "Gfeceff286e": "2026-11-28T16:10 D",
+  "Ged1fe13de0": "2026-11-28T16:10 D",
+  "G4e40024b15": "2026-11-28T16:10 D",
+  "Cba1f542": "2026-11-28T16:10 already posted",
+  "C743c420": "2026-11-28T16:10 already posted",
+  "C00a9e43": "2026-11-28T16:10 already posted",
+  "Cbb491c6": "2026-11-28T16:10 not Tirupur district",
+  "C83ed231": "2026-11-28T16:10 not Tirupur district",
+  "C15b88c6": "2026-11-28T16:10 not Tirupur district",
+  "Ccfaf1ef": "2026-11-28T16:10 not Tirupur district",
+  "C3516e09": "2026-11-28T16:10 not Tirupur district",
+  "C428e95c": "2026-11-28T16:10 not Tirupur district",
+  "C355ae2b": "2026-11-28T16:10 not Tirupur district",
+  "C090588d": "2026-11-28T16:10 not Tirupur district",
+  "C9fe822b": "2026-11-28T16:10 not Tirupur district",
+  "Cd467ce7": "2026-11-28T16:10 not Tirupur district",
+  "C20bbb66": "2026-11-28T16:10 not Tirupur district",
+  "C06d3bbe": "2026-11-28T16:10 not Tirupur district"
  }
 }
