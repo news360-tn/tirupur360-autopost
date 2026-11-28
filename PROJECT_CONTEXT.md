@@ -85,6 +85,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `c71cca7` | English search line now ends in Tiruppur news (owner 28 Nov: the official two-p spelling, as in the hashtags) |
+| 2026-11-28 | `786d16a` | stories shared / Instagram pause |
+| 2026-11-28 | `c8ecac7` | stories shared / Instagram pause |
 | 2026-11-28 | `2f08396` | Tiruppur spelling everywhere (owner 28 Nov): page tag #Tiruppur360 and district tags #Tiruppur / #TiruppurNews / #TiruppurRain / #TiruppurPowerCut (official two-p spelling); no-town news gets #TiruppurDistrict |
 | 2026-11-28 | `d043d24` | stories shared / Instagram pause |
 | 2026-11-28 | `93d33d0` | stories shared / Instagram pause |
@@ -112,7 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `d8a957d` | stories shared / Instagram pause |
 | 2026-11-28 | `6bfb298` | pick: written and posted |
 | 2026-11-28 | `bc4f305` | stories shared / Instagram pause |
-| 2026-11-28 | `c06617e` | facebook RN-366 |
-| 2026-11-28 | `489d1e5` | posted RN-366 |
-| 2026-11-28 | `ab73ab9` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
