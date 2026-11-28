@@ -1,74 +1,30 @@
-10:26:53 round 2026-11-28_10: news published 28 Nov 08:26 -> 28 Nov 10:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
-10:26:53    + news published since 27 Nov 10:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-10:26:53 insights 2026-11-28T10:26+05:30 (319 reels): topic weights {'politics': -0.33, 'accident': 0.9, 'crime': 1.5, 'education': -0.5, 'jobs': 0.12, 'power_cut': 0.19, 'temple': -0.14, 'civic': 0.19, 'poultry_agri': -0.5, 'weather': -0.5, 'sports_culture': -0.26}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
-10:27:51 open search 'திருப்பூர்' (from_google): 30 links from our outlets
-10:27:51 town searches (அவிநாசி, பல்லடம் (+Google), உடுமலை (+Google), தாராபுரம், காங்கேயம், மடத்துக்குளம், ஊத்துக்குளி): 9 links from our outlets
-10:27:51 search links: 19 Google links decoded, 0 not decoded, 90 known from an earlier round, 0 left for the next round, 14 of another district by their headline (not opened)
-10:27:51 96 links on the two papers' Tirupur pages
-10:28:28 skipped: published before this window=42, not Tirupur district=18, already posted=16, checked in an earlier round=6, only a headline=2, state-wide / other district=1, shop offer / advertisement=1, same event already posted=1
-10:28:28    drop [already posted] ‘நேச்சுரல் டைமண்ட் இயர்ரிங்ஸ்’ கண்காட்சிக்கு அமோக வரவேற்பு | dinamalar.com/news/tamil-nad...al-diamond-earrings-exhibition/4388021
-10:28:28    drop [already posted] மாவட்ட அளவிலான போட்டிக்கு தோ்வான மாணவா்களுக்கு சான்றிதழ் | dinamani.com/all-editions/ed...டிக்கு-தோ்வான-மாணவா்களுக்கு-சான்றிதழ்
-10:28:28    drop [already posted] வாக்காளா் சிறப்பு முகாம் கட்டுரைப் போட்டி: வெற்றிபெற்றவா்களு | dinamani.com/all-editions/ed...y-competition-certificates-for-winners
-10:28:28    drop [not Tirupur district] பென்சன்.. அரசு ஊழியர்களின் இடைக்கால மாதாந்திர வழங்குத்தொகை உ | tamil.oneindia.com/news/chen...e-for-government-employees-848883.html
-10:28:28    drop [not Tirupur district] கால் ரெக்கார்டை கேட்ட கோர்ட்! முதல்வர் டூ அமைச்சர்கள் வரை! த | tamil.oneindia.com/news/chen...-ministers-and-cm-vijays-o-848879.html
-10:28:28    drop [not Tirupur district] தவெக எம்எல்ஏ அருள் விக்னேஷிடம் 4 மணி நேரம் விசாரணை! அதிகாலை  | tamil.oneindia.com/news/cudd...alore-prison-early-morning-848877.html
-10:28:28    drop [not Tirupur district] தவெக எம்எல்ஏ குறுஞ்செய்தி தானே அனுப்பினார்.. கொலை குற்றம் இல | tamil.oneindia.com/news/coim...crime-said-mansoor-alikhan-848875.html
-10:28:28    drop [not Tirupur district] சுதீஷ் வீட்டு கல்யாணத்தில் விஜய பிரபாகரன் ஆட்டம்.. சண்முகப்ப | tamil.oneindia.com/news/chen...at-sudheesh-family-wedding-848851.html
-10:28:28    drop [not Tirupur district] தவெக எம்.எல்.ஏ. அருள் விக்னேசுக்கு 11ம் தேதி வரை நீதிமன்ற கா | dailythanthi.com/news/tamiln...la-arul-vignesh-sexual-harassment-case
-10:28:28    drop [not Tirupur district] கேரள நகைக் கடையில் துப்பாக்கி, கத்தியை காட்டி!20 பவுன் கொள்ள | tamil.oneindia.com/thiruvana...kerala-palakkad-jewel-shop-848869.html
-10:28:28    drop [not Tirupur district] தொகுதி மறுவரையறை! ஸ்டாலின் தலைமையில் இன்று திமுக எம்பிக்கள்  | tamil.oneindia.com/news/chen...am-chaired-by-ex-cm-stalin-848861.html
-10:28:28    drop [not Tirupur district] பெண் ஐ.ஏ.எஸ். அதிகாரிக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய வழக்கில | dinakaran.com/news/kallakuri...-remanded-judicial-custody-until-dec11
-10:28:28    drop [not Tirupur district] சர்ச்சில் ஐயப்பன் பாடல்.. மேடையேறி கீபோர்ட்டை தட்டிய நபரை வி | tamil.oneindia.com/thiruvana...ting-man-who-objected-to-h-848859.html
-10:28:28    drop [not Tirupur district] மாற்றுத்திறனாளிகள் தினத்தை முன்னிட்டு 250 சிறப்பு பள்ளி மாணவ | dinakaran.com/district/chennai-281126-3
-10:28:28    drop [not Tirupur district] மன உளைச்சல், உடல்நலப் பாதிப்பு; விருப்ப ஓய்வு கேட்கும் போலீச | dinakaran.com/district/viruthunagar_281126_2
-10:28:28    drop [not Tirupur district] வில்லிபுத்தூர் அருகே குடியிருப்புக்குள் புகுந்த மலைப்பாம்பு | dinakaran.com/district/viruthunagar_281126_1
-10:28:28    drop [not Tirupur district] தேசியம் பேட்டி: நவ. 28 | dinamalar.com/news/india-tam...ionality-interview-november-28/4387877
-10:28:28 list: 1 new + 8 earlier news not posted yet
-10:28:28    1. [பொது] குழந்தை திருமணம் தடுப்பு கையெழுத்து இயக்கம் (தினமலர்) (published 27 Nov 19:12, found only now)
-10:28:28    2. [பொது] வாக்காளர் பட்டியல் திருத்தம் விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
-10:28:28    3. [பொது] மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு (தினமலர்) (earlier)
-10:28:28    4. [பொது] மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொதுமக்கள் கோ (தினமணி) (earlier)
-10:28:28    5. [பொது] ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம் (தினமலர்) (earlier)
-10:28:28    6. [பொது] பிராண்டட் வி.ஆர்.எப். ஏ.சி.க்கு ஸ்ரீ மகாலட்சுமி ஏ.சி. சிஸ்டம்ஸ் (தினமலர்) (earlier)
-10:28:28    7. [பொது] மக்களுக்கு இனிப்பு வழங்கி ஹிந்து முன்னணி மகிழ்ச்சி (தினமலர்) (earlier)
-10:28:28    8. [பொது] நகர தூய்மை பணியாளர்கள் நியமனத்தில் புதிய நடைமுறை ! திடக்கழிவு மேலாண்மை (தினமலர்) (earlier)
-10:28:28    9. [பொது] வீட்டு மனைப்பட்டா விவகாரம் கலெக்டர் ஆபீசில் திரண்ட மக்கள் (தினமலர்) (earlier)
-10:28:28 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_10
-10:28:30    not picked automatically (ceremony / award / awareness event (low views)): வாக்காளர் பட்டியல் திருத்தம் விழிப்புணர்வு ஊர்வலம்
-10:28:30    not picked automatically (ceremony / shopping feature - only when the owner ticks it): மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு
-10:28:30 round 2026-11-28_10 (at least 3, up to 3 more of well-watched topics): 7 news to choose from (6 from earlier rounds), ranked by this page's insights
-10:28:30   PICK   1.   3.5 [other +0.00 pattern] குழந்தை திருமணம் தடுப்பு கையெழுத்து இயக்கம்
-10:28:30   PICK   2.   3.0 [other +0.00 pattern] (earlier) மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொத
-10:28:30   PICK   3.   2.5 [other +0.00 pattern] (earlier) ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம்
-10:28:30          4.   2.0 [other +0.00 pattern] (earlier) பிராண்டட் வி.ஆர்.எப். ஏ.சி.க்கு ஸ்ரீ மகாலட்சுமி ஏ.சி. சிஸ்டம
-10:28:30          5.   2.0 [other +0.00 pattern] (earlier) மக்களுக்கு இனிப்பு வழங்கி ஹிந்து முன்னணி மகிழ்ச்சி
-10:28:30          6.   2.0 [other +0.00 pattern] (earlier) நகர தூய்மை பணியாளர்கள் நியமனத்தில் புதிய நடைமுறை ! திடக்கழிவ
-10:28:30          7.   0.5 [other +0.00 pattern] (earlier) வீட்டு மனைப்பட்டா விவகாரம் கலெக்டர் ஆபீசில் திரண்ட மக்கள்
-10:28:30 decided: automatic: top 3 of 7 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/anti-child-marriage-signature-movement/4387769 https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/27/kbc-nagar-pond-bank-turns-into-a-drinking-spot-public-demand-action https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/art-festival-begins-at-sri-ayyappa-temple/4387961
-10:30:02 3 listed news now in the Sheet
-10:30:12 instagram duplicate check tirupur: 50 recent posts read
-10:30:12 verify 2026-11-28_10: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-10:30:12    SKIPPED C58cddab: skipped RN-363: held: fact-check problems - fact-check: The reel_script says the lake bank 'has become a madhukkoodam at night' and that visitors 'drink and bre - மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொத
-10:30:12    NOT POSTED C2959ba8: queued RN-361 (Queued) - ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம்
-10:30:12    NOT POSTED C7d4a90f: queued RN-362 (Queued) - குழந்தை திருமணம் தடுப்பு கையெழுத்து இயக்கம்
-10:35:20 instagram duplicate check tirupur: 50 recent posts read
-10:35:20 verify 2026-11-28_10: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-10:35:20    SKIPPED C58cddab: skipped RN-363: held: fact-check problems - fact-check: The reel_script says the lake bank 'has become a madhukkoodam at night' and that visitors 'drink and bre - மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொத
-10:35:20    NOT POSTED C2959ba8: queued RN-361 (Queued) - ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம்
-10:35:20    NOT POSTED C7d4a90f: queued RN-362 (Queued) - குழந்தை திருமணம் தடுப்பு கையெழுத்து இயக்கம்
-10:40:26 instagram duplicate check tirupur: 50 recent posts read
-10:40:26 verify 2026-11-28_10: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-10:40:26    SKIPPED C58cddab: skipped RN-363: held: fact-check problems - fact-check: The reel_script says the lake bank 'has become a madhukkoodam at night' and that visitors 'drink and bre - மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொத
-10:40:26    NOT POSTED C2959ba8: queued RN-361 (Queued) - ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம்
-10:45:33 instagram duplicate check tirupur: 50 recent posts read
-10:45:33 verify 2026-11-28_10: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-10:45:33    SKIPPED C58cddab: skipped RN-363: held: fact-check problems - fact-check: The reel_script says the lake bank 'has become a madhukkoodam at night' and that visitors 'drink and bre - மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொத
-10:45:33    NOT POSTED C2959ba8: queued RN-361 (Queued) - ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம்
-10:50:39 instagram duplicate check tirupur: 50 recent posts read
-10:50:39 verify 2026-11-28_10: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-10:50:39    SKIPPED C58cddab: skipped RN-363: held: fact-check problems - fact-check: The reel_script says the lake bank 'has become a madhukkoodam at night' and that visitors 'drink and bre - மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொத
-10:50:39    NOT POSTED C2959ba8: queued RN-361 (Queued) - ஸ்ரீ ஐயப்பன் கோவிலில்ஆறாட்டு விழா துவக்கம்
-10:55:44 verify 2026-11-28_10: 2 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-10:55:44    SKIPPED C58cddab: skipped RN-363: held: fact-check problems - fact-check: The reel_script says the lake bank 'has become a madhukkoodam at night' and that visitors 'drink and bre - மதுக்கூடமாக மாறிய கேபிசி நகா் குளக்கரை: நடவடிக்கை எடுக்க பொத
+12:27:43 round 2026-11-28_12: news published 28 Nov 10:26 -> 28 Nov 12:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Tirupur)
+12:27:43    + news published since 27 Nov 12:27 that no earlier round found (listed / indexed late) - never one already listed or posted
+12:27:43 insights 2026-11-28T12:27+05:30 (321 reels): topic weights {'politics': -0.33, 'accident': 0.89, 'crime': 1.5, 'education': -0.5, 'jobs': 0.12, 'power_cut': 0.18, 'temple': -0.03, 'civic': 0.24, 'poultry_agri': -0.5, 'weather': -0.5, 'sports_culture': -0.29}; best openings ['🚨 இடுவாய் உள்ளிட்ட இடங்களில் கஞ்சா, குட்கா விற்ற 6 பேர் கைது', '🚨 உங்க ஏரியாவில் தெருநாய்த் தொல்லையா? இந்த எண்களில் உடனே புகார் செய்யுங்கள்']
+12:28:24 open search 'திருப்பூர்' (from_google): 26 links from our outlets
+12:28:24 town searches (அவிநாசி, பல்லடம், உடுமலை, தாராபுரம் (+Google), காங்கேயம் (+Google), மடத்துக்குளம், ஊத்துக்குளி): 2 links from our outlets
+12:28:24 search links: 11 Google links decoded, 0 not decoded, 81 known from an earlier round, 0 left for the next round, 25 of another district by their headline (not opened)
+12:28:24 88 links on the two papers' Tirupur pages
+12:29:03 skipped: published before this window=42, already posted=18, not Tirupur district=14, only a headline=2, checked in an earlier round=2, state-wide / other district=1, shop offer / advertisement=1, same event already posted=1
+12:29:03    drop [already posted] தொழிலில் மின் விரிவாக்கப் பணிகளுக்கு முட்டுக்கட்டை! 100 நாள் | dinamalar.com/news/tamil-nad...ry-industry-waits-for-100-days/4387870
+12:29:03    drop [already posted] அறிவியல் மாநாட்டில் பங்கேற்க மாணவர்கள் திருப்பூர் பயணம் | dinamalar.com/news/tamil-nad...cipate-in-a-science-conference/4388321
+12:29:03    drop [not Tirupur district] சேமிப்பு வங்கி கணக்கில் பணம் வைத்திருப்பவர் இறந்துவிட்டால்?  | tamil.oneindia.com/news/chen...ey-details-for-legal-heirs-848939.html
+12:29:03    drop [not Tirupur district] தொகுதி மறுவரையறை மசோதா.. திமுக ஆதரவு நிலைப்பாடு எடுத்தது ஏன் | tamil.oneindia.com/news/chen...o-seek-amendments-on-areas-848935.html
+12:29:03    drop [not Tirupur district] நாடாளுமன்றத்தில் கொண்டு வரப்படவுள்ள தொகுதி மறுவரையறை மசோதாவு | dinakaran.com/news/parliamen...tituency-delimitation-bill-dmk-support
+12:29:03    drop [not Tirupur district] வாங்க..வாங்க! சிஆர்பிஎப் வீரர்களை பூத்தூவி வரவேற்பு கொடுத்த  | tamil.oneindia.com/news/madu...htens-at-thiruparankundram-848927.html
+12:29:03    drop [not Tirupur district] மக்கள் உயிரோடு விளையாடாதீங்க.. பழைய டயர்களால் பாழாய்ப் போன அ | tamil.oneindia.com/news/chen...roads-due-to-tyre-shortage-848915.html
+12:29:03    drop [not Tirupur district] உரிக்காமலேயே கண்ணீர் வருது.. டபுள் செஞ்சுரி போட்ட வெங்காயம்! | tamil.oneindia.com/news/dind...-kg-as-garlic-soars-to-800-848911.html
+12:29:03    drop [not Tirupur district] சேறும் சகதியுமா இருந்த இடத்தில் நிலைகுலைந்த ரமேஷ் கண்ணா.. வீ | tamil.oneindia.com/news/chen...eaction-from-balaji-prabhu-848909.html
+12:29:03    drop [not Tirupur district] Gold Price Today: தங்கம் விலை இன்று தாறுமாறாக சரிந்தது.. நகை | tamil.oneindia.com/gold-rate...urprise-for-jewelry-lovers-848903.html
+12:29:03    drop [not Tirupur district] இறைவனுக்கு எதையும் இணையாக்காதே..! - Dinakaran - Dinakaran | dinakaran.com/spirtual_aanmeegam/do-not-associate-anything-with-god
+12:29:03    drop [not Tirupur district] 1 முதல் 12ம் வகுப்பு வரை அரையாண்டு தேர்வு அட்டவணை வெளியீடு - | dinakaran.com/news/halfyearl...-schedule-released-for-classes-1-to-12
+12:29:03 list: 1 new + 6 earlier news not posted yet
+12:29:03    1. [பொது] " எவன் கூட தொடர்பு ? " சந்தேகத்தால் சித்ரவதை !! கணவன் கண்முன்னே தீக்கு (ஏபிபி நாடு) (published 28 Nov 10:26, found only now)
+12:29:03    2. [பொது] வாக்காளர் பட்டியல் திருத்தம் விழிப்புணர்வு ஊர்வலம் (தினமலர்) (earlier)
+12:29:03    3. [பொது] மானியத்தில் மாடித்தோட்ட ‘கிட்’ தோட்டக்கலைத்துறை அழைப்பு (தினமலர்) (earlier)
+12:29:03    4. [பொது] பிராண்டட் வி.ஆர்.எப். ஏ.சி.க்கு ஸ்ரீ மகாலட்சுமி ஏ.சி. சிஸ்டம்ஸ் (தினமலர்) (earlier)
+12:29:03    5. [பொது] மக்களுக்கு இனிப்பு வழங்கி ஹிந்து முன்னணி மகிழ்ச்சி (தினமலர்) (earlier)
+12:29:03    6. [பொது] நகர தூய்மை பணியாளர்கள் நியமனத்தில் புதிய நடைமுறை ! திடக்கழிவு மேலாண்மை (தினமலர்) (earlier)
+12:29:03    7. [பொது] வீட்டு மனைப்பட்டா விவகாரம் கலெக்டர் ஆபீசில் திரண்ட மக்கள் (தினமலர்) (earlier)
+12:29:03 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_12
