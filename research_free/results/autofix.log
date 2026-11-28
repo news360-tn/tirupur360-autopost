@@ -1,43 +1,48 @@
-10:32:26 hold lifted: RN-73 - not grounded: location 'நிலையம்' is not in the article - the location IS in the article (checked again)
-10:32:26 hold lifted: RN-76 - not grounded: place word 'நகர்' is not in the article - the location IS in the article (checked again)
-10:32:27 hold lifted: RN-86 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-10:32:28 hold lifted: RN-93 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-10:32:28 hold lifted: RN-96 - not grounded: place word 'நகர்ப்புற' is not in the article - the location IS in the article (checked again)
-10:32:39 4 held news to fix: ['RN-326', 'RN-336', 'RN-339', 'RN-363']
+13:46:37 hold lifted: RN-73 - not grounded: location 'நிலையம்' is not in the article - the location IS in the article (checked again)
+13:46:37 hold lifted: RN-76 - not grounded: place word 'நகர்' is not in the article - the location IS in the article (checked again)
+13:46:40 hold lifted: RN-86 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+13:46:40 hold lifted: RN-93 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+13:46:40 hold lifted: RN-96 - not grounded: place word 'நகர்ப்புற' is not in the article - the location IS in the article (checked again)
+13:46:57 3 held news to fix: ['RN-336', 'RN-339', 'RN-363']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
+ok gemini/gemini-3.6-flash (15s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+ok gemini/gemini-3.5-flash (5s)
+factcheck by gemini/gemini-3.5-flash: 1 problems
+  reel_script mentions the month December ('டிசம்பர் 2ஆம் தேதி'), which is not stated in the article
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  fact-check: reel_script mentions the month December ('டிசம்பர் 2ஆம் தேதி'), which is not stated in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (16s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.5-flash (5s)
+factcheck by gemini/gemini-3.5-flash: 0 problems
+attempt 2 gemini/gemini-3.5-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 41 column 4 (char 1363)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (14s)
+proofread rejected (1 problems)
+  caption needs 5 hashtags (Instagram max), has 7
+13:49:09 RN-336 FIXED - posts with the corrected text: திருப்பூர் வழியாக எர்ணாகுளம் - பருணி இடையே சிறப்பு ரயில் இயக்கம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 dead for this round: groq/openai/gpt-oss-120b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-10:32:41 RN-326 NOT fixed (try 2 of 2 ): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-10:32:42 RN-336 NOT fixed (try 1 of 2 ): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
+13:50:11 RN-339 NOT fixed (try 2 of 2 ): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-10:32:44 RN-339 NOT fixed (try 1 of 2 ): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-10:32:44 RN-363 NOT fixed (try 1 of 2 ): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
+13:50:12 RN-363 NOT fixed (try 2 of 2 ): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
