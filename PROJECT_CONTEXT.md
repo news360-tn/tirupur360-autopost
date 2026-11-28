@@ -85,6 +85,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `27d4882` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Kaniyur pin was in the wrong place |
+| 2026-11-28 | `c1b4060` | stories shared / Instagram pause |
+| 2026-11-28 | `5eebdf5` | stories shared / Instagram pause |
 | 2026-11-28 | `fd35089` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
 | 2026-11-28 | `ce2b4a4` | stories shared / Instagram pause |
 | 2026-11-28 | `f275123` | stories shared / Instagram pause |
@@ -112,7 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `cc00fc6` | stories shared / Instagram pause |
 | 2026-11-28 | `e25eca5` | stories shared / Instagram pause |
 | 2026-11-28 | `ca8aaf2` | stories shared / Instagram pause |
-| 2026-11-28 | `7fe0bf5` | stories shared / Instagram pause |
-| 2026-11-28 | `9ead79d` | stories shared / Instagram pause |
-| 2026-11-28 | `59bdc2d` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
