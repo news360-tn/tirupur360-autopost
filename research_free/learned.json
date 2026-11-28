@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-28T07:23+05:30",
- "posts_measured": 312,
+ "updated": "2026-11-28T08:26+05:30",
+ "posts_measured": 315,
  "topic_weight": {
   "politics": -0.33,
   "accident": 0.89,
-  "crime": 1.5,
+  "crime": 1.42,
   "education": -0.5,
-  "jobs": 0.11,
+  "jobs": 0.12,
   "power_cut": 0.18,
-  "temple": -0.11,
-  "civic": 0.18,
+  "temple": -0.15,
+  "civic": 0.19,
   "poultry_agri": -0.5,
   "weather": -0.37,
-  "sports_culture": -0.2
+  "sports_culture": -0.23
  },
  "topic_10k_share": {
   "politics": 0.09,
@@ -34,10 +34,10 @@
   "politics": 22,
   "accident": 21,
   "crime": 38,
-  "education": 23,
+  "education": 25,
   "jobs": 6,
   "power_cut": 12,
-  "temple": 30,
+  "temple": 31,
   "civic": 52,
   "poultry_agri": 29,
   "weather": 12,
@@ -55,11 +55,11 @@
   "🚨 அவிநாசி பஸ் நிலையத்தில் ஒரே வாலிபருக்காக 2 இளம்பெண்கள் குடுமிப்பிடி சண்டை",
   "⚡ பல்லடம் துணை மின் நிலையப் பகுதிகளில் நாளை மின் தடை - காலை 10 முதல் மதியம் 3 வர"
  ],
- "avg_watch_s": 7.6,
+ "avg_watch_s": 7.5,
  "best_topics": [
   "crime",
   "accident",
-  "power_cut"
+  "civic"
  ],
  "weak_topics": [
   "education",
